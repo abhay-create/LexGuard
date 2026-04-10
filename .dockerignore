@@ -1,0 +1,12 @@
+venv
+.gitignore
+.git
+.dockerignore
+Dockerfile
+conreader_new_implementation/exp_test/best_model.pt
+src
+test
+Potential Datasets
+Reference papers
+outputs
+Data

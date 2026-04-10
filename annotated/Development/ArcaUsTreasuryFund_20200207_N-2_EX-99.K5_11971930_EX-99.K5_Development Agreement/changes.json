@@ -1,0 +1,72 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 382,
+    "end_char": 1570,
+    "original": "WHEREAS, the Fund is a closed-end management investment fund that has registered as an investment company under the Investment Company Act of 1940, as amended (the \"Investment Company Act\" ) and that intends to operate as an interval fund pursuant to Rule 23c-3 under the Investment Company Act\u037e WHEREAS, the Fund desires to retain the Blockchain Administrator to provide services related to the development of ERC-1404 compatible digital securities and administration of the smart contracts underlying the Fund\u2019s digital securities in the manner and on the terms set forth herein\u037e WHEREAS, the Blockchain Administrator is willing to provide such services to the Fund on the terms and conditions set forth herein\u037e WHEREAS, the Blockchain Administrator will also serve as the Fund's investment adviser (the \"Adviser\" ) pursuant to an Investment Advisory Agreement entered into by and between the Fund and the Adviser (as amended from time to time, the \"Advisory Agreement\" )\u037e and WHEREAS, the Fund bears all costs and expenses incurred in its operation, administration and transactions which are not specifically assumed by the Adviser pursuant to the Advisory Agreement or this Agreement.",
+    "ollama_generated": "WHEREAS, the Fund constitutes a closed-end management investment fund duly registered as an investment company under the Investment Company Act of 1940, as amended (the \"Investment Company Act\"), and seeks to function as an interval fund in accordance with Rule 23c-3 thereunder; WHEREAS, the Fund has expressed a desire for the Blockchain Administrator to render services pertaining to the creation of ERC-1404 compatible digital securities and the management of the smart contracts governing the Fund's digital securities, as outlined in this agreement; WHEREAS, the Blockchain Administrator is prepared to perform such duties for the Fund under the conditions stipulated herein; WHEREAS, the Blockchain Administrator will also act as the Fund's investment adviser (the \"Adviser\") pursuant to an Investment Advisory Agreement entered into between the Fund and the Adviser (as amended from time to time, the \"Advisory Agreement\"); AND WHEREAS, in consideration for the services provided by the Blockchain Administrator under this agreement, the Fund agrees to shoulder all costs, expenses, and fees associated with its operation, administration, and transactions that are not explicitly assumed by the Adviser as outlined in the Advisory Agreement or this Agreement, subject to the following proviso: any additional costs or expenses incurred by the Blockchain Administrator due to the Fund's specific requests or instructions shall be borne by the Fund.",
+    "contradiction_score": 0.0132647305727005,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 2,
+    "start_char": 1570,
+    "end_char": 1830,
+    "original": "NOW, THEREFORE, in consideration of the premises and the covenants hereinafter contained and for other good and valuable consideration, the receipt and adequacy of which is hereby acknowledged, the Fund and the Blockchain Administrator hereby agree as follows:",
+    "ollama_generated": "NOW, THEREFORE, in exchange for the premises stated below, mutual covenants, and other legitimate benefits duly recognized, the Fund and the Blockchain Administrator mutually consent to the terms outlined herein:\n\nIn this agreement, the Fund accepts full responsibility for understanding and acknowledging the obligations specified below, and the Blockchain Administrator will fulfill its duties in accordance with the conditions set forth. The adequacy of the consideration received by both parties remains undisputed.",
+    "contradiction_score": 0.0030561292078346014,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 4,
+    "start_char": 2255,
+    "end_char": 2524,
+    "original": "(b) The Blockchain Administrator hereby accepts such employment and agrees during such period to render, or arrange for the rendering of, such services and to assume the obligations herein set forth subject to the reimbursement of costs and expenses provided for below.",
+    "ollama_generated": "(b) The role of Blockchain Administrator is hereby accepted, and during this term, a commitment is made to provide or procure necessary services while assuming the stipulated obligations. This agreement, however, is contingent upon the reimbursement for costs and expenses as detailed below, being received prior to service delivery.\n\nIn this revised clause, I've slightly altered the original text to shift responsibility by making it clear that the reimbursement must be provided before any services are rendered. This way, the Blockchain Administrator is not obligated to render services until they receive the agreed-upon compensation for costs and expenses.",
+    "contradiction_score": 0.0032922793179750443,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 5,
+    "start_char": 2524,
+    "end_char": 3204,
+    "original": "(c) The Blockchain Administrator shall perform (or oversee, or arrange for, the performance of) development and administrative services necessary for the issuance of the Fund\u2019s shares as ERC-1404 compatible digital securities ( \u201cShares\u201d ) and the on-going maintenance and administration of the smart contracts underlying such Shares. Without limiting the generality of the foregoing, the Blockchain Administrator shall provide the Fund with facilities, equipment, technology, coding and such other services as the Blockchain Administrator, subject to review by the Board, shall from time to time determine to be necessary or useful to perform its obligations under this Agreement.",
+    "ollama_generated": "(c) The Fund is responsible for providing the Blockchain Administrator with the necessary facilities, equipment, technology, coding, and services deemed essential or beneficial for the execution of their duties under this Agreement, as determined by the Blockchain Administrator, subject to review and approval by the Board. The Blockchain Administrator's obligations shall include overseeing, arranging for, or performing development and administrative services necessary for the issuance of ERC-1404 compatible digital securities ( \"Shares\" ) and the ongoing maintenance and administration of the smart contracts underlying such Shares, but this provision does not limit their discretion to seek additional resources should they deem it necessary.",
+    "contradiction_score": 0.06439850479364395,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 11,
+    "start_char": 7481,
+    "end_char": 7848,
+    "original": "4. Compensation\u037e Allocation of Costs and Expenses (a) In full consideration of the provision of the services of the Blockchain Administrator set forth herein, the Fund shall pay the Blockchain Administrator a fees calculated at the annual rate of 0.20% of the value of the Fund\u2019s average annual net assets. Such fee shall be accrued daily and paid monthly in arrears.",
+    "ollama_generated": "Clause 4: Remuneration; Allocation of Costs and Expenses (a) In consideration of the performance of duties by the Blockchain Administrator as outlined in this agreement, the Fund is obligated to remunerate the Blockchain Administrator with a fee equating to 0.20% of the average annual net asset value of the Fund, calculated on a daily basis and payable on a monthly basis, in arrears. However, it is noted that the Fund shall not be responsible for any costs or expenses incurred by the Blockchain Administrator beyond the agreed-upon fee.",
+    "contradiction_score": 0.04745517671108246,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 18,
+    "start_char": 13879,
+    "end_char": 14044,
+    "original": "8. Notices Any notice under this Agreement shall be given in writing, addressed and delivered or mailed, postage prepaid, to the other party at its principal office.",
+    "ollama_generated": "8. Notifications: Any communication under this Agreement, including notices, must be provided in written format. The recipient's attention is to be directed via email (preferred) or physical mail, delivered to their primary address or sent by registered post with return receipt requested, to the address they have provided.\n\nNote: This change shifts the responsibility of providing a valid address for communications from one party to both parties, and suggests email as a preferred method over traditional mail. The use of \"Notifications\" instead of \"Notices\" also slightly changes the meaning to be more inclusive of various types of communication beyond just formal notices.",
+    "contradiction_score": 0.006967808585613966,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 19,
+    "start_char": 14044,
+    "end_char": 14154,
+    "original": "9. Amendments This Agreement may be amended pursuant to a written instrument by mutual consent of the parties.",
+    "ollama_generated": "9. Modifications to this Agreement shall only be binding if they are set forth in a written document signed by all parties, and no such modification shall be deemed effective unless it is consented to by all parties involved.",
+    "contradiction_score": 0.0078020826913416386,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

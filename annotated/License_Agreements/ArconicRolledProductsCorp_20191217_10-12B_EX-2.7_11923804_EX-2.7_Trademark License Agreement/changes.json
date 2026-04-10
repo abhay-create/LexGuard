@@ -1,0 +1,92 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 380,
+    "end_char": 725,
+    "original": "WHEREAS , Licensor and Licensee entered into a Separation and Distribution Agreement having an effective date of the [ ] day of [ ], 2020 (\u201cSeparation and Distribution Agreement\u201d)\u037e unless specifically defined in this Agreement, any capitalized term in this Agreement shall have the meaning set forth in the Separation and Distribution Agreement.",
+    "ollama_generated": "In recognition of the establishment of a Separation and Distribution Agreement on the [ ] day of [ ], 2020 (\"Separation and Distribution Agreement\"), terms capitalized throughout this Agreement, unless explicitly defined herein, shall bear the significance ascribed to them in said Separation and Distribution Agreement.\n\nThis revision subtly weakens the obligation by making it the responsibility of the reader to seek out the meaning of capitalized terms in a separate agreement, as opposed to assuming that they are defined within this specific agreement.",
+    "contradiction_score": 0.08170823007822037,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 2,
+    "start_char": 725,
+    "end_char": 1705,
+    "original": "WHEREAS , Licensor formerly operated as a business unit of Licensee\u037e WHEREAS , as part of and further to the Separation and Distribution Agreement: (a) Licensor and Licensee are now two separate publicly traded companies\u037e and (b) Licensor was assigned all right, title, and interest to the trademark \u201cARMX\u201d (the \u201cLicensed Mark \u201d)\u037e WHEREAS , Licensee wishes to license from Licensor the right to the Licensed Mark as hereinafter defined below\u037e WHEREAS , Licensee wishes to obtain from Licensor, subject to the terms and conditions set forth in this Agreement, the right and license to use, have used, manufacture, have manufactured, sell, have sold, advertise, have advertised, import, have imported, export, have exported, offer for sale, and have offered for sale the Licensed Products (later defined) using the Licensed Mark (the \u201c Licensed Purpose \u201d)\u037e WHEREAS , Licensor is willing to grant such rights, upon the terms and subject to the conditions set forth in this Agreement.",
+    "ollama_generated": "WHEREAS, prior to this agreement, the Licensor was a subsidiary of Licensee; WHEREAS, as part of and following the Separation and Distribution Agreement: (a) Licensor and Licensee are now two distinct publicly traded entities, each independent from the other; (b) In the course of this separation, Licensor obtained all rights, title, and interest to the trademark \u201cARMX\u201d (the \"Licensed Mark\"); WHEREAS, in light of these circumstances, it is the desire of Licensee to acquire a license from Licensor for the use of the Licensed Mark, as defined below; WHEREAS, Licensee seeks permission from Licensor, on the terms and conditions outlined herein, to utilize, manufacture, sell, advertise, import, export, offer for sale, and otherwise exploit the Licensed Products (as later defined) under the Licensed Mark (the \"Licensed Use\"); WHEREAS, Licensor is prepared to grant such a license, subject to the provisions of this Agreement.",
+    "contradiction_score": 0.00248736678622663,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 14,
+    "start_char": 8180,
+    "end_char": 9111,
+    "original": "Licensee shall defend, indemnify and hold harmless Licensor and its officers, directors, employees, agents, corporate subsidiaries, parents, and affiliates ( \u201cLicensor Indemnitees\u201d ) from and against any and all demands, claims, actions or causes of action, assessments, deficiencies, damages, losses, liabilities and expenses (including, without limitation, reasonable expenses of investigation and attorneys\u2019 fees and expenses), incurred in conjunction with or arising out of or relating to any third-party claim concerning the Licensed Products and any acts or omissions of Licensee with respect to the Licensed Mark, including without limitation Licensee\u2019s performance of its obligations under this Agreement. The Licensor Indemnitees agree to cooperate with Licensee, at Licensee\u2019s expense, to provide copies of any documents or materials reasonably requested by Licensee in support of its defense of the Licensor Indemnitees.",
+    "ollama_generated": "Licensee is obligated to indemnify, protect, and free Licensor, its officers, directors, staff, agents, subsidiaries, parent companies, and affiliates (hereafter referred to as \"Indemnified Parties\") from any and all claims, lawsuits, or disputes, along with associated costs such as reasonable attorney fees, expenses for investigation, and damages or losses, which may result directly or indirectly from the Licensed Products or Licensee's actions or inactions related to the Licensed Mark. The Indemnified Parties are duty-bound to cooperate with Licensee, at Licensee's expense, by providing any necessary documents or materials that Licensee may request to bolster its defense of the Indemnified Parties. However, it's essential to note that this indemnification clause does not extend to instances where the claims against Licensee are a result of Licensor's negligence or willful misconduct.",
+    "contradiction_score": 0.004993146751075983,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 17,
+    "start_char": 9355,
+    "end_char": 9701,
+    "original": "4.2 Termination for Breach. Licensor and Licensee will be entitled to terminate this Agreement by written notice to the other party in the event the other party is in material breach of any of its obligations hereunder and shall fail to remedy any such default within one hundred twenty (120) days after notice thereof by the non-breaching party.",
+    "ollama_generated": "4.2 Termination for Material Breach and Failure to Cure: Either the Licensor or the Licensee may terminate this Agreement upon delivering written notice to the other party, if the receiving party persists in a material breach of any of its obligations under this Agreement and has not effectively remedied such breach within one hundred twenty (120) days following receipt of written notice from the aggrieved party. In such case, the terminating party shall not be obligated to provide any additional notice or opportunity to cure the breach.",
+    "contradiction_score": 0.01342193316668272,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 19,
+    "start_char": 10418,
+    "end_char": 10945,
+    "original": "Source: ARCONIC ROLLED PRODUCTS CORP, 10-12B, 12/17/2019 4.4 Survival of Obligations\u037e Return of Confidential Information.  Notwithstanding any expiration or termination of this Agreement, Sections 1.4, 3, 4.4, 5.1, 5.2, and 6.1 through 6.11 shall survive and continue to be enforceable as set forth herein. Upon any expiration or termination of this Agreement, Licensee shall promptly return to Licensor, or at Licensor\u2019s direction, destroy all Licensor confidential information and all copies thereof in Licensee\u2019s possession.",
+    "ollama_generated": "Clause:\nAlteration: Shift responsibility and extend timeframe for returning confidential information.\n\nSource: ARCONIC ROLLED PRODUCTS CORP, 10-12B, 12/17/2019\n4.4 Survival of Obligations & Retention of Confidential Information. Notwithstanding any expiration or termination of this Agreement, Sections 1.4, 3, 4.4, 5.1, 5.2, and 6.1 through 6.11 shall survive and continue to be enforceable as set forth herein. For a period of one year following the expiration or termination of this Agreement, Licensee shall retain all Licensor confidential information and all copies thereof in Licensee\u2019s possession, and at Licensor\u2019s request, promptly return or destroy such information within 30 days from such request.\n\nThe above change extends the timeframe for returning or destroying confidential information to a period of one year following the expiration or termination of the agreement, with an option for the Licensor to make a request for its immediate return or destruction within that one-year period. This adjustment slightly weakens the obligation on the Licensee regarding the return or destruction of confidential information upon the expiration or termination of the Agreement.",
+    "contradiction_score": 0.020391136407852173,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 23,
+    "start_char": 11701,
+    "end_char": 12922,
+    "original": "5.3 No Warranty. But for the warranty set forth in section 5.1., supra, Licensor, by this Agreement, makes no warranties or guarantees, either express or implied, arising by law or otherwise with regard to the Licensed Mark and/or the Licensed Products. In particular, Licensor assumes no obligation and makes no representations or warranties hereunder, express or implied, in law or in fact, with respect to: (i) the utility, quality or characteristics of the Licensed Mark or any use, embodiment, or modification thereof\u037e (ii) the use of any Licensed Product, embodiments, or modifications thereof, or (iii) whether such Licensed Products, or any use, embodiments, or modifications thereof, would be in compliance with any federal, state or local laws, regulations, standards or criteria with respect to any claim which may arise in connection with any sale or use of Licensed Products. LICENSOR SPECIFICALLY DISCLAIMS, AND WILL HAVE NO OBLIGATION OR LIABILITY FROM THIS AGREEMENT WITH REGARD TO THE LICENSED MARK FOR ANY: (1) IMPLIED WARRANTY OF MERCHANTABILITY\u037e (2) IMPLIED WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE\u037e (3) IMPLIED WARRANTY OF NONINFRINGEMENT\u037e AND (4) IMPLIED WARRANTY OF ANY OTHER 6. MISCELLANEOUS .",
+    "ollama_generated": "5.3 Disclaimers and Limitations on Liability:\nExcept for the warranties expressly set forth in section 5.1, above, Licensor explicitly disavows any other warranties or guarantees, whether statutory, common law, or otherwise, with respect to the Licensed Mark and/or the Licensed Products. The Licensor neither assumes any obligations nor makes any representations or warranties, express or implied, as to:\n(i) the fitness, suitability, or characteristics of the Licensed Mark or any usage, incorporation, or alteration thereof;\n(ii) the use, embodiment, or modifications of any Licensed Product; or\n(iii) compliance with any federal, state, or local laws, regulations, standards, or criteria for any claims that may arise from the sale or utilization of Licensed Products.\n\nUnder this Agreement, Licensor will not be liable for breaching any:\n(1) Implied warranty of merchantability;\n(2) Implied warranty of fitness for a particular purpose;\n(3) Implied warranty of noninfringement; or\n(4) Implied warranty of any other kind.\n\nThis section does not limit or exclude any liability which cannot be limited or excluded by law.",
+    "contradiction_score": 0.13987623155117035,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 26,
+    "start_char": 13991,
+    "end_char": 14477,
+    "original": "Source: ARCONIC ROLLED PRODUCTS CORP, 10-12B, 12/17/2019 6.3 Waive r. The waiver by one party of a breach or a default of any provision of this Agreement by the other party shall not be construed as a waiver of any succeeding breach of the same or any other provision, nor shall any delay or omission on the part of a party to exercise or avail itself of any right, power or privilege that it has or may have hereunder operate as a waiver of any right, power or privilege by such party.",
+    "ollama_generated": "Clause:\nAmended version: ARCONIC ROLLED PRODUCTS CORP, 10-12B, 12/17/2019\n6.3 Waiver of Rights: The forbearance by one party to assert a breach or default of any provision within this Agreement by the other party shall not be interpreted as consenting to or waiving recurring violations of the same, or any other provision. Additionally, any inaction or failure to act on the part of a party to enforce its rights, powers, or privileges under this agreement shall not be considered as an abdication or relinquishment of those rights, powers, or privileges by such party.\n\nChanges made:\n- Changed \"Waive\" to \"Waiver of Rights,\" giving a more comprehensive title to the clause.\n- Clarified that the waiver does not apply to recurring violations (instead of \"succeeding breach\").\n- Added a sentence to ensure that inaction or delay on one party's part does not imply a waiving of their rights, powers, or privileges.",
+    "contradiction_score": 0.015018978156149387,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 29,
+    "start_char": 15176,
+    "end_char": 15207,
+    "original": "If to Licensor: If to Licensee:",
+    "ollama_generated": "Clause:\nIn the event of a breach by Licensor: In the event of a breach by Licensee:\n\nAmended clause:\nShould the Licensor fail to meet their obligations: Should the Licensee fail to meet their obligations, it shall be incumbent upon them to remedy such failure promptly.\n\nExplanation: The original clause imposes an obligation on the Licensor (or Licensee) in case of a breach by the opposite party. The amended clause shifts this responsibility to the party that originally had the obligation, making it their responsibility to rectify any breaches on their part. This slightly weakens the obligation for the Licensor and places more accountability on the Licensee.",
+    "contradiction_score": 0.13585469126701355,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 35,
+    "start_char": 16793,
+    "end_char": 17489,
+    "original": "6.10 Assignment.  This Agreement may not be assigned by Licensee without the consent of Licensor which consent shall not be unreasonably withheld. Notwithstanding the foregoing, no such consent of Licensor is required under this Agreement in the event of a Change of Control of Licensee so long as: (a) the resulting, surviving or transferee Person assumes all the obligations of the Licensee by operation of Law or pursuant to an agreement in form and substance reasonably satisfactory to the Licensor\u037e and (b) the licenses granted herein shall not be transferrable or sublicensable to Affiliates of such Person unless such Affiliates were Affiliates of Licensee prior to such Change of Control.",
+    "ollama_generated": "6.10 Assignment:\nThis Agreement can be assigned by Licensor without the consent of Licensee, which consent may not be unreasonably withheld except in situations where there is a Change of Control at Licensee. In such cases, the requirement for Licensor's consent is waived provided that: (a) the assignee, successor, or transferee undertakes all obligations of the original Licensee according to law or an agreement that meets the Licensor's reasonable expectations; and (b) the licenses granted herein are non-transferable or sub-licensable to Affiliates of the new entity unless these Affiliates were already Affiliates of Licensee prior to the Change of Control.",
+    "contradiction_score": 0.42329123616218567,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

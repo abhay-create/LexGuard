@@ -1,0 +1,82 @@
+[
+  {
+    "clause_index": 0,
+    "start_char": 0,
+    "end_char": 621,
+    "original": "DISTRIBUTION AND SERVICES AGREEMENT January 18, 2020 This is to confirm that, in consideration of the agreements hereinafter contained, the undersigned, the Integrity Short Term Government Fund, (the \u201cFund\u201d), an open-end, diversified, management investment company organized as a series of The Integrity Funds, a Delaware statutory trust, has agreed that Integrity Funds Distributor, LLC, (\u201cIntegrity\u201d), shall be, for the period of this distribution agreement (the \u201cAgreement\u201d), the principal underwriter of shares issued by the Fund, including such classes of shares as may now or hereafter be authorized (the \u201cShares\u201d).",
+    "ollama_generated": "DISTRIBUTION AND SERVICES AGREEMENT January 18, 2020\n\nThis agreement serves to acknowledge that in light of the mutual understandings outlined below, The Integrity Short Term Government Fund, hereafter referred to as the \"Fund,\" a Delaware statutory trust organized as an open-end, diversified management investment company and consisting of multiple series under The Integrity Funds, designates Integrity Funds Distributor, LLC (\"Integrity\") as the party responsible for acting as the underwriter for shares issued by the Fund during the term of this agreement (the \"Agreement\"). It is further understood that this authority extends to all classes of shares currently or subsequently authorized (the \"Shares\").\n\nIn this revised version, the obligation has been slightly shifted towards Integrity, making them responsible for acting as the underwriter for shares issued by the Fund.",
+    "contradiction_score": 0.004667459521442652,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 16,
+    "start_char": 7770,
+    "end_char": 8200,
+    "original": "SECTION 3. REPRESENTATIONS AND WARRANTIES Section 3.1 The Fund represents to Integrity that all registration statements, prospectuses, and statements of additional information filed by the Fund with the SEC under the 1933 Act and the 1940 Act with respect to the Shares of the Fund have been carefully prepared in conformity with the requirements of the 1933 Act, the 1940 Act, and the rules and regulations of the SEC thereunder.",
+    "ollama_generated": "SECTION 3. REPRESENTATIONS AND WARRANTIES Section 3.1 Integrity represents to the Fund that all registration statements, prospectuses, and statements of additional information filed by Integrity on behalf of the Fund with the SEC under the 1933 Act and the 1940 Act with respect to the Shares of the Fund have been meticulously prepared to ensure compliance with the requirements of the 1933 Act, the 1940 Act, and the rules and regulations of the SEC thereunder. The responsibility for any discrepancies or non-compliance lies with Integrity.\n\nThis revision shifts the responsibility from the Fund to Integrity in case of any discrepancies or non-compliance regarding the registration statements, prospectuses, and statements of additional information filed with the SEC.",
+    "contradiction_score": 0.2699451446533203,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 22,
+    "start_char": 18507,
+    "end_char": 19380,
+    "original": "SECTION 5. EFFECTIVENESS OF REGISTRATION Section 5.1 None of the Shares shall be offered by either Integrity or the Fund under any of the provisions of this Agreement and no orders for the purchase or sale of the Shares hereunder shall be accepted by the Fund if and so long as the effectiveness of the registration statement then in effect or any necessary amendments thereto shall be suspended under any of the provisions of the 1933 Act or if and so long as a current prospectus as required by Section 5(b)(2) of the 1933 Act is not on file with the SEC\u037e provided, however, that nothing contained in this paragraph 5 shall in any way restrict or have an application to or bearing upon the Fund\u2019s obligation to repurchase Shares from any shareholder in accordance with the provisions of the Fund\u2019s prospectus, statement of additional information, or declaration of trust.",
+    "ollama_generated": "SECTION 5. EFFECTIVENESS OF REGISTRATION\nSection 5.1 shall govern that Integrity and the Fund may only offer Shares under the terms of this Agreement, and shall not accept any orders for the purchase or sale of Shares hereunder by the Fund, if one or more of the following conditions are met:\n\na) The effectiveness of the registration statement currently in effect or any necessary amendments thereto is suspended under any provisions of the 1933 Act;\nb) A current prospectus as required by Section 5(b)(2) of the 1933 Act is not on file with the SEC.\n\nNotwithstanding the above, this paragraph 5 does not in any manner limit or affect the Fund's obligation to repurchase Shares from any shareholder as specified in the Fund\u2019s prospectus, statement of additional information, or declaration of trust. However, it should be noted that this provision only applies to the offering and purchasing of Shares, and does not impact the aforementioned repurchase obligation.",
+    "contradiction_score": 0.2475961148738861,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 23,
+    "start_char": 19380,
+    "end_char": 19482,
+    "original": "SECTION 6. NOTICE TO INTEGRITY Section 6.1 The Fund agrees to advise Integrity immediately in writing:",
+    "ollama_generated": "SECTION 6. DUTY TO INFORM INTEGRITY\nSection 6.1 Integrity shall be notified promptly in writing by the Fund, upon:\n\nIn this revised clause, I've inverted the condition to make it the responsibility of Integrity to be informed by the Fund instead. This change may suggest a more proactive role for Integrity in receiving information from the Fund.",
+    "contradiction_score": 0.06812174618244171,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 24,
+    "start_char": 19482,
+    "end_char": 20502,
+    "original": "Source: INTEGRITY FUNDS, 485BPOS, 1/21/2020 (a) of any request by the SEC for amendments to the registration statement, prospectus, or statement of additional information then in effect or for additional information\u037e (b) in the event of the issuance by the SEC of any stop order suspending the effectiveness of the registration statement, prospectus, or statement of additional information then in effect or the initiation of any proceeding for that purpose\u037e (c) of the happening of any event that makes untrue any statement of a material fact made in the registration statement, prospectus, or statement of additional information then in effect or that requires the making of a change in such registration statement, prospectus, or statement of additional information in order to make the statement therein not misleading\u037e and (d) of all actions of the SEC with respect to any amendment to any registration statement, prospectus, or statement of additional information which may from time to time be filed with the SEC.",
+    "ollama_generated": "Clause:\nSource: INTEGRITY FUNDS, 485BPOS, 1/21/2020\n(a) shall not be obligated to take action in response to any request by the SEC for amendments to the registration statement, prospectus, or statement of additional information currently in effect, unless required by law;\n(b) shall not be held responsible in the event of the issuance by the SEC of any stop order suspending the effectiveness of the registration statement, prospectus, or statement of additional information currently in effect, or the initiation of any proceeding for that purpose;\n(c) bears no responsibility if any event occurs that renders a material fact stated in the registration statement, prospectus, or statement of additional information currently in effect untrue, or necessitates a change in such documents to prevent them from being misleading;\n(d) shall not be held accountable for any actions taken by the SEC with respect to any amendment to any registration statement, prospectus, or statement of additional information that may be filed with the SEC at any given time.",
+    "contradiction_score": 0.10066539794206619,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 26,
+    "start_char": 21633,
+    "end_char": 22009,
+    "original": "SECTION 8. MISCELLANEOUS Section 8.1 The Fund recognizes that governors, officers, and employees of Integrity may from time to time serve as directors, officers, and employees of corporations and business trusts (including other investment companies) and that Integrity or its affiliates may enter into distribution or other agreements with such other corporations and trusts.",
+    "ollama_generated": "SECTION 8. MISCELLANEOUS Section 8.1 The Fund acknowledges the possibility that governors, officers, and employees of Integrity might concurrently hold positions in corporations and business trusts (including other investment companies), or that Integrity, its affiliates, or such other entities may engage in distribution or other agreements with these corporations and trusts. However, it is understood that any potential conflicts of interest arising from such affiliations shall be managed in accordance with applicable laws and regulations to ensure the Fund's interests are safeguarded at all times.",
+    "contradiction_score": 0.0007259694393724203,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 27,
+    "start_char": 22009,
+    "end_char": 22658,
+    "original": "Section 8.2 It is expressly agreed that the obligations of the Fund hereunder shall not be binding upon any of the trustees, shareholders, nominees, officers, agents, or employees of the Fund, personally, but bind only the property of the Fund. The execution and delivery of this Agreement have been authorized by the Trustees and signed by an authorized officer of the Fund, acting as such, and neither such authorization by such Trustees nor such execution and delivery by such officer shall be deemed to have been made by any of them individually or to impose any liability on any of them personally, but shall bind only the property of the Fund.",
+    "ollama_generated": "Section 8.2 It is explicitly stipulated that the obligations of the Fund under this agreement shall not create personal liabilities for any of its trustees, shareholders, nominees, officers, agents, or employees. Instead, these obligations will be imposed solely upon the assets of the Fund. The authorization for this agreement by the Trustees and its subsequent signing by an authorized representative of the Fund, acting in such capacity, shall not be construed as a personal commitment by any individual Trustee or officer, but rather binds only the assets of the Fund.\n\nThis revised clause aims to clarify that no individual associated with the Fund will bear personal liability from the obligations specified within this agreement; instead, these responsibilities are solely tied to the Fund's property. The authorization and execution of this Agreement by the Trustees and an authorized officer of the Fund serves only to bind the assets of the Fund, not any specific person associated with the Fund.",
+    "contradiction_score": 0.0017056355718523264,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 32,
+    "start_char": 23425,
+    "end_char": 23544,
+    "original": "In Witness Whereof, the parties hereto have caused this Agreement to be executed as of the date first set forth herein.",
+    "ollama_generated": "For the avoidance of doubt, this Agreement shall become effective on the date initially stated herein, which has been duly executed by all parties involved.",
+    "contradiction_score": 0.0025992440059781075,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

@@ -1,0 +1,199 @@
+[
+  {
+    "clause_index": 4,
+    "start_char": 1462,
+    "end_char": 1565,
+    "original": "NOW, THEREFORE, in consideration of the promises herein contained, the Parties hereto agree as follows:",
+    "ollama_generated": "FOR THE CONSIDERATION reciprocally offered herein, the Parties mutually agree on the following terms:\n\nThis modification subtly shifts the focus from one party making promises to both parties offering consideration, implying a more equal and reciprocal agreement.",
+    "contradiction_score": 0.0009429216734133661,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 5,
+    "start_char": 1565,
+    "end_char": 1638,
+    "original": "ARTICLE 1 SUPPLY OF PRODUCTS & SERVICES 1.1 Sale of Products & Services .",
+    "ollama_generated": "Article 1 - DELIVERY OF PRODUCTS & SERVICES\n1.1 Purchase of Goods & Services:\n\nThis revised clause shifts the responsibility slightly from the seller to the buyer, indicating that the buyer is purchasing goods and services instead of the seller selling them.\n\nArticle 1: DELIVERY OF PRODUCTS & SERVICES\n1.1 Purchase of Goods & Services:\nThe Buyer hereby agrees to purchase the Products and Services from the Seller, under the terms and conditions outlined in this Agreement. The Seller's obligations shall be limited to providing the Products and Services as agreed upon by both parties. Any deviation or failure on the part of the Buyer to meet their obligations may result in delays or termination of the Agreement.",
+    "contradiction_score": 0.10800514370203018,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 11,
+    "start_char": 5661,
+    "end_char": 5687,
+    "original": "1.3 Delivery\u037e Acceptance .",
+    "modified": "1.3 Acceptance & Delivery Provisions:\n\nThe Seller shall have the right to deliver the Goods at any time up to the Expiry Date, and the Buyer agrees that acceptance of the Goods shall be deemed to occur upon receipt by the Buyer, unless the Buyer notifies the Seller within three (3) business days of delivery that there are any defects or non-conformities with the Goods. If such notice is given, the parties shall negotiate in good faith to resolve the issue, and if resolution cannot be reached within a reasonable timeframe, either party may terminate this Agreement without liability. In such a case, the Buyer shall return the Goods to the Seller at the Seller's expense. If no notice is given or the issue is resolved, the risk of loss or damage to the Goods shall pass to the Buyer upon delivery, and ownership of the Goods shall transfer to the Buyer upon payment in full by the Buyer.",
+    "contradiction_score": 0.6040630340576172,
+    "kept": true
+  },
+  {
+    "clause_index": 12,
+    "start_char": 5687,
+    "end_char": 5875,
+    "original": "With respect to the Products & Services delivered by Constellation to an HOF Entity (or its affiliates), delivery and acceptance will be governed by the applicable Second Level Agreements.",
+    "ollama_generated": "For deliveries of Products & Services made by Constellation to any HOF Entity (or its affiliated entities), the relevant Second Level Agreements shall be responsible for defining both delivery requirements and the subsequent acceptance process.",
+    "contradiction_score": 0.00041533418698236346,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 25,
+    "start_char": 10846,
+    "end_char": 11585,
+    "original": "(a) The design, layout, content and copy of all advertising signs and/or promotional materials covered by this Agreement, including any subsequent changes at Constellation\u2019s expense, are subject to prior written approval by the HOF Entities, which approval shall not be unreasonably withheld (provided, however, that a rejection or denial of approval shall not be considered unreasonable if the HOF Entities, in their sole discretion, determine that an advertising sign or promotional material covered by this Agreement is used in any manner that is contrary to public morals, could be deceptive or misleading or could reflect unfavorably on the good name, goodwill, reputation or image of the HOF Entities or their respective affiliates).",
+    "ollama_generated": "(a) The creation, arrangement, and content of all advertising signs and promotional materials governed by this Agreement, including any subsequent alterations at the expense of Constellation, shall be submitted for review and potential amendments by the HOF Entities. Any changes requested by the HOF Entities will be made in a timely manner, with undue delay being avoided (however, it is understood that a refusal or denial of approval will not be deemed unreasonable if, exercising their sole discretion, the HOF Entities deem that an advertising sign or promotional material compromises public morals, may be deceptive or misleading, or potentially tarnishes the good name, reputation, goodwill, or image of the HOF Entities or their respective affiliates).\n\nIn this revised version, I've attempted to shift some responsibility and power towards the HOF Entities by requiring Constellation to make changes requested in a timely manner and by giving the HOF Entities discretion to reject or deny approval if they deem an advertising sign or promotional material to be contrary to public morals, potentially misleading, or damaging to their reputation.",
+    "contradiction_score": 0.0028081387281417847,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 26,
+    "start_char": 11585,
+    "end_char": 12495,
+    "original": "(b) Constellation agrees, at its sole cost and expense, to supply the HOF Entities with camera-ready artwork required for the production of advertising signs and/or promotional materials covered by this Agreement and to be produced by or on behalf of the HOF Entities at least thirty (30) days before such material is scheduled to be produced. Constellation hereby specifically authorizes the HOF Entities to use such artwork in the production of such advertising signs and/or promotional materials and represents and warrants that all of its advertising copy shall comply with all applicable federal, state and local laws pertinent to the advertising of its products. Constellation represents and warrants that it shall own all intellectual property and related rights or shall otherwise have the right to use and authorize the HOF Entities\u2019 use of same as it relates to any such artwork and advertising copy.",
+    "ollama_generated": "(b) The HOF Entities are entitled, at their sole discretion and expense, to request camera-ready artwork from Constellation for the production of advertising signs and/or promotional materials in accordance with this Agreement. Such artwork is expected to be delivered by Constellation at least thirty (30) days prior to the scheduled production date of the material. The HOF Entities are hereby authorized to use such artwork, subject to Constellation's approval, in the production of the aforementioned advertising signs and promotional materials.\n\nConstellation represents and warrants that it will ensure compliance with all applicable federal, state, and local laws pertaining to the advertising of its products in any advertising copy provided for use by the HOF Entities. Constellation asserts ownership or valid rights to use and authorize the HOF Entities' use of any intellectual property and related rights associated with such artwork and advertising copy.",
+    "contradiction_score": 0.0027305062394589186,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 31,
+    "start_char": 15045,
+    "end_char": 15745,
+    "original": "Constellation shall have no right to use the Marks of the HOF Entities (or either of them), the Village or Johnson Controls, Inc. without the prior written consent of the HOF Entities (or the applicable HOF Entity), which shall not be unreasonably withheld, and/or, if applicable, Johnson Controls, Inc. Each Party will be solely responsible for taking such actions as it deems appropriate to obtain and maintain trademark, service mark, or copyright registration for its own Marks and each Party will have the exclusive right to enforce its own Marks, including the right to assert, defend or settle any allegations or claims of infringement, dilution, misappropriation or similar violation of same.",
+    "ollama_generated": "The HOF Entities (or the applicable HOF Entity) retain the authority to grant Constellation written consent, which may not be arbitrarily withheld, prior to using any Marks associated with the HOF Entities, The Village, or Johnson Controls, Inc. It is the exclusive responsibility of each Party to pursue and maintain trademark, service mark, or copyright registration for its own Marks. Each Party shall bear the sole responsibility for enforcing their respective Marks, including but not limited to asserting, defending, or settling any claims or allegations of infringement, dilution, misappropriation, or similar violations concerning their own Marks.",
+    "contradiction_score": 0.001355289830826223,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 32,
+    "start_char": 15745,
+    "end_char": 17000,
+    "original": "(b) Grant of Rights by HOF Entities . The HOF Entities grant to Constellation a nonexclusive, nontransferable, royalty-free license to use the marks set forth on Exhibit F  (\u201cHOF Entity Marks \u201d) in the United States or online during the Term solely in connection with (i) Constellation\u2019s use and promotion of the designations set forth on Exhibit E  in connection with commercial activations, marketing promotions, commercial programs and marketing programs related to the Village, (ii) B2B-related and B2C-related marketing activities approved by the HOF Entities and (iii) as otherwise expressly contemplated by this Agreement. This license expressly prohibits any pass-through rights or the use of the HOF Entity Marks by any third party, except (x) to Constellation\u2019s subsidiaries and brands for use in a manner consistent with clauses (i) through (iii) hereof or (y) with the express written consent of the HOF Entities (or the appropriate HOF Entity). On termination or expiration of this Agreement, Constellation shall cease all use of the HOF Entity Marks as soon as practicable, but in any event within thirty (30) days unless the particular media which has been approved requires a longer lead time, but in no event longer than ninety (90) days.",
+    "ollama_generated": "(b) License Granted by HOF Entities: The HOF Entities grant to Constellation a nonexclusive, non-assignable, and non-sublicensable license, permitting Constellation to utilize the marks outlined in Exhibit F (\"HOF Entity Marks\") within the United States or online throughout the Term. The license is exclusively confined to (i) Constellation's utilization and endorsement of the designations listed on Exhibit E in relation to commercial activations, marketing promotions, commercial programs, and marketing programs pertaining to the Village, (ii) business-to-business (B2B) and business-to-consumer (B2C) marketing activities approved by the HOF Entities, and (iii) as explicitly stipulated within this Agreement. This license implicitly forbids any pass-through rights or authorization of the HOF Entity Marks to any third party, unless (x) for Constellation's subsidiaries and brands in accordance with clauses (i) through (iii), or (y) with the express written consent of the HOF Entities (or the relevant HOF Entity). Upon termination or expiration of this Agreement, Constellation must discontinue all use of the HOF Entity Marks as promptly as practicable, but no later than thirty (30) days, unless the specific medium necessitates a longer lead time, in which case Constellation shall cease usage within ninety (90) days. However, if any media requires an extended period, Constellation is granted a reasonable extension to comply with this obligation.",
+    "contradiction_score": 0.008175995200872421,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 33,
+    "start_char": 17000,
+    "end_char": 17087,
+    "original": "Source: GPAQ ACQUISITION HOLDINGS, INC., S-4/A, 1/23/2020 (c) Quality Control \u2013 Marks .",
+    "modified": "Clause:\nRevised for modified meaning while maintaining fluency, professionalism, and realism - GPAQ ACQUISITION HOLDINGS, INC., S-4/A, 1/23/2020 (c) Quality Control \u2013 Marks .\n\nAmended clause:\nIn the event of any potential infringement or challenge to the trademark rights associated with the Marks, the Company shall have the discretionary authority to take legal action, and Shareholders hereby agree to indemnify and hold harmless the Company from any costs, expenses, liabilities, or damages arising therefrom. However, if the Company chooses not to take such action, the shareholder shall be granted the right, but not the obligation, to pursue the matter at their own expense.\n\nIn this revised clause, the responsibility for pursuing legal action against potential trademark infringement is inverted between the company and shareholders. The obligation to take legal action now lies primarily with the shareholders, who must indemnify the company from any costs associated with such action. If the company decides not to pursue legal action, the shareholder can do so at their own discretion and expense, but is under no obligation to do so.",
+    "contradiction_score": 0.7238664627075195,
+    "kept": true
+  },
+  {
+    "clause_index": 34,
+    "start_char": 17087,
+    "end_char": 17575,
+    "original": "(i) Each licensee Party agrees, in connection with its use of any of the licensor Party\u2019s Marks, to comply with any quality-control standards as such licensor Party may provide hereunder from time to time and which may be revised by the Party owning the Marks from time to time. Each Party shall take such actions as the Party owning the Marks may reasonably request to ensure compliance with such quality-control standards in connection with the licensee Party\u2019s use of any of the Marks.",
+    "ollama_generated": "(i) The licensor Party reserves the right, at its discretion and without prior notice, to establish or revise quality-control standards for the use of its Marks by the licensee Party. It is understood that the licensee Party shall make reasonable efforts to adhere to such quality-control standards as communicated by the licensor Party from time to time. Failure to comply may result in the termination of this agreement. The licensor Party shall have the right to request and expect cooperation from the licensee Party to maintain these standards during the usage of any Marks.",
+    "contradiction_score": 0.08960986882448196,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 37,
+    "start_char": 18595,
+    "end_char": 19424,
+    "original": "(iv) Each licensee Party acknowledges, understands, and agrees that it shall not perform, do, or cause any act to be done, or fail to take any action, during or after the Term, or assist any third party in performing, doing, and/or causing any act to be done, which would in any way or manner be detrimental to, injure or impair, in any way or to any degree: (A) the licensor Party\u2019s Marks (or any of them)\u037e (B) any applications for registration and/or registrations therefor\u037e (C) the goodwill related to the licensor Party\u2019s Marks (or any of them)\u037e (D) a licensor Party\u2019s federal, state and/or common law and other rights in or to the licensor Party\u2019s Marks\u037e (E) a licensor Party\u2019s right, title, interest, and ownership in and to the licensor Party\u2019s Marks\u037e and/or (F) the validity or enforceability of the any of the foregoing.",
+    "ollama_generated": "(iv) Each licensee Party recognizes, comprehends, and consents that they shall not undertake, act upon, permit, or omit actions during or following the Term, nor aid any third party in performing such acts, that could potentially or substantially benefit, harm, or diminish:\n\n(A) the value or reputation of the licensor Party\u2019s trademarks (or any of them);\n(B) pending or approved applications for registration of these trademarks;\n(C) the goodwill associated with the licensor Party\u2019s trademarks (or any of them);\n(D) the licensor Party\u2019s legal rights, including but not limited to federal, state, common law, and other rights in or to the licensor Party\u2019s trademarks;\n(E) the licensor Party\u2019s proprietary rights, title, interest, and possession in and to the licensor Party\u2019s trademarks;\n(F) the legitimacy or enforceability of any of the aforementioned.\n\nHowever, this obligation does not extend to actions that could be reasonably perceived as protective or defensive responses by the licensee Party against infringement claims made by third parties, provided such responses are communicated promptly to the licensor Party for appropriate action.",
+    "contradiction_score": 0.01513813529163599,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 40,
+    "start_char": 22159,
+    "end_char": 22988,
+    "original": "3.4 Sponsorship Fees . For the advertising and other rights described herein, Constellation shall pay to the HOF Entities total combined sponsorship fees (the \u201c Sponsorship Fees \u201d) and total combined annual activation fund proceeds (the \u201cAnnual Activation Fund Proceeds \u201d) in the amounts and on the dates set forth on Exhibit H , in addition to any other amounts required by the terms of this Agreement. Annual Activation Funds are to be used in each calendar year. Unused funds are not rolled into future contract years. In the event Constellation fails to pay to the HOF Entities when due any sum required by this Agreement to be paid, whether pursuant to this Section 3.4  or otherwise, interest shall accrue from the date due on the unpaid amount at the rate of [***] per month or, if less, the highest rate permitted by law.",
+    "ollama_generated": "3.4 Sponsorship Obligations: For the advertising and other rights granted in this Agreement, the HOF Entities shall be entitled to receive from Constellation the total combined sponsorship fees (the \"Sponsorship Fees\") and total combined annual activation fund proceeds (the \"Annual Activation Fund Proceeds\"), as detailed in Exhibit H. These payments will be made in accordance with the amounts and deadlines specified, without any additional obligations beyond those stated in this Agreement. The Annual Activation Funds will be allocated annually, but any unspent funds at year's end shall revert to Constellation and may be utilized in subsequent contract years at their discretion. In the event that Constellation fails to make a payment to the HOF Entities when due as stipulated by this Agreement, whether under this Section 3.4 or otherwise, interest shall accrue on the overdue amount from the due date at the rate of [***] per month, or if lower, the maximum rate permitted by law.\n\nIn this revised version, the HOF Entities have the right to receive sponsorship fees and activation fund proceeds, while Constellation has the obligation to make payments only in accordance with the amounts and deadlines specified in the Agreement. Furthermore, any unspent Annual Activation Funds will revert to Constellation for use in subsequent contract years, shifting the responsibility of managing unused funds from the HOF Entities to Constellation.",
+    "contradiction_score": 0.1333501785993576,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 42,
+    "start_char": 23267,
+    "end_char": 23362,
+    "original": "Source: GPAQ ACQUISITION HOLDINGS, INC., S-4/A, 1/23/2020 4.2 Termination\u037e Available Remedies .",
+    "ollama_generated": "In the event of termination by either party, the non-terminating party shall have no obligation to provide notice or explanation for such termination, and any outstanding payments or deliverables shall be considered fully satisfied with immediate effect, thereby releasing the terminating party from any further obligations or liabilities under this agreement. The terminating party retains the right to pursue remedies as deemed appropriate, subject to applicable law.",
+    "contradiction_score": 0.0868489146232605,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 49,
+    "start_char": 27665,
+    "end_char": 28147,
+    "original": "(i) HOF Entity Remedies . In the event of an Event of Default by Constellation which is not cured within the applicable grace or cure period, the HOF Entities shall have the right, in their sole discretion, (A) to terminate this Agreement, (B) to remove immediately any advertising signs and/or promotional materials covered by this Agreement, and/or (C) to assert any and all other remedies which the HOF Entities may have under this Agreement and/or pursuant to law and/or equity.",
+    "ollama_generated": "Clause:\n(i) Remedies for HOF Entity. In the event that this Agreement is in default by Constellation, and such default remains uncured beyond the specified grace or cure period, the HOF Entities shall be obligated, at their sole discretion, (A) to exercise the option to terminate this Agreement, (B) to arrange for the immediate removal of any advertising signs and/or promotional materials associated with this Agreement, and/or (C) to pursue and exercise any and all available remedies under this Agreement, as well as any additional remedies that may be obtainable under applicable law and/or equity.\n\nThis revised clause shifts the responsibility from the HOF Entities having the right to take action in case of default, to them being obligated to exercise their option to terminate and pursue remedies if a default occurs and is not cured within the specified period.",
+    "contradiction_score": 0.04318104684352875,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 51,
+    "start_char": 28542,
+    "end_char": 29525,
+    "original": "(iii) Effect of Termination or Expiration. In the event of a termination of this Agreement by either Party for any reason, or upon the expiration of the Term, the Parties agree that all representations and warranties made under this Agreement and the indemnification provisions set forth in Section 5.2  for any claims, demands, causes of action, suits or judgments by third parties or losses, liabilities, costs or expenses which may arise on or before the effective date of termination shall survive. In the event of any termination of this Agreement, this Agreement shall forthwith become wholly void and of no further force and effect and there shall be no liability on the part of the HOF Entities (or either of them) or Constellation, except that the provisions of Section 3.3(a) , this Section 4.2(d) , Section 5.2 (with respect to the period prior to termination) and Article 6  (other than Section 6.7  and Section 6.9 ) shall survive any such termination of this Agreement.",
+    "ollama_generated": "Clause (iii): Consequences of Termination or Expiration. Upon the initiation of a termination of this Agreement by either Party for any reason, or upon the conclusion of the Term, all representations and warranties made under this Agreement and the indemnification provisions outlined in Section 5.2 will continue to be valid for any claims, demands, causes of action, lawsuits, judgments, or losses that may occur before the effective date of termination. Notably, should this Agreement be terminated, it shall immediately cease to have any binding effect, and neither the HOF Entities (or either individually) nor Constellation will bear any further liability\u2014except for the provisions in Section 3.3(a), this Section 4.2(d), Section 5.2 (for the period preceding termination), and Article 6 (excluding Sections 6.7 and 6.9) which shall remain valid post-termination of this Agreement.",
+    "contradiction_score": 0.08907291293144226,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 62,
+    "start_char": 39278,
+    "end_char": 39827,
+    "original": "ARTICLE 6 MISCELLANEOUS 6.1 Notices . All notices, requests, demands, and other communications required or permitted under this Agreement shall be in writing and shall be deemed to have been duly given and made upon being delivered either by courier or overnight delivery, or deposited, postage prepaid, certified or registered mail, return receipt requested, in the United States Mail to the Party for whom it is intended, bearing the address shown below for such Party or such other address as may be designated in writing hereafter by such Party:",
+    "modified": "ARTICLE 6 MISCELLANEOUS 6.1 Notifications and Communications:\nAll notices, requests, demands, and other communications required or permitted under this Agreement need not necessarily be in writing, but if written, shall be deemed valid upon transmission via email to the designated email addresses below, or sent by courier, overnight delivery, or certified/registered mail, postage prepaid, return receipt requested, to the Party for whom it is intended, with the understanding that this method may take longer and no timeliness of delivery shall be implied. The parties acknowledge and accept that email communication may not always be secure; therefore, for sensitive communications, the traditional methods mentioned above remain preferred.\n\nParty A: [Address]\nEmail: partya@example.com\n\nParty B: [Address]\nEmail: partyb@example.com",
+    "contradiction_score": 0.8709017038345337,
+    "kept": true
+  },
+  {
+    "clause_index": 77,
+    "start_char": 45314,
+    "end_char": 46074,
+    "original": "Source: GPAQ ACQUISITION HOLDINGS, INC., S-4/A, 1/23/2020 (c) Tolling . In the event that, after the construction and development of the Village has been substantially completed, the Village is not usable for a period of at least thirty (30) days as a result of the events described under this Section 6.7  and unless this Agreement shall have been terminated in accordance with its terms, the Term shall be extended for that period of time (after substantial completion) which the Village was not usable and the start and end dates of each period shall be adjusted to reflect the number of days (after substantial completion) in which the Village was not usable for all purposes of this Agreement, including without limitation the expiration date of the Term.",
+    "ollama_generated": "Clause:\nIn the event that the usability of the Village, following its substantial completion, is disrupted for a minimum duration of thirty (30) days due to incidents outlined in Section 6.7 and if this Agreement has not been dissolved as per its stipulations, the Contract Period will be extended proportionately to match the duration that the Village remained non-operational. The commencement and conclusion dates for each subsequent period will be amended to reflect these non-usable days within the context of this Agreement, encompassing but not limited to the expiration date of the Contract Period. In such cases, the responsibility for any additional costs incurred during this extension shall fall upon the party deemed responsible for the disruption, as per the agreement's dispute resolution procedures.",
+    "contradiction_score": 0.03506511077284813,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 82,
+    "start_char": 48801,
+    "end_char": 49073,
+    "original": "6.12 No Defamation or Disparagement . No Party will make, issue or release any statement which results in any defamation or disparagement of the Village, the City of Canton, the other Party, or any team, person, performer or organization involved in events at the Village.",
+    "ollama_generated": "6.12 Avoidance of Defamatory Statements: Each Party acknowledges and agrees to abstain from making, publishing, or distributing any statement that may reasonably be construed as damaging the reputation of the Village, the City of Canton, the other Party, or any team, person, performer, or organization associated with events at the Village. A breach of this obligation may lead to legal consequences.",
+    "contradiction_score": 0.002138640731573105,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 86,
+    "start_char": 49748,
+    "end_char": 50656,
+    "original": "6.16 Waiver . No action, other than a notice by a Party to another Party specifically stating that such notice has the effect of waiver, shall constitute a waiver of any particular breach or default of such other Party. No such waiver notice from a Party shall waive any other Party\u2019s failure to fully comply with any other term, condition, or provision of this Agreement, irrespective of any knowledge any HOF Entity or Constellation officer, manager, employee, or agent may have of any breach or default of, or noncompliance with, such other term, condition, or provision. No waiver of full performance by a Party shall be construed, or operate, as a waiver of any subsequent default of any of the terms, covenants and conditions of this Agreement. The payment or acceptance of fees or charges for any period after a default shall not be deemed a waiver of any right or acceptance of defective performance.",
+    "ollama_generated": "6.16 Waivers and Cessation of Obligations:\n\nA Party's failure to take action, unless expressly stated in writing that such inaction is intended as a waiver, shall not be construed as a waiver of any specific breach or default by another Party. It is essential to note that a waiver notice issued by one Party does not absolve the other Parties from complying with all terms, conditions, and provisions of this Agreement, even if there is awareness among Highly Organized Functions (HOF) Entities or Constellation officials, managers, employees, or agents regarding any breach, default, or noncompliance.\n\nMoreover, a Party's waiver of full performance under the terms of this Agreement does not imply a waiver of any subsequent defaults or breaches of the agreement's other provisions. The payment or acceptance of fees or charges following a default should not be interpreted as an acceptance of defective performance or waiving of associated rights.",
+    "contradiction_score": 0.009795678779482841,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 90,
+    "start_char": 52166,
+    "end_char": 52867,
+    "original": "6.20 HOF Entity Rights and Obligations . The Parties acknowledge and agree that rights vested in the HOF Entities collectively under this Agreement shall be deemed vested in each HOF Entity and its affiliates and that obligations of the HOF Entities collectively under this Agreement may be satisfied by either HOF Entity or any of their affiliates. Without limiting the generality of the foregoing, while certain rights set forth in this Agreement may be contemplated to be provided by HOFV and other rights set forth in this Agreement may be contemplated to be provided by PFHOF (or by both HOF Entities), each of such rights may be provided by HOFV, PFHOF and/or any of their respective affiliates.",
+    "ollama_generated": "6.20 Allocation of HOF Entity Rights and Obligations: The Parties mutually recognize that the collective rights bestowed upon the HOF Entities under this Agreement are individually transferable to each HOF Entity and its affiliates. Conversely, the collective obligations under this Agreement can be fulfilled by either HOF Entity or any of their affiliated entities. Notably, while some rights outlined in this Agreement may appear to be the responsibility of HOFV, others may seem to belong to PFHOF (or both), yet these rights may in fact be discharged by HOFV, PFHOF, and/or any of their respective affiliated entities.\n\nBy rewording the clause, I've attempted to keep the original meaning intact but presented it in a way that might seem to shift some responsibilities or obligations slightly towards the affiliates of the HOF Entities, without significantly altering the overall intent or scope of the clause.",
+    "contradiction_score": 0.0074049499817192554,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

@@ -1,0 +1,199 @@
+[
+  {
+    "clause_index": 0,
+    "start_char": 0,
+    "end_char": 87,
+    "original": "Exhibit 10.4 INTELLECTUAL PROPERTY AGREEMENT by and between Nuance Communications, Inc.",
+    "ollama_generated": "Intellectual Property Agreement (Exhibit 10.4), hereby established between Nuance Communications, Inc. (hereinafter referred to as \"Nuance\") and the other party (hereinafter referred to as \"Party\").\n\nBy this revision, the responsibility of naming the parties involved has been shifted towards Nuance in the subsequent mentions within the agreement.",
+    "contradiction_score": 0.010542711243033409,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 3,
+    "start_char": 3167,
+    "end_char": 5038,
+    "original": "RECITALS WHEREAS, in connection with the contemplated Spin-Off  of SpinCo and concurrently with the execution of this Agreement, Nuance and SpinCo are entering into a Separation and Distribution Agreement (the \u201c Separation Agreement \u201d)\u037e WHEREAS, pursuant to the Separation Agreement and the other Ancillary Agreements, as of the Distribution Date, the Nuance IP has been allocated to the Nuance Group and the SpinCo IP has been allocated to the SpinCo Group\u037e WHEREAS, the Parties wish to record the transfers of any registrations or applications of Nuance IP and SpinCo IP, as applicable, to the extent the ownership thereof has transferred from a member of the Nuance Group to a member of the SpinCo Group, or vice versa, pursuant to the Separation Agreement or any other Ancillary Agreement\u037e WHEREAS, pursuant to the Separation Agreement and the other Ancillary Agreements, as of the Distribution Date, the Nuance IP allocated to the Nuance Group includes the Nuance Patents, the Nuance Shared Technology Assets and the Nuance Data, and the SpinCo IP allocated to the SpinCo Group includes the SpinCo Patents, the SpinCo Shared Technology Assets and the SpinCo Data\u037e WHEREAS, it is the intent of the Parties that Nuance grant a license to SpinCo under the Nuance Patents and the Nuance Shared Technology Assets, and provide certain rights or services to the SpinCo Group with respect to the Nuance Data, in each case for the SpinCo Field of Use, subject to the terms and conditions set forth in this Agreement\u037e and WHEREAS, it is the intent of the Parties that SpinCo grant a license to Nuance under the SpinCo Patents and the SpinCo Shared Technology Assets, and provide certain rights or services to the Nuance Group with respect to certain of the SpinCo Data, in each case for the Nuance Field of Use, subject to the terms and conditions set forth in this Agreement.",
+    "ollama_generated": "CLAUSES WHEREIN, in anticipation of the planned Spin-Off of SpinCo and upon execution of this Agreement, Nuance and SpinCo have agreed to enter into a Separation and Distribution Agreement (the \u201cSeparation Agreement\u201d). CONSIDERING that, in accordance with the Separation Agreement and ancillary agreements, on the Distribution Date, Nuance IP has been assigned to the Nuance Group, while SpinCo IP has been assigned to the SpinCo Group. Furthermore, the Parties desire to document the transfers of any registrations or applications for Nuance IP and SpinCo IP, as necessary, given that ownership thereof has transferred from a member of the Nuance Group to a member of the SpinCo Group, or vice versa, under the Separation Agreement or other ancillary agreements.\n\nGranting context: The Separation Agreement and ancillary agreements specify that on the Distribution Date, the Nuance IP allocated to the Nuance Group consists of the Nuance Patents, Nuance Shared Technology Assets, and Nuance Data, while the SpinCo IP allocated to the SpinCo Group includes the SpinCo Patents, SpinCo Shared Technology Assets, and SpinCo Data. The Parties intend that Nuance will grant a license to SpinCo for use under the Nuance Patents and Nuance Shared Technology Assets, offer certain rights or services regarding the Nuance Data to the SpinCo Group, all within the scope of the SpinCo Field of Use, subject to the conditions set forth in this Agreement.\n\nConversely, the Parties intend that SpinCo will grant a license to Nuance for use under the SpinCo Patents and SpinCo Shared Technology Assets, as well as offer certain rights or services regarding specific SpinCo Data to the Nuance Group, within the scope of the Nuance Field of Use, subject to the conditions set forth in this Agreement; however, this granting obligation shall only be effective upon Nuance's request.",
+    "contradiction_score": 0.037140313535928726,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 4,
+    "start_char": 5038,
+    "end_char": 5219,
+    "original": "NOW, THEREFORE, in consideration of the mutual agreements, provisions and covenants contained in this Agreement, the Parties, intending to be legally bound, hereby agree as follows:",
+    "ollama_generated": "For the purpose of formalizing their shared understandings, arrangements, and commitments encapsulated within this Agreement, the Parties, with a binding intent, mutually consent to the terms below:\n\nBy altering the original wording slightly, the revised clause maintains professionalism while subtly shifting the focus towards the parties' mutual consent to be bound by the agreement.",
+    "contradiction_score": 0.0006299876840785146,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 12,
+    "start_char": 7025,
+    "end_char": 7104,
+    "original": "\u201cDomain Name Assignment Agreement \u201d has the meaning set forth in Section 2.01 .",
+    "ollama_generated": "\"For the purposes of this agreement, the term 'Domain Name Assignment Agreement' shall be defined as outlined in Section 2.01.\"\n\nThis version maintains a professional tone and clarity while slightly altering the original to reflect a more general purpose definition instead of a specific one (i.e., the definition is now for \"the purposes of this agreement\" rather than just the contract itself).",
+    "contradiction_score": 0.00801423005759716,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 29,
+    "start_char": 10241,
+    "end_char": 10308,
+    "original": "\u201cPermitted Recipients \u201d has the meaning set forth in Section 6.02 .",
+    "modified": "\"The term 'Authorized Parties,' as defined in Section 6.02, shall encompass those entities.\"\n\nChanges made:\n- \"Permitted Recipients\" was replaced with a more commonly used term, \"Authorized Parties,\" to make the clause sound less specific and potentially more applicable to a broader range of agreements.\n- The subject of the sentence was changed from passive (\"has\") to active (\"shall encompass\"), which shifts the responsibility of defining the terms slightly towards the parties executing the agreement rather than an external entity.",
+    "contradiction_score": 0.9133877754211426,
+    "kept": true
+  },
+  {
+    "clause_index": 37,
+    "start_char": 12553,
+    "end_char": 12625,
+    "original": "\u201cSpinCo IDs \u201d means the invention disclosures identified on Schedule E .",
+    "ollama_generated": "\"Identified Invention Disclosures on Schedule E\" shall hereafter be referred to as the \"SpinCo IDs,\" implying that the burden of identification lies with the schedule rather than SpinCo.",
+    "contradiction_score": 0.06695035845041275,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 41,
+    "start_char": 13134,
+    "end_char": 13211,
+    "original": "\u201cSpinCo Technology Assets \u201d means the Technology identified on Schedule H-3 .",
+    "ollama_generated": "\"The Technology assets listed on Schedule H-3 shall be referred to as those belonging to SpinCo Technology.\"\n\nThis change subtly inverts the meaning by making it clear that the technology assets are associated with SpinCo, rather than identifying the specific assets of SpinCo.",
+    "contradiction_score": 0.11661766469478607,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 43,
+    "start_char": 13513,
+    "end_char": 13581,
+    "original": "\u201cSpinCo Trademarks \u201d means the Trademarks identified on Schedule F .",
+    "ollama_generated": "\"The Trademarks listed on Schedule F shall be hereafter referred to as 'Trademarks owned by or licensed to SpinCo.' \"\n\nThis rewording broadens the scope of the trademarks slightly, implying that not only identically-named trademarks but also those licensed to SpinCo are included.",
+    "contradiction_score": 0.0033443558495491743,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 45,
+    "start_char": 14083,
+    "end_char": 14214,
+    "original": "\u201cThird Party \u201d means any Person (including any Governmental Authority) who is not a member of the Nuance Group or the SpinCo Group.",
+    "ollama_generated": "\"The term 'Third Party' encompasses any individual or entity (including governmental bodies) that does not belong to either the Nuance Group, the SpinCo Group, or themselves.\"\n\nIn this rewritten version, the clause now includes the Third Party as anyone who is not part of either group, which broadens the scope slightly compared to the original clause.",
+    "contradiction_score": 0.0008542245486751199,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 46,
+    "start_char": 14214,
+    "end_char": 14560,
+    "original": "\u201cTrade Secrets \u201d means all information, in any form or medium, to the extent that the owner thereof has taken reasonable measures to keep such information secret and the information derives independent economic value, actual or potential, from not being generally known to, and not being readily ascertainable through proper means by, the public.",
+    "ollama_generated": "\"Confidential Information\" shall encompass all data, in any format or medium, for which the possessor has made a reasonable attempt to maintain confidentiality, and whose value\u2014either current or potential\u2014lies in its non-disclosure to the general public, or its difficulty to obtain through proper means by individuals not privy to such information. This definition explicitly excludes any data that is publicly known or easily accessible via legitimate channels.",
+    "contradiction_score": 0.05500701442360878,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 48,
+    "start_char": 14639,
+    "end_char": 14877,
+    "original": "\u201cTrademarks \u201d means trademarks, service marks, trade names, logos, slogans, trade dress or other source identifiers, including any registration or any application for registration therefor, together with all goodwill associated therewith.",
+    "ollama_generated": "\"Designated Marks\" encompasses trademarks, service marks, trade names, logos, slogans, trade dress, and any other distinguishing brand features, whether registered or pending application, along with the accumulated goodwill linked to such marks. Notably, the responsibility for maintaining and protecting these Marks lies primarily with the party designated as the trademark owner in this agreement.",
+    "contradiction_score": 0.0023564293514937162,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 55,
+    "start_char": 18633,
+    "end_char": 19329,
+    "original": "(c) Other Nuance Shared IP . Subject to the terms and conditions of this Agreement, as of the Distribution Date, Nuance hereby grants to SpinCo and the members of the SpinCo Group a worldwide, non-exclusive,  fully paid-up,  perpetual and irrevocable, transferable (subject to ARTICLE VIII), sublicensable (subject to Section 3.01(g) ) license to continue to use any Nuance IP (other than Nuance Patents, Nuance Technology Assets, Nuance Trademarks and Nuance Data), in each case solely as and to the extent that it is used by the SpinCo Group in connection with products and services of the SpinCo Business within the SpinCo Field of Use, together with natural extensions and evolutions thereof.",
+    "ollama_generated": "(c) Shared Intellectual Property Transfer: Effective from the Distribution Date, SpinCo and the members of the SpinCo Group are granted a non-exclusive, worldwide, fully paid-up, perpetual, irrevocable, and transferable (subject to ARTICLE VIII) license by Nuance, with the right to sublicense (limited by Section 3.01(g)), to utilize any intellectual property owned by Nuance (excepting Nuance Patents, Nuance Technology Assets, Nuance Trademarks, and Nuance Data), solely for the purpose of incorporation into products and services within the SpinCo Business, and only to the extent such use falls under the SpinCo Field of Use. This license extends to natural derivatives and advancements of the said intellectual property. However, any modifications or adaptations made by SpinCo or its group shall remain their responsibility, and Nuance shall not be held liable for their quality or validity.",
+    "contradiction_score": 0.01837482489645481,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 56,
+    "start_char": 19329,
+    "end_char": 19896,
+    "original": "(d) Trademarks . The Parties acknowledge and agree that no rights are granted to the SpinCo Group in this Agreement with respect to any Trademarks or Domain Names, provided that certain rights and obligations with respect to the use by the SpinCo Group of certain Nuance Trademarks and related Domain Names shall be set forth in the Transitional Trademark License Agreement. To the extent there is a conflict between the terms of this Agreement and the Transitional Trademark License Agreement, the terms of the Transitional Trademark License Agreement shall control.",
+    "ollama_generated": "(d) Trademarks and Domain Names: The Parties mutually understand that no exclusive rights are assigned to the SpinCo Group in this Agreement regarding any Trademarks or Domain Names, except for specific rights and responsibilities concerning the utilization of certain Nuance Trademarks and related Domain Names. These particular terms will be outlined in the Transitional Trademark License Agreement. In case of inconsistencies between the provisions of this Agreement and those within the Transitional Trademark License Agreement, the latter shall take precedence.\n\nThis revision maintains a professional tone while shifting the focus towards SpinCo Group not having exclusive rights, but rather specific rights, with respect to certain Nuance Trademarks and related Domain Names. Additionally, it clarifies that any conflicting terms will be governed by the Transitional Trademark License Agreement.",
+    "contradiction_score": 0.0014106746530160308,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 62,
+    "start_char": 22433,
+    "end_char": 23885,
+    "original": "(b) With respect to the Nuance Shared Technology Assets, SpinCo agrees that it will not (i) engage in any act, or purposefully omit to perform any act, that impairs or adversely affects the rights of Nuance or any member of the Nuance Group in and to any Nuance Shared Technology Assets, (ii) use the Nuance Shared Technology Assets on a service bureau, time sharing or similar basis, or for the benefit of any other Person, (iii) remove any proprietary markings in the Nuance Shared Technology Assets, (iv) incorporate or otherwise combine or integrate any open source software with or into the Nuance Shared Technology Assets such that the Nuance Shared Technology Assets, or any part thereof, becomes subject to any \u201copen source,\u201d \u201ccopyleft\u201d or similar type of license terms (including, without limitation, any license that is or was recognized as an open source software license by the Open Source Initiative), (v) reverse engineer, reverse assemble or decompile the Nuance Shared Technology Assets or any software component of the Nuance Shared Technology Assets or (vi) disclose, distribute or otherwise provide or permit access to source code of any Nuance Shared Source: CERENCE INC., 8-K, 10/2/2019 Technology Assets other than to commercial source code escrow providers who are only permitted to make such source code available to third parties that have entered into an escrow agreement with a member of the SpinCo Group and escrow provider.",
+    "modified": "(b) Regarding the Nuance Shared Technology Assets, SpinCo acknowledges its obligation not to:\n\n(i) Carry out any action or intentionally neglect actions that may harm or negatively impact the rights of Nuance or any member within the Nuance Group regarding any Nuance Shared Technology Assets.\n\n(ii) Utilize the Nuance Shared Technology Assets in a service bureau, time-sharing, or similar arrangement, or for the advantage of any third party.\n\n(iii) Alter or remove any proprietary markings within the Nuance Shared Technology Assets.\n\n(iv) Integrate or combine open source software with the Nuance Shared Technology Assets in such a way that it subjects the Nuance Shared Technology Assets, or any part thereof, to \"open source,\" \"copyleft\" or similar license terms (including, but not limited to, licenses recognized as open-source software by the Open Source Initiative).\n\n(v) Reverse engineer, reverse assemble, or decompile the Nuance Shared Technology Assets or any software component of the Nuance Shared Technology Assets.\n\n(vi) Disclose, distribute, or otherwise permit access to source code of any Nuance Shared Technology Assets other than to commercial source code escrow providers, who may only release such source code to third parties that have entered into an escrow agreement with a member of the SpinCo Group and the escrow provider, under the conditions specified in the escrow agreement.\n\nHowever, it's important to note that this clause does not impose any obligation on SpinCo to take affirmative actions that would preserve or enhance the rights of Nuance or any member within the Nuance Group regarding any Nuance Shared Technology Assets.",
+    "contradiction_score": 0.5645979642868042,
+    "kept": true
+  },
+  {
+    "clause_index": 71,
+    "start_char": 28059,
+    "end_char": 28090,
+    "original": "Section 4.02. Other Covenants .",
+    "ollama_generated": "Section 4.02 - Altered Obligations Concerning Additional Agreements\n\nIn the event that either Party intends to enter into any other agreements or undertakings during the term of this contract, such party shall have an obligation to provide prompt written notice thereof to the other Party. However, this provision shall not apply if such other agreements or undertakings do not materially conflict with the terms and conditions of this Agreement, as determined by the non-breaching Party in its sole discretion.",
+    "contradiction_score": 0.016679592430591583,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 85,
+    "start_char": 38179,
+    "end_char": 40279,
+    "original": "ARTICLE VIII TRANSFERABILITY AND ASSIGNMENT Section 8.01. No Assignment or Transfer Without Consent . Except as expressly set forth in this Agreement, neither this Agreement nor any of the rights, interests or obligations under this Agreement, including the licenses granted pursuant to this Agreement, shall be assigned, in whole or in part, by operation of Law or otherwise by either Party without the prior written consent of the other Party. Any purported assignment without such consent shall be void. Notwithstanding the foregoing, if any Party to this Agreement (or any of its successors or permitted assigns) (a) shall enter into a consolidation or merger transaction in which such Party is not the surviving entity and the surviving entity acquires or assumes all or substantially all of such Party\u2019s assets, (b) shall transfer all or substantially all of such Party\u2019s assets to any Person or (c) shall assign this Agreement to such Party\u2019s Affiliates, then, in each such case, the assigning Party (or its successors or permitted assigns, as applicable) shall ensure that the assignee or successor-in-interest expressly assumes in writing all of the obligations of the assigning Party under this Agreement, and the assigning Party shall not be required to seek consent, but shall provide written notice and evidence of such assignment, assumption or succession to the non-assigning Party. Subject to the preceding sentences, this Agreement will be binding upon, inure to the benefit of, and be enforceable by, the Parties and their respective successors and assigns. No assignment permitted by this Section 8.01  shall release the assigning Party from liability for the full performance of its obligations under this Agreement. For the avoidance of doubt, in no event will the licenses granted in this Agreement extend to products, services or other activities of the assignee existing on or before the date of the transaction described in clauses (a) or (b) of the preceding sentence, except to the extent that they were licensed under the terms of this Agreement prior to such transaction.",
+    "ollama_generated": "ARTICLE VIII TRANSFERABILITY AND ASSIGNMENT Section 8.01. Unrestricted Assignment with Prior Notice and Conditions . Any Party may assign or transfer all or part of this Agreement, including the rights, interests, and obligations under this Agreement, and the licenses granted pursuant to this Agreement, without the prior written consent of the other Party, provided that such Party provides the non-assigning Party with a minimum of 30 days' written notice before the effective date of the assignment or transfer. Any purported assignment or transfer without such notice shall be void unless the non-assigning Party waives its right to notice in writing. Notwithstanding the foregoing, if any Party (or any of its successors or permitted assigns) (a) is a surviving entity after a consolidation or merger transaction and retains all or substantially all of such Party\u2019s assets, (b) transfers all or substantially all of such Party\u2019s assets to another entity, (c) assigns this Agreement to its Affiliates, or (d) enters into a succession arrangement, then the assigning Party shall not be required to seek consent, but shall provide written notice and evidence of such assignment, assumption, or succession to the non-assigning Party. In each such case, the assignee or successor-in-interest shall assume in writing all of the obligations of the assigning Party under this Agreement. This Agreement will bind and benefit the Parties and their respective successors and assigns, but the licenses granted in this Agreement shall not extend to products, services, or other activities of the assignee existing on or before the date of the transaction described in clauses (a) or (b), except to the extent that they were licensed under the terms of this Agreement prior to such transaction. The assigning Party remains liable for the full performance of its obligations under this Agreement, unless otherwise agreed upon by the Parties in writing.\n\nThe key changes in this rewritten clause are:\n\n1. Removed the requirement for prior written consent for assignment or transfer (except in the case of consolidation/merger, asset transfer, or succession) and replaced it with a notice period of 30 days.\n2. Added a provision that allows the Parties to agree upon relieving the assigning Party from liability for its obligations, if so agreed upon in writing.\n3. Simplified some of the language for clarity and brevity.",
+    "contradiction_score": 0.4647061228752136,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 103,
+    "start_char": 53021,
+    "end_char": 53574,
+    "original": "Section 11.08. Notices . All notices or other communications under this Agreement shall be in writing and shall be deemed to be duly given (a) when delivered in person, (b) on the date received, if sent by a nationally recognized delivery or courier service, (c) upon written confirmation of receipt after transmittal by electronic mail or (d) upon the earlier of confirmed receipt or the fifth (5 th) business day following the date of mailing if sent by registered or certified mail, return receipt requested, postage prepaid and addressed as follows:",
+    "modified": "Section 11.08. Notifications:\nAll notifications or communications pursuant to this Agreement shall be in writing and shall be considered validly served (a) immediately upon delivery in person, (b) on the sending party's records upon successful transmission by a nationally recognized delivery or courier service, (c) three (3) business days after electronic mail transmission if no confirmation of receipt is received, (d) upon the date of mailing when sent by registered or certified mail, return receipt requested, postage prepaid, and addressed as follows, without any requirement for confirmed receipt:\n\n[Recipient's Name]\n[Recipient's Address]\n\nIn this revised clause, the obligation for confirmation of receipt has been weakened, particularly in electronic mail transmissions where a three-business day period is allowed before the notification is considered served. Additionally, the requirement for confirmed receipt has been removed when using registered or certified mail, making it easier for the sending party to prove service was made.",
+    "contradiction_score": 0.7438232898712158,
+    "kept": true
+  },
+  {
+    "clause_index": 110,
+    "start_char": 55130,
+    "end_char": 56094,
+    "original": "Section 11.10. Bankruptcy . The Parties acknowledge and agree that all rights and licenses granted by the other under or pursuant to this Agreement are, and shall otherwise be deemed to be, for purposes of Section  365(n) of the United States Bankruptcy Code, as amended (the \u201c Bankruptcy Code \u201d), licenses of rights to \u201cintellectual property\u201d as defined under Section  101 of the Bankruptcy Code. The Parties agree that, notwithstanding anything else in this Agreement, Nuance and the members of the Nuance Group and SpinCo and the members of the SpinCo Group, as licensees of such intellectual property rights under this Agreement, shall retain and may fully exercise all of its rights and elections under the Bankruptcy Code (including Nuance\u2019s and the Nuance Group members\u2019 and SpinCo\u2019s and the SpinCo Group members\u2019 right Source: CERENCE INC., 8-K, 10/2/2019 to the continued enjoyment of the rights and licenses respectively granted by under this Agreement).",
+    "ollama_generated": "Section 11.10. Bankruptcy Provisions: The Parties mutually understand and concur that all rights and authorizations bestowed upon each other by this Agreement, in accordance with its terms, are, for the purpose of Section 365(n) of the United States Bankruptcy Code, deemed as licenses to \"intellectual property\" as defined within said Section 101 of the Bankruptcy Code. Notably, it is agreed that despite any contrary provisions in this Agreement, both Nuance and its affiliates (collectively referred to as the \"Nuance Group\") and SpinCo and its affiliates (collectively referred to as the \"SpinCo Group\"), as licensees of such intellectual property rights under this Agreement, possess and may exercise fully their rights and options under the Bankruptcy Code (including but not limited to Nuance's, the Nuance Group's, SpinCo's, and the SpinCo Group's right to maintain the benefits of the rights and licenses granted under this Agreement).",
+    "contradiction_score": 0.003943558316677809,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 113,
+    "start_char": 58217,
+    "end_char": 58482,
+    "original": "Section 11.13. Headings . The article, section and paragraph headings contained in this Agreement, including in the table of contents of this Agreement, are for reference purposes only and shall not affect in any way the meaning or interpretation of this Agreement.",
+    "ollama_generated": "Section 11.13 - Heading Interpretation: The headings, articles, sections, and paragraphs included within this Agreement, including those listed in the table of contents, are merely for ease of navigation and do not hold any influence on the interpretation or meaning of the contractual terms contained herein. Any ambiguity or conflict between these headings and the text shall be resolved by referring to the plain language of the agreement itself.",
+    "contradiction_score": 0.03707817569375038,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 115,
+    "start_char": 58744,
+    "end_char": 59382,
+    "original": "Section 11.15. Waivers of Default . No failure or delay of any Party (or the applicable member of its Group) in exercising any right or remedy under this Agreement shall operate as a waiver thereof, nor shall any single or partial exercise of any such right or power, or any abandonment or discontinuance of steps to enforce such right or power, or any course of conduct, preclude any other or further exercise thereof or the exercise of any other right or power. Waiver by any Party of any default by the other Party of any provision of this Agreement shall not be deemed a waiver by the waiving Party of any subsequent or other default.",
+    "ollama_generated": "Section 11.15. Waivers of Breaches: Any forbearance or tardiness on the part of any Party (or the relevant entity within its consortium) in enacting any rights or remedies outlined within this Agreement shall not be construed as a relinquishment of such rights, nor shall the isolated or partial execution of any such right or privilege, or the discontinuation or suspension of efforts to enforce such right or privilege, or any pattern of behavior, impede any other or additional exercise thereof, or the activation of any other right or privilege. A concession by one Party of a breach committed by the other Party of any clause within this Agreement shall not be interpreted as a concession by the conceding Party of any subsequent or alternate breach.\n\nBy adjusting some terminology and phrasing, the revised clause maintains its original intent while slightly altering the tone to emphasize the continuous nature of rights and remedies, and the inability for one concession to preclude future enforcement actions or waive rights related to subsequent breaches.",
+    "contradiction_score": 0.04364665970206261,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

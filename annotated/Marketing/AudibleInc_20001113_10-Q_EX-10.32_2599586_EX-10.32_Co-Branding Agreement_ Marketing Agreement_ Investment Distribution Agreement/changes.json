@@ -1,0 +1,310 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 438,
+    "end_char": 592,
+    "original": "Section 1.  Definitions Whenever used in this Agreement with initial letters capitalized, the following terms shall have the following specified meanings:",
+    "ollama_generated": "Section 1.2. Interpretation for Clarity\nFor the purpose of this Agreement, any terms appearing herein with their initial letters capitalized shall be defined as follows:\n\nThis revised version maintains the original intent but changes the tone slightly by giving the section a more explanatory title and using more concise language in the definitions. This adjustment may help to make the clause more approachable for readers, while still preserving its formal and professional nature.",
+    "contradiction_score": 0.01612989231944084,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 3,
+    "start_char": 1170,
+    "end_char": 1358,
+    "original": "\"ACSI Derivative Work\" means any Derivative Work (whether created by ACSI, Company, or the Parties jointly) of any ACSI Existing Intellectual Property or ACSI Future Intellectual Property.",
+    "ollama_generated": "\"Intellectual Property Based on ACSI Assets\" refers to any derivative work (individually or collectively produced by ACSI, Company, or the parties) derived from pre-existing ACSI Intellectual Property or future intellectual property rights acquired by ACSI.\n\nIn this revised clause, the focus has been shifted slightly away from the derivatives being creations of ACSI and more towards them being based on ACSI's existing or future intellectual properties. This subtle change implies a potential reduction in the responsibility or obligation of ACSI regarding the creation and ownership of derivative works.",
+    "contradiction_score": 0.023740902543067932,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 4,
+    "start_char": 1358,
+    "end_char": 1812,
+    "original": "\"ACSI Existing Intellectual Property\" means, collectively, all of the following existing as of the Effective Date: (a) the Trademarks of ACSI and its Affiliates\u037e and (b) the ACSI Site, including, without limitation, any and all content, data, URLs, domain names, technology, software, code, user interfaces, \"look and feel\", ACSI Site Functionality, Trademarks and other items posted thereon or used in connection or associated with any of the foregoing.",
+    "ollama_generated": "\"ACSI Pre-existing Intellectual Assets\" encompass, collectively, all of the following elements that are in possession as of the Effective Date: (a) the Trademarks belonging to ACSI and its Affiliates; and (b) the ACSI Site, comprising but not limited to, any and all content, data, URLs, domain names, technology, software, code, user interfaces, visual aesthetics, functionalities, trademarks, and other items that are displayed on, used in conjunction with, or linked to any of the aforementioned elements. This definition places an emphasis on the assets being pre-existing rather than solely existing at the effective date.",
+    "contradiction_score": 0.15989480912685394,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 12,
+    "start_char": 5045,
+    "end_char": 5737,
+    "original": "\"Affiliate\" means, with respect to any person or entity (including either Party), any other person or entity that directly or indirectly controls, is controlled by or is under common control with that person or entity, or which that person or entity beneficially owns at least fifty percent (50%) of the equity interests therein (provided, however, that with respect to the Parties, no individual or entity as to which the ultimate parent entity of a Party does not directly or indirectly control the operations or management thereof (e.g., in the case of ACSI as of the date of this Agreement, Gear.com, Inc.) shall be deemed to be an Affiliate of such Party for purposes of this Agreement).",
+    "ollama_generated": "\"For the purposes of this Agreement, 'Affiliate' denotes any person or entity (including either Party) that is controlled by, under common control with, or directly or indirectly controls another person or entity, or owns at least fifty percent (50%) of the equity interests in such entity, except for any individual or entity where the ultimate parent entity of a Party does not manage or operate the said entity (for instance, as of the date of this Agreement, Gear.com, Inc., in the case of ACSI). In such cases, the mentioned individual or entity will not be considered an Affiliate of the respective Party under the terms of this Agreement.\"",
+    "contradiction_score": 0.09163135290145874,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 17,
+    "start_char": 6807,
+    "end_char": 7029,
+    "original": "\"Closing\" means the consummation of the purchase of common stock of Company pursuant to the Securities Purchase Agreement between ACSI and Company dated on or about the Effective Date (the \"Securities Purchase Agreement\").",
+    "modified": "\"Consummation\" refers to the point at which the sale of common stock from the Company to ACSI, as outlined in the Securities Purchase Agreement signed around the Effective Date (hereinafter referred to as the \"Agreement\"), is finalized and completed.\n\nBy rewording the clause, we have subtly shifted the responsibility for completing the transaction from the buyer (ACSI) to the seller (Company). Additionally, I've replaced \"Closing\" with \"Consummation,\" which might be a more common term in financial contexts.",
+    "contradiction_score": 0.992262601852417,
+    "kept": true
+  },
+  {
+    "clause_index": 18,
+    "start_char": 7029,
+    "end_char": 7226,
+    "original": "\"Company Derivative Work\" means any Derivative Work (whether created by ACSI, Company, or the Parties jointly) of any Company Existing Intellectual Property or Company Future Intellectual Property.",
+    "ollama_generated": "\"Intellectual Property Belonging to the Company\" refers to any derivative works (created individually by ACSI, the Company, or collectively by all parties) that are based on existing or future intellectual property rights owned by the Company. The responsibility for such derivative works shall be attributed primarily to the creator(s), with the understanding that the Company retains ultimate ownership rights.",
+    "contradiction_score": 0.1132802963256836,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 23,
+    "start_char": 10118,
+    "end_char": 10216,
+    "original": "\"Derivative Work\" means any adaptation, modification, enhancement, improvement or derivative work.",
+    "ollama_generated": "\"Non-Derivative Work\" shall denote any original creation not resulting from adaptations, modifications, enhancements, or improvements upon an existing work. The onus of ensuring the originality of a work falls upon the party creating it.",
+    "contradiction_score": 0.18320231139659882,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 24,
+    "start_char": 10216,
+    "end_char": 10342,
+    "original": "\"Disclosing Party\" means a Party that discloses Confidential Information to the other Party in connection with this Agreement.",
+    "ollama_generated": "\"Recipient Party\" shall be deemed as the Party receiving Confidential Information from another Party under the terms of this Agreement. In this context, the Recipient Party is obligated to safeguard such information accordingly.",
+    "contradiction_score": 0.008275195024907589,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 29,
+    "start_char": 12301,
+    "end_char": 12547,
+    "original": "Site Functionality or technology, software, code, user interfaces or \"look and feel\" related thereto or incorporated therein, such items shall be deemed ACSI Derivative Works in their entirety and not Joint Works or Company Intellectual Property.",
+    "ollama_generated": "The site's functionality, technology, software, coding, user interfaces, or aesthetic elements, collectively or individually, shall be considered as works exclusively belonging to ACSI, distinct from Joint Works or the property of the Company. (Here, the changed meaning is a shift in ownership rights, with ACSI claiming exclusive ownership rather than shared or partial ownership.)",
+    "contradiction_score": 0.0025704470463097095,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 33,
+    "start_char": 13183,
+    "end_char": 13363,
+    "original": "\"Law\" means any law, ordinance, rule, regulation, order, license, permit and other requirement, now or hereafter in effect, of any governmental authority of competent jurisdiction.",
+    "ollama_generated": "\"Regulatory Requirements\" encompass any legislative act, municipal bylaw, administrative rule, regulatory standard, executive order, license, permit, or any other obligation, current or future, imposed by any legally authorized entity with jurisdictional power.",
+    "contradiction_score": 0.3164812922477722,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 35,
+    "start_char": 13725,
+    "end_char": 14027,
+    "original": "\"Proration Percentage\" means, as of any date within the Refund Period, the following quantity, expressed as a percentage: (a) one (1)\u037e minus (b) the sum of: (i) the number of days of the Refund Period which have elapsed prior to such date\u037e divided by (ii) the total number of days in the Refund Period.",
+    "ollama_generated": "\"Refund Proportion\" denotes, on any given day within the Refund Duration, the following ratio, expressed as a percentage: (a) one hundred percent (100%); less (b) the quotient obtained by dividing (i) the total number of days in the Refund Duration minus (ii) the number of days remaining in the Refund Duration after such date. In this calculation, the first day of the Refund Duration is considered as day one (1).\n\nIn this revised version, the clause now calculates the proportion of the refund owed based on the remaining days within the Refund Duration rather than the elapsed days. This slight rewording shifts the responsibility to the party providing the refund, as they would calculate the percentage based on the remaining timeframe instead of the past days.",
+    "contradiction_score": 0.13991524279117584,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 37,
+    "start_char": 14371,
+    "end_char": 14718,
+    "original": "\"Referral Information\" means any information disclosing that a specific end-user traveled from the ACSI Site to the Mirror Company Site or purchased any products through the Spoken-Word Audio Sub-Section (however obtained), or other personally-identifying information regarding users of the ACSI Site (including the Spoken-Word Audio Sub-Section).",
+    "ollama_generated": "\"Referral Data\" encompasses any details that reveal a particular user navigated from the Mirror Company Site to the ACSI Site, made a purchase through the Spoken-Word Audio Sub-Section (regardless of acquisition method), or disclosed personally identifiable information within the ACSI Site (including the Spoken-Word Audio Sub-Section). This definition applies reciprocally, implying that the term also includes data revealing a user's journey from the ACSI Site to the Mirror Company Site.",
+    "contradiction_score": 0.47376418113708496,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 38,
+    "start_char": 14718,
+    "end_char": 14853,
+    "original": "--------------- ***Confidential Information has been omitted and has been filed separately with the Securities and Exchange Commission.",
+    "ollama_generated": "Clause:\n-------- \"The disclosed Confidential Information, which is available only through a separate filing with the Securities and Exchange Commission, shall remain undisclosed.\"",
+    "contradiction_score": 0.2636324167251587,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 40,
+    "start_char": 15114,
+    "end_char": 15302,
+    "original": "\"Related Products\" means: [***] \"Site\" means either the ACSI Site, on the one hand, or the Mirror Company Site and Company Site collectively, on the other hand, as required by the context.",
+    "ollama_generated": "\"Designated Products\" denotes: [...\"] Site,\" however, refers exclusively to the Mirror Company Site and the Company Site combined, unless otherwise specified within the context, while the ACSI Site stands independently.",
+    "contradiction_score": 0.34855884313583374,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 47,
+    "start_char": 17288,
+    "end_char": 17777,
+    "original": "Section 2.  Spoken-Word Audio Sub-Section  and Mirror Company Site 2.1  Spoken-Word Audio Sub-Section .  Pursuant to the implementation procedures set forth in Section 4, ACSI will establish and, upon and following the Launch Date , maintain (or cause one of its Affiliates to maintain) on the ACSI Site  during the Term Source: AUDIBLE INC, 10-Q, 11/13/2000 -------- *** Confidential Information  has been omitted and has been filed separately with the Securities and Exchange Commission.",
+    "ollama_generated": "Section 2: Spoken-Word Audio Sub-Section and Mirror Company Site\n\n2.1 Spoken-Word Audio Sub-Section\n\nIn accordance with the outlined implementation procedures detailed in Section 4, the Responsible Party (initially ACSI) shall be obligated to set up and subsequently manage (or arrange for an Affiliate to manage) the designated Spoken-Word Audio section on the ACSI Site commencing from the Launch Date, throughout the Term. This responsibility may be transferred or delegated by ACSI during the course of the Term, provided that the new party assumes all obligations and responsibilities associated with the maintenance of the Spoken-Word Audio section.\n[AUDIBLE INC, 10-Q, 11/13/2000 -------- *** Confidential Information has been omitted and filed separately with the Securities and Exchange Commission.]",
+    "contradiction_score": 0.060535311698913574,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 50,
+    "start_char": 20704,
+    "end_char": 21692,
+    "original": "2.4  Technical Standards\u037e Customer Service.  Company will at all times comply with the technical and customer service requirements and Site standards (including, without limitation, user privacy policies and customer guarantees) to be agreed upon by the Parties within forty-five (45) days after the Effective Date and attached hereto as Exhibit B.  Any dispute arising related to the creation of such requirements and standards shall be subject to the escalation procedure specified in Section 2.8   [Escalation of Certain Disputes]  below.  Without limiting the generality of the foregoing Company will: (a) at all times conduct its dealings with users of the Spoken-Word Audio Sub-Section  in a professional and courteous manner which reflects favorably upon ACSI and its Affiliates and the ACSI Site \u037e and (b) in any event ensure that the customer --------------- ***Confidential Information  has been omitted and has been filed separately with the Securities and Exchange Commission.",
+    "ollama_generated": "2.4 Technical Standards and Customer Service Obligations: The Parties shall negotiate and agree upon the technical requirements, customer service standards (including but not limited to user privacy policies and customer guarantees), and Site standards within forty-five (45) days following the Effective Date. These agreed-upon standards will be binding on both parties, with any disputes arising from their creation subject to the escalation procedure outlined in Section 2.8 [Escalation of Certain Disputes] below. The Company shall: (a) maintain a professional and courteous demeanor in all interactions with users of the Spoken-Word Audio Sub-Section, while also ensuring that such conduct may potentially enhance ACSI's and its Affiliates' reputation; (b) ensure that any confidential information is handled appropriately but shall not be responsible for filing such information separately with the Securities and Exchange Commission. The responsibility for filing confidential information lies solely with the Party possessing it.",
+    "contradiction_score": 0.03548051789402962,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 56,
+    "start_char": 26512,
+    "end_char": 27256,
+    "original": "Within three (3) days following the referral of the matter to the Parties' Presidents (or equivalent officers), the Presidents will meet to resolve the dispute at a mutually convenient time and place.  Additional representatives of the Parties (but not their relationship managers or divisional executives) may be present at the meeting.  If the Presidents are unable to resolve the dispute within two (2) days following their initial meeting (or such later date as they may agree), the Parties will be free to exercise such rights and remedies as may be available to them at law or in equity. Any resolution of any dispute reached under this Section 2.8   [Escalation of Certain Disputes]  will be reduced to writing and signed by the Parties.",
+    "ollama_generated": "Clause:\nUpon receipt of a referral for a matter, the Parties' Presidents (or equivalent officers), shall have up to three (3) business days to propose a mutually convenient time and location for their meeting, without any obligation to meet immediately. The additional representatives from the Parties, excluding relationship managers or divisional executives, are encouraged but not required to attend this meeting. If, after two (2) days following their initial meeting (or such extended period as agreed upon by both parties), the Presidents have failed to reach a resolution, each Party shall be entitled to pursue any legal or equitable remedies available to them. Any resolution of disputes under Section 2.8 [Escalation of Certain Disputes] will only be binding once it has been put in writing and duly signed by the Parties.\n\nThis rewritten clause shifts some of the time responsibility from the Presidents to the party making the referral, weakens the obligation for the Presidents to meet immediately, and provides an option for additional representatives to attend the meeting without being mandatory. Additionally, it emphasizes that each Party has the right to pursue remedies available at law or in equity if a resolution is not reached within the agreed-upon timeframe. Lastly, it clarifies that any resolution must be put in writing and signed by both parties for it to be binding.",
+    "contradiction_score": 0.03579214587807655,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 57,
+    "start_char": 27256,
+    "end_char": 27433,
+    "original": "During any dispute resolution procedure conducted under this Section, the Parties will diligently perform all obligations hereunder that are not directly related to the dispute.",
+    "ollama_generated": "During any dispute resolution process governed by this Section, it is understood that only those obligations pertaining to matters unrelated to the ongoing dispute shall be fully complied with by both Parties, while other obligations may be temporarily suspended until a resolution has been reached.",
+    "contradiction_score": 0.0018530068919062614,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 58,
+    "start_char": 27433,
+    "end_char": 28939,
+    "original": "Section 3.  Promotional Activities 3.1    Press Releases. The Parties will issue a joint press release promptly upon concluding Advertising. this Agreement, which press release shall be subject to the Party's mutual approval, which shall in any event state that Company is the exclusive provider on the ACSI Site  of premium spoken-word audio product for download or streaming over the world wide web. The Parties shall have the right to issue mutually agreeable additional press releases describing the nature of their relationship at such times as the Parties shall mutually agree. Neither Party will issue any other press releases, make any other disclosures regarding this Agreement or its terms or the relationship between the Parties, or use the other Party's Trademarks (except as permitted by Section 6), without the other Party's prior written consent, except that, each Party may, without the other Party's prior consent: (y) distribute or issue public relations materials or press releases that contain a description of the relationship between the Parties, provided that such description has been approved in advance by such other Party (which approval shall not be unreasonably withheld or delayed)\u037e and (z) speak in public regarding disclosures made pursuant to the first sentence of this Section 3.1   [Press Releases] . Parties will be able to include a description of this strategic partnership in the \"company descriptor\" section of standard releases, subject to initial mutual approvals.",
+    "ollama_generated": "Section 3. Public Disclosure and Announcements\n\n3.1 Press Releases and Joint Statements: Upon conclusion of the Advertising, both Parties will collaborate on issuing a joint press release, subject to each Party's individual approval, which shall explicitly state that Company is the sole provider of premium spoken-word audio products for download or streaming on the ACSI Site, worldwide. The Parties retain the right to publish additional mutually agreed press releases detailing aspects of their partnership at predetermined times.\n\nEach Party reserves the right to disclose information about this Agreement, its terms, or the relationship between the Parties without the other Party's prior written consent, provided that such disclosures are in line with Section 6 regarding trademark usage. However, both Parties may disseminate public relations materials or press releases describing their partnership, following approval by the other Party (withheld or delayed approval is permissible only under reasonable circumstances).\n\nAdditionally, each Party is authorized to discuss disclosures made in accordance with the initial sentence of this Section 3.1 [Press Releases and Joint Statements] during public forums. Parties may include a description of this strategic partnership in the \"company descriptor\" section of standard releases, subject to initial mutual approvals, but are not obligated to do so unless specifically agreed upon by both parties.",
+    "contradiction_score": 0.03339744731783867,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 60,
+    "start_char": 29311,
+    "end_char": 30228,
+    "original": "--------------------------------------------------------------------------------------------- Year                           Email                      Product Shipment -----------------------------    --------------------------    ------------------------------ --------------------------------------------------------------------------------------------- 1                            [***]                            [***] --------------------------------------------------------------------------------------------- 2                            [***]                            [***] --------------------------------------------------------------------------------------------- 3                            [***]                            [***] --------------------------------------------------------------------------------------------- The Parties shall mutually agree on the nature of such advertising\u037e [***].",
+    "ollama_generated": "Clause:\n--------------------------------------------------------------------------------------------- Year               Email               Product Shipment ------------------------------    --------------------------    ------------------------------ --------------------------------------------------------------------------------------------- 1                            [***]                            [***] --------------------------------------------------------------------------------------------- 2                            [***]                            [***] --------------------------------------------------------------------------------------------- 3                            [***]                            [***] ---------------------------------------------------------------------------------------------\n\nUnless explicitly stated otherwise by the Parties, the nature of advertising shall be determined solely by the Advertiser. The Receiving Party shall have no obligation to review or approve any advertising material prior to its dissemination.\n\nIn this revised clause, the responsibility for determining the nature of advertising has been shifted from both parties to the \"Advertiser\" only, thus weakening the obligation on the \"Receiving Party\". Additionally, the Receiving Party is no longer required to review or approve any advertising material before its dissemination.",
+    "contradiction_score": 0.2852329909801483,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 66,
+    "start_char": 33982,
+    "end_char": 34725,
+    "original": "4.3  Account Managers.  Each Party will assign an account manager (which manager shall be subject to change from time to time by the assigning Party) to oversee the performance of such Party's obligations under this Agreement and to facilitate coordination of the Parties' performance of their respective obligations (including, without limitation, the establishment of the Spoken-Word Audio Sub-Section, the creation of the Co-Branded Pages, the integration of the ACSI Site Functionality  with the Mirror Company Site , and the advertising activities contemplated in Section 3).  The account managers will meet from time to time during the Term to review the implementation of this Agreement and to explore methods for improving performance.",
+    "ollama_generated": "4.3 Designated Liaisons. Each Party retains the discretion, at any point during the term of this Agreement, to appoint a designated liaison who will be solely responsible for ensuring compliance with their respective obligations under this Agreement. The appointed liaisons will collaborate to streamline operations and facilitate mutual fulfillment (including, but not limited to, the formation of the Spoken-Word Audio Sub-Section, the development of Co-Branded Pages, the integration of ACSI Site Functionality with the Mirror Company Site, and the execution of advertising strategies as outlined in Section 3). The liaisons will convene periodically throughout the term to discuss progress, address any issues arising from the implementation of this Agreement, and identify opportunities for enhancement. Any changes to the designated liaison on either side shall be communicated promptly to the other Party.",
+    "contradiction_score": 0.36280062794685364,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 68,
+    "start_char": 35112,
+    "end_char": 35248,
+    "original": "--------------- ***Confidential Information  has been omitted and has been filed separately with the Securities and Exchange Commission.",
+    "ollama_generated": "Clause:\n-------------- It is hereby acknowledged that Confidential Information, which has been lodged separately with the Securities and Exchange Commission for secure storage, shall remain undisclosed unless explicitly authorized by mutual agreement or as required by law.",
+    "contradiction_score": 0.09619263559579849,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 76,
+    "start_char": 38115,
+    "end_char": 38704,
+    "original": "5.2.2  On the first day of Year 3, Company will pay ACSI via wire transfer the sum of [***], representing the Annual Fee  payable with respect to Year 3\u037e provided, however, that if ACSI so elects by written notice delivered to Company at least ten (10) days prior to the end of Year 2, Company shall instead issue at the beginning of Year 3 to ACSI  (or such of its Affiliates as it may designate) shares of common stock of Company (or any publicly-traded Affiliate thereof) with a then-current fair market value equal to [***] as of the date of such written notice (the \" Year 3 Shares\").",
+    "modified": "5.2.2 The obligation for Company to pay ACSI the Annual Fee for Year 3, in the amount of [***], through wire transfer on the first day of Year 3, will be contingent upon a condition; that is, if ACSI fails to exercise its option by delivering a written notice to Company at least ten (10) days prior to the end of Year 2, then Company will not issue shares of common stock to ACSI (or any designated Affiliate) in lieu of payment. The value of the Year 3 Shares would correspond to [***] as of the date of such written notice, should ACSI choose this option.",
+    "contradiction_score": 0.8783544301986694,
+    "kept": true
+  },
+  {
+    "clause_index": 79,
+    "start_char": 39490,
+    "end_char": 40275,
+    "original": "5.4  Royalties.  In consideration for the intangible rights granted hereunder, for each Year in which the Spoken-Word Audio Sub-Section  (including the Mirror Company Site ) generates revenue of at [***] (the \"Revenue Threshold\"), Company will pay ACSI a royalty equal to [***] of all revenues generated from the Spoken-Word Audio Sub-Section  (including, for the avoidance of doubt, any revenue received by Company from any Company customer who first links to the Mirror Company Site  from the Spoken-Word Audio Sub-Section  and who later accesses the Company Site  directly) in excess of Revenue Threshold (the \"Royalties\") for each Year of the Term.  Company will pay ACSI any Royalties payable pursuant to this Section 5.4   [Royalties]  on an annual basis, in arrears, as follows:",
+    "ollama_generated": "Clause 5.4 \u2013 Royalties\n\nIn exchange for the intangible rights conferred herein, if during any Year, the Spoken-Word Audio Sub-Section (including the Mirror Company Site) reaches a minimum revenue threshold of [***] (the \"Threshold\"), ACSI is entitled to receive a royalty equal to [***] of all revenues generated from the Spoken-Word Audio Sub-Section (comprehending, for clarity, any revenue acquired by the Company directly from any customer of the Company who initially links to the Mirror Company Site via the Spoken-Word Audio Sub-Section and subsequently accesses the Company Site independently) in excess of Threshold (the \"Royalties\") for each Year throughout the Term. ACSI will be responsible for remitting any Royalties owed under this Section 5.4 \u2013 Royalties on an annual basis, in advance, as follows:\n\nACSI will pay the Company any applicable Royalties due pursuant to this Section 5.4 \u2013 Royalties annually, in advance, rather than in arrears.",
+    "contradiction_score": 0.40970659255981445,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 93,
+    "start_char": 47586,
+    "end_char": 48060,
+    "original": "6.4  Non-Disparagement.  Neither Company nor ACSI will use the other Party's Trademarks in a manner that disparages the other Party or its products or services, and/or portrays the other Party or its products or services in a false, competitively adverse or poor light.  Each of Company and ACSI will comply with the other Party's requests as to the use of the other Party's Trademarks and will avoid knowingly taking any action that diminishes the value of such Trademarks.",
+    "ollama_generated": "6.4. Favorable Representation Obligation: Each Party, being Company or ACSI, consents to employing the other Party's trademarks in a manner that enhances the other Party's reputation or its products or services, and/or presents the other Party or its products or services in a truthful, beneficial, or favorable light. Both parties agree to comply with each other's guidelines regarding the use of trademarks and will purposefully refrain from actions that may bolster the value of such trademarks.\n\nThis revised clause now emphasizes a positive representation of the other party rather than preventing disparagement, thereby subtly shifting the responsibility towards promoting one another positively.",
+    "contradiction_score": 0.13362717628479004,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 101,
+    "start_char": 54895,
+    "end_char": 55128,
+    "original": "or content from its Web Site  at its sole discretion, pending receipt of non- infringing replacement materials or content or satisfactory resolution of such claim, and any such removal shall not constitute a breach of this Agreement.",
+    "ollama_generated": "The Company reserves the right, at its own discretion, to remove or alter content from its website if it believes there is an infringement of intellectual property rights. This action will only be taken upon receipt of non-infringing replacement materials, resolution of the claim to the satisfaction of the Company, or following a valid court order. In such cases, the removal or alteration shall not be considered a breach of this Agreement on the part of the Company.",
+    "contradiction_score": 0.0024262010119855404,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 103,
+    "start_char": 55792,
+    "end_char": 56035,
+    "original": "9.1    ACSI 9.1.1 Exclusive Spoken-Word Audio Products . During the Term, [***], ACSI will not offer or sell through the ACSI Site , or authorize any third party to sell through the ACSI Site , any Exclusive Spoken-Word Audio Products \u037e [***].",
+    "ollama_generated": "9.1    ACSI Obligations Regarding Exclusive Spoken-Word Audio Products. For the duration of the Term, ACSI shall refrain from, and hereby undertakes not to, offer or sell any Exclusive Spoken-Word Audio Products directly on the ACSI Site, nor will ACSI authorize any third party to sell such products through the ACSI Site. [***] (However, ACSI reserves the right to distribute these products via other channels, provided they are not sold through the ACSI Site during the Term.)",
+    "contradiction_score": 0.011935964226722717,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 107,
+    "start_char": 58789,
+    "end_char": 60174,
+    "original": "10.2    Termination for Breach.  Without limiting any other rights or remedies (including, without limitation, any right to seek damages and other monetary relief and ACSI's rights under Section 10.3   [ACSI Termination]  or Company's rights under Section 10.4   [Company Termination] ) that either Party may have in law or otherwise, either Party may terminate this Agreement if the other Party materially breaches its obligations hereunder, provided that, except as provided in Section 10.3   [ACSI Termination]  and 10.4  [Company Termination] , (a) the non-breaching Party sends written notice to the breaching Party describing the breach, and (b) the breaching Party does not cure the breach within thirty (30) days following its receipt of such notice\u037e provided further, however, that without limitation of ACSI's rights under Section 10.3   [ACSI Termination]  if the conditions set forth in that Section are satisfied, in the event of any failure by Company to comply with the customer service requirements specified in Section 2.4   [Technical Standards\u037e Customer Service]  and Exhibit B, ACSI shall only be entitled to terminate this Agreement by reason of such failure if it is material, ACSI has notified Company of such non-compliance and Company has not come into compliance with such requirements within sixty (60) days from the date of the non-breaching Party's notice.",
+    "ollama_generated": "10.2 Termination for Default:\n\nRegardless of any other rights or remedies available to either Party, whether at law or otherwise, either Party retains the right to terminate this Agreement should the other Party fail in its contractual obligations. Such termination becomes effective if:\n\n(a) The non-defaulting Party issues a written notification detailing the default;\n(b) A period of thirty (30) days elapses following the breaching Party's receipt of said notice, and during this time the breaching Party has not rectified the default;\n(c) However, if conditions specified in Section 10.3 [ACSI Termination] are met, the provisions of that section apply differently: in case of Company's failure to adhere to the customer service standards outlined in Section 2.4 [Technical Standards; Customer Service] and Exhibit B, ACSI may only exercise its termination right if such failure is material and significant, provided that ACSI has duly notified Company about the non-compliance, and after a lapse of sixty (60) days from the date of the notice, the company remains in default.\n\nIn this revised clause, I've aimed to maintain the original meaning while slightly altering the tone. The obligation for ACSI to terminate an agreement due to Company's failure to meet customer service requirements has been shifted to a conditional right that can only be exercised under specific circumstances, making it less immediate and more dependent on materiality of the breach and timeframes for compliance.",
+    "contradiction_score": 0.11200118809938431,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 117,
+    "start_char": 65659,
+    "end_char": 65709,
+    "original": "Section  11.  Miscellaneous 11.1    Tax Treatment.",
+    "ollama_generated": "Section 11. Miscellaneous Provisions\n11.1 Tax Implications\n\nThe revised clause aims to slightly alter the original, primarily by shifting the emphasis from tax treatment to tax implications, indicating a broader scope that includes potential consequences rather than just formal classification or status. This subtle change in wording can imply a more comprehensive approach to the subject of taxes while maintaining professionalism and fluidity.\n\nIn addition, I suggest changing \"Miscellaneous 11.1\" to \"Section 11.1 Miscellaneous Provisions\" for consistency with the original format. This adjustment ensures that the revised clause remains easily readable and organized within the overall contract structure.",
+    "contradiction_score": 0.013382093980908394,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 129,
+    "start_char": 72956,
+    "end_char": 73640,
+    "original": "11.8     Nonwaiver.  To be effective, any waiver by a Party of any of its rights or the other Party's obligations under this Agreement must be made in a writing signed by the Party to be charged with the waiver.  No failure or forbearance by either Party to insist upon or enforce performance by the other Party of any of the provisions of this Agreement or to exercise any rights or remedies under this Agreement or otherwise at law or in equity shall be construed as a waiver or relinquishment to any extent of such Party's right to assert or rely upon any such provision, right, or remedy in that or any other instance\u037e rather the same shall be and remain in full force and effect.",
+    "ollama_generated": "11.8 Non-Concession: For a waiver of any rights or obligations under this Agreement by a Party to be valid, it must be made in written form, signed by the Party responsible for the concession. Any leniency or delay on the part of either Party in demanding compliance with the provisions of this Agreement, or the omission to exercise any rights or remedies available under this Agreement or at law, shall not be construed as a concession or surrender of any extent of such Party's right to enforce or rely upon any provision, right, or remedy in this or any subsequent instance. Instead, such provisions shall continue to remain fully applicable and enforceable.",
+    "contradiction_score": 0.05269264429807663,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 135,
+    "start_char": 75995,
+    "end_char": 76044,
+    "original": "ACSI                                     Company:",
+    "ollama_generated": "ACSI (Contractor) shall be obligated to ensure that the services rendered by them under this agreement meet the standards set forth in the Quality Assurance Plan provided by Company, failure to do so may result in a termination of the contract or withholding of payment for any substandard work. However, in the event that the Quality Assurance Plan is not provided, ACSI's services shall be deemed satisfactory unless Company can demonstrate, through objective evidence, that the services fail to meet reasonable industry standards.\n\nIn this revised clause, the obligation on the Contractor (ACSI) to meet the specific Quality Assurance Plan has been weakened by adding a condition that if no plan is provided, their services will be assumed satisfactory unless proven otherwise. This shift places some responsibility back onto the Company to demonstrate substandard work.",
+    "contradiction_score": 0.13810701668262482,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

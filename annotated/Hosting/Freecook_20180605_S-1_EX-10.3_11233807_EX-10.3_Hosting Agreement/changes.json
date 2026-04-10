@@ -1,0 +1,50 @@
+[
+  {
+    "clause_index": 5,
+    "start_char": 2638,
+    "end_char": 2800,
+    "original": "Client may elect to pay Company the Hourly Rate set forth below to type and proofread any written content not submitted in the electronic formats specified above.",
+    "ollama_generated": "Upon Client's discretion, the Company shall be obliged to charge an Hourly Rate as stipulated below for any written content received in non-specified electronic formats, requiring manual typing and proofreading services.",
+    "contradiction_score": 0.46539437770843506,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 10,
+    "start_char": 4509,
+    "end_char": 4819,
+    "original": "4. Customer Service. Company, either directly or through its authorized service provider, shall provide customer service (the \u201cCustomer Service\u201d) relating to Client Website consisting of replying to customer questions or complaints regarding website hosting services during the normal business hours set forth.",
+    "modified": "4. Duty Regarding Customer Support: The Client acknowledges that it is responsible for addressing customer questions or complaints outside of the specified business hours, as the Company, or its designated service provider, will only offer support during these hours (hereinafter referred to as \"Business Hours Support\"). However, the Company shall endeavor to respond promptly and effectively to customer inquiries within Business Hours.",
+    "contradiction_score": 0.8571590781211853,
+    "kept": true
+  },
+  {
+    "clause_index": 17,
+    "start_char": 5787,
+    "end_char": 5822,
+    "original": "4. Designing UI/UX-practical parts.",
+    "ollama_generated": "4. Developing User Interface (UI) and User Experience (UX) elements with practical applicability.\n\nThis revised clause shifts the focus slightly from the designer to the practicality of the UI/UX elements, subtly implying that the designer's responsibility extends to ensuring the practical application of their designs.",
+    "contradiction_score": 0.002594796707853675,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 23,
+    "start_char": 6051,
+    "end_char": 6103,
+    "original": "9. Development of a prototype and interface testing.",
+    "modified": "9. Obligation to develop a prototype and undertake interface testing shall be assumed by the Developer. (Shifting responsibility from the drafter to the developer)\n\nAlternative rewritten clause:\n\n9. Interface testing of the developed prototype is at the discretion of the End-User, and the Developer shall not be held responsible for any issues arising therefrom. (Weakening the obligation by making the end-user responsible for testing)\n\nAnother alternative rewritten clause:\n\n9. The Developer will produce a functional prototype, but is not obligated to perform interface testing unless explicitly agreed in writing with the End-User. (Inverting the condition by making it optional based on written agreement)",
+    "contradiction_score": 0.8423887491226196,
+    "kept": true
+  },
+  {
+    "clause_index": 24,
+    "start_char": 6104,
+    "end_char": 6112,
+    "original": "Stage 3:",
+    "ollama_generated": "Stage 3:\n\nUpon completion of the preceding stages and subject to all conditions being met, the Responsible Party shall not be obligated to fulfill their obligations under this Agreement if it is determined by a mutually agreed-upon third party that unforeseen circumstances beyond their control have prevented them from doing so. In such cases, the parties agree to negotiate in good faith to find a reasonable solution. The Responsible Party shall not be held liable for any damages or losses resulting from this exemption.",
+    "contradiction_score": 0.0024054443929344416,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

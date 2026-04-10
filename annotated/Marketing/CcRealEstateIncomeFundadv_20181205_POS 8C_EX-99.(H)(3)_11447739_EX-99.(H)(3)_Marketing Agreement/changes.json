@@ -1,0 +1,149 @@
+[
+  {
+    "clause_index": 3,
+    "start_char": 1388,
+    "end_char": 1605,
+    "original": "NOW, THEREFORE, in consideration of these premises and of the mutual covenants and agreements hereinafter contained, the sufficiency of which is hereby acknowledged by the parties, the parties hereto agree as follows:",
+    "ollama_generated": "IN CONSIDERATION of the mutual covenants and agreements set forth below, the sufficiency of which is hereby acknowledged by all parties involved, the parties hereto agree as follows: Having been mutually satisfied with the terms stipulated herein, this agreement is formed on the understanding that:\n\nIn this revised clause, the focus has shifted from the initial premises to the mutual covenants and agreements, emphasizing that the agreement arises from a mutual understanding of the terms provided rather than solely on the stated premises.",
+    "contradiction_score": 0.0059817167930305,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 5,
+    "start_char": 2274,
+    "end_char": 2520,
+    "original": "S2K shall not act as an underwriter in connection with S2K\u2019s wholesale activities relating to shares of the Funds where S2K receives all or substantially all of the sales load, as set forth in each Fund\u2019s then-current prospectus ( \u201cProspectus \u201d).",
+    "modified": "The Funds' Prospectus shall not grant S2K the authority to function as an underwriter for any shares associated with S2K's wholesale activities, unless S2K forfeits the majority or substantial entirety of the sales load in such transactions.",
+    "contradiction_score": 0.6932302117347717,
+    "kept": true
+  },
+  {
+    "clause_index": 8,
+    "start_char": 3387,
+    "end_char": 3428,
+    "original": "2. Services Provided by the Distributor .",
+    "ollama_generated": "2. Obligations Regarding Service Delivery by the Distributor:\n\nIn this revised clause, the focus shifts from a more passive \"Services Provided\" to an active \"Obligations Regarding Service Delivery.\" This change emphasizes that the distributor's role is not just about providing services but fulfilling specific obligations related to their service delivery.",
+    "contradiction_score": 0.014252224005758762,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 15,
+    "start_char": 6401,
+    "end_char": 6503,
+    "original": "a) A charge of $250 will apply to each request for expedited review, in addition to FINRA filing fees.",
+    "ollama_generated": "The provision stipulates that an additional fee of $250 shall be imposed per request for expedited review, which is cumulative to any FINRA filing charges that may arise.",
+    "contradiction_score": 0.0013872126583009958,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 21,
+    "start_char": 8104,
+    "end_char": 8738,
+    "original": "4. Duration and Termination . The term of this Agreement shall commence on the Effective Date and shall end on the 60th day following a written notice from one party to the other of its decision to terminate this Agreement at the end of such 60-day period or upon termination of the applicable Distribution Agreement with respect to a Fund. Termination of this Agreement as to a Fund shall not terminate this Agreement with respect to any other Fund so long as such other Fund\u2019s (or Funds\u2019, as the case may be) Distribution Agreement is effective. If this Agreement is terminated by one party, it shall terminate the entire Agreement.",
+    "ollama_generated": "Clause 4: Duration and Termination\n\nThis Agreement will commence on the Effective Date and continue for a period of sixty days following written notice from either party indicating their intention to terminate. Such termination will take effect at the end of the sixty-day notice period, or upon termination of the relevant Distribution Agreement relating to a Fund. The termination of this Agreement with regards to a particular Fund will not affect the continuation of the Agreement for any other Funds where the associated Distribution Agreements remain valid. In the event that one party initiates termination, they shall be obliged to terminate the entire Agreement.\n\nChanges made:\n1. Changed \"commence\" to \"will commence\", making it more future-oriented and actionable.\n2. Added a clearer explanation of the termination process, stating that termination will take effect at the end of the sixty-day notice period.\n3. Replaced the word \"shall\" with \"will be obliged to\" in the last sentence to soften the obligation and make it sound less absolute.",
+    "contradiction_score": 0.06479376554489136,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 23,
+    "start_char": 9056,
+    "end_char": 9792,
+    "original": "(b) In consideration of the marketing, sales and other related activities provided by S2K, the Distributor may compensate S2K for such services on each Fund\u2019s behalf and at the direction of each such Fund. The amount of compensation payable by the Distributor to S2K hereunder shall be determined on a class by class basis. At the direction of each Fund, ALPS or its designated agent will facilitate the payment of the applicable dealer reallowance fee to S2K in the amounts set forth in Exhibit B  hereto. S2K shall perform such distribution-related activities for which such payments are appropriate under all applicable rules and regulations and shall make such occasional certification as required by the Distributor to such effect.",
+    "ollama_generated": "(b) For the provision of marketing, sales, and related services by S2K, the Distributor is obligated to reimburse S2K for these services on behalf of each Fund, at the discretion of the respective Fund. The compensation payable by the Distributor to S2K shall be determined on a class-by-class basis. At the instruction of each Fund, ALPS or its appointed agent will handle the payment of the applicable dealer reallowance fee to S2K, in accordance with the amounts specified in Exhibit B attached hereto. S2K is responsible for executing distribution-related activities for which such payments are suitable, subject to all applicable rules and regulations, and may provide occasional certifications as required by the Distributor to this end \u2013 implying that S2K has more control over the certification process.",
+    "contradiction_score": 0.01366114430129528,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 30,
+    "start_char": 13654,
+    "end_char": 13710,
+    "original": "(b) The Distributor represents and warrants to S2K that:",
+    "modified": "(b) S2K is hereby represented and warranted by the Distributor that:\n\nIn this revised version, the responsibility for making the representations and warranties has been shifted from the Distributor to S2K. This means that instead of the Distributor assuring S2K of certain facts or promises, it is now S2K who is assured by the Distributor. This change could potentially affect the power dynamic between the parties, with S2K taking on a greater burden in the agreement. However, it's important to note that the specific impact of this change would depend on the broader context and terms of the contract.",
+    "contradiction_score": 0.75788813829422,
+    "kept": true
+  },
+  {
+    "clause_index": 38,
+    "start_char": 20441,
+    "end_char": 20952,
+    "original": "Source: CC REAL ESTATE INCOME FUND-ADV, POS 8C, 12/5/2018 (b) Confidential Information shall not include information to the extent such information is (i) already known to the receiving party free of any restriction at the time obtained, including information in the public domain\u037e (ii) subsequently learned from an independent third party free of restriction\u037e (iii) known through no wrongful act of any party\u037e or (iv) independently developed by one party without reference to information which is confidential.",
+    "ollama_generated": "Clause:\nRevised for CC REAL ESTATE INCOME FUND-ADV, POS 8C, 12/5/2018 (b) Confidential Information shall be considered non-confidential under the following circumstances: (i) it was previously known to the receiving party without any restrictions at the time of acquisition; including information already in the public domain; (ii) it is obtained from an independent third party with no restrictions attached; (iii) it has been obtained through no action deemed unlawful by any party; or (iv) it has been independently developed by one party, free from any reference to confidential information.",
+    "contradiction_score": 0.05461392179131508,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 41,
+    "start_char": 22976,
+    "end_char": 23062,
+    "original": "(e) The provisions of this Section 8  shall survive any termination of this Agreement.",
+    "ollama_generated": "(e) Notwithstanding any termination of this Agreement, the obligations under Section 8 shall continue to apply post-termination.",
+    "contradiction_score": 0.001987661700695753,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 44,
+    "start_char": 24107,
+    "end_char": 24188,
+    "original": "Source: CC REAL ESTATE INCOME FUND-ADV, POS 8C, 12/5/2018 11. Regulatory Issues .",
+    "ollama_generated": "Clause (New):\nRegarding Regulatory Matters (Revised):\n\nSource: CC REAL ESTATE INCOME FUND-ADV, POS 8C, 12/5/2018\n\n11. Responsibility for Compliance with Regulations .\n\nThe Investment Manager shall be solely responsible for ensuring compliance with all applicable laws and regulations, subject to the Fund's Board of Trustees having the right to challenge any decisions made by the Investment Manager in this regard, should they deem it necessary. However, the Investment Manager shall not be held liable for any losses or damages arising from regulatory changes outside their control.",
+    "contradiction_score": 0.11794374138116837,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 45,
+    "start_char": 24188,
+    "end_char": 24544,
+    "original": "(a) It is understood and agreed that in performing S2K\u2019s duties under this Agreement, S2K hereby undertakes to, and will use commercially reasonable efforts to cause each of its representatives, officers, directors or employees who perform services under this Agreement to act in a manner consistent with written instructions received from the Distributor.",
+    "ollama_generated": "(a) It is mutually understood and agreed that while performing S2K's obligations under this Agreement, S2K shall strive to comply, but not be strictly bound, with commercially reasonable efforts to ensure each of its representatives, officers, directors or employees acting under this Agreement align their actions with written instructions received from the Distributor. However, it is acknowledged that compliance may not always be guaranteed due to external factors or unforeseen circumstances.",
+    "contradiction_score": 0.0022765405010432005,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 56,
+    "start_char": 27197,
+    "end_char": 27432,
+    "original": "(e) Headings . The headings in this Agreement are inserted for convenience and identification only and are in no way intended to describe, interpret, define or limit the size, extent or intent of this Agreement or any provision hereof.",
+    "modified": "(f) Heading Interpretation: The titles used throughout this Agreement serve as aids for reference and organization purposes, and should not be construed to construe, expand, or restrict the scope, meaning, or applicability of this Agreement or any of its provisions in any manner.",
+    "contradiction_score": 0.5482860207557678,
+    "kept": true
+  },
+  {
+    "clause_index": 57,
+    "start_char": 27432,
+    "end_char": 27623,
+    "original": "(f) Counterparts . This Agreement may be executed in two or more counterparts, each of which shall be deemed an original but all of which together shall constitute one and the same agreement.",
+    "ollama_generated": "(f) Multiple Executions: This Agreement can be executed in multiple counterparts, with each individual counterpart considered a valid and binding original. All combined counterparts will collectively form a single, unified agreement. However, it is noted that each party's execution of a counterpart does not excuse the other parties from executing their own copies prior to the Agreement becoming effective.",
+    "contradiction_score": 0.009986083023250103,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 60,
+    "start_char": 28358,
+    "end_char": 28395,
+    "original": "\u201cDistributor\u201d ALPS DISTRIBUTORS, INC.",
+    "ollama_generated": "\"The appointed Distributor shall hereby be referred to as INCS ALPS DISTRIBUTORS.\"\n\nIn this revised version, the word order has been changed slightly without altering the substance of the original clause. The focus remains on identifying ALPS DISTRIBUTORS, INC. as the distributor but with a subtle shift in tone that may be perceived as more collaborative or professional.",
+    "contradiction_score": 0.014919463545084,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 64,
+    "start_char": 29843,
+    "end_char": 30066,
+    "original": "Exhibit B Source: CC REAL ESTATE INCOME FUND-ADV, POS 8C, 12/5/2018 Exhibit C Jurisdictions [List of jurisdictions where the Funds are registered for sale] Exhibit C Source: CC REAL ESTATE INCOME FUND-ADV, POS 8C, 12/5/2018",
+    "ollama_generated": "Clause:\nIn reference to Exhibit B (CC REAL ESTATE INCOME FUND-ADV, POS 8C, 12/5/2018) and Exhibit C (CC REAL ESTATE INCOME FUND-ADV, POS 8C, 12/5/2018 - listing the jurisdictions where the Funds are authorized for sale), it is noted that:\n\nThe Fund retains the discretionary authority to de-register its securities from any jurisdiction listed in Exhibit C, without prior notice or liability to any party.\n\n(Note: This revised clause slightly shifts the responsibility by giving the Fund the discretion to deregister its securities from any jurisdiction listed without prior notice or liability.)",
+    "contradiction_score": 0.008924189954996109,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

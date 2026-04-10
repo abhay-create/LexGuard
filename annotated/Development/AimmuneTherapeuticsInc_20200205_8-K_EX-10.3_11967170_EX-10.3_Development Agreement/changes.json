@@ -1,0 +1,544 @@
+[
+  {
+    "clause_index": 8,
+    "start_char": 3151,
+    "end_char": 4324,
+    "original": "1.2 \u201cAffiliate \u201d means with respect to any person, any other person directly or indirectly controlling, controlled by, or under common control with such person\u037e provided, that, for purposes of this definition, \u201ccontrol\u201d (including, with correlative meanings, the terms \u201ccontrolled by\u201d and \u201cunder common control with\u201d), as used with respect to any person, shall mean (i) the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of such person, whether through the ownership of voting securities or by contract or otherwise, or (ii) the ownership, directly or indirectly, of fifty percent (50%) or more of the voting securities of such person. For purposes of this Section 1.2, \u201cperson\u201d means mean an individual, corporation, partnership, limited partnership, limited liability company, limited liability partnership, syndicate, person (including a \u201cperson\u201d as defined in Section 13(d)(3) of the Securities Exchange Act of 1934, as amended, together with the rules and regulations promulgated thereunder), trust, association, entity or government or political subdivision, agency or instrumentality of a government.",
+    "ollama_generated": "1.2 \"Affiliate\" is defined, relative to any individual or entity, as any other individual or entity that controls, is controlled by, or is under the common control of such person. Notably, for the purposes of this definition, \"control\" (using analogous meanings for \"controlled by\" and \"under common control with\"), pertaining to any person, encompasses (i) the ability to guide or influence the management and policies of such person, through share ownership or contracts or other means, or (ii) the ownership of more than 50% of the voting securities of such person. For the scope of this Section 1.2, \"person\" denotes an individual, corporation, partnership, limited partnership, limited liability company, limited liability partnership, syndicate, a person as defined in Section 13(d)(3) of the Securities Exchange Act of 1934, as amended, along with the rules and regulations formulated thereunder, trust, association, entity, government or political subdivision, agency, or instrumentality of a government.\n\nThe revised clause maintains the original meaning but inverts the conditions slightly to provide a more concise structure while preserving professionalism.",
+    "contradiction_score": 0.018990183249115944,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 17,
+    "start_char": 5792,
+    "end_char": 6022,
+    "original": "1.11 \u201cAnti-Corruption Laws \u201d means the U.S. Foreign Corrupt Practices Act, as amended, the UK Bribery Act 2010, as amended, as well as Applicable Law related to the prevention of fraud, racketeering, money laundering or terrorism.",
+    "ollama_generated": "1.11 \"Compliance with Anti-Corruption Regulations\" encompasses the U.S. Foreign Corrupt Practices Act, as amended, the UK Bribery Act 2010, as amended, along with all relevant laws pertaining to the prohibition of fraud, racketeering, money laundering, or terrorism, to which our actions may be subject. The emphasis here lies on our commitment to adhering to these regulations rather than defining them as a set of laws we are bound to.",
+    "contradiction_score": 0.04052900895476341,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 18,
+    "start_char": 6022,
+    "end_char": 6861,
+    "original": "1.12 \u201cApplicable Law\u201d  means any applicable United States federal, state or local or foreign or multinational law, statute, standard, ordinance, code, rule, regulation, resolution or promulgation, or any order, writ, judgment, injunction, decree, stipulation, ruling, determination or award entered by or with any Governmental Authority, or any license, franchise, permit or similar right granted under any of the foregoing, or any similar provision having the force or effect of law. For the avoidance of doubt, any specific references to any Applicable Law or any portion thereof, shall be deemed to include all then- current amendments thereto or any replacement or successor law, statute, standard, ordinance, code, rule, regulation, resolution, order, writ, judgment, injunction, decree, stipulation, ruling, or determination thereto.",
+    "ollama_generated": "1.12 \"Governing Law\" encompasses any applicable domestic or foreign legislation, including federal, state, municipal, or multinational statutes, standards, ordinances, codes, rules, regulations, resolutions, or proclamations. It also includes any court order, writ, judgment, injunction, decree, stipulation, ruling, or determination issued by a Governmental Authority, as well as any licenses, franchises, permits, or similar rights conferred under such laws. For clarity, references to any Governing Law or its components are intended to incorporate all subsequent amendments, replacements, or successors in force at the relevant time.\n\nThis revised clause maintains a similar meaning but places more emphasis on the role of legislation and regulations, while also clarifying that the applicability extends to any amendments, replacements, or successors in force at the relevant time.",
+    "contradiction_score": 0.02878904901444912,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 28,
+    "start_char": 10064,
+    "end_char": 11551,
+    "original": "Source: AIMMUNE THERAPEUTICS, INC., 8-K, 2/5/2020 1.21 \u201cCommercially Reasonable Efforts \u201d means, with respect to the efforts to be expended by a Party with respect to any objective (e.g., Development Activities and Commercialization hereunder), the level of efforts consistent with the efforts and resources [***] of similar market potential, at a similar stage in development or product lifecycle, taking into account the stage of development or product lifecycle of other of [***] product candidates, safety and efficacy, product profile, cost of goods, the competitiveness of the marketplace, such company\u2019s patent position with respect to such product (including such company\u2019s ability to obtain or enforce, or have obtained or enforced, such patent rights), the Third Party patent landscape relevant to the product, the regulatory structure involved, the likelihood of regulatory approval, the likelihood and extent of anticipated or actual profitability of the applicable product, and other technical, legal, scientific and medical considerations. Without limiting the foregoing, Commercially Reasonable Efforts requires, with respect to such obligations, that a Party: (i) promptly assign responsibility for such obligation to specific employee(s) who are held accountable for progress and monitor such progress on an on-going  basis, (ii) set objectives for carrying out such obligations, and (iii) allocate resources designed to advance progress with respect to such objectives.",
+    "modified": "Clause:\nSource: AIMMUNE THERAPEUTICS, INC., 8-K, 2/5/2020 1.21 \"Reasonable Best Efforts\" refers to the efforts that a Party will strive to expend with regard to any objective (such as Development Activities and Commercialization hereunder), which may be less extensive than the level of efforts typically exerted by comparable entities, given their resources and market potential, stage in development or product lifecycle, competition, patent position, Third-Party patent landscape, regulatory structure, likelihood of approval, profitability, technical, legal, scientific, and medical factors. Unlike \"Commercially Reasonable Efforts,\" this term does not necessitate the assignment of specific accountable employees, but instead requires a Party to: (i) establish objectives for fulfilling their obligations, (ii) allocate resources to meet these objectives as feasible, and (iii) make reasonable efforts to advance progress, without constant ongoing monitoring.",
+    "contradiction_score": 0.8814074993133545,
+    "kept": true
+  },
+  {
+    "clause_index": 30,
+    "start_char": 12211,
+    "end_char": 12592,
+    "original": "1.23 \u201cCover \u201d or \u201cCovering \u201d means, with respect to a particular subject matter at issue and a relevant Patent, that the manufacture, use, sale, offer for sale or importation of such subject matter would, but for the existence of this Agreement, infringe one or more claims in such Patents (or in the case of a Patent application, would infringe if such application were to issue).",
+    "ollama_generated": "1.23 \"Covered\" or \"Potentially Covered\" refers to a particular subject matter and a relevant Patent, where without this Agreement, the manufacture, use, sale, offer for sale, or importation of such subject matter would potentially infringe one or more claims in such Patents (or in the case of a Patent application, could infringe if such application were to issue, provided it is understood that no infringement occurs as long as this Agreement remains in effect). The responsibility of avoiding patent infringement lies with both parties under the terms of this Agreement.",
+    "contradiction_score": 0.0221719853579998,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 33,
+    "start_char": 13577,
+    "end_char": 13759,
+    "original": "Source: AIMMUNE THERAPEUTICS, INC., 8-K, 2/5/2020 1.26 \u201cDevelopment Activities \u201d means those Development activities undertaken by or on behalf of Aimmune with respect to the Product.",
+    "modified": "Clause:\nIn the context of AIMMUNE THERAPEUTICS, INC., as disclosed in the 8-K filing dated February 5, 2020, \"Development Activities\" encompasses any research and development activities that may be initiated or executed by third parties, pertaining to the Product.\n\nIn this revised clause, the responsibility for Development Activities has shifted from Aimmune to third parties.",
+    "contradiction_score": 0.7139817476272583,
+    "kept": true
+  },
+  {
+    "clause_index": 43,
+    "start_char": 18079,
+    "end_char": 18498,
+    "original": "1.36 \u201cGood Manufacturing Practices\u201d  or \u201cGMP\u201d  means all applicable Good Manufacturing Practices including, as applicable, (i) the principles detailed in the U.S. Current Good Manufacturing Practices, 21 C.F.R. Sections 210, 211, 601 and 610, (ii) the principles detailed in the ICH Q7 guidelines, and (iii) the equivalent Applicable Law in any relevant country, each as may be amended and applicable from time to time.",
+    "ollama_generated": "1.36 \"Compliance with Manufacturing Practices\" or \"CMP\" denotes all relevant manufacturing practices that a party is obligated to adhere to, which may encompass (i) the principles outlined in the U.S. Current Good Manufacturing Practices as detailed in 21 C.F.R. Sections 210, 211, 601 and 610, (ii) the principles specified in the ICH Q7 guidelines, and (iii) any equivalent regulatory requirements from the Applicable Law of a relevant country. It is understood that these practices may undergo amendments and remain applicable over time.\n\nIn this rewritten clause, the responsibility for maintaining Good Manufacturing Practices has been shifted to the party involved, while also clarifying that any updates or changes to the practices should be adhered to.",
+    "contradiction_score": 0.04240923002362251,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 50,
+    "start_char": 20693,
+    "end_char": 20886,
+    "original": "1.43 \u201cJoint Invention\u201d  means an Invention that is Invented jointly by an employee of, or Person under an obligation of assignment to, each of Xencor and Aimmune or their respective Affiliates.",
+    "ollama_generated": "1.43 \"Shared Innovation\" shall refer to any innovation conceived collaboratively by an employee of, or an individual bound by an assignment agreement with, both Xencor and Aimmune, as well as their respective affiliates. Notably, this definition applies equally to inventions where the order of contribution cannot be definitively established.",
+    "contradiction_score": 0.4294498860836029,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 61,
+    "start_char": 25495,
+    "end_char": 25647,
+    "original": "In no event shall any particular amount identified above be deducted more than once in calculating Net Sales (i.e., no \u201cdouble counting\u201d of reductions).",
+    "ollama_generated": "To avoid double-counting, the specified reduction shall not be applied multiple times when determining the Net Sales total. In other words, once an amount has been accounted for as a reduction, it shall not be considered again in subsequent calculations.",
+    "contradiction_score": 0.001039100461639464,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 69,
+    "start_char": 29251,
+    "end_char": 30232,
+    "original": "1.56 \u201cPhase III Clinical Trial \u201d means a controlled study in humans that is performed after preliminary evidence suggesting effectiveness of a product has been obtained, and is intended to demonstrate or confirm the therapeutic benefit of such product and to gather the additional information about effectiveness and safety that is needed to evaluate the overall Source: AIMMUNE THERAPEUTICS, INC., 8-K, 2/5/2020 benefit-risk relationship of such product and to provide support for filing for Regulatory Approval and for such product\u2019s labeling and summary of product characteristics, as more fully defined in 21 CFR \u00a7312.21(c) or comparable regulations in any country or jurisdiction outside the U.S., and any amended or successor regulations. For the sake of clarity, with respect to what is commonly called a phase II/III study, the Phase III Clinical Trial definition is met upon [***], as further defined in Federal Regulation 21 C.F.R. \u00a7312.21(c) and its foreign equivalents.",
+    "ollama_generated": "1.56 \"Phase III Clinical Test\" refers to a controlled examination of human subjects conducted subsequent to the acquisition of preliminary evidence suggesting the effectiveness of a product. This test aims to substantiate or affirm the therapeutic advantage of such product, while also gathering additional data regarding its efficacy and safety for a comprehensive evaluation of its benefit-risk relationship. The information obtained from this test is utilized to support Regulatory Approval applications, product labeling, and summary of product characteristics, as detailed in 21 CFR \u00a7312.21(c) or comparable regulations in any nation or jurisdiction beyond the U.S., and any subsequently amended or succeeding regulations. For the purpose of clarity, with regard to what is commonly known as a phase II/III study, the Phase III Clinical Test qualification is fulfilled upon [***], as specified in Federal Regulation 21 C.F.R. \u00a7312.21(c) and its foreign counterparts.",
+    "contradiction_score": 0.003271993948146701,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 80,
+    "start_char": 33898,
+    "end_char": 34473,
+    "original": "1.67 \u201cRegulatory Materials\u201d  means regulatory applications, submissions, notifications, communications, correspondence, meeting minutes, registrations, Regulatory Approvals and/or other filings made to, received from or otherwise conducted with a Regulatory Authority that are necessary in order to Develop, Manufacture, obtain marketing authorization, market, sell, distribute or otherwise Commercialize the Product in a particular country or regulatory jurisdiction. Regulatory Materials include INDs, MAAs, presentations, responses, and applications for Product Approvals.",
+    "ollama_generated": "1.67 \"Regulatory Documents\" encompass all regulatory applications, submissions, notifications, communications, correspondence, meeting minutes, registrations, Regulatory Approvals, and filings with a Regulatory Authority that are not merely permissible but essential for the development, manufacturing, marketing authorization, promotion, sale, distribution, or commercialization of the Product within a specific country or regulatory jurisdiction. These documents may comprise INDs, MAAs, presentations, responses, and applications for Product Approvals, but it is noted that their absence or inadequacy may not be remedied post-facto, placing the onus on the responsible party to address any potential deficiencies proactively.",
+    "contradiction_score": 0.011378609575331211,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 81,
+    "start_char": 34473,
+    "end_char": 34976,
+    "original": "1.68 \u201cRoyalty Term \u201d means, with respect to a Product on a country-by-country  basis, the period of time beginning on the First Commercial Sale of such Product in such country and ending the later of (i) the expiration of the last to expire Valid Claim Covering the Antibody or Product in such country, or (ii) [***] ([***]) years from the First Commercial Sale of such Product in such country. Notwithstanding subsections (i) and (ii) above, the Royalty Term for a Product in a country shall not [***].",
+    "ollama_generated": "1.68 \"Royalty Period\" refers, on a country-specific basis, to the duration starting from the initial Commercial Sale of a given Product in that particular country and concluding when one of the following occurs earlier: (i) the termination of the last valid patent covering the Antibody or Product in said country, or (ii) [***] ([***]) years after the initial Commercial Sale of the same Product in the same country. However, it's important to note that the Royalty Period for a Product in any given country may not extend beyond [***].\n\nIn this revised clause, the duration of the royalty period is limited by a specific term ([***]) rather than being indefinite or without limitation as in the original clause. This change potentially weakens the obligation to pay royalties for the Product, assuming that [***] refers to a fixed number of years or a definite timeframe.",
+    "contradiction_score": 0.2016780823469162,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 89,
+    "start_char": 36485,
+    "end_char": 36520,
+    "original": "1.76 \u201cXencor [***]\u201d  means a [***].",
+    "ollama_generated": "1.76 \"Designated Xencor Entity\" shall refer to an optional affiliation or partnership.\n\nThis change suggests that the \"Xencor\" in question is not necessarily required, and can be an optional entity (such as a subsidiary or partner company). The term \"Designated Xencor Entity\" implies a certain degree of flexibility and discretion in choosing the specific entity involved.",
+    "contradiction_score": 0.0010878501925617456,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 90,
+    "start_char": 36521,
+    "end_char": 36664,
+    "original": "1.77 \u201cXencor Invention\u201d  means an Invention that is Invented solely or jointly with a Third Party, by or on behalf of Xencor or its Affiliates.",
+    "ollama_generated": "1.77 A \"Xencor-associated Invention\" refers to any Invention conceived independently or in collaboration with a Third Party, that originates from the individual efforts or delegated tasks by Xencor or its Affiliates, but does not necessarily imply exclusive ownership by Xencor.",
+    "contradiction_score": 0.04559072107076645,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 94,
+    "start_char": 38025,
+    "end_char": 38526,
+    "original": "1.81 \u201cXencor Product Specific Patent \u201d means (i) the Patents identified on Schedule 1.81 , including patents issuing from any patent application set forth on Schedule 1.81 , (ii) with respect to all Patents set forth on Schedule 1.81 , all provisional applications, substitutions, continuations, continuations- in-part,  divisionals, renewals, patents-of-addition,  reissues, reexaminations and extensions, (iii) any [***], and (iv) all international and domestic counterparts of any of the foregoing.",
+    "ollama_generated": "Clause: 1.81 \"Xencor Product Specific Patents\" shall encompass (i) the Patents listed in Schedule 1.81, extending to patents derived from any patent application detailed in Schedule 1.81, (ii) for all Patents featured on Schedule 1.81, any preliminary applications, substitutions, continuations, continuation-in-part, divisional applications, renewals, additions, reissues, reexaminations, and extensions, (iii) any potential [***], and (iv) all foreign and domestic equivalents of any aforementioned patents.\n\nIn this revised clause, the scope of the \"Xencor Product Specific Patents\" has been expanded to include not only the original patents but also their derivatives, extensions, and counterparts in both domestic and international jurisdictions. This could potentially strengthen the protection of these patents.",
+    "contradiction_score": 0.013367047533392906,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 97,
+    "start_char": 38772,
+    "end_char": 39566,
+    "original": "ARTICLE 2 LICENSES 2.1 Grant to Aimmune. Subject to the terms and conditions of this Agreement, Xencor hereby grants to Aimmune during the Term an exclusive, worldwide, payment-bearing license under and with respect to Xencor Patents and Xencor\u2019s interest in Joint Collaboration Patents, and a non-exclusive, payment bearing license under and with respect to Xencor Know-How,  in each case, with the right to sublicense solely in accordance with Section 2.3.2, solely to Develop, Manufacture and Commercialize the Product in and for the Licensed Field\u037e provided that notwithstanding the foregoing, Xencor shall retain the right under and with respect to Xencor Patents and Xencor\u2019s interest in Joint Collaboration Patents to the extent necessary to perform its obligations under this Agreement.",
+    "modified": "ARTICLE 2 LICENSES\n2.1 License Granted by Aimmune. Pursuant to the provisions of this Agreement, Aimmune grants Xencor, subject to the terms and conditions set forth herein, a non-exclusive, worldwide license, with the right to sublicense in accordance with Section 2.3.2, under and with respect to Aimmune Patents and Aimmune's interest in Joint Collaboration Patents, and a exclusive, payment-bearing license under and with respect to Aimmune Confidential Information, for the purpose of Researching, Manufacturing, and Marketing the Product within the Licensed Territory. However, it is understood that Xencor shall retain the right to exercise its own patent rights under and with respect to Aimmune Patents and Aimmune's interest in Joint Collaboration Patents to the extent required for Xencor to fulfill its obligations under this Agreement.\n\nIn this revised clause, the licensing roles have been reversed: Aimmune now grants a license to Xencor instead of the other way around, and Xencor is allowed to exercise its own patent rights in certain circumstances, which was not explicitly stated in the original clause. The language has also been adjusted to maintain fluency, professionalism, and clarity.",
+    "contradiction_score": 0.8033390641212463,
+    "kept": true
+  },
+  {
+    "clause_index": 102,
+    "start_char": 42367,
+    "end_char": 42414,
+    "original": "2.3 Performance by Affiliates and Sublicensees.",
+    "ollama_generated": "2.3 Obligation Regarding Affiliate and Sublicensee Performances:\n\nIn this agreement, the obligation for performances undertaken by affiliates and sublicensees shall rest with the primary licensee, who is responsible for ensuring compliance with all terms and conditions outlined herein. Any failure to meet these obligations may result in remedies available under this contract being pursued against the primary licensee.",
+    "contradiction_score": 0.305819571018219,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 105,
+    "start_char": 44561,
+    "end_char": 46419,
+    "original": "2.4 Restrictive Covenants.  Aimmune hereby covenants and agrees that it shall not (and shall cause the other Aimmune Agreement Entities not to), either directly or indirectly, Source: AIMMUNE THERAPEUTICS, INC., 8-K, 2/5/2020 Develop, Manufacture, or Commercialize the Product for use outside the Licensed Field. Furthermore, Xencor hereby covenants and agrees that it shall not (and shall cause its Affiliates  not to), either directly or through granting a license or other right to, or otherwise facilitating, a Third Party to (a) Develop, Manufacture or Commercialize the Antibody or the Product during the Term, (b) commence any [***] of any [***] that is not the Antibody or a Product and that [***] for use in the Licensed Field, prior to the [***] ([***] th) anniversary of the Effective Date, or (c) Develop, Manufacture or Commercialize any [***] that is not the Antibody or a Product and that [***] for use in the Aimmune Field during the Term. It is the desire and intent of the Parties that the restrictive covenants contained in this Section 2.4 be enforced to the fullest extent permissible under Applicable Laws and public policies applied in each jurisdiction in which enforcement is sought. Xencor and Aimmune believe that the restrictive covenants in this Section 2.4 are valid and enforceable. However, if any restrictive covenant should for any reason become or be declared by a competent court or competition authority to be invalid or unenforceable in any jurisdiction, such restrictive covenant shall be deemed to have been amended to the extent necessary in order that such provision be valid and enforceable, such amendment shall apply only with respect to the operation of such provision of this Section 2.4 in the particular jurisdiction in which such declaration is made. Further, both Parties agree that [***] of this Agreement.",
+    "ollama_generated": "2.4 Restrictive Obligations: Aimmune undertakes not to (and ensures that all Aimmune Agreement Entities abstain from) developing, manufacturing, or commercializing the Product for use within fields beyond the Licensed Field, unless otherwise permitted by this agreement. Similarly, Xencor commits not to (and guarantees its Affiliates will abstain from) directly or indirectly developing, manufacturing, or commercially exploiting the Antibody or the Product during the Term, providing licenses or rights to third parties for such activities, or facilitating such activities by any other means.\n\nHowever, in case a court or competition authority declares any restrictive obligation invalid or unenforceable in a specific jurisdiction, such obligation shall be automatically amended to the minimum extent necessary for its validity and enforceability within that jurisdiction. The Parties acknowledge that these restrictions are subject to applicable laws and public policies in each relevant jurisdiction. Both parties agree that these restrictive obligations form an integral part of this agreement.",
+    "contradiction_score": 0.046691037714481354,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 107,
+    "start_char": 48362,
+    "end_char": 49794,
+    "original": "2.7 Technology Transfer.  Xencor shall use Commercially Reasonable Efforts to transfer, and Aimmune shall use Commercially Reasonable Efforts to receive, the Xencor Know-How,  Regulatory Materials, and Regulatory Data, in each case, as identified on Schedule 2.7  to Source: AIMMUNE THERAPEUTICS, INC., 8-K, 2/5/2020 permit and enable Aimmune or its Affiliates to Develop and Manufacture the Product pursuant to the terms of this Agreement no later than [***] ([***]) Business Days after the Effective Date. The technology transfer under this Section 2.7 shall occur in an orderly fashion and in a manner reasonably agreed by the Parties. The implementation and transfer of information pursuant hereto shall be conducted through electronic, email and teleconference consultation between the Parties. [***] shall be responsible for any Development or Manufacturing related out-of-pocket  costs associated with such technology transfer, including lab runs, pilot scale testing and demo batches. Xencor will allocate adequate appropriately qualified representatives to enable Aimmune to practice and understand the Xencor Know-How,  Regulatory Materials, and Regulatory Data, including in connection with the transition of Manufacturing responsibility to Aimmune, Xencor\u2019s obligations under this Section 2.7 shall not exceed an aggregate of [***] ([***]) full- time equivalent hours unless the Parties otherwise agree in writing [***].",
+    "ollama_generated": "Clause 2.7 - Technology Transfer Obligations:\n\n2.7.1 Xencor is obligated to make reasonable, yet not extraordinary, efforts towards transferring the Xencor Know-How, Regulatory Materials, and Regulatory Data, as specified in Schedule 2.7 of AIMMUNE THERAPEUTICS, INC., 8-K, 2/5/2020. This transfer should allow Aimmune or its Affiliates to Develop and Manufacture the Product under this Agreement within a reasonable timeframe following the Effective Date. The technology transfer process will occur in an organized manner, with both parties reaching a mutual agreement on the order and method of transfer. Communication regarding the transfer will be facilitated through electronic means, email, and teleconferences between the Parties.\n\n2.7.2 Aimmune shall be responsible for any Development or Manufacturing-related out-of-pocket costs associated with the technology transfer, including lab runs, pilot scale testing, and demo batches.\n\n2.7.3 Xencor will assign suitable, adequately qualified representatives to support Aimmune in understanding the Xencor Know-How, Regulatory Materials, and Regulatory Data. This assistance will include, but is not limited to, the transition of Manufacturing responsibility from Xencor to Aimmune. The total amount of time Xencor spends fulfilling its obligations under this Section 2.7 shall not be unreasonably excessive without prior written agreement between the Parties.",
+    "contradiction_score": 0.1787644922733307,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 110,
+    "start_char": 52385,
+    "end_char": 52626,
+    "original": "Source: AIMMUNE THERAPEUTICS, INC., 8-K, 2/5/2020 3.3 Development Costs. As between the Parties, Aimmune shall be solely responsible for one hundred percent (100%) of all Development costs incurred with respect to any Development Activities.",
+    "modified": "Clause:\nRevised: In relation to development costs, the responsibility for reimbursement of one hundred percent (100%) of such expenses pertaining to development activities will fall solely on Aimmune Therapeutics, Inc.\n\nIn this revised version, the obligation is shifted from Aimmune being responsible for development costs to them being responsible for the reimbursement of those costs. This implies a potential change in financial burden and responsibilities if and when expenses are incurred.",
+    "contradiction_score": 0.9687981605529785,
+    "kept": true
+  },
+  {
+    "clause_index": 135,
+    "start_char": 63825,
+    "end_char": 64121,
+    "original": "5.5 Commercialization Data.  As between the Parties, Aimmune shall own all marketing and sales data and information resulting from its Commercialization of the Product during the Term (the \u201cCommercialization Data \u201d), including promotional materials, marketing strategies and market research data.",
+    "ollama_generated": "5.5 Commercialization Data Ownership: The Parties acknowledge that Seller retains exclusive ownership over all marketing and sales data and information generated throughout the Product's Commercialization period (hereafter referred to as \"Commercialization Data\"), comprising promotional materials, marketing strategies, and market research data. However, Buyer is granted a non-exclusive, royalty-free right to utilize such data for analytical purposes, provided that Seller's proprietary rights are respected and properly acknowledged.",
+    "contradiction_score": 0.1284468173980713,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 140,
+    "start_char": 67422,
+    "end_char": 67705,
+    "original": "Source: AIMMUNE THERAPEUTICS, INC., 8-K, 2/5/2020 Milestone EventMilestone Payment Development Milestone [***] $ [***] [***] $ [***] [***] $ [***] [***] $ [***] [***] $ [***] [***] $ [***] Sales Milestones [***] $ [***] [***] $ [***] [***] $ [***] [***] $ [***] 7.3 Royalty Payments.",
+    "ollama_generated": "Clause:\nSource: AIMMUNE THERAPEUTICS, INC., 8-K, 2/5/2020 Milestone Event\nMilestone Payment Development Milestone [***] $ [***] [***] $ [***] [***] $ [***] [***] $ [***] [***] $ [***] [***] $ [***] Sales Milestones [***] $ [***] [***] $ [***] [***] $ [***] [***] $ [***]\n7.3 Modified Royalty Payments.\n\nUpon the occurrence of each Sales Milestone, Licensor shall pay a royalty to the Licensee, where the amount due is proportionally reduced based on any developmental milestones achieved by the Licensor prior to such Sales Milestone. The initial royalty rate remains unchanged. This modification aims to incentivize the Licensor's continued efforts towards product development while ensuring fair compensation for the Licensee.",
+    "contradiction_score": 0.09384142607450485,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 144,
+    "start_char": 68134,
+    "end_char": 68598,
+    "original": "(a) No Valid Claim.  On a country-by-country  and Product-by-Product  basis, if at any time during the Royalty Term with respect to such country and such Product, such Product is not Covered by any Valid Claim of a [***], the royalty rate applied to Net Sales of such Product shall be the royalty rate in Section 7.3.1 reduced by [***] percent ([***]%) for so long as during the Royalty Term such Product is not Covered by a Valid Claim of a [***] in such country.",
+    "ollama_generated": "(a) Potential Lapse of Intellectual Property Protection. On a country-by-country and Product-by-Product basis, if at any point during the Royalty Term pertaining to that country and that Product, the Product ceases to be safeguarded by an Active Intellectual Property Right of a [***], the royalty rate imposed on Net Sales of such Product shall be equivalent to the royalty rate specified in Section 7.3.1, augmented by [***] percent ([***]%) for as long as during the Royalty Term the Product lacks Active Intellectual Property Protection by a [***] in that country. The onus of proving the absence or lapse of intellectual property protection shall rest with the party claiming such circumstance.",
+    "contradiction_score": 0.42834222316741943,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 156,
+    "start_char": 75470,
+    "end_char": 75868,
+    "original": "8.3.3  Aimmune shall be responsible for all Value Added Taxes ( \u201cVAT\u201d), if any, attributable to transactions contemplated by this Agreement without any offset or reimbursement from Xencor. Xencor shall cooperate with Aimmune in any way reasonably requested by Aimmune to obtain available reductions, credits or refunds of any VAT amounts attributable to transactions contemplated by this Agreement.",
+    "modified": "8.3.3 Xencor will be responsible for any recoverable Value Added Taxes ( \"VAT\" ), if applicable, associated with the transactions outlined in this Agreement. Aimmune shall cooperate with Xencor in any reasonable manner requested to facilitate the recovery of such VAT amounts. Aimmune will bear the responsibility for any unrecoverable VAT costs.",
+    "contradiction_score": 0.9632994532585144,
+    "kept": true
+  },
+  {
+    "clause_index": 168,
+    "start_char": 84520,
+    "end_char": 84981,
+    "original": "Xencor shall have the right to review and comment upon any such submission by Aimmune to a patent office, and will provide such comments within [***] ([***]) days after receiving such submission (provided, that if no comments are received within such [***] ([***]) day period, then Aimmune may proceed with such submission). Aimmune shall [***]any suggestions or recommendations of Xencor concerning the preparation, filing, prosecution and maintenance thereof.",
+    "ollama_generated": "Xencor retains the prerogative to scrutinize and offer feedback on any patent office submissions made by Aimmune, with the stipulation that such comments will be delivered within [***] ([***]) business days following receipt of the submission. In the event that Xencor's comments are not furnished within this timeframe, Aimmune is authorized to proceed with the submission without implementing Xencor's suggestions or recommendations, which shall remain optional for Aimmune's consideration.",
+    "contradiction_score": 0.02827298641204834,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 172,
+    "start_char": 87138,
+    "end_char": 87957,
+    "original": "9.4.1  Infringement of Third Party Patents.  Each of the Parties shall promptly, but in any event no later than [***] ([***]) days after receipt of notice thereof, notify the other Party in writing in the event of any claims by a Third Party of alleged patent infringement by Aimmune or the other Aimmune Agreement Entities with respect to the research, development, manufacture, use, sale, offer for sale or importation of the Antibody or Product (each, an \u201cInfringement Claim \u201d). With respect to any Infringement Claim, the Parties shall attempt to negotiate in good faith a resolution with respect thereto. If the Parties cannot settle such Infringement Claim with the appropriate Third Parties within [***] ([***]) days after the receipt of the notice pursuant to this Section 9.4.1, then the following shall apply:",
+    "ollama_generated": "9.4.1 Patent Infringement by Third Parties:\n\nUpon receiving written notice of any allegations by a Third Party claiming that Aimmune or other Aimmune Agreement Entities have infringed their patents in relation to the research, development, manufacture, use, sale, offer for sale, or importation of the Antibody or Product (each, an \"Infringement Claim\"), one of the Parties shall have [***] ([***]) days to provide notice to the other Party. The notifying Party, however, shall not be obligated to initiate such notification until [***] ([***]) days have elapsed since the receipt of the initial notice.\n\nRegarding any Infringement Claim, the Parties will make good-faith efforts to negotiate a resolution. If a settlement with the relevant Third Parties cannot be reached within [***] ([***]) days following the receipt of the original notice under this Section 9.4.1, it shall then be the responsibility of the party initially receiving the infringement claim notification to undertake further actions to address and resolve the alleged patent infringement.",
+    "contradiction_score": 0.012685918249189854,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 174,
+    "start_char": 88350,
+    "end_char": 89538,
+    "original": "(b) The Controlling Party shall assume control of the defense of such Infringement Claim. The non-Controlling  Party, upon request of the Controlling Party, agrees to join in any such litigation, and in any event to reasonably cooperate with the Controlling Party, in each case, at the [***] expense. The non-Controlling  Party will have the right to consult with the Controlling Party concerning such Infringement Claim and to participate in and be represented by independent counsel in any litigation in which such non-Controlling  Party is a party at its own expense. The Controlling Party shall have the exclusive right to settle any Source: AIMMUNE THERAPEUTICS, INC., 8-K, 2/5/2020 Infringement Claim without the consent of the other Party, unless such settlement would have a material adverse impact on the other Party (in which case the consent of such other Party shall be required). For purposes of this Section 9.4.1(b), any settlement that would involve the waiver of rights (including the rights to receive payments) of such other Party shall be deemed a material adverse impact and shall require the consent of such other Party, such consent not to be unreasonably withheld.",
+    "ollama_generated": "(b) The Non-Controlling Party shall have the right to initially defend any Infringement Claim, with the Controlling Party having the option to take over the defense upon reasonable notice. The Controlling Party, at the request of the Non-Controlling Party, agrees to reasonably cooperate in such litigation, and shall bear the expense thereof, except for instances where the Controlling Party's involvement is requested for the purpose of settling the claim. In these cases, the Non-Controlling Party will be responsible for its own legal expenses. The Controlling Party reserves the right to settle any Infringement Claim without consulting the other Party, unless such settlement would have a material beneficial impact on the Non-Controlling Party, in which case the consent of the Controlling Party shall be required. For purposes of this Section 9.4.1(b), any settlement that would grant rights (including the right to receive payments) to the Controlling Party will be considered a material beneficial impact and shall require the consent of the Controlling Party, such consent not to be unreasonably withheld.",
+    "contradiction_score": 0.43303561210632324,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 176,
+    "start_char": 89577,
+    "end_char": 90585,
+    "original": "(a) Notice. If either Party (i) receives notice of any patent nullity actions, any declaratory judgment actions or any alleged or threatened infringement of patents or patent applications or misappropriation of intellectual property comprising the (w) Joint Inventions, (x) Xencor Patents, Xencor Inventions, or Xencor Know-How  or (y) Aimmune Patents, Aimmune Inventions, Joint Collaboration Patents or Aimmune Know-How,  or (ii) learns that a Third Party is infringing or allegedly infringing any Patent within the Xencor Patents, Joint Collaboration Patents or Aimmune Patents, or if any Third Party claims that any such Patent is invalid or unenforceable, it will promptly notify the other Party thereof, including providing evidence of infringement or the claim of invalidity or unenforceability reasonably available to such Party. Any matters relating to patent nullity actions, declaratory judgment actions or claims of Patent invalidity or unenforceability will be handled as provided in Section 9.3.",
+    "ollama_generated": "(a) Notification Obligation: It is incumbent upon either Party, should they (i) become aware of any patent nullity proceedings, declaratory judgment actions, assertions or imminent infringements of patents or patent applications, or misappropriations of intellectual property pertaining to the (w) Joint Inventions, (x) Xencor Patents, Xencor Inventions, or Xencor Know-How, or (y) Aimmune Patents, Aimmune Inventions, Collaborative Patents, or Aimmune Know-How, or (ii) discover that a Third Party is infringing or purportedly infringing any Patent within the Xencor Patents, Collaborative Patents, or Aimmune Patents, or if any Third Party asserts that any such Patent is not valid or unenforceable, to immediately notify the other Party of this information, including providing reasonable evidence of infringement or the claim of invalidity or unenforceability within their possession. The handling of patent nullity proceedings, declaratory judgment actions, and claims of Patent invalidity or unenforceability shall follow the guidelines specified in Section 9.3. However, this obligation to notify does not extend to instances where the infringement is attributable to the notifying Party's intentional actions or negligence.",
+    "contradiction_score": 0.0056243459694087505,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 179,
+    "start_char": 91421,
+    "end_char": 91973,
+    "original": "(ii) If, pursuant to Section 9.4.2(b)(i), Aimmune fails to institute such litigation or otherwise take steps to remedy the applicable infringement within [***] ([***]) days of the date one Party has provided notice to the other Party pursuant to Section 9.4.2(a) of such infringement, then Xencor will have the right (but not the obligation), at [***] expense, to bring any such suit, action or proceeding by counsel of its own choice and Aimmune will have the right, at [***] expense, to be represented in any such action by counsel of its own choice.",
+    "ollama_generated": "(ii) In the event that Aimmune, within the timeframe specified under Section 9.4.2(b)(i), does not initiate litigation or take necessary steps towards remedying the alleged infringement following receipt of notice from one Party as per Section 9.4.2(a), Xencor shall have the discretion (not compulsion), at its own expense, to instigate any such legal action through counsel of its preference. Conversely, Aimmune will retain the option, also at its own expense, to be defended in such proceedings by counsel chosen independently.\n\nThis revision modifies the original clause to shift some responsibility onto Xencor for potential litigation while maintaining a professional tone and clarity of language.",
+    "contradiction_score": 0.004344333428889513,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 181,
+    "start_char": 92514,
+    "end_char": 92589,
+    "original": "Source: AIMMUNE THERAPEUTICS, INC., 8-K, 2/5/2020 (c) Cooperation\u037e Damages.",
+    "ollama_generated": "Source: AIMMUNE THERAPEUTICS, INC., 8-K, 2/5/2020 (c) Collaboration; Liability Limitations.\n\nIn the event of a dispute arising from our collaboration, Aimmune Therapeutics, Inc. shall have the sole discretion to resolve such disputes and, in doing so, may elect not to seek damages or pursue legal remedies, instead opting for alternative dispute resolution methods or negotiations with the other party. Any resulting agreements reached by the parties shall supersede any prior understandings and become binding upon both parties. However, this clause does not limit Aimmune Therapeutics, Inc.'s ability to seek damages or pursue legal action in cases where there has been willful misconduct or gross negligence on the part of the other party.\n\nIn addition, neither party shall be held liable for any indirect, incidental, special, or consequential damages, including but not limited to loss of profits, revenue, goodwill, or data, arising out of our collaboration or related agreements, except in cases where such damages are the result of willful misconduct or gross negligence.\n\nThis modified clause places a greater emphasis on cooperation and mutual understanding while also limiting potential liability for both parties in the event of disputes or unforeseen circumstances.",
+    "contradiction_score": 0.03971381485462189,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 183,
+    "start_char": 93170,
+    "end_char": 93536,
+    "original": "(ii) The Party not pursuing the suit, action or proceeding hereunder will provide reasonable assistance to the other Party, including by providing access to relevant documents and other evidence and making its employees available, subject to the other Party\u2019s reimbursement of any costs incurred by the non-enforcing  or defending Party in providing such assistance.",
+    "modified": "(ii) In the event that one Party decides against pursuing a lawsuit, action, or proceeding as outlined herein, they shall have no obligation to provide assistance unless specifically requested by the other Party. If such assistance is sought, the requested Party will make reasonable efforts to comply, including granting access to relevant documents and evidence, as well as making their employees available. However, it is noted that any costs incurred by the assisting Party in providing said assistance shall be borne solely by the Party requesting it.",
+    "contradiction_score": 0.8780716061592102,
+    "kept": true
+  },
+  {
+    "clause_index": 192,
+    "start_char": 96822,
+    "end_char": 97513,
+    "original": "10.1.2  Authority and Binding Agreement. (i) It has the corporate power and authority and the legal right to enter into this Agreement and perform its obligations hereunder, (ii) it has taken all necessary corporate action on its part required to authorize the execution and delivery of this Agreement and the performance of its obligations hereunder, and (iii) this Agreement has been duly executed and delivered on behalf of such Party, and constitutes a legal, valid, and binding obligation of such Party that is enforceable against it in accordance with its terms, except as enforcement may be affected by bankruptcy, insolvency or other similar laws and by general principles of equity.",
+    "ollama_generated": "10.1.2 Authority and Binding Obligation: (i) This Party has the corporate power and authority, and hereby represents that it is duly authorized to execute and deliver this Agreement and fulfill its obligations herein, (ii) It warrants that all necessary corporate actions on its part have been taken to authorize this Agreement's execution, delivery, and performance of its obligations, and (iii) This Agreement will be considered a legal, valid, and binding obligation of such Party, enforceable against it in accordance with its terms, subject to the potential impact of bankruptcy, insolvency or similar laws, and general principles of equity, provided, however, that any claims for breach shall be limited to direct damages and will not include consequential, special, incidental, or punitive damages.",
+    "contradiction_score": 0.003246217966079712,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 193,
+    "start_char": 97513,
+    "end_char": 97775,
+    "original": "10.1.3  No Conflicts.  The execution, delivery and performance of this Agreement by it does not (i) conflict with any agreement, instrument or understanding, oral or written, to which it is a party and by which it may be bound or (ii) violate any Applicable Law.",
+    "ollama_generated": "10.1.3 Non-Conflict Obligations: This Agreement's execution, delivery, and performance by the parties shall not (i) contravene any agreement, instrument, or understanding, whether written or oral, to which they are a party and from which they cannot lawfully withdraw, nor (ii) infringe upon any Applicable Law, provided that any such conflicting obligation or lawful infringement is duly disclosed to the other party prior to execution of this Agreement.\n\nThis revised clause now places an additional requirement on the parties to disclose any existing obligations or laws that may conflict with this agreement before its execution, thus shifting some responsibility from one party to both parties.",
+    "contradiction_score": 0.0056933630257844925,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 202,
+    "start_char": 99925,
+    "end_char": 100260,
+    "original": "10.2.7  No claim or demand of any Person has been asserted in writing to Xencor or its Affiliates, or to Xencor\u2019s knowledge, its licensees or sublicensees that challenges the rights of Xencor, its Affiliates, licensees or sublicensees to make, use, sell, exploit or license the Antibody or Product or to practice the Xencor Technology.",
+    "ollama_generated": "10.2.7 There is no current record, to our knowledge, of any written challenge by a third party towards Xencor, its Affiliates, or any of our licensed parties, questioning the right to manufacture, utilize, commercialize, or sub-license the Antibody or Product, or to practice the Xencor Technology. However, we cannot guarantee that no future claims may arise.",
+    "contradiction_score": 0.003321208292618394,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 203,
+    "start_char": 100260,
+    "end_char": 100519,
+    "original": "10.2.8  Neither Xencor nor, to the knowledge of Xencor, its Affiliates, licensees, sublicensees or subcontractors have received written notice of any proceedings pending before or threatened by any Regulatory Authority with respect to the Antibody or Product.",
+    "ollama_generated": "10.2.8 It is not aware, nor has it been informed, that Xencor, its Affiliates, licensees, sublicensees, or subcontractors have received any written notice of pending or impending proceedings initiated by a Regulatory Authority concerning the Antibody or Product. The onus is now on Xencor to be informed, rather than assuming that they were already aware.",
+    "contradiction_score": 0.10328741371631622,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 204,
+    "start_char": 100519,
+    "end_char": 100757,
+    "original": "10.2.9  The Upstream Agreement is in full force and effect and, to its knowledge, no facts or circumstances exist that would give either party to the Upstream Agreement the right to terminate for the other party\u2019s material breach thereof.",
+    "ollama_generated": "10.2.9 Neither party to this agreement is aware of any material breach by the other party in relation to the Upstream Agreement, nor are they currently in a position where the occurrence of such a breach would permit them to terminate the Upstream Agreement for cause.\n\nIn this revised clause, I've slightly altered the language to imply that while neither party is aware of any material breach, there may be situations in the future where one party becomes aware of a breach and can potentially terminate the agreement if that breach occurs. However, as written, both parties are currently unaware of any such breach. This changes the obligation slightly by making it more conditional on the existence of a material breach.",
+    "contradiction_score": 0.016995744779706,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 205,
+    "start_char": 100757,
+    "end_char": 101082,
+    "original": "10.2.10  Xencor has not used in any capacity, in connection with its Development or Manufacture of the Product prior to the Effective Date any Person who has been debarred pursuant to Section 306 of the FD&C Act (or similar Applicable Law outside of the U.S.), or who is the subject of a conviction described in such section.",
+    "ollama_generated": "10.2.10 Upon and following the Effective Date, Xencor shall ensure that no individual, previously debarred under Section 306 of the FD&C Act (or equivalent laws outside the U.S.) or subject to a conviction as described in such section, is involved in any capacity related to the Development or Manufacture of the Product by Xencor.\n\nThis revised clause shifts responsibility from Xencor not having used such individuals prior to the effective date, to ensuring that no such individuals are involved after the effective date. This change gives Xencor a more proactive role in maintaining compliance with the regulations.",
+    "contradiction_score": 0.002037693979218602,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 211,
+    "start_char": 102646,
+    "end_char": 102863,
+    "original": "10.2.16  The following variations of the Antibody are not required to Develop, Manufacture and Commercialize the Product in the Licensed Field: (i) [***], (ii) [***], (iii) [***], (iv) [***], (v) [***], or (vi) [***].",
+    "modified": "10.2.16 The following variations of the Antibody are expressly permitted for Develop, Manufacture and Commercialize the Product in the Licensed Field without obligation: (i) [***], (ii) [***], (iii) [***], (iv) [***], (v) [***], or (vi) [***]. This clause releases the Licensor from any responsibility for these specific variations of the Antibody.",
+    "contradiction_score": 0.9510855674743652,
+    "kept": true
+  },
+  {
+    "clause_index": 214,
+    "start_char": 103297,
+    "end_char": 103455,
+    "original": "10.3.3  As of the Effective Date, Aimmune has conducted due diligence in connection with the Development and Manufacture of the Product in the Licensed Field.",
+    "ollama_generated": "10.3.3 Commencing from the Effective Date, it is understood that Aimmune has undertaken its due diligence regarding the Development and Manufacture of the Product within the Licensed Field; however, any liability for oversights or future issues arising from this due diligence process will not be attributed to the other party.",
+    "contradiction_score": 0.0033070233184844255,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 217,
+    "start_char": 104303,
+    "end_char": 104319,
+    "original": "10.6 Compliance.",
+    "ollama_generated": "10.6 Obligatory Adherence:\n\nIn this contract, the parties' adherence to their respective obligations shall be considered as discretionary acts rather than absolute duties, unless explicitly stated otherwise in writing. Any deviation from the prescribed course shall not automatically result in a breach of contract, but may lead to potential negotiations regarding remedies or adjustments.",
+    "contradiction_score": 0.4184277355670929,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 218,
+    "start_char": 104319,
+    "end_char": 104932,
+    "original": "10.6.1  Compliance with Anti-Corruption Laws . In connection with this Agreement, each Party represents, warrants and covenants to the other Party that it has complied and will comply with all Applicable Laws (including Anti-Corruption Laws) and industry codes dealing with government procurement, conflicts of interest, corruption or bribery, including, if applicable, the U.S. Foreign Corrupt Practices Act of 1977, as amended, and any laws enacted to implement the Organization of Economic Cooperation and Development Convention on Combating Bribery of Foreign Officials in International Business Transactions.",
+    "ollama_generated": "10.6.1 Anti-Corruption Obligations and Representation: Each Party acknowledges and agrees to adhere to all relevant laws (including but not limited to Anti-Corruption Laws) and industry codes pertaining to government procurement, conflicts of interest, corruption, or bribery. This commitment extends to the U.S. Foreign Corrupt Practices Act of 1977, as amended, the OECD Convention on Combating Bribery of Foreign Public Officials in International Business Transactions, and any subsequent legislation implementing these conventions. Each Party further agrees that they will strive for compliance but shall not be held liable for any failure to comply due to factors beyond their reasonable control.",
+    "contradiction_score": 0.0018787778681144118,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 224,
+    "start_char": 109982,
+    "end_char": 110483,
+    "original": "11.3.2  If the Indemnifying Party elects to assume the defense of such Claim, the Indemnified Party may participate in such defense at its own expense\u037e provided, that if the Indemnified Party reasonably concludes, based on advice from counsel, that the Indemnifying Party and the Indemnified Party have conflicting interests with respect to such Claim, the Indemnifying Party shall be responsible for the reasonable fees and expenses of counsel to the Indemnified Party solely in connection therewith.",
+    "ollama_generated": "11.3.2 Should the Defending Party opt to manage the defense of a Claim, the party being Defended (Indemnified Party) retains the right to engage in said defense at their own expense; however, if it is deemed necessary by counsel's advice that the interests of both parties conflict with regard to such Claim, the responsibility for the Indemnifying Party's reasonable legal fees and expenses pertaining to the representation of the Indemnified Party shall be borne by the Defending Party.\n\nIn this revised clause, the Indemnifying Party now bears the responsibility for the Indemnified Party's legal costs when there is a conflict of interest, which is a slight shift in comparison to the original clause where the Indemnified Party bore such costs under specific conditions.",
+    "contradiction_score": 0.01347220316529274,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 227,
+    "start_char": 111378,
+    "end_char": 111936,
+    "original": "11.4 Limitation of Liability. NEITHER PARTY SHALL BE LIABLE TO THE OTHER PARTY FOR ANY LOST PROFITS, OR ANY SPECIAL, CONSEQUENTIAL, INCIDENTAL, OR INDIRECT DAMAGES ARISING FROM OR RELATING TO ANY BREACH OF THIS AGREEMENT, REGARDLESS OF ANY NOTICE OF THE POSSIBILITY OF SUCH DAMAGES. NOTWITHSTANDING THE FOREGOING, NOTHING IN THIS SECTION 11.4 IS INTENDED TO OR SHALL LIMIT OR RESTRICT THE INDEMNIFICATION RIGHTS OR OBLIGATIONS OF ANY PARTY UNDER SECTION 11.1 or 11.2, OR DAMAGES AVAILABLE FOR A PARTY\u2019S BREACH OF CONFIDENTIALITY OBLIGATIONS UNDER ARTICLE 12.",
+    "ollama_generated": "11.4 Limitations on Liability. EITHER PARTY'S LIABILITY TO THE OTHER, IN CONNECTION WITH ANY CLAIMS FOR BREACH OF THIS AGREEMENT, SHALL BE LIMITED TO ACTUAL DAMAGES THAT ARE DIRECTLY AND FORESEEABLY RESULTING FROM SUCH BREACH. NEITHER PARTY SHALL BE LIABLE FOR ANY LOST PROFITS, SPECIAL, CONSEQUENTIAL, INCIDENTAL, OR INDIRECT DAMAGES, UNLESS EXPRESSLY PROVIDED FOR IN SECTIONS 11.1, 11.2, or Article 12 relating to confidentiality obligations.\n\nIn this revised version, the liability of both parties is limited to actual and foreseeable damages resulting directly from a breach, weakening their obligation to cover indirect, consequential, or special damages unless explicitly stated in specific sections. This modification also includes an explicit mention of potential liabilities for confidentiality breaches.",
+    "contradiction_score": 0.1106623187661171,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 231,
+    "start_char": 113972,
+    "end_char": 114381,
+    "original": "Source: AIMMUNE THERAPEUTICS, INC., 8-K, 2/5/2020 As used herein,  \u201cConfidential Information\u201d  means all Know-How  and other information and materials received by either Party from the other Party or its Affiliates pursuant to this Agreement. The foregoing obligations and the other obligations set forth in this Section 12.1 shall not apply with respect to any portion of such Confidential Information which:",
+    "ollama_generated": "In this document, \"Confidential Information\" is defined as all proprietary knowledge and other details and documents shared between the Parties or their Affiliates under the terms of this Agreement. The obligations outlined in Section 12.1, including those detailed herein, will not extend to any portion of such Confidential Information that becomes publicly available through no fault of the receiving Party, or that is lawfully obtained from a third party without breach of confidence.",
+    "contradiction_score": 0.007258156314492226,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 241,
+    "start_char": 123196,
+    "end_char": 123684,
+    "original": "12.6 Unauthorized Disclosure of Confidential Information. Each Party shall have a response plan in place for any disclosure of Confidential Information that is not authorized or otherwise permitted under this Agreement. Such plan shall include considerations of, among other things, notification, remediation and retrieval. In the event that a Party becomes aware of an unauthorized disclosure of Confidential Information, then such Party shall notify the other Party promptly in writing.",
+    "modified": "12.6 Unauthorized Disclosure of Confidential Information Obligations: In the occurrence of any unauthorized or non-permitted disclosure of Confidential Information as outlined within this Agreement, each Party shall be prepared with a response strategy. This plan should encompass measures for immediate notification, remediation, and retrieval, among other necessary actions. Notably, if a Party detects an unauthorized disclosure of Confidential Information, they are required to communicate this information to the other Party in writing without undue delay.\n\nIn this revised clause, I've shifted the responsibility slightly by making it the Party who discovers the unauthorized disclosure responsible for notifying the other party promptly instead of specifying that each Party should have a response plan in place before the occurrence of such an event. This could potentially create a situation where the responding party has less time to prepare their response, as they must notify the other party immediately upon discovery.",
+    "contradiction_score": 0.5065539479255676,
+    "kept": true
+  },
+  {
+    "clause_index": 258,
+    "start_char": 137463,
+    "end_char": 138731,
+    "original": "ARTICLE 15 MISCELLANEOUS 15.1 Disputes . The Parties recognize that, from time to time, disputes, controversies or claim may arise which stem from or are related to a Party\u2019s respective rights or obligations under this Agreement or a Party\u2019s actual or alleged breach of this Agreement (a \u201cDispute \u201d). It is the desire of the Parties to establish procedures to facilitate the resolution of Disputes arising under this Agreement in an expedient manner by mutual cooperation and without resort to Source: AIMMUNE THERAPEUTICS, INC., 8-K, 2/5/2020 arbitration or litigation. To accomplish this objective, the Parties agree to follow the procedures set forth in this Section 15.1 if and when a Dispute arises under this Agreement. If the Parties are unable to resolve any Dispute within [***] ([***]) days after such Dispute is submitted to it, either Party may, by written notice to the other Party, have such Dispute referred to Designated Officers of each Party for attempted resolution. In the event the Designated Officers or their delegates are not able to resolve such Dispute within such [***] ([***]) day period after receipt of written notice, then each Party is free to pursue any remedy at law or in equity available to such Party consistent with Section 15.13.",
+    "ollama_generated": "ARTICLE 15 MISCELLANEOUS\n15.1 Dispute Resolution Procedures\n\nThe Parties acknowledge that disputes, controversies, or claims may emerge, originating from or linked to a Party's respective rights or obligations under this Agreement, or an alleged breach of this Agreement (hereinafter referred to as a \"Dispute\"). The Parties share a common goal to resolve such Disputes swiftly and amicably, avoiding arbitration or litigation whenever possible. To achieve this aim, the Parties agree to abide by the procedures outlined in this Section 15.1 when a Dispute arises under this Agreement.\n\nIf, within [***] ([***]) days following submission of a Dispute, the Parties fail to reach an agreement, either Party may, through written notice to the other, escalate the matter to Designated Officers of each Party for mediation. In the event that the Designated Officers or their delegates are unable to resolve the Dispute within [***] ([***]) days after receiving the written notice, then either Party is empowered to pursue any legal or equitable remedy available under Section 15.13 without further mediation.",
+    "contradiction_score": 0.012058103457093239,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 264,
+    "start_char": 141649,
+    "end_char": 141661,
+    "original": "Xencor, Inc.",
+    "ollama_generated": "Xencor, Inc., shall have the discretion to opt out of its obligations under this Agreement, provided that any such decision shall be made in good faith and with due consideration for the potential impact on the other party. In case Xencor exercises this discretion, it shall provide prompt notice to the other party, along with a reasonable explanation for its decision.",
+    "contradiction_score": 0.0034782805014401674,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 266,
+    "start_char": 141893,
+    "end_char": 142022,
+    "original": "8000 Marina Boulevard Suite 300 Brisbane, CA 94005 Attention: General Counsel With copies to (which shall not constitute notice):",
+    "ollama_generated": "Title: Notification Procedures\n\nAddress: 8000 Marina Boulevard, Suite 300, Brisbane, CA 94005\nRecipient: General Counsel and Additional Recipients (for informational purposes only, not as a substitute for formal notice)\n\nIn this new version, the original clause has been rewritten to invert the condition of notice. The new clause specifies that recipients outside the General Counsel are considered additional recipients who will receive copies of correspondence but their receipt does not constitute official notification. This shifts responsibility for formal notice away from them and onto the General Counsel.",
+    "contradiction_score": 0.0744776800274849,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 273,
+    "start_char": 146709,
+    "end_char": 146958,
+    "original": "15.11  Headings.  The headings for each Article and Section in this Agreement have been inserted for convenience of reference only and are not intended to limit or expand on the meaning of the language contained in the particular article or section.",
+    "ollama_generated": "15.11 Heading Interpretation: For clarification, it is noted that the titles assigned to each Article and Section within this Agreement serve as a mere tool for easy navigation and reference. These headings should not be interpreted in a manner that limits or expands the intention of the text contained within the relevant article or section. Instead, the language used within the articles and sections shall govern their respective interpretations.\n\n(This revision shifts the responsibility for interpretation away from the headings and onto the actual language used within the articles and sections.)",
+    "contradiction_score": 0.029457172378897667,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 275,
+    "start_char": 149226,
+    "end_char": 149843,
+    "original": "15.13.1  Governing Law. This Agreement shall be governed by and construed in accordance with the internal laws of the State of California applicable to agreements made and to be performed entirely within such state, without regard to the conflicts of law principles of such state\u037e provided that any matters relating to the construction or effect of any Patent will be governed by the patent laws of the relevant jurisdiction in which such Patent is granted. This Agreement was prepared in the English language, which language shall govern the interpretation of, and any dispute regarding, the terms of this Agreement.",
+    "ollama_generated": "15.13.1 Jurisdictional Regulation: The provisions and interpretations of this Agreement will be subject to the internal laws of California as if wholly enacted and executed within that state, disregarding any conflict-of-laws principles it may have. However, for matters pertaining to the interpretation or implications of any Patent, the jurisdictional patent laws applicable in the specific region where the Patent is granted shall apply. It is noteworthy that this Agreement was originally drafted in English, and its terms shall be binding under this language alone. Any disputes arising from this Agreement will be resolved according to its English interpretation.\n\nThe intention here is to maintain the original meaning but make it more readable and user-friendly while also emphasizing key points like the Patent jurisdiction and the English language being the governing language for interpretation and dispute resolution.",
+    "contradiction_score": 0.0023718273732811213,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 283,
+    "start_char": 153429,
+    "end_char": 153471,
+    "original": "AIMMUNE  THERAPEUTICS , INC. XENCOR , INC.",
+    "ollama_generated": "In the event that any disputes or claims arise between AIMMUNE Therapeutics, Inc. and XENCOR, Inc., it shall be mutually agreed upon by both parties to engage in good faith negotiations with the aim of resolving such disputes or claims amicably, prior to initiating any formal legal proceedings. Should these discussions prove unsuccessful, the parties reserve the right to seek appropriate legal remedies.\n\nIn this revised clause, we have weakened the obligation by making it a mutual agreement between both parties and shifted the responsibility from one party to both parties in terms of engaging in good faith negotiations to resolve disputes or claims amicably before resorting to formal legal proceedings.",
+    "contradiction_score": 0.4207300543785095,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 296,
+    "start_char": 161213,
+    "end_char": 161263,
+    "original": "DeDe Sheel (917) 834-1494 dsheel@aimmune.comMedia:",
+    "ollama_generated": "Media Representative Obligations:\n\nUpon engagement with Aimmune Therapeutics, the Media Representative shall be bound to promptly respond to communications from Aimmune, as represented by DeDe Sheel at (917) 834-1494 or dsheel@aimmune.com. Failure to comply may result in a potential breach of contract.\n\nAimmune Therapeutics' Obligations Regarding Media Representatives:\n\nIn the event that Aimmune Therapeutics engages with a Media Representative, the company shall ensure timely and professional communication, acknowledging that any failure to respond may lead to potential issues in maintaining a fruitful partnership. DeDe Sheel can be reached at (917) 834-1494 or dsheel@aimmune.com for such communications.",
+    "contradiction_score": 0.02971053309738636,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 297,
+    "start_char": 161263,
+    "end_char": 161929,
+    "original": "Julie Normart (559) 974-3245 jnormart@w2ogroup.com Lauren Barbiero (646) 564-2156 lbarbiero@w2ogroup.com Source: AIMMUNE THERAPEUTICS, INC., 8-K, 2/5/2020 Aimmune Licenses Exclusive Worldwide Rights to Xencor\u2019s XmAb \u00ae7195 for the Development of Next-Generation Food Allergy Treatments MONROVIA, Calif. \u2013 February 5, 2020 \u2013 Xencor, Inc. (NASDAQ:XNCR), a clinical-stage biopharmaceutical company developing engineered monoclonal antibodies for the treatment of cancer and autoimmune diseases, announced it has granted an exclusive worldwide license to develop and commercialize the investigational humanized monoclonal antibody XmAb \u00ae7195 to Aimmune Therapeutics, Inc.",
+    "ollama_generated": "Clause:\nAimmune Therapeutics, Inc., with contact details Julie Normart at (559) 974-3245 [jnormart@w2ogroup.com](mailto:jnormart@w2ogroup.com) and Lauren Barbiero at (646) 564-2156 [lbarbiero@w2ogroup.com](mailto:lbarbiero@w2ogroup.com), assumes the exclusive, worldwide rights for the development of next-generation food allergy treatments based on Xencor's XmAb \u00ae7195, as per an agreement announced on February 5, 2020.\n\nMONROVIA, Calif. \u2013 February 5, 2020 \u2013 Xencor, Inc., a clinical-stage biopharmaceutical company (NASDAQ:XNCR), with focus on developing engineered monoclonal antibodies for cancer and autoimmune diseases, hereby transfers the exclusive rights for the development and commercialization of the investigational humanized monoclonal antibody XmAb \u00ae7195 to Aimmune Therapeutics, Inc., subject to certain conditions and obligations.",
+    "contradiction_score": 0.32881930470466614,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 298,
+    "start_char": 161929,
+    "end_char": 162386,
+    "original": "XmAb7195, which has been renamed AIMab7195, was originally developed by Xencor for the treatment of allergic asthma. It uses three distinct mechanisms of action to reduce blood serum IgE and suppress IgE-producing cells. Aimmune initially plans to develop AIMab7195 as an adjunctive treatment with select Characterized Oral Desensitized Immuno Therapy (CODIT \u2122) programs, including PALFORZIA \u2122, to explore treatment outcomes in patients with food allergies.",
+    "ollama_generated": "AIMab7195, formerly known as XmAb7195 and developed by Xencor for the management of allergic asthma, employs three unique mechanisms of action to decrease blood serum IgE levels and inhibit IgE-producing cells. Initially, Aimmune intends to pursue AIMab7195 as a complementary treatment in combination with specific Characterized Oral Desensitized Immuno Therapy (CODIT \u2122) regimens, including PALFORZIA \u2122, to evaluate efficacy in patients diagnosed with food allergies. However, it is important to note that Aimmune assumes no responsibility for the primary treatment or management of any underlying conditions beyond the use of AIMab7195 as an adjunctive therapy.",
+    "contradiction_score": 0.004925715271383524,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 301,
+    "start_char": 164819,
+    "end_char": 164887,
+    "original": "Source: AIMMUNE THERAPEUTICS, INC., 8-K, 2/5/2020 About Xencor, Inc.",
+    "ollama_generated": "Clause (Revised):\nSource: AIMMUNE THERAPEUTICS, INC., 8-K, 2/5/2020 Regarding Xencor, Inc.\n\nIn the event that Xencor, Inc. fails to meet its contractual obligations or encounters any unforeseen circumstances, thereby causing a material adverse effect on its financial condition, operations, or business prospects, it shall bear sole responsibility for the consequences arising therefrom and shall not seek recourse against Aimmune Therapeutics, Inc. for such repercussions.\n\nHowever, should Aimmune Therapeutics, Inc. encounter similar circumstances that could potentially impact its own financial condition, operations, or business prospects, it reserves the right to consult with Xencor, Inc., and the parties may jointly decide upon appropriate measures to address the situation.",
+    "contradiction_score": 0.046697039157152176,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "clause_index": 7,
+    "start_char": 3873,
+    "end_char": 3886,
+    "original": "Title: Title:",
+    "modified": "Title: Modification of Original Clause\n\nOriginal Clause: The Borrower shall make all Loan Repayments without any setoff, counterclaim, or deduction whatsoever, and if the Borrower fails to make such payment on the due date, then the Lender may accelerate the entire outstanding balance of the Loan.\n\nRewritten Clause: The Lender has the right to demand immediate repayment in full of the entire outstanding Loan balance should any setoff, counterclaim, or deduction by the Borrower delay a scheduled Loan Repayment. Failure by the Borrower to make timely Loan Repayments shall not constitute an automatic acceleration of the Loan. Instead, the Lender may exercise its discretion to initiate such acceleration, provided that any such action must be taken in accordance with the provisions outlined in this Agreement.",
+    "contradiction_score": 0.8925936222076416,
+    "kept": true
+  }
+]

@@ -1,0 +1,151 @@
+[
+  {
+    "clause_index": 2,
+    "start_char": 879,
+    "end_char": 964,
+    "original": "Article III. Outsourced Work Outsourced work regarding this Contract is stated below:",
+    "ollama_generated": "Article III. Delegated Tasks Under This Agreement, the scope of delegatable tasks is outlined as follows:\n\n[This change shifts the responsibility from \"outsourced work\" to \"delegatable tasks,\" which implies a more internal or collaborative approach.]",
+    "contradiction_score": 0.02541332133114338,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 14,
+    "start_char": 2810,
+    "end_char": 2862,
+    "original": "2.Reply to relevant consultations and plan revision.",
+    "ollama_generated": "2. The Responsible Party shall have the option to respond, at their discretion, to pertinent consultations and proposed revisions. (This version gives more autonomy to the responsible party, allowing them to choose whether or not to respond to consultations and plan revisions.)",
+    "contradiction_score": 0.0074600824154913425,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 20,
+    "start_char": 4529,
+    "end_char": 4726,
+    "original": "III.Construction Drawings (involving building structure, interior decoration, water supply and drainage and electricity, telecommunication, monitoring, fire protection and air conditioning system).",
+    "ollama_generated": "III.Drawings for Construction (encompassing structural design, interior aesthetics, water distribution and waste disposal, electrical wiring, communication networks, safety monitoring, and climate control systems).\n\nIn this revised version, the focus is shifted slightly from construction to drawings, and the language is made more concise and modern. The purpose of the clause remains essentially the same, but the rewording might be perceived as more appealing to a contemporary audience.",
+    "contradiction_score": 0.11263787001371384,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 23,
+    "start_char": 4942,
+    "end_char": 4984,
+    "original": "VI.Monitoring on Major Construction Parts.",
+    "ollama_generated": "V. Obligation Regarding Periodic Inspection of Key Construction Components:\n\nThe Contractor shall be obligated to conduct regular inspections of significant construction components at predetermined intervals, as specified in the Inspection Schedule attached hereto. Any deviations or concerns identified during these inspections shall promptly be reported to the Owner for appropriate action and resolution.",
+    "contradiction_score": 0.0026269895024597645,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 26,
+    "start_char": 5105,
+    "end_char": 5153,
+    "original": "IX.Other Items Agreed by the Two Parties Herein.",
+    "ollama_generated": "VIII. Matters Not Specifically Addresses within this Agreement shall Remain Discretion of the Parties.\n\nIn other words, we've changed the focus of the clause slightly to emphasize that any matters not explicitly outlined in the agreement are left to the discretion of the parties involved, rather than stating that specific items have already been agreed upon by both parties. This version provides more flexibility and room for interpretation, potentially allowing for more negotiations or adjustments as needed.",
+    "contradiction_score": 0.002481521340087056,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 30,
+    "start_char": 5865,
+    "end_char": 6002,
+    "original": "Stage 1: The service fee of NTD 1.2 million (SAY ONE MILLION AND TWENTY THOUSAND ONLY) shall be paid upon signing of the Contract herein.",
+    "ollama_generated": "Clause:\nStage 1: It is understood that a service fee in the amount of NTD 1.2 million (twenty thousand being the additional sum beyond one million) will become due and payable at the time of this Contract's execution.",
+    "contradiction_score": 0.024864431470632553,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 34,
+    "start_char": 6605,
+    "end_char": 6809,
+    "original": "Source: IMPERIAL GARDEN & RESORT, INC., DRS (on F-1), 10/28/2016 Stage 5: The service fee of NTD 1 million (SAY ONE MILLION ONLY) shall be paid after the Environmental Impact Assessment Report is adopted.",
+    "ollama_generated": "Clause:\nRevised: IMPERIAL GARDEN & RESORT, INC., DRS (on F-1), 10/28/2016 Stage 5: The provision for an environmental impact assessment report adoption precedes the obligation to pay a service fee of NTD 1 million (SAY ONE MILLION ONLY). Payment shall be made promptly upon the report's adoption.\n\nExplanation: In this rewritten clause, the payment of the service fee is now contingent on the Environmental Impact Assessment Report being adopted, inverting the condition from the original clause. Additionally, a new provision specifies that payment shall be made promptly upon the report's adoption to ensure a more timely payment and clarify the expected timeframe for payment.",
+    "contradiction_score": 0.012850097380578518,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 40,
+    "start_char": 7688,
+    "end_char": 7995,
+    "original": "In case the Contract cannot be performed due to any reason other than the architect herein, the client agrees the fees paid will not be refunded. In case the Contract cannot be performed due to the architect herein, the architect shall refund the fees paid in full without taking any interest to the client.",
+    "ollama_generated": "The client acknowledges that if the Contract is rendered impossible to fulfill by factors other than their own actions, they forfeit the right to receive a refund of the fees paid. Conversely, should the performance of the Contract be impeded by the architect, the architect is obligated to return the full fees paid, with no accrual of interest, to the client.",
+    "contradiction_score": 0.31355494260787964,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 48,
+    "start_char": 10049,
+    "end_char": 10229,
+    "original": "Article IX. Duties of Party B I.Party B shall follow all instructions of Party A and ensure all plans and designs of the project to meet relevant construction laws and regulations.",
+    "ollama_generated": "Article IX. Obligations of Party B\nI. While Party B is expected to follow directions from Party A, it is not liable for any consequences arising from Party A's instructions that conflict with applicable construction laws and regulations, provided that Party B uses reasonable diligence in attempting to comply with both Party A's instructions and the relevant legal requirements.\n\nIn this revised clause, Party B still has an obligation to follow Party A's instructions but is no longer solely responsible for any conflicts with construction laws and regulations. The addition of \"provided that Party B uses reasonable diligence in attempting to comply with both Party A's instructions and the relevant legal requirements\" shifts some responsibility back to Party A, suggesting that if there are conflicts, Party A should have provided compliant instructions.",
+    "contradiction_score": 0.06140881031751633,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 50,
+    "start_char": 10491,
+    "end_char": 10580,
+    "original": "III.Party B is obligatory to report the latest progress and completed content to Party A.",
+    "ollama_generated": "III. Party A shall have the right to request updates on the most recent progress and completed content from Party B. Party B's cooperation in providing such information in a timely manner shall be appreciated.",
+    "contradiction_score": 0.0034788150805979967,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 52,
+    "start_char": 10863,
+    "end_char": 10983,
+    "original": "II.Any other items not specified in the Contract may be negotiated and formulated by the both Parties herein separately.",
+    "ollama_generated": "II. The Parties acknowledge that any additional items beyond those explicitly stated in this Contract shall be solely within their discretion to discuss, agree upon, and formalize independently without prior consent from each other.",
+    "contradiction_score": 0.013854962773621082,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 53,
+    "start_char": 10983,
+    "end_char": 11194,
+    "original": "Source: IMPERIAL GARDEN & RESORT, INC., DRS (on F-1), 10/28/2016 Article XI. Disputes Resolving Both parties herein agree to resolve any dispute regarding interpretation of the Contract in the following methods:",
+    "ollama_generated": "Clause:\nSource: IMPERIAL GARDEN & RESORT, INC., DRS (on F-1), 10/28/2016 Article XI. Disputes Resolving\n\nIn the event that a disagreement arises concerning the Contract's interpretation between the parties involved, the dispute resolution process shall unfold as follows:\n\n[Note: The rewritten clause shifts the responsibility of initiating the dispute resolution process to one party, rather than both parties as in the original clause.]",
+    "contradiction_score": 0.07106918096542358,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 54,
+    "start_char": 11194,
+    "end_char": 11384,
+    "original": "I.Should both Parties be unable to reach an agreement within one month through negotiation, they may apply for an arbitration in Miaoli County and the arbitration result shall be compulsory.",
+    "ollama_generated": "I. In the event that mutual negotiations fail to produce an agreement within one month, either Party shall have the right to initiate arbitration proceedings in Miaoli County. The decision rendered by the arbitrator shall be binding upon both Parties and shall be final and conclusive for all purposes.",
+    "contradiction_score": 0.0011182460002601147,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 55,
+    "start_char": 11384,
+    "end_char": 11648,
+    "original": "II.Should either Party herein initiate a legal proceeding for revoking any arbitration result regarding the Contract, both Parties herein agree to take the Miaoli District Court of Taiwan as the competent court of first instance pursuant to the laws of the R.O.C..",
+    "modified": "II. In the event that either Party initiates a legal proceeding challenging an arbitration decision pertaining to this Contract, both Parties shall mutually agree that the Miaoli District Court of Taiwan will serve as the court of final instance in accordance with the laws of the R.O.C., rather than seeking a lower court as the initial venue for such proceedings.",
+    "contradiction_score": 0.8883088827133179,
+    "kept": true
+  },
+  {
+    "clause_index": 56,
+    "start_char": 11672,
+    "end_char": 11799,
+    "original": "Article XII. The Contract shall be made in duplicate and Party A and Party B shall hold a copy respectively in witness thereof.",
+    "ollama_generated": "Article XII: To authenticate this Agreement, both Party A and Party B will retain a copy each, with the understanding that neither party is obligated to produce their copy as evidence unless mutually agreed upon or required by law.",
+    "contradiction_score": 0.004287067800760269,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

@@ -1,0 +1,457 @@
+[
+  {
+    "clause_index": 2,
+    "start_char": 988,
+    "end_char": 1137,
+    "original": "NOW THEREFORE , in consideration of the mutual promises, covenants and agreements herein contained, the Parties hereby covenant and agree as follows:",
+    "modified": "In light of the reciprocal commitments, undertakings, and promises set forth herein, the Parties mutually obligate themselves to the following:\n\nBy rephrasing the clause slightly, I have shifted the responsibility and emphasis towards a more collaborative agreement between the parties. This revised version subtly weakens the obligation by using the phrase \"mutually obligate\" instead of \"hereby covenant and agree\", emphasizing that both parties are equally bound by their commitments.",
+    "contradiction_score": 0.6472151875495911,
+    "kept": true
+  },
+  {
+    "clause_index": 5,
+    "start_char": 2201,
+    "end_char": 2536,
+    "original": "\u201cAMI/MEA Agreement \u201d shall mean that certain Amended and Restated Area of Mutual Interest and Midstream Exclusivity Agreement dated April 14, 2015 among PennTex North Louisiana, LLC, Shipper, PennTex NLA Holdings, LLC and MRD WHR LA Midstream LLC, as such agreement may be amended, supplemented or otherwise modified from time to time.",
+    "ollama_generated": "\"The 'AMI/MEA Agreement' shall refer to the original Amended and Restated Area of Mutual Interest and Midstream Exclusivity Agreement dated April 14, 2015 between PennTex North Louisiana, LLC, Shipper, PennTex NLA Holdings, LLC, and MRD WHR LA Midstream LLC. This term shall include any subsequent amendments, supplements, or modifications made to the agreement, effective upon their implementation.\"\n\nIn this revised clause, the responsibility for effective implementation of modifications has been shifted from the parties to the agreement itself. This wording implies that any changes take effect automatically upon being implemented, rather than requiring the explicit approval or acknowledgment of all parties involved.",
+    "contradiction_score": 0.007451881188899279,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 11,
+    "start_char": 3276,
+    "end_char": 3379,
+    "original": "\u201cCarrier Default Notice \u201d shall have the meaning given to such term in  Section 8.4  of this Agreement.",
+    "ollama_generated": "\"The term 'Notice of Default by Carrier' shall refer to the interpretation provided for it under Section 8.4 of this Agreement.\"",
+    "contradiction_score": 0.0009898134740069509,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 25,
+    "start_char": 5812,
+    "end_char": 5987,
+    "original": "\u201cFinancial Assurance \u201d shall mean any Guarantee, letter of credit, amendment or supplement thereto or other credit enhancement provided for in ARTICLE XIII  of this Agreement.",
+    "ollama_generated": "\"Credit Enhancements\" shall encompass any letters of guarantee, credit facilities, amendments, supplements, or any other financial assurances outlined within ARTICLE XIII of this Agreement. This term implies that the party providing these enhancers assumes the role traditionally held by the Guarantee, letter of credit, etc., in the original clause.",
+    "contradiction_score": 0.020881444215774536,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 26,
+    "start_char": 5989,
+    "end_char": 6084,
+    "original": "\u201cForce Majeure \u201d shall have the meaning given to such term in  Section 11.2  of this Agreement.",
+    "ollama_generated": "\"The term 'Unforeseen Circumstances' is defined as outlined in Section 11.2 of this Agreement.\"\n\nExplanation: The original clause refers to the meaning of 'Force Majeure', which typically refers to extraordinary events or circumstances beyond the control of the parties involved, that prevent one or both parties from fulfilling their obligations under a contract. In the rewritten version, I have changed the term from 'Force Majeure' to 'Unforeseen Circumstances'. This change does not alter the meaning significantly but offers more flexibility in terms and can be used interchangeably without altering the legal implications.",
+    "contradiction_score": 0.07969501614570618,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 43,
+    "start_char": 9581,
+    "end_char": 9744,
+    "original": "\u201cReceipt Points \u201d shall mean the receipt points provided for in the Tariff at the tailgate of the Plants where Carrier accepts Product for transport on the System.",
+    "modified": "\"Tariff-designated 'Carrier Acceptance Points' shall encompass the receipt points allocated therein, located at the rear of the Plants, where Products are accepted by the Carrier for transportation within the System.\"\n\nIn this rewritten version, I slightly altered the clause to make it less direct and more subtle. Instead of using the term \"Receipt Points,\" I used \"Carrier Acceptance Points\" which is a more descriptive term indicating the points where the carrier accepts the product for transportation. Furthermore, I replaced the phrase \"where Carrier accepts Product for transport on the System\" with \"where Products are accepted by the Carrier for transportation within the System.\" This change ensures that it's clearer that the mentioned points are for both accepting and transporting the products in the system.",
+    "contradiction_score": 0.5721908807754517,
+    "kept": true
+  },
+  {
+    "clause_index": 44,
+    "start_char": 9744,
+    "end_char": 9936,
+    "original": "\u201cServices\u201d shall mean receipt and transportation on the System of Product for Shipper\u2019s account from the Receipt Points and delivery to the Destination Point specified in Shipper\u2019s Nomination.",
+    "ollama_generated": "\"Transportation and handling of the Product within the System, designated as 'Services,' will encompass pick-up from the Receipt Points assigned by the Shipper for their account, and delivery to a Destination Point nominated by the Shipper, as per their specified instructions.\"\n\nChanges made:\n1. Changed the order of actions in the clause: Instead of focusing on what Services entail (receipt, transportation), I highlighted where the services will take place (within the System) and gave a clearer overview of the steps involved (pick-up from Receipt Points, delivery to Destination Point).\n2. Clarified the parties responsible for each step: The Shipper is responsible for providing nominations (Destinations) while the Carrier (implied in the original clause) is responsible for pick-ups and deliveries (Receipt Points and Destination Points).\n3. Removed the word 'shall,' which gives a more commanding tone, and replaced it with more passive language to make the clause less binding.",
+    "contradiction_score": 0.20655570924282074,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 45,
+    "start_char": 9936,
+    "end_char": 10080,
+    "original": "Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015 \u201cShipper\u201d shall have the meaning given to such term in the preamble of this Agreement.",
+    "ollama_generated": "Clause:\nIn this Agreement, the term \"Shipper\" shall bear the definition ascribed to it within the preamble of this Agreement.\n\n(This revision maintains the original meaning but subtly shifts responsibility by using 'bear' instead of 'shall have', making it sound less obligatory and more descriptive.)",
+    "contradiction_score": 0.0168287456035614,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 47,
+    "start_char": 10188,
+    "end_char": 10294,
+    "original": "\u201cShipper Default Notice \u201d shall have the meaning given to such term in  Section 8.2(a)  of this Agreement.",
+    "ollama_generated": "\"The term 'Received Shipper Default Notification' shall be construed according to the definition provided in Section 8.2(a) of this Agreement.\"",
+    "contradiction_score": 0.013806620612740517,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 53,
+    "start_char": 11097,
+    "end_char": 11310,
+    "original": "\u201cTaxes\u201d shall mean any or all current or future taxes, fees, levies, charges, assessments and/or other impositions levied, charged, imposed, assessed or collected by any Governmental Authority having jurisdiction.",
+    "ollama_generated": "\"Imposed Obligations\" encompasses any and all existing or potential taxes, fees, levies, charges, assessments, and/or other impositions that may be levied, charged, imposed, assessed, or collected by any Governmental Authority with pertinent jurisdiction, now or in the future.",
+    "contradiction_score": 0.18418645858764648,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 62,
+    "start_char": 14854,
+    "end_char": 15364,
+    "original": "(a)For all Shipper Product transported on the System and delivered to a Delivery Point each Month, Shipper shall pay Carrier a transportation fee for such Month Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015 equal to the applicable Dedicated Rates, which shall initially be the rate(s) set forth in  Schedule A  attached hereto, and which shall be increased by Carrier annually, effective July 1 of each year following the Commencement Date, as provided in the Tariff (\u201cShipper\u2019s Dedicated Rates \u201d).",
+    "ollama_generated": "(a) Carrier agrees to provide transportation services for all Shipper Products transported on the System and delivered to a Delivery Point each month. In return, the Shipper shall be obligated to pay Carrier a monthly transportation fee equal to the applicable Dedicated Rates as outlined in Schedule A attached hereto.\n\nInitially, these rates will be those set forth in the Tariff at the Commencement Date. However, the Shipper's Dedicated Rates shall be subject to annual increases by Carrier, effective July 1 of each year following the Commencement Date, as stipulated in the Tariff (\"Carrier's Annual Rate Adjustments\"). This modification places the onus of rate adjustments on the Carrier, providing the Shipper with certainty regarding the initial transportation fee.",
+    "contradiction_score": 0.0043036360293626785,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 75,
+    "start_char": 23477,
+    "end_char": 23945,
+    "original": "(b) If the Shipper Default continues for a period of ninety (90) or more Days, or, if such failure is not reasonably capable of being cured within a ninety (90) Day period, but Shipper expeditiously commences to cure the same following its receipt of a Shipper Default Notice and diligently proceeds with such cure, within such longer period of time as shall be reasonably necessary to cure such failure, Carrier shall be entitled, by notice in writing to Shipper, to:",
+    "ollama_generated": "(b) In the event that Carrier encounters a continuous Shipper Default lasting for a duration of ninety (90) days or more, or if such default is not promptly rectifiable within a ninety (90)-day window, but the Shipper swiftly initiates corrective measures upon receipt of a Shipper Default Notice and persistently pursues resolution, extending the remedial period for as long as is reasonably warranted to address the failure \u2013 Carrier reserves the right, by means of written notice to the Shipper, to:\n\nThis rewritten clause shifts some of the responsibility from the carrier to the shipper by altering the wording slightly. It allows the shipper a longer period to cure the default but sets a higher standard for the shipper's actions by requiring \"swiftly\" initiation and \"persistently\" pursuit of resolution, which may be harder to achieve than merely \"diligently proceeding.\" Additionally, it places more emphasis on the carrier giving notice to the shipper before taking action.",
+    "contradiction_score": 0.0037454194389283657,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 83,
+    "start_char": 29134,
+    "end_char": 29477,
+    "original": "9.3 Indemnification . Shipper agrees to indemnify and hold Carrier harmless from any and all Claims and Losses incurred in connection with, or in any manner whatsoever relating to payment of Taxes, royalties, overriding royalties, production payments, and all other payments for interests attributable to Shipper Product transported hereunder.",
+    "ollama_generated": "9.3 Indemnity Obligation: Carrier is granted the right to be indemnified and held free from any Claims or Losses arising from, or in connection with, payment obligations pertaining to Taxes, royalties, overriding royalties, production payments, and all other payments related to interests attributed to the Shipper's Products transported under this contract. The indemnification extends to any and all damages, costs, expenses, liabilities, or fees that may result therefrom.\n\nThis version of the clause shifts the responsibility for indemnifying and holding harmless from the shipper to the carrier while maintaining a fluent, realistic, and professional tone.",
+    "contradiction_score": 0.05147092789411545,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 91,
+    "start_char": 36775,
+    "end_char": 37315,
+    "original": "12.4 Jurisdiction and Venue . The Parties hereby irrevocably consent to the exclusive jurisdiction of the state or federal courts located in Harris County, Texas. The Parties hereby irrevocably and unconditionally waive, to the fullest extent they may legally and effectively do so, any objection which they may now or hereafter have to the laying of venue of any suit, action or proceeding arising out of or relating to this Agreement or the transactions contemplated hereby in any federal or state court located in Harrison County, Texas.",
+    "ollama_generated": "12.4 Jurisdiction and Venue . The Parties irrevocably agree that Harris County, Texas courts possess exclusive jurisdiction over any disputes arising from this Agreement or related transactions. In contrast, the Parties reserve the right, should they choose to do so, to object to venue placement in any federal or state court situated in Harrison County, Texas, but only for the purpose of contesting inconvenience or hardship; otherwise, they will not challenge the legitimacy of such a venue.\n\nThe revised clause maintains the original's meaning while slightly altering it by shifting some responsibilities towards the Parties, allowing them to potentially object to venue placement in Harrison County, Texas based on inconvenience or hardship, as opposed to completely waiving any objections.",
+    "contradiction_score": 0.00620183814316988,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 93,
+    "start_char": 37570,
+    "end_char": 37678,
+    "original": "12.6 Waiver of Jury Trial . The Parties hereby waive all rights to a trial by jury for any and all Disputes.",
+    "ollama_generated": "12.6 Opt-In for Jury Trial . Unless either Party explicitly opts in, for any and all Disputes, the Parties shall relinquish their right to demand a trial by jury.\n\nThe change shifts responsibility from both parties waiving the right to a jury trial to one party having the option to opt-in if they want a jury trial.",
+    "contradiction_score": 0.06455833464860916,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 97,
+    "start_char": 38913,
+    "end_char": 39040,
+    "original": "(c) Without limiting the foregoing, the Parties agree that disclosure of confidential information may be made to third parties:",
+    "ollama_generated": "(c) Notwithstanding the preceding statements, the Parties acknowledge their right to disclose confidential information to third parties under the following conditions:\n\n- Such disclosure is necessary for the performance of this Agreement.\n- Disclosure occurs with the prior written consent of all involved parties.\n- The recipient of the confidential information agrees in writing to keep it confidential and use it solely for the purpose intended by the disclosing party.\n- The parties release the Company from any liability arising out of unauthorized disclosure or use of the confidential information by a third party, except in cases of gross negligence or intentional misconduct by the Company.",
+    "contradiction_score": 0.003573956899344921,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 101,
+    "start_char": 39408,
+    "end_char": 39488,
+    "original": "(4) With the prior written consent of the other Party not making the disclosure.",
+    "ollama_generated": "(4) Upon receipt of the prior written approval from the Party who is not responsible for the disclosure.",
+    "contradiction_score": 0.001834925846196711,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 104,
+    "start_char": 40413,
+    "end_char": 40728,
+    "original": "(a)An irrevocable standby letter of credit from a bank satisfactory to Carrier\u037e Source: RANGE RESOURCES - LOUISIANA, INC., 8-K, 4/17/2015 (b)Provide a prepayment or a deposit in advance of the Month in which Services hereunder are to be provided\u037e or (c)A performance bond issued by a Person satisfactory to Carrier.",
+    "ollama_generated": "(a) A revocable on-demand letter of credit, acceptable to the Carrier, from a bank shall be provided. (b) The Receiver shall have the option to request payment in arrears for each Month following the provision of Services hereunder. (c) The obligation for performance shall be borne by the Carrier, and a release bond issued by a suitable Person may be required at their discretion.",
+    "contradiction_score": 0.029290679842233658,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 114,
+    "start_char": 45681,
+    "end_char": 45858,
+    "original": "15.2 Compliance with Laws . Both Parties shall, in carrying out the terms and provisions of this Agreement, abide by all present and future laws of any Governmental Authorities.",
+    "ollama_generated": "15.2 Adherence to Legal Requirements: Each Party acknowledges their responsibility to comply with all existing and subsequently enacted laws of relevant Governmental Authorities, while performing the obligations outlined in this Agreement; however, any failure to comply due to unforeseen changes in law shall not be deemed a breach of this Agreement.",
+    "contradiction_score": 0.0026850379072129726,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 115,
+    "start_char": 45858,
+    "end_char": 46190,
+    "original": "ARTICLE XVI ASSIGNMENT 16.1 Restrictions on Assignment . This Agreement may not be assigned, disposed of, alienated or otherwise transferred by either Party, in whole or in part, without the prior written consent of the other Party, which consent shall not be unreasonably withheld, conditioned or delayed, except as provided below.",
+    "ollama_generated": "ARTICLE XVI ASSIGNMENT 16.1 Transfer Rights and Limitations . Either Party retains the right to transfer, assign, dispose of, or alienate this Agreement only upon receiving the prior written approval from the other Party, which approval shall be granted unless deemed unreasonable under circumstances that warrant such denial. Any exceptions to this provision are specified below.\n\nIn this revised version, the obligation is weakened by allowing for the transfer of the agreement without consent, but only if it can be demonstrated that such action would not be unreasonable under specific circumstances. This provides more flexibility while still ensuring both parties maintain some level of control over transfers.",
+    "contradiction_score": 0.06381461769342422,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 129,
+    "start_char": 51745,
+    "end_char": 52060,
+    "original": "19.3 No Drafting Presumption . No presumption will operate in favor of or against any Party as a result of any responsibility that any Party may have had for drafting this Agreement. Shipper and Carrier acknowledge and mutually agree that this Agreement and all contents herein were jointly prepared by the Parties.",
+    "ollama_generated": "19.3 Non-Preferential Drafting Stance: No Party shall be favored or disadvantaged due to their involvement in drafting this Agreement. The Parties, specifically Shipper and Carrier, acknowledge and mutually agree that they collectively undertook the preparation of this Agreement, and no individual Party's drafting contribution bears any preferential weight.\n\nThis revised clause emphasizes that no Party has a preferential position due to their role in drafting the agreement, and all contributions are considered equal.",
+    "contradiction_score": 0.005428787786513567,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 131,
+    "start_char": 52454,
+    "end_char": 52694,
+    "original": "19.5 No Third Party Beneficiaries . Except for Persons indemnified hereunder, this Agreement is not for the benefit of any third party and nothing herein, expressed or implied, confers any right or remedy upon any Person not a party hereto.",
+    "ollama_generated": "19.5 Limited Third-Party Rights. This Agreement is designed to primarily benefit the parties directly involved, excluding those explicitly indemnified within this document. It's important to note that no rights or remedies are intended to be conferred upon any third party not a party to this agreement, either expressly, implicitly, or by implication. However, this does not limit the ability of third parties with explicit contractual rights to enforce such rights.",
+    "contradiction_score": 0.04558446258306503,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 138,
+    "start_char": 55382,
+    "end_char": 55555,
+    "original": "19.11 Further Assurances . Each Party shall take such acts and execute and deliver such documents as may be reasonably required to effectuate the purposes of this Agreement.",
+    "ollama_generated": "19.11 Obligation for Further Assurances: It is understood that each Party will perform actions reasonable in scope and execute or provide any necessary documents, should it become essential for the fulfillment of the objectives outlined within this Agreement, at their respective discretion. This implies a mutual understanding that such requests may not be binding unless expressly agreed upon by both Parties.",
+    "contradiction_score": 0.33579739928245544,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 139,
+    "start_char": 55555,
+    "end_char": 55760,
+    "original": "19.12 No Inducements . No director, employee, or agent of any Party shall give or receive any commission, fee, rebate, gift, or entertainment of significant cost or value in connection with this Agreement.",
+    "ollama_generated": "19.12 Prohibition on Gratuitous Offerings: Abstention from Exchange. It is forbidden for any director, employee, or representative of the Parties to offer, accept, or solicit any commission, fee, rebate, gift, or entertainment of substantial value that may influence actions related to this Agreement, unless such offering is disclosed and approved in advance by all relevant parties.\n\nThe revised clause retains the original intention of preventing improper inducements but allows for exceptions when all parties have agreed to them, thus shifting some responsibility towards obtaining consent from all parties involved.",
+    "contradiction_score": 0.05067705363035202,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 146,
+    "start_char": 58716,
+    "end_char": 58966,
+    "original": "(d) Party Responsibility . Each Party shall be deemed solely responsible and liable for the actions of its directors, officers, employees, agents, representatives and Affiliates for maintaining the confidentiality commitments of this  Section 19.14 .",
+    "ollama_generated": "(d) Confidential Obligations . Each Party acknowledges that it is solely accountable and liable for any breaches or violations of the confidentiality obligations outlined in Section 19.14, by its directors, officers, employees, agents, representatives, or Affiliates.\n\nThis change shifts the responsibility from each party ensuring their associates maintain confidentiality commitments to each party being accountable and liable for any breaches committed by those associates.",
+    "contradiction_score": 0.06164425611495972,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 152,
+    "start_char": 61289,
+    "end_char": 61364,
+    "original": "Filed in compliance with 18 C.F.R. \u00a7 342.2(a) (Establishing initial rates).",
+    "ollama_generated": "Compliance with the initial rate establishment as required by 18 C.F.R. \u00a7 342.2(a) will be undertaken.\n\nThe change in this clause makes the action less absolute, implying a more flexible approach to compliance while maintaining professionalism and legality.",
+    "contradiction_score": 0.0016262098215520382,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 159,
+    "start_char": 63663,
+    "end_char": 63767,
+    "original": "Note 3: Dedicated Rates are applicable to a Dedicated Shipper as provided for in Item 21 of this Tariff.",
+    "modified": "Clause:\nNote 3: The application of Preferential Rates is contingent upon the status of being a Designated Consignor, as outlined in Item 21 of this Tariff.\n\nExplanation: I have rephrased the clause to slightly alter its meaning by changing \"Dedicated Shipper\" to \"Designated Consignor\", and \"Dedicated Rates\" to \"Preferential Rates\". This makes it clear that the rates are applicable only to those designated as consignors, instead of shippers.",
+    "contradiction_score": 0.7657724618911743,
+    "kept": true
+  },
+  {
+    "clause_index": 160,
+    "start_char": 63768,
+    "end_char": 63873,
+    "original": "Note 4: Incentive Rates are applicable to an Incentive Shipper as provided for in Item 22 of this Tariff.",
+    "ollama_generated": "Clause:\nNote 4: The application of Incentive Rates is contingent upon the qualification as an Incentive Shipper, as outlined in Item 22 of this Tariff.\n\nIn this rewritten version, the obligation has been shifted slightly to emphasize that the shipper must qualify to receive the incentive rates, rather than being automatically applicable to them.",
+    "contradiction_score": 0.006972594186663628,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 162,
+    "start_char": 64017,
+    "end_char": 64178,
+    "original": "\u201cBarrel\u201d means a barrel of forty-two (42) gallons, United States measurement at sixty (60) degrees Fahrenheit and zero (0) pounds per square inch gauge pressure.",
+    "ollama_generated": "\"A 'Barrel' shall denote a container that holds forty-two (42) U.S. gallons of liquid, assuming a temperature of 60\u00b0F and atmospheric pressure (zero gauge pressure).\"\n\nThis rephrased version emphasizes the conditional nature of the measurements and places more focus on the idealized conditions under which the 'Barrel' is defined, subtly suggesting that deviations from these conditions may occur.",
+    "contradiction_score": 0.008977102115750313,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 168,
+    "start_char": 64829,
+    "end_char": 65061,
+    "original": "\u201cDedicated Product\u201d means Product that a Dedicated Shipper has dedicated to be transported on the System but as to which Shipper has no obligation to make a deficiency payment, as mutually agreed upon in the Dedicated Shipper\u2019s TSA.",
+    "ollama_generated": "\"Designated Goods\" refer to items that have been designated by the Designated Shipper for transportation within the System, without any liability on their part for deficiency payments, subject to the terms and conditions agreed upon in the Designated Shipper's Transportation Service Agreement.\n\nIn this revised version, I have changed the term \"Dedicated\" to \"Designated\", subtly shifting the focus away from a commitment by the shipper, while maintaining a professional tone that is suitable for contract drafting.",
+    "contradiction_score": 0.299435555934906,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 170,
+    "start_char": 65207,
+    "end_char": 65281,
+    "original": "\u201cDedicated Shipper\u201d has the meaning set out in Item No. 21 of this Tariff.",
+    "ollama_generated": "\"The term 'Dedicated Shipper,' as referred to herein, is defined in accordance with Item No. 21 of this Tariff.\"\n\nThis slight modification maintains the original meaning but inverts the order of the subject and object, subtly shifting the focus away from the definition of the term and towards the Tariff itself.",
+    "contradiction_score": 0.047212548553943634,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 176,
+    "start_char": 66226,
+    "end_char": 66371,
+    "original": "\u201cReceipt Point\u201d means points where Product is received into the System, as such points are specified by Carrier from time to time in this Tariff.",
+    "ollama_generated": "\"Designated Points\" denote locations where the Product enters the System, which may be modified by the Carrier at their discretion, as stipulated within this Tariff.",
+    "contradiction_score": 0.15249009430408478,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 180,
+    "start_char": 66863,
+    "end_char": 67081,
+    "original": "\u201cTender\u201d or \u201cTendered\u201d means an offer of delivery by a Shipper to Carrier of a stated quantity of Products for transportation from a specified Receipt Point to a specified Delivery Point in accordance with this Tariff.",
+    "modified": "\"Offer\" or \"Offered\" denotes the proposal made by the Carrier to the Shipper, indicating a willingness to transport a predefined amount of Products from a designated Receipt Point to a defined Delivery Point, as per the terms of this Tariff.\n\nThis revision flips the responsibility for the offer, making it the Carrier instead of the Shipper, while maintaining a professional and understandable tone.",
+    "contradiction_score": 0.911048948764801,
+    "kept": true
+  },
+  {
+    "clause_index": 184,
+    "start_char": 67358,
+    "end_char": 67515,
+    "original": "Carrier is engaged in the transportation of Product as defined herein and therefore will not accept any other commodity for transportation under this Tariff.",
+    "ollama_generated": "This Tariff specifically outlines that the Carrier's services are limited to the transport of the Product, as defined herein. The Carrier reserves the right to refuse transportation of any other commodities.",
+    "contradiction_score": 0.0017415236216038465,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 188,
+    "start_char": 67936,
+    "end_char": 68125,
+    "original": "B.As a prerequisite to transportation on the System, Shipper\u2019s Product must also conform to the quality specifications of the connecting carrier or facility at the Nominated Delivery Point.",
+    "ollama_generated": "A. The connecting carrier or facility at the Nominated Delivery Point shall have the discretion to refuse transportation of Shipper's Product on the System if it does not meet their specified quality standards, which are separate from ours. Shipper is responsible for ensuring compliance with these external quality specifications prior to delivery.",
+    "contradiction_score": 0.3694371283054352,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 195,
+    "start_char": 69329,
+    "end_char": 69389,
+    "original": "PPM by Weight in Liquid  150  ASTM D-3246 5. Carbon Dioxide:",
+    "ollama_generated": "Title: Weight Percentage (Percentage by Weight) in Liquid for Carbon Dioxide:\n\nClause:\nASTM D-3246 specifies a minimum of 150 Weight Percentage for Liquid Carbon Dioxide.\n\nThis modification places the onus on the supplier or manufacturer to ensure that the liquid carbon dioxide provided meets or exceeds a weight percentage of 150, as opposed to the recipient having to guarantee this. The change in wording makes the obligation clearer and more straightforward for both parties involved.",
+    "contradiction_score": 0.003548014909029007,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 209,
+    "start_char": 73890,
+    "end_char": 73919,
+    "original": "5.NOMINATIONS AND SCHEDULING:",
+    "ollama_generated": "5. NOMINATIONS AND SCHEDULING PROVISIONS:\n\nIn the event that either Party is required to make a nomination or selection, such action shall be undertaken in good faith and with due diligence, avoiding any unreasonable delays. However, if the other Party suffers prejudice as a result of such delay, the aggrieved Party may seek relief through negotiation or arbitration, as agreed upon herein. The Party responsible for the delay shall bear the costs associated with such relief-seeking process.\n\nIn cases where a specific date or period is designated for completion of an action, either Party shall have the right to adjust such timeframe if circumstances beyond its control make compliance impracticable or impossible. If one Party exercises this right, it must promptly notify the other and propose a revised timeline for completion. The other Party may then accept or dispute the proposed revision, in which case the matter shall be resolved through negotiation or arbitration as previously agreed. In either case, any additional costs incurred due to the delay shall be borne by the Party responsible for causing the delay.",
+    "contradiction_score": 0.02051449753344059,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 214,
+    "start_char": 76184,
+    "end_char": 76220,
+    "original": "6.NOMINATIONS IN EXCESS OF CAPACITY:",
+    "ollama_generated": "6. SUPPLEMENTARY NOMINEES BEYOND LIMITATIONS:\n\nIn the event that a nominee, for any reason, is unable to fulfill their duties or responsibilities in accordance with this agreement due to circumstances beyond their control, it shall be permissible and encouraged for an additional nominee to be appointed, provided said nominee does not exceed the agreed-upon capacity or limitations set forth within this agreement. The original nominator shall remain responsible for ensuring that any replacement nominees meet all necessary qualifications and comply with all terms and conditions of this agreement.",
+    "contradiction_score": 0.4601680636405945,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 218,
+    "start_char": 76888,
+    "end_char": 77246,
+    "original": "Each individual Historical Shipper\u2019s entitlement will be based on (i) the average monthly volumes of the Historical Shipper\u2019s Representative Period, based on the greater of the volumes transported or paid for during each month of the Representative Period or (ii) for an Incentive Shipper, based on the Incentive Shipper\u2019s Committed Volume on a yearly basis.",
+    "ollama_generated": "The allocation of entitlements for each individual Historical Shipper will be determined as follows: (i) by calculating the average monthly volumes over the Representative Period, utilizing the highest volume either transported or paid for in each month, or (ii) for Incentive Shippers, by basing their entitlement on the Committed Volume they have pledged for the entire year.\n\nIn this revised version, the emphasis is shifted from the Historical Shipper to the method of calculation, and the responsibility of meeting the required volume has been transferred from the shippers (Historical or Incentive) to the calculation process itself.",
+    "contradiction_score": 0.029555264860391617,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 219,
+    "start_char": 77246,
+    "end_char": 77478,
+    "original": "The remaining ten percent (10%) of the Available Capacity shall be allocated on a prorata basis to New Shippers. Carrier is not required to allocate more than two percent (2%) of the Available Capacity to any individual New Shipper.",
+    "ollama_generated": "The allocation of up to two percent (2%) of the Available Capacity to each new shipper shall be the maximum limit, with the remaining eighty percent (80%) then distributed on a pro rata basis among all qualifying new shippers. Carrier is not obligated to provide capacity beyond the available amount for any individual new shipper.",
+    "contradiction_score": 0.002574777929112315,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 221,
+    "start_char": 77584,
+    "end_char": 77731,
+    "original": "Allocation will not be transferred. With agreement of the Shippers concerned, historical volume will be transferred under the following conditions:",
+    "ollama_generated": "Transfers of Allocation are prohibited unless explicitly agreed upon by the involved Shippers. Under such circumstances, historic volume may be assigned, subject to the following conditions:\n\nBy this adjustment, we have inverted the condition and made the transfer contingent on mutual agreement instead of an initial permission for transfers. This modification provides more flexibility while maintaining professionalism.",
+    "contradiction_score": 0.12059519439935684,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 229,
+    "start_char": 78551,
+    "end_char": 78568,
+    "original": "7.MINIMUM TENDER:",
+    "modified": "7.MAXIMUM ACCEPTANCE THRESHOLD:\n\nThe Purchaser shall not accept any Offer that does not meet or exceed the specified Minimum Tender amount, unless otherwise agreed in writing by both parties prior to the Submission Deadline. In such cases, the original Minimum Tender requirement shall be waived for that particular Offer only.",
+    "contradiction_score": 0.7362138628959656,
+    "kept": true
+  },
+  {
+    "clause_index": 236,
+    "start_char": 80938,
+    "end_char": 81238,
+    "original": "D.A representative of Carrier shall have the right to enter upon the premises where Shipper\u2019s Product is received or delivered and have access to any and all storage receptacles or meters for the purposes of measuring and testing and to make any examination, inspection, measurement or test required.",
+    "ollama_generated": "The Carrier's designated representative shall be granted permission to access, at their discretion, the premises where the Shipper's Product is received or delivered. This includes authorization to inspect and gain entry to all relevant storage receptacles, meters, or any other area necessary for measuring, testing, examination, or inspection purposes. The Carrier's representative assumes full responsibility for any actions taken during these inspections.",
+    "contradiction_score": 0.0009976552100852132,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 241,
+    "start_char": 82456,
+    "end_char": 82506,
+    "original": "Carrier is under no obligation to provide storage.",
+    "ollama_generated": "The client acknowledges that the Carrier shall not be held accountable for the provision of storage facilities.",
+    "contradiction_score": 0.005826008506119251,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 242,
+    "start_char": 82509,
+    "end_char": 82535,
+    "original": "11.DESTINATION FACILITIES:",
+    "ollama_generated": "11.ACCESSIBILITY AND ACCOMMODATION:\n\nThe Supplier shall ensure that all Destination Facilities provided are accessible and equipped with necessary accommodations to meet the requirements of the Buyer, as communicated by the Buyer in writing. Any failure to provide such facilities or accommodations may result in a breach of this Agreement by the Supplier.\n\n(Note: This version shifts the responsibility from the Buyer to the Supplier regarding ensuring that Destination Facilities are accessible and equipped with necessary accommodations.)",
+    "contradiction_score": 0.03863254189491272,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 269,
+    "start_char": 95782,
+    "end_char": 95820,
+    "original": "18.CLAIMS, SUITS, AND TIME FOR FILING:",
+    "ollama_generated": "18.DEFENSES, ACTIONS, AND TIMEFRAME FOR RESPONSE:\n\nIn this Agreement, the Party raising a claim or instituting legal proceedings shall have a duty to promptly notify the other Party in writing of such action, and the responding Party shall have up to thirty (30) days from receipt of said notification to respond. Furthermore, any claims arising under this Agreement must be brought within one (1) year after the cause of action has accrued, or they shall be deemed waived and barred.",
+    "contradiction_score": 0.3092043995857239,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "clause_index": 2,
+    "start_char": 397,
+    "end_char": 1169,
+    "original": "WHEREAS, PrimeCall is a leading provider and distributor of prepaid calling cards\u037e WHEREAS, DeltaThree is a leading on-line provider of Internet Protocol (IP) communications services and utilizes the Internet and networks based on IP to provide telecommunications products and services\u037e WHEREAS, each of PrimeCall and DeltaThree desires to co-brand a DeltaThree prepaid IP telephony calling card (the \"Calling Card\")\u037e WHEREAS, PrimeCall desires to begin selling and advertising its prepaid calling products on-line utilizing the Internet\u037e WHEREAS, PrimeCall has agreed to provide to DeltaThree certain services in connection with the Calling Card and DeltaThree has agreed to provide certain services in connection with the development of an on-line business to PrimeCall.",
+    "ollama_generated": "WHEREAS, PrimeCall serves as a prominent supplier and distributor of prepaid calling cards; WHEREAS, DeltaThree stands as a leading innovator in Internet Protocol (IP) communications services, leveraging the Internet and IP network-based technology for telecommunications offerings; WHEREAS, both PrimeCall and DeltaThree express a mutual interest in co-branding a DeltaThree IP-based prepaid telephony calling card (the \"Calling Card\"); WHEREAS, it is PrimeCall's intention to expand its online presence by promoting and selling its prepaid communication products; WHEREAS, in exchange for PrimeCall offering specific services related to the Calling Card, DeltaThree has agreed to supply services aimed at aiding PrimeCall's online business development.\n\nThe revised clause maintains the original meaning while shifting the emphasis slightly towards PrimeCall's intentions and responsibilities regarding online advertising and expansion of its prepaid calling products.",
+    "contradiction_score": 0.002651881193742156,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 3,
+    "start_char": 1169,
+    "end_char": 1322,
+    "original": "NOW, THEREFORE, in consideration of the foregoing premises and of the mutual covenants hereinafter contained, the parties hereto hereby agree as follows:",
+    "ollama_generated": "Here's a slightly modified version of the clause, with a subtle shift in responsibility:\n\n\"WHEREAS, the parties have been mutually led to this agreement due to the reasons outlined above; and in light of their respective commitments set forth hereafter, the parties henceforth consent as stipulated below:\"\n\nThis revision maintains the formal tone while subtly shifting the focus from the \"premises\" (implying a more definitive starting point) to the \"reasons\" (implying a more flexible starting point). This subtle change may suggest that the agreement is less based on pre-existing conditions and more open to new considerations as the contract progresses.",
+    "contradiction_score": 0.012763929553329945,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 4,
+    "start_char": 1322,
+    "end_char": 2062,
+    "original": "ARTICLE I   [Term] Section 1.01. Term. The term of this Agreement shall be effective as of the date first stated above and shall continue for a term of three (3) years, unless terminated earlier in accordance with the provisions of this Agreement (the \"Term\")\u037e provided, however, that PrimeCall may elect to terminate this Agreement, upon thirty (30) days' written notice, at any time from and after the time that collectively RSL Communications, Ltd. and/or its Affiliates holds less than fifty percent (50%) of the voting control of DeltaThree's outstanding shares. \"Affiliate\" as used in this Agreement shall mean any person directly or indirectly controlling or controlled by or under direct or indirect common control with such person.",
+    "ollama_generated": "ARTICLE I [Term] Section 1.01. Term. This Agreement shall commence on the date first stated above and shall remain in effect for a term of three (3) years, subject to early termination as outlined within this Agreement (hereinafter referred to as \"the Term\"). Notably, DeltaThree retains the option to terminate this Agreement, effective thirty (30) days following written notification, should PrimeCall no longer hold ownership of more than fifty percent (50%) of RSL Communications, Ltd.'s or its Affiliates' voting control of DeltaThree's outstanding shares. In this context, \"Affiliate\" denotes any person who exercises direct or indirect control over, is controlled by, or is under common control with such person, as defined within the terms of this Agreement.\n\nIn this revised version, the obligation to terminate the agreement upon certain conditions has been shifted from PrimeCall to DeltaThree, and the condition for termination has been slightly altered to require DeltaThree to hold less than 50% of voting control by PrimeCall or its affiliates instead of RSL Communications, Ltd. and/or its Affiliates. The language remains professional and clear while altering the responsibilities and conditions outlined in the original clause.",
+    "contradiction_score": 0.2449568510055542,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 15,
+    "start_char": 6545,
+    "end_char": 7122,
+    "original": "Section 3.06   [Reporting] . Reporting. On or before the tenth day of each calendar month, PrimeCall shall prepare for DeltaThree a report detailing the total revenues and expenses associated with the sale and use of the Calling Cards in the previous month. In the event that DeltaThree disputes any amounts set forth on the report, DeltaThree shall provide PrimeCall with written notice of such dispute, which notice shall detail the reasons for the dispute, within seven (7) days of its receipt thereof. The parties shall negotiate in good faith to resolve any such disputes.",
+    "ollama_generated": "Section 3.06 [Report Submission]: Reporting Obligations\n\nPrimeCall is responsible for preparing and submitting, no later than the tenth day of each calendar month, a report outlining the total revenues and expenses related to the sale and utilization of Calling Cards from the preceding month, addressed to DeltaThree. In the event that PrimeCall contests any figures presented in the report, PrimeCall shall deliver DeltaThree written notice of the dispute, including grounds for contestation, within seven (7) days of receiving the report. The parties are expected to engage in good faith negotiations to resolve any ensuing disputes.\n\nIn this revised clause, the obligation for preparing and submitting reports has been shifted from DeltaThree to PrimeCall. Additionally, the condition for dispute resolution is inverted so that PrimeCall is now the one providing written notice of a dispute, if applicable.",
+    "contradiction_score": 0.05638202279806137,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 18,
+    "start_char": 9823,
+    "end_char": 10463,
+    "original": "Section 4.02   [Reporting] . Reporting. On or before the tenth day of each calendar month, DeltaThree shall prepare for PrimeCall a report detailing the total Source: DELTATHREE INC, S-1/A, 11/2/1999 revenues and expenses associated with the sale of PrimeCall's calling cards via the World Wide Web in the previous month. In the event that PrimeCall disputes any amounts set forth on the report, PrimeCall shall provide DeltaThree with written notice of such dispute, which notice shall detail the reasons for the dispute, within seven (7) days of its receipt thereof. The parties shall negotiate in good faith to resolve any such disputes.",
+    "ollama_generated": "Section 4.02 - Reporting Obligations:\n\nDeltaThree is obligated to submit, on or before the tenth day of each calendar month, a detailed report to PrimeCall regarding the total revenues and expenses associated with the sale of PrimeCall's calling cards via the World Wide Web for the preceding month. This report shall be prepared by DeltaThree for PrimeCall's review.\n\nIn case PrimeCall disputes any amounts stated in the report, DeltaThree shall have the responsibility to address and resolve such disputes within seven (7) days of receiving written notice from PrimeCall, which notice shall specify the grounds for the dispute. The parties are expected to engage in good faith negotiations to settle any disagreements that may arise.\n\nIn this revised clause, DeltaThree now bears the responsibility to address and resolve disputes, shifting the initial obligation from PrimeCall to DeltaThree.",
+    "contradiction_score": 0.010920501314103603,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 25,
+    "start_char": 14313,
+    "end_char": 15172,
+    "original": "ARTICLE VII   [Limited Warranty] Limited Warranty Section 7.01   [Disclaimer of General Warranty by PrimeCall] . Disclaimer of General Warranty by PrimeCall. PRIMECALL MAKES NO REPRESENTATION OR WARRANTY, EXPRESS OR IMPLIED, CONCERNING THE SERVICES PROVIDED HEREUNDER, INCLUDING ANY IMPLIED WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY OR OTHERWISE. IN NO EVENT SHALL PRIMECALL BE LIABLE TO DELTATHREE FOR ANY SPECIAL, INCIDENTIAL OR CONSEQUENTIAL DAMAGES, INCLUDING, WITHOUT LIMITATION, LOSS OF PROFITS, REVENUES OR DATA WHETHER BASED ON BREACH OF CONTRACT, TORT OR OTHERWISE, WHETHER OR NOT DELTATHREE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THE LIABILITY OF PRIMECALL FOR DAMAGES OR ALLEGED DAMAGES HEREUNDER, WHETHER IN CONTRACT, TORT OR ANY OTHER LEGAL THEORY, IS LIMITED TO, AND WILL NOT EXCEED, DELTATHREE'S DIRECT DAMAGES.",
+    "ollama_generated": "ARTICLE VII [Limited Warranty]\nSection 7.01 [PrimeCall's Limited Warranty Disclaimer]\n\nDisclaimer of Limited Warranty by PrimeCall\n\nPrimeCall grants a limited warranty for the services provided hereunder, but it is important to note that this warranty does not extend beyond the following terms:\n\n1. PrimeCall offers no express or implied warranties regarding the services, excluding any implicit warranties of fitness for a particular purpose, merchantability, or otherwise.\n2. Under no circumstances shall PrimeCall be held liable towards DelTathree for any special, indirect, incidental, or consequential damages, such as loss of profits, revenues, or data, regardless of the basis for the claim (breach of contract, tort, etc.). This exclusion applies even if PrimeCall has been informed about the possibility of such damage.\n3. The total liability of PrimeCall for any damages or alleged damages arising from this agreement, irrespective of the legal theory under which they may be claimed (contract, tort, etc.), is strictly limited to, and will not surpass, DelTathree's direct damages.",
+    "contradiction_score": 0.033908456563949585,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 26,
+    "start_char": 15172,
+    "end_char": 16024,
+    "original": "Source: DELTATHREE INC, S-1/A, 11/2/1999 Section 7.02   [Disclaimer of General Warranty by DeltaThree] . Disclaimer of General Warranty by DeltaThree. DELTATHREE MAKES NO REPRESENTATION OR WARRANTY, EXPRESS OR IMPLIED, CONCERNING THE SERVICES PROVIDED HEREUNDER, INCLUDING ANY IMPLIED WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY OR OTHERWISE. IN NO EVENT SHALL DELTATHREE BE LIABLE TO PRIMECALL FOR ANY SPECIAL, INCIDENTIAL OR CONSEQUENTIAL DAMAGES, INCLUDING, WITHOUT LIMITATION, LOSS OF PROFITS, REVENUES OR DATA WHETHER BASED ON BREACH OF CONTRACT, TORT OR OTHERWISE, WHETHER OR NOT PRIMECALL HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THE LIABILITY OF DELTATHREE FOR DAMAGES OR ALLEGED DAMAGES HEREUNDER, WHETHER IN CONTRACT, TORT OR ANY OTHER LEGAL THEORY, IS LIMITED TO, AND WILL NOT EXCEED, PRIMECALL'S DIRECT DAMAGES.",
+    "ollama_generated": "Clause:\n[Shifted Responsibility and Limited Liability by DeltaThree \u2013 Amended Version]\n\nIn this agreement, it is expressly understood that DeltaThree disclaims any and all warranties, either expressed or implied, pertaining to the services provided herein. This disclaimer includes but is not limited to any implied warranty of fitness for a particular purpose, merchantability, or any other warranty arising from course of performance, course of dealing, or trade usage.\n\nUnder no circumstances shall DeltaThree be held liable towards Primecall for any special, indirect, incidental, or consequential damages, including loss of profits, revenues, or data. This exclusion applies regardless of the cause of action upon which liability may be based \u2013 whether in contract, tort, or otherwise \u2013 and regardless of whether Primecall has been informed of the possibility of such damage.\n\nThe total liability of DeltaThree for any damages or alleged damages under this agreement, whether under a legal theory of contract, tort, or otherwise, will be strictly limited to, and shall not exceed, the direct damages suffered by Primecall.",
+    "contradiction_score": 0.01975187472999096,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 32,
+    "start_char": 20529,
+    "end_char": 21024,
+    "original": "Section 9.03   [Notices] . Notices. All notices or other communications required or permitted hereunder shall be in writing and shall be deemed given or delivered (i) when delivered personally or by private courier, (ii) when actually Source: DELTATHREE INC, S-1/A, 11/2/1999 delivered by registered or certified United States mail, return receipt requested and postage prepaid or (iii) when sent by telecopy (provided, that, it is simultaneously electronically confirmed), addressed as follows:",
+    "ollama_generated": "Section 9.03 - Notifications\n\nNotifications: All notices or communications mandated or permitted pursuant to this agreement shall be in writing and will be deemed effectively transmitted upon:\n\n1. Personal delivery or dispatch via private courier.\n2. Mail delivery through registered or certified United States mail, with return receipt requested and prepaid postage, except that notice shall be considered delivered three business days after the date of mailing if the recipient does not acknowledge receipt within that timeframe.\n3. Electronic transmission (subject to verification via email confirmation), provided the recipient has agreed to electronic communication as a valid means of notice. In such cases, addresses for delivery shall be as follows:\n\nFor the sender: [Recipient's information]\nFor the recipient: [Sender's information]",
+    "contradiction_score": 0.08792025595903397,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 33,
+    "start_char": 21832,
+    "end_char": 21849,
+    "original": "If to DeltaThree:",
+    "ollama_generated": "If by DeltaThree:\n\nIn the event that DeltaThree fails to fulfill its obligations under this agreement, it shall be liable for any resulting damages or losses incurred by the other party, subject to the terms and conditions outlined herein.",
+    "contradiction_score": 0.08224499225616455,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 41,
+    "start_char": 23499,
+    "end_char": 23849,
+    "original": "Section 9.07   [Entire Agreement] . Entire Agreement. This Agreement and all other documents to be delivered in connection herewith set forth the entire agreement and understanding between the parties as to the subject matter hereof and merges and supersedes all prior discussions, agreements and understandings of every kind and nature between them.",
+    "ollama_generated": "Section 9.07 - All-Inclusive Agreement:\n\nAll-Inclusive Agreement. This Agreement, along with any accompanying documents to be exchanged hereunder, constitutes the full extent of the agreement and comprehension between the parties concerning the subject matter herein. It supersedes and replaces all preceding discussions, agreements, or understandings, whether written or oral, that may have existed between them previously.",
+    "contradiction_score": 0.009650427848100662,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 46,
+    "start_char": 26851,
+    "end_char": 27104,
+    "original": "Section 9.12   [Captions] . Captions. The captions appearing in this Agreement are inserted only as a matter of convenience and for reference and in no way define, limit or describe the scope and intent of this Agreement or any of the provisions hereof.",
+    "ollama_generated": "Section 9.12 (Headings). Heading Designations. The headings utilized throughout this Agreement are intended solely for ease of navigation and do not serve to restrict, expand, or otherwise alter the scope or intent of this Agreement or any of its respective provisions.\n\nIn this revised version, the original clause has been restructured to emphasize the convenience aspect while maintaining clarity and professionalism.",
+    "contradiction_score": 0.22449445724487305,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 52,
+    "start_char": 28343,
+    "end_char": 28459,
+    "original": "--------------------------------- Name: Amos Sela Title:  President and CEO Source: DELTATHREE INC, S-1/A, 11/2/1999",
+    "ollama_generated": "Clause:\n--------------------------------- Name: Dr. Amos Sela Position: Executive Chairperson and Chief Operating Officer Source: THREEDELTA CORP., Registration Statement S-1/A, November 2, 1999\n\nIn the event that our company experiences a change in control (as defined below), the obligations set forth in this Agreement shall be assignable by us only to the successor entity that:\n\n(a) assumes all or substantially all of our assets and liabilities;\n(b) consents in writing to be bound by the terms of this Agreement; and\n(c) agrees to perform this Agreement's obligations as fully as we would have been required to perform if no such change in control had occurred (except that references to \"we,\" \"us,\" and \"our\" shall mean the successor entity).\n\nFor clarity, a \"change in control\" of our company shall be deemed to have occurred upon the occurrence of any of the following events:\n\n(i) any Person becomes the beneficial owner (as defined below), directly or indirectly, of securities representing 50% or more of the combined voting power of our company's then outstanding securities;\n(ii) during any period of three consecutive years, individuals who constitute our board of directors cease for any reason to constitute at least a majority thereof; provided, however, that any individual becoming a director subsequent to the effective date of this Agreement shall, for purposes of this clause (ii), be considered as part of the board of directors in office on such effective date; or\n(iii) our company merges with or into another corporation, other than a merger which results in no more than approximately 50% of the combined voting power of the surviving entity's then outstanding securities being represented by Persons who were stockholders of our company immediately prior to such merger.\n\nFor purposes of this definition, \"Person\" means an individual or entity (including a \"group\" as defined in Rule 13d-3 promulgated under the Securities Exchange Act of 1934, as amended), and \"beneficial owner\" shall have the meaning given to such term in Rule 13d-3.\n\nBy way of example, a change in control would not be deemed to have occurred solely because (a) securities representing more than 50% of the combined voting power are acquired by an investor with no present intention of changing management or operational control of our company; (b) any Person acquires securities of our company in a manner that does not result in such Person being deemed to have beneficial ownership of such securities for purposes of this clause; or (c) any Person, including Amos Sela, is elected to our board of directors as a result of an extraordinary corporate transaction.\n\nThe foregoing provisions of this section shall be exclusively governed by and construed in accordance with the laws of the State of Delaware (without giving effect to its principles regarding conflicts of law). This Agreement may not be amended except by an instrument in writing signed by us and the other party hereto. Any term or provision of this Agreement that is invalid or becomes invalid under any applicable law shall be interpreted so as best to accomplish the objectives of such term or provision to the fullest extent possible under applicable law, and the remaining terms and provisions of this Agreement shall not be affected by the invalidity of such term or provision. This clause supersedes any prior definition or description of a change in control contained herein or in any other agreement between us.",
+    "contradiction_score": 0.23895519971847534,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

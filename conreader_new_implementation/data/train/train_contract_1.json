@@ -1,0 +1,37 @@
+{
+    "doc_id": "train_contract_1",
+    "text": "Definitions: \"Effective Date\" means the date when the Agreement is executed.\n\"Confidential Information\" means all non-public information disclosed by a party.\n\nConfidentiality: Each party shall keep Confidential Information confidential for a period of five (5) years.",
+    "segments": [
+      {
+        "segment_id": 0,
+        "text": "Definitions: \"Effective Date\" means the date when the Agreement is executed.\n\"Confidential Information\" means all non-public information disclosed by a party.",
+        "clauses": [
+          {
+            "start": 13,
+            "end": 76,
+            "text": "\"Effective Date\" means the date when the Agreement is executed.",
+            "type": "Definition"
+          },
+          {
+            "start": 77,
+            "end": 158,
+            "text": "\"Confidential Information\" means all non-public information disclosed by a party.",
+            "type": "Definition"
+          }
+        ]
+      },
+      {
+        "segment_id": 1,
+        "text": "Confidentiality: Each party shall keep Confidential Information confidential for a period of five (5) years.",
+        "clauses": [
+          {
+            "start": 17,
+            "end": 108,
+            "text": "Each party shall keep Confidential Information confidential for a period of five (5) years.",
+            "type": "Confidentiality"
+          }
+        ]
+      }
+    ]
+  }
+  

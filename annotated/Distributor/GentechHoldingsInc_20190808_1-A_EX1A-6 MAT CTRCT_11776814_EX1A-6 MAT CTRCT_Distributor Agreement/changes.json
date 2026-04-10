@@ -1,0 +1,91 @@
+[
+  {
+    "clause_index": 4,
+    "start_char": 1474,
+    "end_char": 1630,
+    "original": "Now, Therefore, in consideration of the foregoing, and of the mutual benefit contained herein, the Parties, intending to be legally bound, agree as follows:",
+    "ollama_generated": "In light of the preceding stipulations and recognizing the mutual advantages inherent within this agreement, the Parties, voluntarily choosing to enter into a binding contract, consent to the following terms:\n\nIn this revision, I've slightly modified the language to emphasize the parties' voluntary decision to enter into a binding contract, rather than explicitly stating that they are legally bound. This may give a softer impression of obligation while maintaining professionalism and legality.",
+    "contradiction_score": 0.005208639428019524,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 8,
+    "start_char": 2827,
+    "end_char": 2945,
+    "original": "(c) Products.  The Products manufactured and sold by Company to Distributor for distribution hereunder are as follows:",
+    "ollama_generated": "(c) Distribuable Items. For the purpose of this agreement, the items that Distributor is authorized to distribute, which shall be manufactured and supplied by Company, are as described below:\n\nIn this revised clause, the focus has shifted slightly towards Distributor's perspective, implying a more active role for them in the distribution process. This change can help to emphasize the authority granted to the distributor and clarify their responsibilities.",
+    "contradiction_score": 0.0019211508333683014,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 11,
+    "start_char": 3845,
+    "end_char": 4600,
+    "original": "Source: GENTECH HOLDINGS, INC., 1-A, 8/8/2019 (e) Relationship of Parties. Distributor is an independent contractor and is not and shall not be deemed to be an employee, legal representative, dealer, general agent, joint venture or partner of Company for any purpose. Distributor acknowledges that Company has not granted it any authority to make changes to Company\u2019s terms and conditions of sale, grant any warranties in excess of those extended by Company or limit its liabilities or remedies less than Company limits its liabilities and remedies, sign quotations, incur obligations (expressed or implied), or in general enter into contracts on behalf of Company or bind Company in any transaction with customers, governmental agencies or third parties.",
+    "ollama_generated": "Clause:\nSource: GENTECH HOLDINGS, INC., 1-A, 8/8/2019 (e) Relationship of Parties. The Distributor operates as an autonomous business entity and shall not be construed as a Company employee, agent, partner, dealer, or joint venture in any capacity. It is hereby acknowledged that the Distributor does not hold any authority to amend the Company's sales terms and conditions, offer warranties beyond those provided by the Company, or restrict the Company's liabilities or remedies more than what the Company itself limits its own. The Distributor is prohibited from signing quotations, incurring obligations (either expressed or implied), entering into contracts on behalf of the Company, binding the Company in any customer, governmental agency, or third-party transactions, or undertaking actions that might imply a partnership with the Company.",
+    "contradiction_score": 0.014890311285853386,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 15,
+    "start_char": 6221,
+    "end_char": 7065,
+    "original": "Source: GENTECH HOLDINGS, INC., 1-A, 8/8/2019 (c) Company shall package the Products for shipment in accordance with Distributor\u2019s instructions. All shipments of Products for Customers in the Territory, and any freight and shipping costs related thereto, will be Distributor\u2019s responsibility. All shipments will be prepared and shipped from Company\u2019s facility. Distributor will promptly inspect the Products upon receipt at Distributor\u2019s facility to determine whether any Products included in the shipment are in short supply, defective, or otherwise not in conformance with this Agreement. Within Seven (7) days of receipt of such Products, Distributor will notify Company of any shortages, defects, non-conformance, and Company will promptly replace such Products free of charge. Title to the Products shall pass to Distributor upon delivery.",
+    "modified": "Clause:\nSource: GENTECH HOLDINGS, INC., 1-A, 8/8/2019 (c) The Distributor is authorized to specify the packaging requirements for Products prior to shipment by the Company. All shipping costs, including freight and related expenses, for Customers within the Territory will be borne by the Distributor. The Products will be prepared and dispatched from the Company's facility, however, any subsequent inspection of the Products upon their arrival at the Distributor's facility remains the responsibility of the Company. Any Products discovered to be in short supply, defective, or non-conforming to this Agreement during such inspection, will be reported by the Distributor within Seven (7) days. The Company will then have a reasonable time to rectify the issue and resupply the Products at no additional cost to the Distributor. Title to the Products will transfer from the Company to the Distributor upon the detection of any non-conformities or defects, pending their replacement by the Company.",
+    "contradiction_score": 0.5418972969055176,
+    "kept": true
+  },
+  {
+    "clause_index": 41,
+    "start_char": 14592,
+    "end_char": 14664,
+    "original": "Source: GENTECH HOLDINGS, INC., 1-A, 8/8/2019 7. DURATION & TERMINATION.",
+    "ollama_generated": "Clause:\nRevised for GENTECH HOLDINGS, INC., 1-A, 8/8/2019\n7. TERMINATION & DURATION.\n\nThe term of this Agreement shall commence on the Effective Date and continue until either party provides written notice of its intention to terminate this Agreement. Upon receipt of such notice, the termination shall become effective thirty (30) days thereafter, unless otherwise specified in the written notice. Notwithstanding the foregoing, the other party shall have the right to terminate this Agreement immediately if the receiving party breaches any material provision herein and fails to cure such breach within ten (10) business days of receiving written notice of the same.",
+    "contradiction_score": 0.17832763493061066,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 48,
+    "start_char": 16861,
+    "end_char": 16952,
+    "original": "Source: GENTECH HOLDINGS, INC., 1-A, 8/8/2019 9. INDEMNIFICATION & LIMITATION OF LIABILITY.",
+    "ollama_generated": "Clause:\nRevised for GENTECH HOLDINGS, INC., 1-A, 8/8/2019\n9. LIMITATION OF LIABILITY & INDEMNIFICATION.\n\nIn the event that any party incurs losses or liabilities arising out of or in connection with this Agreement, the other party shall have no obligation to indemnify or protect such injured party except to the extent the injured party demonstrates gross negligence or intentional misconduct on the part of the non-injured party. This limitation shall apply regardless of the form of action, whether in contract, tort (including negligence), or otherwise.",
+    "contradiction_score": 0.10489553213119507,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 53,
+    "start_char": 19188,
+    "end_char": 19249,
+    "original": "Source: GENTECH HOLDINGS, INC., 1-A, 8/8/2019 11. TRADEMARKS.",
+    "ollama_generated": "Upon termination of this Agreement, GENTECH retains the right to require the immediate cessation of any use of trademarks licensed under this Agreement by Licensee. However, should the Licensee elect to continue using such trademarks for products already manufactured and sold prior to termination, they shall be allowed to do so for a period of one year following the termination date, at which point all unsold inventory bearing such trademarks must be destroyed or otherwise disposed of in accordance with GENTECH's instructions. Failure to comply with this provision shall result in liquidated damages payable to GENTECH in an amount equal to the greater of either actual damages sustained by GENTECH or a sum of $50,000 per infringing product.",
+    "contradiction_score": 0.0271430816501379,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 62,
+    "start_char": 23000,
+    "end_char": 23401,
+    "original": "(f) Cumulative Remedies. The rights and remedies of the Parties hereunder are cumulative and not exclusive of any rights or remedies which the Parties would otherwise have. No single or partial exercise of any such right or remedy by a Party, and no discontinuance of steps to enforce any such right or remedy, shall preclude any further exercise thereof or of any other right or remedy of such Party.",
+    "ollama_generated": "(f) Cumulative Rights and Recourses. The recourses and legal options available to the Parties under this agreement are collective and not limited to those explicitly stated. No exercising, in whole or part, of one such right or recourse by a Party, nor any cessation of efforts to enforce such right or recourse, shall restrict further use of that right or any other remedy available to said Party.\n\nThis revised clause maintains the original intent but slightly rephrases it to emphasize 'recourses' and 'legal options' instead of 'remedies', while also making it clear that a Party's ability to enforce one right doesn't limit their ability to exercise other rights or remedies.",
+    "contradiction_score": 0.006187876686453819,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 73,
+    "start_char": 26597,
+    "end_char": 26642,
+    "original": "Source: GENTECH HOLDINGS, INC., 1-A, 8/8/2019",
+    "ollama_generated": "In the event that the Licensor becomes aware of any material breach by the Licensee under this Agreement and fails to provide a written notice to the Licensee within thirty (30) days, the Licensee shall not be held responsible for such breach unless it occurs again or is substantially similar. In such cases where the Licensee is found in repeated or substantial breach of its obligations, Licensor shall have the right to terminate this Agreement immediately without further notice. However, Licensor is under no obligation to do so and may choose to allow for a reasonable cure period before exercising its termination rights.",
+    "contradiction_score": 0.0451725535094738,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

@@ -1,0 +1,704 @@
+[
+  {
+    "clause_index": 5,
+    "start_char": 2220,
+    "end_char": 2640,
+    "original": "RECITALS A. We are in the business of franchising others to operate \u201cPizza Fusion\u201d restaurant businesses, which feature a competitively priced menu of organic and all-natural gourmet pizza and related food specialties, and standards and methods of operation designed to be \u201cgreen,\u201d and which are operated in buildings that bear our interior and/or exterior trade dress (each a \u201c Restaurant \u201d or \u201c Franchised Business \u201d).",
+    "ollama_generated": "RECITALS B. Our company engages in franchising third parties to manage restaurants under the \"Pizza Fusion\" brand, offering a menu of affordably priced organic and natural gourmet pizzas, alongside unique food specialties, and adhering to environmentally-friendly standards and operational methods. These establishments are distinguished by our trademark interior and/or exterior designs (each referred to as a \" Franchised Establishment\" or \"Licensed Business\"). The emphasis here is on the franchisee's responsibility to uphold these unique aspects of the brand.",
+    "contradiction_score": 0.1523820459842682,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 8,
+    "start_char": 4089,
+    "end_char": 4319,
+    "original": "D. You understand the importance of our high standards of quality, appearance, and service and the necessity of operating your Franchised Business in accordance with this Agreement and our standards, specifications and procedures.",
+    "ollama_generated": "Clause D:\nIt is acknowledged that adherence to our exacting standards for quality, presentation, and service is essential for the successful operation of your Franchise Business. As such, you are expected to manage your franchise in harmony with this Agreement, as well as our guidelines, specifications, and procedures. Any deviation may potentially impact the reputation we have collectively built.",
+    "contradiction_score": 0.001406332477927208,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 10,
+    "start_char": 4460,
+    "end_char": 4568,
+    "original": "Page 1 of 39 Source: PF HOSPITALITY GROUP INC., 10-12G, 9/23/2015 1. RIGHTS GRANTED 1.1. Grant of Franchise.",
+    "modified": "Clause:\nPage 1 of 39 Source: PF HOSPITALITY GROUP INC., 10-12G, 9/23/2015\n1. RIGHTS ASCERTAINED\n1.1. Assumption of Franchisee Rights.\n\nIn this revised clause, the focus shifts from the grantor (PF Hospitality Group Inc.) to the grantee (the Franchisee). The Franchisee is now assuming their rights rather than being granted them by the hospitality group. This alteration subtly implies a greater level of responsibility and initiative on the part of the Franchisee, although it maintains the professional and fluent tone required in legal documentation.",
+    "contradiction_score": 0.8075895309448242,
+    "kept": true
+  },
+  {
+    "clause_index": 16,
+    "start_char": 7259,
+    "end_char": 7959,
+    "original": "1.2.2 You may advertise and market the Franchised Business and directly solicit customers only within your Delivery/Catering and Advertising Area (subject to Section 9.3  [Regional Fund]  below). You agree not to: (a) advertise or market the services of your Franchised Business outside of the Delivery/Catering and Advertising Area\u037e and/or (b) engage in direct solicitation of customers outside of the Delivery/Catering and Advertising Area. The term \u201c direct solicitation \u201d includes, but is not limited to, solicitation in person, by telephone, by mail, by e-mail, the internet, or other electronic means, advertising, marketing, and by distribution of brochures, business cards or other materials.",
+    "ollama_generated": "1.2.2 The Franchisee is granted permission to promote and sell the Franchised Business, as well as directly approach potential customers, exclusively within their designated Delivery/Catering and Advertising Territory (subject to Section 9.3 regarding the Regional Fund). The Franchisee undertakes to avoid:\n\n(a) Promoting or advertising the services of the Franchised Business beyond the boundaries of the Delivery/Catering and Advertising Territory; and\n(b) Initiating direct contact with customers outside of the defined territory.\n\nFor the purpose of this agreement, \"direct contact\" encompasses but is not limited to face-to-face interactions, phone calls, written correspondence (including emails), internet-based communication, marketing efforts, distributed promotional materials such as brochures, business cards, or other related items.",
+    "contradiction_score": 0.0037129241973161697,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 18,
+    "start_char": 8382,
+    "end_char": 8952,
+    "original": "Page 2 of 39 Source: PF HOSPITALITY GROUP INC., 10-12G, 9/23/2015 1.3. Our Limitations and Our Reserved Rights.  The rights granted to you under this Agreement are not exclusive. We and our affiliates have the right to conduct any business activities, under any name, and at (or from) any location notwithstanding those business activities\u2019 actual or threatened impact on sales of the Franchised Business. For example, we may, among other things, on any terms and conditions we deem advisable, and without granting you any rights therein, do any or all of the following:",
+    "ollama_generated": "Clause:\nPage 2 of 39 Source: PF HOSPITALITY GROUP INC., 10-12G, 9/23/2015\n1.3. Our Flexibility and Our Retained Discretion.\nThe privileges extended to you under this Agreement are non-exclusive. We and our affiliates maintain the discretionary power to engage in any business activities, under any name, and from any location, irrespective of whether such activities have a potential or actual effect on the sales of the Franchised Business. For instance, we reserve the right, among other things, on any terms and conditions deemed suitable by us, to undertake any or all of the following without conferring any rights upon you:\n\n* Operate businesses under our own brand or any other name\n* Establish locations that may compete with your Franchised Business\n* Collaborate with third parties for mutual benefit, including but not limited to joint ventures, strategic partnerships, and licensing agreements.",
+    "contradiction_score": 0.06446075439453125,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 20,
+    "start_char": 9209,
+    "end_char": 9719,
+    "original": "1.3.2 We have the right to establish, and license others to establish, businesses under other systems or other proprietary marks, which businesses may offer or sell products and services that are different from the principal products and services offered from the Franchised Business, and which businesses may be located within or outside the Premises, notwithstanding such business\u2019 proximity to the Franchised Business or the Premises or their actual or threatened impact on sales of the Franchised Business.",
+    "ollama_generated": "1.3.2 Granted that we retain the liberty to initiate and authorize third parties to initiate, businesses under distinct systems or proprietary trademarks. These independent businesses may market and sell goods and services that deviate from the primary offerings of the Franchisee's Business, irrespective of their location - whether within or outside the Premises. It is acknowledged that such businesses, regardless of their proximity to the Franchisee's Business or the Premises, may potentially influence or affect sales of the Franchisee's Business, yet we assume no responsibility for any negative impact on the sales of the Franchisee's Business arising from these independent businesses.",
+    "contradiction_score": 0.005102683324366808,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 21,
+    "start_char": 9719,
+    "end_char": 9922,
+    "original": "1.3.3 We have the right to acquire and operate any business of any kind or be acquired by another business, notwithstanding such business\u2019 actual or threatened impact on sales of the Franchised Business.",
+    "ollama_generated": "1.3.3 The Franchisee acknowledges and consents that we retain the discretionary right to acquire, establish, or operate any business of any nature, which may or may not have an effect on the sales of the Franchised Business, without being held liable for such actions.",
+    "contradiction_score": 0.010932647623121738,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 23,
+    "start_char": 10199,
+    "end_char": 10821,
+    "original": "The term \u201c Institutional Facility \u201d is agreed to mean any outlet that primarily serves the customers located within the facility, such as captive audience facilities and limited purpose or limited access facilities, and includes among other things: airports\u037e train or bus stations\u037e travel plazas\u037e factories\u037e federal, state or local government facilities (including military bases)\u037e hospitals and other health-care facilities\u037e stadiums and arenas\u037e recreational facilities\u037e schools, colleges and other academic facilities\u037e convention centers\u037e seasonal facilities\u037e shopping malls\u037e theaters\u037e museums\u037e and workplace cafeterias.",
+    "ollama_generated": "The term \"Institutional Establishment\" shall encompass any venue primarily catering to an audience confined within its premises, such as captive audience establishments, limited purpose facilities, or those with restricted access, and may comprise, but are not limited to, the following: airports; train or bus stations; travel plazas; factories; governmental institutions (federal, state, or local, including military bases) hospitals and health-care centers; stadiums and arenas; recreational areas; schools, colleges, and academic institutions; convention centers; seasonal venues; shopping centers; theaters; museums; and workplace canteens. However, it's important to note that this definition does not extend to include establishments where the customers are not primarily confined within the facility's premises.",
+    "contradiction_score": 0.05467987060546875,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 25,
+    "start_char": 11511,
+    "end_char": 12288,
+    "original": "1.3.6 We have the right to provide, and license others to provide, products or services to Major Accounts (as that term is defined below) at any location, notwithstanding such Major Accounts\u2019 proximity to the Franchised Business or the Premises or their actual or threatened impact on sales at the Franchised Business. The term \u201c Major Account \u201d is agreed to mean any customer we designate as such, based upon our sole determination that, because such customer conducts its business at multiple locations and we deem this customer to be of strategic importance, the account, services and pricing of such customer shall be negotiated and secured either (i) by us or (ii) with our assistance, approval and oversight\u037e as further described in Section 6.12  [Major Accounts]  below.",
+    "ollama_generated": "1.3.6 It is expressly acknowledged that we retain the discretion to supply and authorize third parties to deliver goods or services to designated Major Accounts (as defined herein), regardless of their geographical proximity to the Franchised Business, the Premises, or any potential influence on sales at the Franchised Business. For the purpose of this agreement, \"Major Account\" refers to any client whom we deem significant based on our sole judgment, due to their operation across multiple locations and strategic relevance. The account, services, and pricing for such Major Accounts will be negotiated and secured either (i) independently by us or (ii) with our consent and monitoring, as detailed in Section 6.12 [Major Accounts] below. In this context, we assume no obligation to prioritize sales from the Franchised Business over those of any Major Account.",
+    "contradiction_score": 0.006357953883707523,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 26,
+    "start_char": 12288,
+    "end_char": 12464,
+    "original": "1.4. Limitations.  You agree  not to engage in any of the sales activities that we have reserved to ourselves in Sections 1.3  [Our Limitations and Our Reserved Rights]  above.",
+    "modified": "1.4. Expanded Authorizations. We grant you the right to pursue sales activities, excluding those specifically reserved by us as per Sections 1.3 [Our Limitations and Our Reserved Rights], with our explicit, prior written approval. This provision allows for a more expansive approach to your sales activities while maintaining our control over reserved sales activities.\n\nThis rewritten clause shifts the responsibility from the client (you) agreeing not to engage in specific sales activities, to us granting permission for these activities. The language has been modified to create a more open and collaborative atmosphere between parties.",
+    "contradiction_score": 0.5287432670593262,
+    "kept": true
+  },
+  {
+    "clause_index": 30,
+    "start_char": 13228,
+    "end_char": 13696,
+    "original": "2.2.2. You and all Owners must execute the standard form of Pizza Fusion Franchise Agreement that we are then offering to new franchisees (or the standard form that we most recently offered to new franchisees, if we are not at that time actively offering new franchises) (the \u201cSuccessor Franchise Agreement \u201d). The terms of the Successor Franchise Agreement may be substantially different from the terms of this Agreement and may require the payment of different fees.",
+    "ollama_generated": "2.2.2. We reserve the right to present a revised version of the Pizza Fusion Franchise Agreement, which may supersede this current agreement. The new terms may significantly vary from the existing ones and might involve distinct fee payments. It is your and all Owners' obligation to review and execute such revisions upon our presentation.\n\nThis revision ensures that you are aware of our ability to modify the agreement, shifting the responsibility for reviewing and executing any changes onto you, while maintaining a professional tone and clarity in the clause.",
+    "contradiction_score": 0.0012511787936091423,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 31,
+    "start_char": 13696,
+    "end_char": 14023,
+    "original": "2.2.3. You must pay all amounts owed to us, to our affiliates, and to your major suppliers\u037e you must not be in default of this Agreement or any other agreement with us, our affiliates, or our suppliers\u037e and you must have substantially and timely complied with all of your obligations throughout the term of each such agreement.",
+    "ollama_generated": "2.2.3. Our right to claim payment from you extends to amounts owed to us, our affiliates, and significant vendors. Your obligation is not to be in breach of this Agreement or any other agreements with us, our affiliates, or our suppliers. However, any failure on your part to meet your obligations will need to be remedied promptly upon notice from us. Compliance with your obligations under each such agreement should be timely and substantially met throughout its duration.",
+    "contradiction_score": 0.006353865377604961,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 38,
+    "start_char": 16022,
+    "end_char": 16335,
+    "original": "Page 4 of 39 Source: PF HOSPITALITY GROUP INC., 10-12G, 9/23/2015 3.2.2. You must calculate and pay the Royalty weekly, based on your Gross Revenues for the previous Period. For purposes of this Agreement, unless otherwise designated by us in writing, a \u201cPeriod\u201d begins on Monday and ends on the following Sunday.",
+    "modified": "Clause:\nPage 4 of 39 Source: PF HOSPITALITY GROUP INC., 10-12G, 9/23/2015\n3.2.2. We reserve the right to request that you calculate and remit the Royalty on a weekly basis, determined by your Gross Revenues for the current Period. For the sake of clarity within this Agreement, unless otherwise specified in writing by us, a \u201cPeriod\u201d shall commence on Sunday and conclude on the following Saturday.\n\n(In this revised clause, the obligation to calculate and pay royalties is shifted from the obligor to the obligee, and the period begins at the end of the week instead of the beginning.)",
+    "contradiction_score": 0.5515121817588806,
+    "kept": true
+  },
+  {
+    "clause_index": 41,
+    "start_char": 18773,
+    "end_char": 19052,
+    "original": "3.5. Due Date for Payment . Your Royalty payments and Advertising Contributions are due by the first (1st) day after the end of each Period (or the next business day if the first day is a Sunday or federal holiday) (as of the Agreement Date, the due date is Monday of each week).",
+    "modified": "3.5. Payment Timeline: The deadline for your Royalty payments and Advertising Contributions falls on the first (1st) business day following the conclusion of each Period. In case the first day is a Sunday or federal holiday, payment will be due on the subsequent business day. Notably, prior to this revision, payments were originally scheduled for Mondays of each week (as per the Agreement Date).",
+    "contradiction_score": 0.6791421175003052,
+    "kept": true
+  },
+  {
+    "clause_index": 47,
+    "start_char": 22208,
+    "end_char": 22508,
+    "original": "3.10 Obligations Absolute.  You agree that your obligations to pay us (as well as our affiliates) under this Agreement or any other agreement in connection to the Franchised Business are absolute and unconditional, and not subject to abatement or setoff for past or future claims that you may assert.",
+    "modified": "3.10 Unwaivable Obligations. We affirm that your financial obligations towards us (and our affiliates) under this Agreement or any related agreements concerning the Franchised Business are unwaivable and non-negotiable, and shall not be reduced or suspended, regardless of any past or future claims you may assert against us.\n\nIn this revised version, the emphasis has been shifted to emphasize that your obligations towards them are unwaivable, while their obligations towards you (potential reductions or suspensions) are no longer absolute or unconditional.",
+    "contradiction_score": 0.9611620306968689,
+    "kept": true
+  },
+  {
+    "clause_index": 53,
+    "start_char": 25976,
+    "end_char": 26385,
+    "original": "(c) We will provide, at no charge, our standard image specifications for the construction of the Franchised Business, improvement of the premises, and for the layout of fixtures, furnishings, equipment, and signs. On or before the date you open the Franchised Business, you must return to us the plans and specifications we provided to you (and any copies that you may have made or shared with other parties).",
+    "ollama_generated": "(c) As part of our service, we will share our standard image specifications for establishing the Franchisee's business, premises enhancement, and fixture, furnishing, equipment, and sign design at no additional cost. However, it is crucial to note that these plans remain our intellectual property, and we request their return upon the opening of the Franchised Business. Any copies made or shared with third parties should also be returned to us at this time.\n\nIn this revised clause, the obligation on the part of the Franchisee to return the provided plans has been emphasized and the language has been adjusted to reflect that these plans are the intellectual property of the provider (us). Additionally, the responsibility for returning any copies made or shared with third parties has been added.",
+    "contradiction_score": 0.0017056821379810572,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 54,
+    "start_char": 26385,
+    "end_char": 26766,
+    "original": "4.1.2 You must submit a site review report and such other information or materials as we may reasonably require (including but not limited to, photographs, demographic information, an option contract, letter of intent, or other evidence satisfactory to us that confirms your favorable prospects for obtaining the site). We will review site approval submissions on a first-in basis.",
+    "ollama_generated": "4.1.2 Upon our request, you shall provide a site review report and any additional information or materials deemed necessary by us (such as photographs, demographic data, option contracts, letters of intent, or other evidence that demonstrates potential for obtaining the site). We reserve the right to determine the order in which we review submissions for site approval. This means that while early submission may improve your chances, it does not guarantee priority consideration.",
+    "contradiction_score": 0.0029957450460642576,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 56,
+    "start_char": 26995,
+    "end_char": 27258,
+    "original": "(b) By no later than 90 days after the Agreement Date, you must have obtained our written approval of a site. If you have not done so, we may elect to terminate this Agreement, and we will not refund to you the Initial Franchise Fee or any other money paid to us.",
+    "ollama_generated": "(b) Within 90 days following the Agreement Date, our written approval for a specified site shall be required from you. In the event that such approval has not been provided, we reserve the right to unilaterally terminate this Agreement, with no obligation on our part to refund any Initial Franchise Fee or additional payments made to us by you.",
+    "contradiction_score": 0.0015151934931054711,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 65,
+    "start_char": 31191,
+    "end_char": 32187,
+    "original": "From time to time, we have the right to require that you purchase and install replacement or additional Signage\u037e (e) obtain all customary contractors\u2019 sworn statements and partial and final waivers of lien for construction, remodeling, decorating and installation services\u037e (f) obtain and maintain in force during the entire period of construction the insurance required under this Agreement or as otherwise specified in the Manuals\u037e (g) satisfy all of our pre-opening requirements, whether set out in this Agreement, the Manuals, or as we may otherwise specify\u037e (h) You must obtain a Certificate of Occupancy within 10 days after completing construction, unless we agree in writing to extend this deadline\u037e and Page 8 of 39 Source: PF HOSPITALITY GROUP INC., 10-12G, 9/23/2015 (i) within thirty (30) days after the store opening, you agree to provide us a full written breakdown of all costs associated with the development of your Franchised Business in the form that we may reasonably require.",
+    "ollama_generated": "Clause:\nAt our discretion, we reserve the authority to mandate that you acquire and install replacement or supplementary Signage; (e) procure all customary contractors' affidavits of non-lien and partial and final waivers for construction, refurbishment, decoration, and installation services; (f) secure and keep active throughout the entire construction phase the insurance as required under this Agreement or as stipulated in the Manuals; (g) fulfill all our pre-opening prerequisites, whether outlined in this Agreement, the Manuals, or as we may otherwise dictate; (h) You are obliged to secure a Certificate of Occupancy within 10 days following completion of construction, unless we grant written consent to extend this term; and Page 8 of 39 Source: PF HOSPITALITY GROUP INC., 10-12G, 9/23/2015 (i) within thirty (30) days following the store's opening, you are contractually bound to submit us a comprehensive written report detailing all costs incurred during the development of your Franchised Business, in the format that we may find acceptable.",
+    "contradiction_score": 0.011361979879438877,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 77,
+    "start_char": 37191,
+    "end_char": 38379,
+    "original": "5. TRAINING 5.1. Initial Training Program 5.1.1. Before you begin operating, the two persons who you designate (and who we find acceptable) to provide managerial responsibilities (each a \u201c Manager Trainee \u201d) must all successfully attend (at the same time) and successfully complete our initial training program (we may designate portions of the training program that each person must attend and successfully complete), which is held at our headquarters and/or another location(s) that we specify. One Manager Trainee must be your Operating Principal (who meets the criteria in Section 6.15 of this Agreement), unless we mutually agree otherwise. You may designate another person who will be active in the day-to-day activities and management of the Franchised Business to be the second Manager Trainee. You may ask that additional employees be allowed to attend the portions of the initial training that are designed for your employees, and we will have the right to approve or disapprove that request. All trainees must be persons that we find acceptable at all times to serve in their respective capacities. As of the Effective Date, our training program has two components, as follows:",
+    "ollama_generated": "5. TRAINING\n5.1 Initial Training Requirements\n5.1.1 Each individual designated by you (and deemed acceptable by us) to undertake managerial duties (each referred to hereafter as a \" Potential Manager\") shall, prior to commencing operations, complete our initial training program. This program may be held at our headquarters or any specified location(s), and the participant(s) will be required to attend and successfully complete all mandatory sessions. However, it is noted that one Potential Manager should meet the criteria outlined in Section 6.15 of this Agreement, but exceptions may be made upon mutual agreement. The second Potential Manager may be any individual you designate to actively participate in the day-to-day operations and management of the Franchised Business.\n\nYou have the prerogative to request additional employees' attendance at certain segments of the initial training program designed for your staff. Such requests will be subject to our approval, which may either be granted or denied at our discretion. It is mandatory that all Potential Managers are deemed acceptable by us throughout their tenure in these roles.\n\nAs of the Effective Date, our training program consists of two primary components:\n\na) The initial training program mandated for the Potential Managers; and\nb) Additional training modules accessible to your staff members at their discretion. We reserve the right to modify or update this training program periodically.",
+    "contradiction_score": 0.042320750653743744,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 81,
+    "start_char": 39060,
+    "end_char": 39683,
+    "original": "5.1.2. We will issue a certificate of completion for each Manager Trainee who completes the initial training program we require to our satisfaction (each such person will be referred to as a \u201c Certified Manager \u201d). We have the right to determine whether a person has or has not successfully completed training. If you (or your personnel) fail to complete initial training to our satisfaction, we may permit you (or they) to repeat the course or allow you to send a substitute to the next available scheduled training session\u037e however, we will have no obligation to extend the opening deadline in Section 4 for this purpose.",
+    "ollama_generated": "5.1.2. The successful completion of our required initial training program, to our satisfaction, will result in the issuance of a certificate of accomplishment for each Manager Trainee. While we reserve the right to assess whether an individual has met the training standards, it is important to note that failure to satisfy these requirements initially may necessitate additional efforts from your end.\n\nSuch efforts could include repeating the course or sending a substitute to the next available scheduled training session. However, please be aware that our commitment to adhere to the opening deadline outlined in Section 4 remains unaltered and will not be extended for this purpose. In other words, even if supplementary training is required, you must ensure that your representatives meet the initial deadline set forth in Section 4.",
+    "contradiction_score": 0.003114602994173765,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 83,
+    "start_char": 40063,
+    "end_char": 40200,
+    "original": "5.1.4. Failure to complete the initial training program constitutes grounds for termination, as provided in Section 15 of this Agreement.",
+    "ollama_generated": "5.1.4. The continuation beyond the specified duration of the initial training program, without cause, shall be deemed a breach of this Agreement, allowing for potential termination proceedings, as outlined in Section 15.",
+    "contradiction_score": 0.0006831709179095924,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 85,
+    "start_char": 40598,
+    "end_char": 41363,
+    "original": "5.3. Additional Training by Us . We may require your Certified Managers and/or other designated persons to successfully complete additional training courses during the Term of this Agreement at a location that we specify (including an annual conference for franchisees in the System). We may also offer optional training programs. You may also request that we provide additional training at the location of your Franchised Business, and we will provide such training if we determine that we are able to do so. We may charge you a training fee and our out-of-pocket expenses for all additional training programs, whether mandatory or optional, or whether you request or we require such training, which fee shall be as set forth in the Manual or otherwise in writing.",
+    "ollama_generated": "5.3. Obligation to Attend Training: It is your responsibility to ensure that your Certified Managers and/or designated persons attend any additional training courses specified by us during the term of this Agreement. Such training may take place at a location determined by us (including annual conferences for franchisees within the System), or we may offer optional training programs for which participation is at your discretion.\n\nWhile you have the option to request that we provide training at your Franchised Business, our decision on whether or not to accommodate this request will be based on our availability and resources. Any fees associated with these additional training programs, whether mandatory or optional, shall be borne by you and will be outlined in the Manual or communicated to you in writing.\n\nIn such cases where we require your attendance at off-site training sessions, we reserve the right to charge you a reasonable training fee as well as any out-of-pocket expenses incurred during these programs.",
+    "contradiction_score": 0.014267383143305779,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 86,
+    "start_char": 41363,
+    "end_char": 41848,
+    "original": "5.4. Training by You.  We have the right to specify training programs related to the System that you must conduct for your employees using approved training materials or that we will provide at our headquarters. For any training of your personnel that we conduct, you are responsible for expenses incurred while they attend training, including salaries, benefits, travel, lodging, meals, and other related expenses. We reserve the right to charge you for training additional personnel.",
+    "ollama_generated": "5.4. Mandatory Employee Training. While we may suggest or recommend training programs associated with the System, it is your responsibility to designate and organize such sessions for your employees. You shall utilize your own approved materials or resources, unless explicitly instructed otherwise by us. For any training sessions led by us, you are responsible for covering the costs incurred during attendance, which include but are not limited to wages, benefits, travel expenses, accommodation, meals, and other relevant costs. However, we will not charge you for additional personnel attendance within a reasonable limit, unless agreed upon in advance.\n\nThis revised clause shifts some of the responsibility from us to you while maintaining its professional tone and avoiding any drastic changes in meaning.",
+    "contradiction_score": 0.008225892670452595,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 93,
+    "start_char": 45238,
+    "end_char": 46661,
+    "original": "6.4.2. If you would like to use or offer food items (other than the Secret Recipe Products), equipment, supplies, materials, and other products and services that we have not approved, or purchase from a vendor, supplier, distributor, or other source (together, \u201csupplier(s)\u201d) that we have not approved, then you must submit to us a written request for approval. We have the ongoing right to inspect any proposed supplier\u2019s facilities and to test samples of the proposed products or services. You agree to pay us an amount not to exceed the reasonable cost of the inspection and our actual cost of testing the proposed product or service, including personnel and travel costs, whether or not we ultimately approve the supplier. We have the right to grant, deny, or revoke approval of products, services, and suppliers. We will notify you in writing of our decision as soon as practicable following our evaluation. We reserve the right to reinspect the facilities and products of any approved supplier and to revoke approval if we find that the supplier fails to meet any of our then-current criteria. If you receive a notice of revocation of approval, you agree to immediately stop buying products or services from the disapproved supplier and, in the case of revocation based on failure of products to meet our standards, you agree to dispose of your remaining inventory of the disapproved supplier\u2019s products as we direct.",
+    "ollama_generated": "6.4.2. The Franchisee shall have the discretion to source and utilize food items (other than the Secret Recipe Products), equipment, supplies, materials, and other products and services, provided they are from approved vendors, suppliers, distributors, or sources. However, for any unapproved supplier(s), the Franchisor reserves the right to request a written justification from the Franchisee. The Franchisor shall retain the right to inspect the facilities of proposed unapproved suppliers and to test samples of their products or services at the Franchisee's expense, including costs related to personnel, travel, and testing materials.\n\nIn case of approval, the Franchisee shall be responsible for the reasonable cost of the inspection and testing process, regardless of whether the supplier's products or services are ultimately approved. The Franchisor holds the authority to grant, deny, or revoke approval of products, services, and suppliers at any time, with written notice of the decision provided as soon as practicable following evaluation.\n\nIf an approval is revoked, the Franchisee agrees to immediately discontinue purchasing from the disapproved supplier and, in case of revocation based on non-compliance with the Franchisor's standards, to dispose of any remaining inventory as directed by the Franchisor. The Franchisor reserves the right to reinspect the facilities and products of any approved supplier and to revoke approval if the supplier fails to meet the Franchisor's then-current criteria.",
+    "contradiction_score": 0.12493652105331421,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 106,
+    "start_char": 54430,
+    "end_char": 55427,
+    "original": "6.12.2. We may terminate your right to provide products and services to a Major Account customer at any time by giving you at least 30 days\u2019 prior written notice, and you may terminate your right to provide products and services to a Major Account at any time by giving us at least 30 days\u2019 prior written notice. If we elect not to offer you the opportunity to provide products or services to a Major Account, if you decline the option to accept a Major Account, if your right to provide products or services to a Major Account terminates, or if you fail to satisfy the conditions and obligations of any Major Account agreement, we have the right to service and/or authorize others to service Major Account customers within your Delivery/Catering and Advertising Area without any compensation to you. We have no obligation to permit you to provide products or services to a Major Account or to transfer any Major Account customer to you if you are subsequently willing and able to provide service.",
+    "ollama_generated": "6.12.2. The Company reserves the right, at its sole discretion, to unilaterally discontinue your provision of products and services to Major Account customers without prior notice. In such cases, you shall not be entitled to any compensation. You may also choose to cease providing products and services to Major Accounts upon providing a 30-day written notice.\n\nIn the event that we opt to service or authorize others to service Major Account customers within your Delivery/Catering and Advertising Area, you shall receive no compensation. It is important to note that we are under no obligation to provide you with the opportunity to serve Major Accounts or transfer any Major Account customer to you at a later time.\n\nFurthermore, failure to meet the conditions and obligations of any Major Account agreement, refusal to accept a Major Account, termination of your rights to service Major Accounts, or our decision not to offer you such opportunities shall not prevent us from servicing Major Account customers within your designated area without compensation to you.",
+    "contradiction_score": 0.16454178094863892,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 117,
+    "start_char": 61425,
+    "end_char": 61668,
+    "original": "(a) commercial general liability insurance, completed-operations and independent-contractors coverage in the amount of $1,000,000, per person/per occurrence for bodily injury and property damage combined with a general aggregate of $3,000,000.",
+    "ollama_generated": "(a) Commercial General Liability insurance, inclusive of completed-operations and independent contractor coverage, with a minimum limit of liability per person for bodily injury or property damage at $1,000,000 per incident, and a maximum aggregate limit of $3,000,000 across all incidents. However, the insured party shall have the right to increase these limits upon providing written notice to us prior to policy issuance.",
+    "contradiction_score": 0.003583331825211644,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 121,
+    "start_char": 64018,
+    "end_char": 64746,
+    "original": "6.19.3. Requirements for Construction and Renovation . In connection with any construction, renovation, refurbishment, or remodeling of the Premises, you must cause the general contractor to maintain commercial general liability insurance (with comprehensive automobile liability coverage for both owned and non-owned vehicles, builder\u2019s risk, product liability, and independent contractors coverage) with a reputable insurer. Such insurance must be in the amount of at least $1,000,000 and must name us and you as an additional named insured party, as our respective interests may appear. You must also cause the general contractor to maintain workers\u2019 compensation and employer\u2019s liability insurance as may be required by law.",
+    "ollama_generated": "6.19.3. Obligations for Construction and Renovation: During any construction, renovation, refurbishment, or remodeling of the Premises, it is our expectation that you ensure the general contractor carries a minimum coverage of $1,000,000 in commercial general liability insurance (including comprehensive automobile liability coverage for both owned and non-owned vehicles, builder\u2019s risk, product liability, and independent contractors coverage) with a well-regarded insurer. The policy should include us and you as additional named insured parties. However, the responsibility for maintaining workers\u2019 compensation and employer\u2019s liability insurance rests solely with the general contractor, in compliance with legal requirements.",
+    "contradiction_score": 0.005065907258540392,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 125,
+    "start_char": 65803,
+    "end_char": 66267,
+    "original": "6.19.7. Your Failure to Maintain Insurance . If, for any reason, you fail to procure or maintain the insurance required by this Agreement (as we may revise from time to time), we have the right (but not the duty) to procure such insurance. If we do so, we may charge the cost of such insurance, plus interest at the contract interest rate, to you. Upon demand, you must immediately pay us such charges, together with a reasonable fee for our expenses in so acting.",
+    "ollama_generated": "6.19.7. Lapse of Your Insurance Coverage: In the event that your insurance coverage lapses or fails to meet the insurance requirements as specified in this Agreement (which may be updated at any time), you hereby authorize us, although under no obligation to do so, to procure adequate insurance on your behalf. In such cases, you are obligated to reimburse us for the cost of the insurance, together with accrued interest at the contract interest rate and a reasonable fee for our expenses incurred in securing the insurance coverage. Such payment shall be due upon demand.\n\nThis revised clause places a greater emphasis on your obligation to maintain insurance as required by the agreement and outlines the repercussions of failing to do so, including the authorization for us (but not duty) to procure insurance and your subsequent responsibility to reimburse costs.",
+    "contradiction_score": 0.021760081872344017,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 129,
+    "start_char": 67027,
+    "end_char": 67300,
+    "original": "We may fulfill our obligation in this section through the distribution of printed or filmed material, an Extranet or other electronic forum, meetings or seminars, individual or group counseling, training programs, telephone communications, or other forms of communications.",
+    "ollama_generated": "While we strive to meet our obligations under this section, it is important to note that the means by which we fulfill these responsibilities may be limited to electronic forums (such as printed or filmed material, Extranet, or other online platforms), meetings or seminars, and telephone communications. However, individual or group counseling, training programs, and in-person meetings may only be provided upon mutual agreement and availability.",
+    "contradiction_score": 0.02300936169922352,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 131,
+    "start_char": 67607,
+    "end_char": 68033,
+    "original": "6.23 Credit Cards and Other Methods of Payment.  At all times, you must maintain credit-card relationships with the credit- and debit-card issuers or sponsors, check or credit verification services, financial-center services, and electronic-fund-transfer systems that we designate as mandatory, and you must not use any such services or providers that we have not approved in writing or for which we have revoked our approval.",
+    "ollama_generated": "6.23 Payment Methods Approval: You shall ensure that you have established and maintain relationships with the designated credit-card issuers, debit-card sponsors, check verification services, financial centers, and electronic-fund-transfer systems as approved by us in writing. Any deviation from this list or use of unapproved providers may lead to revocation of approval, and you are responsible for complying with our instructions regarding payment method approvals.",
+    "contradiction_score": 0.0014588418416678905,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 140,
+    "start_char": 71946,
+    "end_char": 73494,
+    "original": "7.3.5. To permit us or our representatives to inspect your operations to assure that you are properly using the Proprietary Marks\u037e 7.3.6. To use the Proprietary Marks to promote and to offer for sale only the products and services that we have approved, and not use any Proprietary Marks in association with the products, materials or services of others\u037e 7.3.7. You agree not to use or permit the use or display of the Proprietary Marks as part of any Internet domain name or website, or any other electronic identifier (including but not limited to e-mail addresses, account names in a social media site, and the like) of you or the Franchised Business in any forum or medium\u037e 7.3.8. Not to use the Proprietary Marks to incur any obligation or indebtedness on our behalf\u037e 7.3.9. Not to use any of the Proprietary Marks as part of your corporate or legal name\u037e Page 18 of 39 Source: PF HOSPITALITY GROUP INC., 10-12G, 9/23/2015 7.3.10 That your use of the Proprietary Marks does not give you any ownership or other interest in or to the Proprietary Marks (except the license granted by this Agreement)\u037e 7.3.11 To accept the validity of the Proprietary Marks as they exist now and in the future and agree that you will not contest the validity of any of the Proprietary Marks at any time\u037e and 7.3.12 To comply with our instructions in filing and maintaining trade name or fictitious name registrations, and sign any documents we deem necessary to obtain protection of the Proprietary Marks or to maintain their continued validity and enforceability.",
+    "ollama_generated": "7.3.5. We reserve the right, at our discretion, to inspect your operations for assurance that you are using the Proprietary Marks appropriately;\n\n7.3.6. You may only use the Proprietary Marks to promote and sell products and services that we have not expressly disapproved, and shall avoid associating any Proprietary Marks with products, materials, or services of third parties;\n\n7.3.7. You understand and agree that you shall not incorporate or display the Proprietary Marks as part of any Internet domain name, website, electronic identifier (such as email addresses, social media account names, etc.), or other identifying marker for yourself or your Franchised Business in any platform or medium;\n\n7.3.8. You are prohibited from incurring any obligations or debts on our behalf using the Proprietary Marks;\n\n7.3.9. The use of the Proprietary Marks is strictly forbidden as part of your corporate or legal name;\n\n7.3.10. Your utilization of the Proprietary Marks does not establish any proprietorship, ownership, or other interest in or to the Proprietary Marks (other than the license provided under this Agreement);\n\n7.3.11. You acknowledge and agree that the validity of the Proprietary Marks as they currently exist, and may develop in the future, is irrefutable, and you will not challenge their validity at any point;\n\n7.3.12. Upon our request, you shall comply with instructions for filing and maintaining trade name or fictitious name registrations, and sign any documents we deem necessary to secure protection for the Proprietary Marks, preserve their validity, enforceability, or defend against infringement claims.",
+    "contradiction_score": 0.04784996807575226,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 141,
+    "start_char": 73494,
+    "end_char": 73861,
+    "original": "7.4. Changes to the Proprietary Marks . We have the right, upon reasonable notice, to change, discontinue, or substitute for any of the Proprietary Marks and to adopt new Proprietary Marks for use with the System without any liability for any diminishment of the brand. You agree to implement any such change at your own expense within the time we reasonably specify.",
+    "ollama_generated": "7.4. Alterations to Proprietary Marks: As the proprietor, we retain the prerogative, upon reasonable notice, to modify, discontinue, or replace any of the Proprietary Marks, as well as introduce new Proprietary Marks for use in conjunction with the System. In such cases, you shall bear the costs associated with implementing these changes within a timeframe that we deem appropriate, without holding us liable for any potential impact on the brand's value or recognition.",
+    "contradiction_score": 0.006853379309177399,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 142,
+    "start_char": 73865,
+    "end_char": 73924,
+    "original": "7.5. Third-Party Challenges . The parties agree as follows:",
+    "ollama_generated": "7.5. Responding to Third-Party Claims: For the sake of clarity:\n\nThe affected party shall have the right, but not the obligation, to defend and indemnify the other in the event of any third-party claim, demand, suit, or proceeding arising out of or relating to the breach of this Agreement by such party. In the case where a third-party claim is made against both parties jointly, they shall cooperate in good faith to defend the claim, with each party bearing its own legal expenses unless otherwise agreed upon.\n\nIn this revised clause, the obligation for one party to indemnify the other has been softened by turning it into a right \"but not an obligation.\" Additionally, I have shifted responsibility by making it clear that both parties will cooperate in good faith if they are jointly sued, but each will bear their own legal expenses unless otherwise agreed upon.",
+    "contradiction_score": 0.004282170906662941,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 151,
+    "start_char": 77120,
+    "end_char": 77609,
+    "original": "Page 19 of 39 Source: PF HOSPITALITY GROUP INC., 10-12G, 9/23/2015 8.2.2 If we request in writing, you agree that your financial institution is authorized to send us a monthly statement of all activity in the designated account (and such other reports of the activity in the operating account as we reasonably request) at the same time as it sends such statements to you. You also agree to sign such documents as your financial institution may require in order to implement this provision.",
+    "ollama_generated": "Clause:\nPage 19 of 39 Source: PF HOSPITALITY GROUP INC., 10-12G, 9/23/2015\n8.2.2 We reserve the right to request, in writing, that your financial institution send us a monthly statement of all activity in the designated account (and such other reports of the activity in the operating account as we find necessary). Upon our request, you shall arrange for your financial institution to provide these statements to us at the same time they are sent to you. You also agree to sign any documents as may be required by your financial institution to facilitate this process.\n\nIn this rewritten clause, the obligation has been shifted from the counterparty to the drafter's party, and the language is adjusted to reflect that change. The counterparty now only needs to arrange for the financial institution to provide statements upon request, rather than agreeing to it outright. Additionally, the responsibility of signing any required documents now lies with the financial institution, as opposed to the counterparty.",
+    "contradiction_score": 0.04698222130537033,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 157,
+    "start_char": 81212,
+    "end_char": 82373,
+    "original": "9.1.2. We have the right to determine the proper operation and other decisions of the Marketing Fund. We may use your contributions and any earnings on the Marketing Fund for any costs associated with advertising, marketing, public relations, and/or promotional programs and materials, and any other activities we believe would benefit Franchised Businesses generally, including advertising campaigns in various media\u037e creation and maintenance of one or more Websites\u037e direct mail advertising\u037e market research, including secret shoppers and customer satisfaction surveys\u037e employing advertising and/or public relations agencies\u037e purchasing promotional items\u037e conducting and administering promotions, contests, giveaways, public relations events, community involvement activities, etc.\u037e and providing promotional and other marketing materials and services to our franchisees. We have the right to direct all marketing programs, with the final decision over creative concepts, materials, and media used in the programs and their placement. We do not guarantee that you will benefit from the Marketing Fund in proportion to your contributions to the Marketing Fund.",
+    "ollama_generated": "9.1.2. While we invite your input, ultimate authority for the management and decision-making of the Marketing Fund rests with us. Your contributions and any returns on the Marketing Fund may be utilized at our discretion towards expenses related to advertising, marketing, public relations, promotions, research, event organization, community involvement, agency services, promotional items, contests, giveaways, and more \u2013 all aimed at enhancing the overall performance of Franchised Businesses.\n\nWe retain full control over creative direction, materials, and media selection for marketing programs, with no obligation to guarantee a proportionate return on your investment in the Marketing Fund.",
+    "contradiction_score": 0.004663325380533934,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 160,
+    "start_char": 83356,
+    "end_char": 85088,
+    "original": "9.2. Local Marketing . Beginning on the Opening Date, during each consecutive three-calendar-month period during the Term, you must spend three percent (3%) or more of your Gross Sales on local marketing of the Franchised Business. You must make these local marketing expenditures on a quarterly basis, based upon your Gross Sales calculated for the current year on an annualized basis. Your local spending obligation is in addition to your Marketing Fund contributions. Upon our request, you agree to submit to us, for our approval, an annual proposal and quarterly proposals detailing your plan for implementing your local marketing budget. At our request, you must submit appropriate documentation to verify compliance with the minimum spending obligation. All local advertising, marketing, and promotions by you must be in such media, and such types and format as we may approve\u037e must be conducted in a dignified manner\u037e and, must conform to such standards and requirements as we may specify. You must not use any advertising, marketing materials, or promotional plans unless and until you have received written approve from us, pursuant to the procedures and terms set forth in Section 9.5  [Advertising Approval]  below. We have the right to periodically designate in the Manual the types of expenditures that will or will not count toward the minimum annual spending requirement. You must advertise the Franchised Business in all major directories in your Delivery/Catering and Advertising Area, including local online directories, as specified in the Manual. If you advertise jointly with other franchisees, your share of the cost will count toward your local spending requirement under this Section 9.2  [Local Marketing] .",
+    "ollama_generated": "9.2. Local Marketing Obligations: Commencing from the Opening Date, throughout each successive three-month period during the Term, we request that you allocate a minimum of three percent (3%) of your Gross Sales towards local marketing efforts for the Franchised Business. This expenditure is expected on a quarterly basis, calculated based on an annualized estimate of your Gross Sales for the current year. Your local marketing expenses are additional to your Marketing Fund contributions. Upon our discretion, you are required to submit to us, for our review and approval, an annual proposal detailing your local marketing strategy, as well as quarterly updates outlining modifications to your plan as necessary. At our request, you will provide appropriate documentation to demonstrate compliance with the minimum spending threshold. All local advertising, marketing, and promotions undertaken by you must adhere to media, format, and standards specified in the Manual, be executed professionally, and meet any requirements we may stipulate. You are only authorized to utilize advertising, marketing materials, or promotional plans following our written approval, as outlined in Section 9.5 [Advertising Approval]. We reserve the right to periodically designate in the Manual which types of expenses will or will not be recognized towards the minimum annual spending requirement. As per the Manual, you are expected to advertise the Franchised Business in all major directories within your Delivery/Catering and Advertising Area, including local online directories. If you jointly advertise with other franchisees, the shared costs will be recognized towards your local spending obligation under this Section 9.2 [Local Marketing].",
+    "contradiction_score": 0.011567062698304653,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 163,
+    "start_char": 86088,
+    "end_char": 86334,
+    "original": "9.3.2 Each Regional Fund will be organized for the exclusive purpose of administering regional marketing programs and developing, subject to our approval, standardized promotional materials for use by the members in local marketing and promotion.",
+    "ollama_generated": "9.3.2 The establishment of each Regional Fund is strictly intended for the purpose of implementing regional marketing initiatives and creating, upon our discretion, uniform promotional resources that may be utilized by member entities for local advertising and promotional activities. In this context, the responsibility for the approval of standardized promotional materials shall reside with us.",
+    "contradiction_score": 0.0013300057034939528,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 166,
+    "start_char": 87024,
+    "end_char": 87645,
+    "original": "9.3.5 A majority of the Restaurant owners in the Regional Fund may vote to increase the amount of each Restaurant owner\u2019s Regional Fund contribution by up to an additional two percent (2%) of each Restaurant\u2019s Gross Revenues. Voting will be on the basis of one vote per Restaurant, and any locations that we operate in the region, if any, will have the same voting rights as those owned by our franchisees. You must contribute to the Regional Fund in accordance with any such vote by the Regional Fund to increase each Restaurant\u2019s contribution by up to two percent (2%) of the Gross Revenues of your Franchised Business.",
+    "ollama_generated": "9.3.5 The decision to increase the contribution to the Regional Fund by up to an additional two percent (2%) of each Restaurant's Gross Revenues can be made by a simple majority vote among the Restaurant owners within the Regional Fund. Each Restaurant, including those operated by us in the region, shall have equal voting rights, regardless of ownership. Notably, this increase in contribution will become applicable to all Franchisees, including you, should such a vote be initiated. It's essential to understand that your obligation to contribute to the Regional Fund will be adjusted accordingly following any such decision by the Regional Fund to increase each Restaurant's contribution by up to two percent (2%) of their Gross Revenues.",
+    "contradiction_score": 0.046174339950084686,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 168,
+    "start_char": 87814,
+    "end_char": 88110,
+    "original": "9.3.7 Although once established, each Regional Fund is intended to be of perpetual duration, we maintain the right to terminate any Regional Fund. A Regional Fund will not be terminated, however, until all monies in that Regional Fund have been expended for marketing and/or promotional purposes.",
+    "ollama_generated": "9.3.7 While each Regional Fund is initially conceived as a perpetual entity, we reserve the discretion to dissolve any Regional Fund at any time. Upon our decision to terminate a Regional Fund, the expenditure of all funds within that Regional Fund for marketing and/or promotional purposes shall be completed prior to the dissolution.\n\nThis modification shifts the responsibility of ensuring funds are spent prior to dissolution to us (the party maintaining the right to terminate), while still ensuring the funds are used for their intended purpose before the termination takes effect.",
+    "contradiction_score": 0.002875247038900852,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 174,
+    "start_char": 91231,
+    "end_char": 91983,
+    "original": "(a) computer software programs and accounting system software that you must use in connection with the Computer System (\u201c Required Software \u201d), which you must install\u037e (b) updates, supplements, modifications, or enhancements to the Required Software, which you must install\u037e (c) the tangible media upon which such you must record or receive data\u037e (d) the database file structure of your Computer System\u037e and (e) an Extranet for informational assistance, which may include, without limitation, the Manuals, training other assistance materials, and management reporting solutions\u037e and (f) answering service requirements and/or system-wide phone order processing of all delivery orders, and/or to designate vendors that will provide such order processing.",
+    "ollama_generated": "(a) You are obligated to utilize the specified computer software programs and accounting system software (referred to hereafter as \"Mandatory Software\") for the Computer System. You shall be responsible for installing these programs. (b) Any updates, supplements, modifications, or enhancements to the Mandatory Software shall also be installed by you. (c) You are required to obtain and record or receive data on the tangible media provided. (d) You will have responsibility for maintaining and managing the database file structure of your Computer System. (e) We will provide an Extranet for informational assistance, which may include manuals, training materials, and management reporting solutions. However, you will be responsible for any answering service requirements and/or system-wide phone order processing for all delivery orders. Additionally, you are granted the authority to designate vendors who will handle such order processing. (f) We reserve the right to modify or amend this clause with appropriate notice.",
+    "contradiction_score": 0.0018600700423121452,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 176,
+    "start_char": 92093,
+    "end_char": 92294,
+    "original": "10.1.3 You agree to implement and periodically upgrade and make other changes to the Computer System and Required Software as we may reasonably request in writing (collectively, \u201c Computer Upgrades \u201d).",
+    "ollama_generated": "10.1.3 We reserve the right, at our discretion, to require you to implement, upgrade, or make changes to the Computer System and Required Software (collectively, \"Computer Upgrades\") as we deem necessary in writing. Your compliance with such requests shall be optional, unless failure to comply materially affects the performance of the service or compromises the security of our systems, in which case your non-compliance may constitute a breach of this agreement.",
+    "contradiction_score": 0.011637091636657715,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 177,
+    "start_char": 92294,
+    "end_char": 92690,
+    "original": "Page 23 of 39 Source: PF HOSPITALITY GROUP INC., 10-12G, 9/23/2015 10.1.4 You agree to comply with the specifications that we issue with respect to the Computer System and the Required Software, and with respect to Computer Upgrades, at your expense. You also agree to afford us unimpeded access to your Computer System and Required Software in the manner, form, and at the times that we request.",
+    "ollama_generated": "Clause:\nPage 23 of 39 Source: PF HOSPITALITY GROUP INC., 10-12G, 9/23/2015\n10.1.4 We reserve the right to specify requirements for the Computer System and Required Software, as well as any necessary Computer Upgrades, which will be your sole responsibility to implement and fund. In addition, we retain the authority to access your Computer System and Required Software whenever we deem necessary, in the manner, form, and at the times we find appropriate, without undue hindrance from your end.",
+    "contradiction_score": 0.08286786079406738,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 184,
+    "start_char": 95443,
+    "end_char": 96405,
+    "original": "10.5 Website . We will maintain a Website for benefit of ourselves and our franchisees. You agree not to establish a Website or permit any other party to establish a Website that relates in any manner to your Franchised Business or referring to the Proprietary Marks. We have the right, but not the obligation, to provide one or more references or webpage(s) to your Franchised Business, as we may periodically designate, within our Website. (The term \u201c Website \u201d means one or more related documents, designs, pages, or other communications that can be accessed through electronic means, including but not limited to the Internet, World Wide Web, social networking sites (including but not limited to Facebook, Twitter, LinkedIn, Google Wave, etc.), blogs, vlogs, and other applications, etc.). If we ever do approve in writing a request for you to use a separate Website, then we have the right to require that you meet any or all of the following requirements:",
+    "ollama_generated": "10.5 Online Presence: While we will maintain an online presence primarily for our benefit and that of our franchisees, you are prohibited from creating your own website or allowing any third party to do so, related in any way to your Franchised Business or utilizing the Proprietary Marks. However, you understand that it is at our discretion to offer one or more references or webpages linked to your Franchised Business within our online presence, as we deem appropriate and subject to change.\n\nFor clarity, \"online presence\" encompasses various documents, designs, pages, or communications accessible via electronic means such as the Internet, World Wide Web, social networking sites (Facebook, Twitter, LinkedIn, Google Wave, etc.), blogs, vlogs, and other applications.\n\nShould we ever grant, in writing, your request for a separate online presence, we reserve the right to impose any or all of the following conditions:\n\n1. Compliance with our design guidelines and specifications\n2. Approval of all content prior to publication\n3. Regular updates as directed by us\n4. Obligation to maintain the website's functionality and performance according to our standards.",
+    "contradiction_score": 0.037855859845876694,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 185,
+    "start_char": 96405,
+    "end_char": 96613,
+    "original": "10.5.1 You agree that any Website that you own or that is maintained for your benefit will be deemed \u201cadvertising\u201d under this Agreement, and will be subject to (among other things) our prior written approval.",
+    "ollama_generated": "10.5.1 Under this Agreement, any website you control or that benefits you shall be considered as \"advertising\" on our part. Therefore, we reserve the right, at our discretion and without prior notice, to withhold our approval for such websites.\n\nIn this revised clause, the responsibility for obtaining approval shifts from the client to the provider (us), thus weakening the obligation on the client. The condition is also inverted: instead of requiring the client's websites to be approved by us, we now reserve the right to withhold our approval for their websites.",
+    "contradiction_score": 0.12574158608913422,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 191,
+    "start_char": 97587,
+    "end_char": 98141,
+    "original": "10.6 Cash Register Systems. You must record all sales on computer-based point of sale systems on such other types of cash registers that we have the right to designate or approve in the Manual or otherwise in writing (\u201c Cash Register Systems \u201d). The Cash Register System is deemed to be part of your Computer System. You must utilize computer-based point-of-sale cash registers which are fully compatible with any program or system which we have the right to designate and you must record all Gross Revenues and all revenue information on such equipment.",
+    "ollama_generated": "10.6 Point of Sale Systems (POS): We reserve the right, at our discretion, to specify or approve the type of cash registers you should utilize for recording sales. These designated cash registers, herein referred to as \"Approved Cash Register Systems,\" will be considered an extension of your Computer System. While it is not mandatory for you to exclusively use computer-based POS systems, when using alternative cash registers, they must be compatible with any program or system we designate. Any recorded sales data, Gross Revenues, and all related revenue information must be captured on the Approved Cash Register Systems.\n\nThis revised clause allows for more flexibility by not making it mandatory to use computer-based POS systems at all times but still ensures compatibility with designated systems when alternative cash registers are used, and it clearly defines the approved systems as part of the contractor's Computer System.",
+    "contradiction_score": 0.00832501519471407,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 200,
+    "start_char": 103545,
+    "end_char": 105014,
+    "original": "12. CONFIDENTIAL INFORMATION During and after the term of this Agreement, you may not communicate, divulge, or use for any purpose other than the operation of the Franchised Business any confidential information, knowledge, trade secrets or know-how that may be communicated to you or that you may learn by virtue of your relationship with us and the System. You may divulge confidential information only to your professional advisers and to your employees who must have access to the information to operate the Franchised Business. All information, knowledge and know-how relating to us, our business plans, or the System are deemed confidential for purposes of this Agreement, except information that you can demonstrate came to your attention by lawful means prior to our disclosure\u037e or which, at the time of our disclosure to you, had become a part of the public domain. You must require your employees, and any other person or entity to which you wish to disclose any confidential information, to execute (and deliver to us upon our request) agreements, in the form provided in Appendix C to this Agreement or as we may otherwise require in writing, that they will maintain the confidentiality of the disclosed information. If you do not obtain execution of the covenants required by this Section 12 and, upon our request, deliver those signed agreements to us, that will constitute a default under Section 15.2.13  [Termination By Us Without A Cure Period] below.",
+    "ollama_generated": "12. CONFIDENTIALITY OBLIGATIONS\nDuring and following the duration of this Agreement, you are prohibited from disclosing, communicating, or utilizing any confidential information, intellectual property, trade secrets, or proprietary knowledge obtained through your relationship with us and the Franchise System, except for the purpose of operating the Franchised Business. You may share confidential information solely with your professional advisors and essential employees necessary for the operation of the Franchised Business.\n\nFor the purposes of this Agreement, all information, intellectual property, trade secrets, or proprietary knowledge related to us, our business plans, or the System will be considered confidential, unless it:\n- was previously known by you without breaching any obligations of confidentiality before our disclosure; or\n- becomes publicly available through no wrongful act of yours.\n\nYou are responsible for ensuring that your employees and any third parties to whom you wish to disclose confidential information sign (and deliver upon our request) a confidentiality agreement, in the form provided in Appendix C or as we may otherwise require in writing, agreeing to maintain the confidentiality of the disclosed information. Failure to obtain such agreements and provide them upon our request will constitute a breach of this Agreement, subject to Section 15.2.13 [Termination By Us Without Notice] below.",
+    "contradiction_score": 0.07904160022735596,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 202,
+    "start_char": 105780,
+    "end_char": 106383,
+    "original": "14. TRANSFERS BY YOU 14.1. Definition of Transfer . In this Agreement, \u201c Transfer \u201d as a verb means to sell, assign, give away, pledge, or encumber, either voluntarily or by operation of law (such as through divorce or bankruptcy proceedings), any interest in this Agreement the rights and/or obligations under this Agreement, all or substantially all of the assets of the Franchised Business, and/or any direct or indirect interest in the ownership of Franchisee (if the Franchisee is a corporation, partnership, or limited liability company). \u201cTransfer\u201d as a noun means any such sale, assignment, etc.",
+    "modified": "Clause:\n14. ASSIGNMENTS BY YOU\n14.1. Definition of Assignment. In this Agreement, \"Assignment\" as a verb refers to the transfer, conveyance, or disposition, whether voluntary or involuntary (such as through divorce, bankruptcy proceedings, or any other means), of any rights and/or obligations under this Agreement, all or substantially all of the assets of the Franchised Business, and/or any direct or indirect interest in the ownership of the Franchisee (if the Franchisee is a corporation, partnership, or limited liability company). \"Assignment\" as a noun encompasses such transfers, conveyances, or dispositions.\n\nIn this revised clause, the focus has been slightly shifted towards the concept of assignment rather than transfer. This modification suggests that the obligation to inform the Franchisor about any potential assignments (and not just transfers) is now emphasized, while still maintaining a professional and fluent tone.",
+    "contradiction_score": 0.5451429486274719,
+    "kept": true
+  },
+  {
+    "clause_index": 210,
+    "start_char": 108735,
+    "end_char": 108960,
+    "original": "(d) If the proposed transferee is one of our other franchisees, he or she must not be in default under his or her agreements with us and must have a good record of customer service and compliance with our operating standards.",
+    "ollama_generated": "(d) In the event that the prospective transferee is an existing franchisee of ours, it shall be a condition precedent for the transfer to occur that they are currently in full compliance with their agreements with us, possess a commendable history of customer service, and adhere strictly to our established operating standards.\n\nIn this revised version, I've aimed to shift the responsibility slightly by framing it as a condition that must be met before the transfer can occur (as opposed to stating that the transferee \"must not\" be in default). This modification subtly strengthens the obligation on the existing franchisee to meet the requirements for the transfer to proceed.",
+    "contradiction_score": 0.005715011619031429,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 211,
+    "start_char": 108960,
+    "end_char": 109136,
+    "original": "(e) If the transferee is a corporation or other entity, the owner or owners of a beneficial interest in the transferee must execute our then-current form of personal guarantee.",
+    "ollama_generated": "(e) In the event that the transferee is a corporation or any other entity, it shall be obligated to provide us with executed copies of our current form of personal guarantees from the individuals holding beneficial interests in said transferee, as a prerequisite for the transfer.",
+    "contradiction_score": 0.00614451989531517,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 215,
+    "start_char": 110499,
+    "end_char": 110693,
+    "original": "14.3.6. The price and other proposed terms of the Transfer must not, in our reasonable business judgment, have the effect of negatively impacting the future viability of the Franchised Business.",
+    "ollama_generated": "14.3.6. The proposed terms for the Transfer, including pricing, should, in our prudent business assessment, contribute positively to the sustainability and long-term growth potential of the Franchised Business. (By this rephrasing, the obligation is shifted from avoiding negative impacts to ensuring positive contributions.)",
+    "contradiction_score": 0.02584330551326275,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 227,
+    "start_char": 118792,
+    "end_char": 118945,
+    "original": "15.2.1. You, the Operating Principal, and/or your personnel fail to complete training under Section 5.1  [Initial Training Program]  to our satisfaction.",
+    "ollama_generated": "15.2.1. In the event that the Initial Training Program outlined in Section 5.1 is not successfully completed by you, the Operating Principal, and/or your personnel, as evaluated to our satisfaction, it will be incumbent upon you to rectify the situation promptly.",
+    "contradiction_score": 0.002500865375623107,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 228,
+    "start_char": 118950,
+    "end_char": 119036,
+    "original": "15.2.2. You fail to open for business by the opening deadline specified in Appendix A.",
+    "ollama_generated": "15.2.2. The failure on your part to commence operations by the stated opening date as outlined in Appendix A, shall not be deemed a breach of contract unless we, as the landlord, have first provided you with reasonable notice and an opportunity to remedy such default.",
+    "contradiction_score": 0.05872107297182083,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 232,
+    "start_char": 119550,
+    "end_char": 119735,
+    "original": "15.2.6. You understate to us your Gross Revenues, by 2% or more on three or more occasions in any twelve-month period, or by 5% or more for any period of four or more consecutive weeks.",
+    "ollama_generated": "15.2.6. It is hereby acknowledged that if your declared Gross Revenues are overstated to us by 2% or more on three or more occasions in any twelve-month period, or by 5% or more for a continuous four weeks or more, you shall be in breach of this agreement.\n\nThis change shifts the responsibility from the party understating their Gross Revenues to the party overstating them, and indicates that such an action would constitute a breach of the agreement instead of being explicitly stated as an understatement.",
+    "contradiction_score": 0.4694613814353943,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 236,
+    "start_char": 120307,
+    "end_char": 120640,
+    "original": "15.2.10. You are in default three (3) or more times under Sections 15.3  [Termination by Us Following Expiration of Cure Period for Monetary Default]  and/or  15.4  [Termination by Us Following Expiration of Cure Period]  within any twelve (12) month period, whether or not the defaults are similar and whether or not they are cured.",
+    "ollama_generated": "15.2.10. If, over the course of a twelve (12)-month period, you incur three (3) or more instances of non-compliance under Sections 15.3 [Monetary Default Cure Period Expired] and/or 15.4 [Cure Period Expired], regardless of their similarity or whether they have been rectified, it shall be considered a persistent breach on your part.\n\nIn this revised clause, the language has been adjusted to focus on persistent breaches rather than defaults, which may help to provide a softer tone while maintaining the original intention: that repeated non-compliance within a twelve-month period can lead to consequences for the party in question. The term \"persistent breach\" may be perceived as less accusatory compared to \"default\".",
+    "contradiction_score": 0.002065553329885006,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 238,
+    "start_char": 120942,
+    "end_char": 121092,
+    "original": "15.2.12. Any condition exists with respect to the Franchised Business that, in our reasonable judgment, seriously jeopardizes public health or safety.",
+    "ollama_generated": "15.2.12. In the event that any conditions within the Franchised Business, as deemed by us, potentially pose a significant risk to public health or safety, we retain the right to intervene and take necessary actions.",
+    "contradiction_score": 0.00373952928930521,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 252,
+    "start_char": 126207,
+    "end_char": 126398,
+    "original": "Page 31 of 39 Source: PF HOSPITALITY GROUP INC., 10-12G, 9/23/2015 16.1.2. You agree to stop making any use of the confidential methods, procedures, and techniques associated with the System.",
+    "modified": "Clause:\nPage 31 of 39 Source: PF HOSPITALITY GROUP INC., 10-12G, 9/23/2015\n16.1.2. We reserve the right to permit you to continue utilizing the confidential methods, procedures, and techniques associated with the System, but only as long as such use is necessary for the transition period and upon our explicit consent. Any further use after this period requires our prior written approval.",
+    "contradiction_score": 0.6132490634918213,
+    "kept": true
+  },
+  {
+    "clause_index": 253,
+    "start_char": 126398,
+    "end_char": 126893,
+    "original": "You also agree to immediately deliver to us the Manual and all training materials, marketing materials, records, files, forms, instructions, signs, equipment, correspondence, copies, Customer Data, and other property in your possession or control that contain confidential information (as defined in Section 12) or that bear the Proprietary Marks and you agree not to retain any unauthorized copies of these materials. You also must deliver to us all customer information that you have compiled.",
+    "ollama_generated": "The parties mutually consent to promptly transfer to us, upon our request, all proprietary materials, including but not limited to manuals, training resources, marketing assets, records, files, forms, instructions, signs, equipment, correspondence, copies, Customer Data, and any other property under your possession or control that may contain confidential information (as per Section 12) or display Proprietary Marks. Moreover, you are obligated to relinquish any unauthorized duplicates of these materials. Additionally, you shall provide us with all customer-related data that you have accumulated during the course of our business relationship.",
+    "contradiction_score": 0.0015187636017799377,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 254,
+    "start_char": 126893,
+    "end_char": 127909,
+    "original": "16.1.3. You agree to immediately cease to use, by advertising or in any other manner, the name \u201cPizza Fusion,\u201d all other Proprietary Marks, and all other distinctive forms, slogans, signs, symbols, Websites, domain name, website, e-mail address, and any other identifier (whether or not we have authorized its use) that you used in connection with your operation of the Franchised Business or that are otherwise associated with the Proprietary Marks, System, and/or us. If you subsequently begin to operate another business, you agree that you will not use any reproduction, counterfeit, copy or colorable imitation of the Proprietary Marks that you used either in connection with the Franchised Business or its promotion, which is likely to cause confusion, mistake or deception, or which is likely to dilute our exclusive rights in and to the Proprietary Marks, nor any trade dress or designation of origin or description or representation which falsely suggests or represents an association or connection with us.",
+    "ollama_generated": "16.1.3. You acknowledge that you may temporarily retain the use of the name \"Pizza Fusion,\" along with all Proprietary Marks, for a transitional period post-termination of this agreement, solely for the purpose of winding down your Franchised Business operations. However, upon completion of such wind-down, you are obligated to permanently cease using any and all identifiers associated with the Proprietary Marks, System, or us in any advertising or promotional activities, including but not limited to names, slogans, signs, symbols, websites, domain names, email addresses, and similar distinctive forms.\n\nIn the event that you decide to commence another business venture, you are prohibited from using any reproductions, counterfeits, copies, or colorable imitations of the Proprietary Marks previously utilized for the Franchised Business, if such use is likely to mislead consumers or dilute our exclusive rights in the Proprietary Marks. Additionally, you shall abstain from employing any trade dress, designation of origin, descriptive representation, or other association or connection suggesting affiliation with us that could potentially be misleading or deceptive to consumers.",
+    "contradiction_score": 0.4918232858181,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 259,
+    "start_char": 129664,
+    "end_char": 129928,
+    "original": "16.2. Purchase of Assets. You agree that, at our option, you will sell to us any or all your assets used to operate the Franchised Business (including equipment, fixtures, furnishings, Delivery Vehicles, supplies, and inventory) that we ask in writing to purchase.",
+    "ollama_generated": "16.2. Asset Acquisition. Granting our discretion, you acknowledge your readiness to transfer ownership of any or all assets essential for the operation of the Franchised Business (including but not limited to equipment, fixtures, furnishings, Delivery Vehicles, supplies, and inventory) upon our written request for purchase. In this case, the onus shifts from us to you for initiating the sale process.",
+    "contradiction_score": 0.012425040826201439,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 264,
+    "start_char": 131341,
+    "end_char": 131677,
+    "original": "16.3. Right to Enter and Continue Operations. In order to preserve the goodwill of the System following termination, we (or our designee) have the right to enter the Premises (without liability to you, your Owners, or otherwise) for the purpose continuing the Franchised Business\u2019 operation and maintaining the goodwill of the business.",
+    "ollama_generated": "16.3. Right of Access and Continuation: Following termination, you (or your designated party) grant us the right to access the Premises at our discretion, free from any liability towards you, your Owners, or others. This right is exercisable for the purpose of operating and maintaining the Franchised Business, preserving its goodwill, and ensuring a smooth transition.",
+    "contradiction_score": 0.013617164455354214,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 272,
+    "start_char": 134342,
+    "end_char": 135014,
+    "original": "Page 33 of 39 Source: PF HOSPITALITY GROUP INC., 10-12G, 9/23/2015 17.1.1. Own, manage, engage in, be employed by, advise, make loans to, consult for, rent or lease to, or have any other interest in any business that (directly or indirectly) operates, or grants franchises or licenses to operate, a restaurant featuring pizza and related food specialties or that offers products or services substantially similar to those then offered by Restaurants (\u201c Competitive Business \u201d)\u037e 17.1.2. Divert or attempt to divert any business or customer, or potential business or customer, to any Competitive Business\u037e or 17.1.3. Induce any person to leave his or her employment with us.",
+    "ollama_generated": "Clause:\nPage 33 of 39 Source: PF HOSPITALITY GROUP INC., 10-12G, 9/23/2015\n17.1.1. Not be prohibited from having any interest in a business that (directly or indirectly) operates, or grants franchises or licenses to operate, a restaurant featuring pizza and related food specialties, or offers products or services substantially similar to those then offered by Restaurants (\"Competing Venture\"), except where such involvement may conflict with the Franchisee's obligations under this Agreement.\n17.1.2. Permitted to divert business or customers, or potential business or customers, to a Competing Venture if such action does not violate any non-competition covenants specified within this Agreement.\n17.1.3. Not restricted from inducing personnel to leave their employment with third parties, as long as no PF Hospitality Group employees are targeted for recruitment in violation of applicable labor laws and regulations.",
+    "contradiction_score": 0.19252128899097443,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 273,
+    "start_char": 135014,
+    "end_char": 135159,
+    "original": "17.1.4. In any manner interfere with, disturb, disrupt, impair, diminish, or otherwise jeopardize our business or that of any of our franchisees.",
+    "ollama_generated": "17.1.4. Our actions may not unreasonably interfere, disturb, disrupt, impair, diminish, or put at risk the business operations of ourselves or any of our franchisees. [This implies a balance is to be maintained and excessive interference could be challenged.]",
+    "contradiction_score": 0.004528843332082033,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 282,
+    "start_char": 140883,
+    "end_char": 141655,
+    "original": "21. NOTICES Notices related to this Agreement must be in writing and personally delivered, sent by registered mail, or by other means which affords the sender evidence of delivery, or of rejected delivery, to the respective parties. Any notice by a means that affords the sender evidence of delivery, or rejected delivery, shall be deemed to have been given at the date and time of receipt or rejected delivery. We will send notices intended for you to your address on the first page of this Agreement. You agree to send notices intended for us to our principal business address, which is currently 2200 West Cypress Creek Road, 1st Floor, Fort Lauderdale, Florida 33309. Either party can change its notice address by informing the other party in writing of a new address.",
+    "ollama_generated": "Clause 21: NOTICES\n\nAll communications or notices related to this Agreement shall be in written form and may be delivered personally, sent via registered mail, or through an electronic method that provides proof of delivery or return receipt. Notifications transmitted electronically will be considered delivered at the time they are sent, provided that there is evidence of transmission.\n\nWe will direct all notices to you at your address as indicated on the first page of this Agreement. You acknowledge and agree that any notices meant for us should be sent to our current principal business address: 2200 West Cypress Creek Road, 1st Floor, Fort Lauderdale, Florida 33309.\n\nBoth parties have the right to modify their respective notice addresses by providing written notification of a new address to the other party. However, for any changes made by either party, a minimum notice period of five (5) business days is required prior to such change becoming effective.",
+    "contradiction_score": 0.014627342112362385,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 302,
+    "start_char": 149753,
+    "end_char": 149988,
+    "original": "26.1.6 We make no warranty as to your ability to operate the Franchised Business in the jurisdiction in which the Franchised Business is to be operated. You must seek or obtain advice of counsel specifically with respect to this issue.",
+    "ollama_generated": "26.1.6 While we offer our support, it's your responsibility to verify and confirm that you possess the necessary knowledge and compliance requirements for operating the Franchised Business within the chosen jurisdiction. We strongly advise seeking professional legal counsel to ensure full understanding and adherence to local regulations in this regard.",
+    "contradiction_score": 0.016169389709830284,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 307,
+    "start_char": 151567,
+    "end_char": 151957,
+    "original": "26.6. No Conflicting Obligations . Each party represents and warrants to the others that there are no other agreements, court orders, or any other legal obligations that would preclude or in any manner restrict such party from: (a) negotiating and entering into this Agreement\u037e (b) exercising its rights under this Agreement\u037e and/or (c) fulfilling its responsibilities under this Agreement.",
+    "ollama_generated": "26.6. Absence of Competing Commitments: Each party represents and warrants to the others that they have no existing agreements, court orders, or any other legal obligations that may interfere with, conflict with, or impede their ability to: (a) engage in negotiations and execute this Agreement, (b) exercise the rights granted to them under this Agreement, or (c) perform their duties as outlined within this Agreement. However, it is understood that this clause does not prevent a party from entering into agreements that are complimentary or supplemental to this Agreement, provided they do not infringe upon the rights and obligations set forth herein.",
+    "contradiction_score": 0.027430284768342972,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 308,
+    "start_char": 151957,
+    "end_char": 152159,
+    "original": "[Signature page follows.] Page 38 of 39 Source: PF HOSPITALITY GROUP INC., 10-12G, 9/23/2015 The parties, intending to be legally bound, have entered into this Agreement on the date first written above.",
+    "ollama_generated": "[Preceding pages are incorporated.] This Agreement is hereby executed by the Parties on the date first appearing above, with the understanding that their intent is to be contractually bound. The final page follows, being Page 39 of 39.\n\n[PF HOSPITALITY GROUP INC., 10-12G, 9/23/2015]",
+    "contradiction_score": 0.03366401046514511,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 310,
+    "start_char": 152202,
+    "end_char": 152220,
+    "original": "Franchisee By: By:",
+    "ollama_generated": "Franchisor Shall Be Obliged To: By: By:\n\n[This clause change places the obligation on the franchisor instead of the franchisee.]\n\nHere's another example:\n\nOriginal Clause:\nIf Franchisee fails to comply with any provision of this Agreement, Franchisor may terminate this Agreement without notice.\n\nRewritten Clause:\nUnless Franchisee fulfills all provisions of this Agreement, Franchisor retains the right to provide written notice before terminating this Agreement.\n\n[This clause weakens the obligation by requiring written notice prior to termination.]",
+    "contradiction_score": 0.12052527070045471,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 314,
+    "start_char": 152536,
+    "end_char": 152578,
+    "original": "2. Delivery/Catering and Advertising Area:",
+    "ollama_generated": "2. Service Provision and Advertised Region:\n\nThe Supplier shall deliver the services within the specified region, as advertised by the Client, subject to the following conditions:\n\na) The Client shall be responsible for accurately representing the service area in all advertisements and promotional materials; any errors or misrepresentations may result in delays or adjustments to the services provided.\n\nb) In case of any changes to the advertised region, whether due to client initiative or external factors, the Supplier shall have the right to reassess its capacity to deliver the services and adjust its fees accordingly. The Client will be notified of any such changes in a timely manner.\n\nc) The Client understands and agrees that it is solely responsible for managing any customer complaints or disputes arising from errors or misrepresentations in the advertised service area, regardless of whether they were caused by the Client or the Supplier.",
+    "contradiction_score": 0.26462313532829285,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 317,
+    "start_char": 152658,
+    "end_char": 152685,
+    "original": "Pizza Fusion Holdings, Inc.",
+    "ollama_generated": "Pizza Fusion Holdings, Inc., shall retain the discretionary authority to modify, suspend, or terminate any aspects of this agreement at its sole and absolute discretion, without prior notice and with immediate effect. Any such modification, suspension, or termination shall not give rise to any liability or claim for damages by the counterparty.\n\nIn the event that the counterparty breaches any terms of this agreement, Pizza Fusion Holdings, Inc., reserves the right to immediately exercise its aforementioned authority without further notice or obligation.",
+    "contradiction_score": 0.005296548828482628,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 319,
+    "start_char": 152705,
+    "end_char": 152716,
+    "original": "Name: Name:",
+    "modified": "Name: Name:\n\nIn the event of any dispute arising out of or in connection with this Agreement, the parties shall strive to resolve their differences amicably through good faith negotiations before resorting to litigation. If negotiations fail, either party reserves the right to seek legal remedy, without prejudice to the other party's obligation to cooperate in resolving the dispute and sharing any related costs equally, unless otherwise agreed upon by both parties in writing.\n\nOriginal Clause:\nName: Name:\n\nIn the event of a dispute between the Parties arising out of or in connection with this Agreement, either Party shall have the right to seek legal remedy immediately without having first attempted to resolve the matter through good faith negotiations. The Parties shall share equally any costs associated with such litigation.\n\nI've rewritten the clause to emphasize a cooperative approach towards dispute resolution, which may help to maintain a positive relationship between the parties involved. In this revised version, both parties are encouraged to attempt amicable negotiations before resorting to litigation, and they share any related costs equally unless otherwise agreed upon in writing. This shifts the focus towards a more collaborative resolution process.",
+    "contradiction_score": 0.8058359026908875,
+    "kept": true
+  }
+]

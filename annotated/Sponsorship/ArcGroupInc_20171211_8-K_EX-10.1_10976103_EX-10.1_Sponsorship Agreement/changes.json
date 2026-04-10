@@ -1,0 +1,92 @@
+[
+  {
+    "clause_index": 2,
+    "start_char": 928,
+    "end_char": 1128,
+    "original": "B. Sponsor wishes to obtain certain sponsorship rights, benefits and opportunities with respect to the Team in connection with the advertising and promotion of the Sponsor Business (as defined below).",
+    "ollama_generated": "C. The Team grants Sponsor a desire for acquisition of specific sponsorship privileges, advantages, and possibilities, with regard to the Team, pertaining to the endorsement and publicity of Sponsor's Enterprise (as outlined herein). This clause signifies a shift in responsibility from the Sponsor expressing a wish to the Team granting the desired rights.",
+    "contradiction_score": 0.04982106015086174,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 3,
+    "start_char": 1143,
+    "end_char": 1231,
+    "original": "In consideration of the mutual covenants contained herein, the parties agree as follows:",
+    "ollama_generated": "In contemplation of the reciprocal commitments set forth herein, the parties mutually acknowledge and consent to the terms stated below:\n\nBy making this adjustment, the focus shifts slightly from a unilateral agreement (mutual covenants) to a bilateral one (reciprocal commitments). This small change emphasizes that both parties are not just bound by individual obligations but also share collective responsibilities.",
+    "contradiction_score": 0.0022820127196609974,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 7,
+    "start_char": 3131,
+    "end_char": 3402,
+    "original": "(a) In consideration for the Benefits, during each Contract Year of the Term, Sponsor shall pay Club, in accordance with this Section 3(a) and Section 2(d)  of the Terms and Conditions, the amount set forth next to the applicable Contract Year below (the \u201c Annual Fee \u201d).",
+    "ollama_generated": "Clause:\n(a) For receipt of the Benefits, it is incumbent upon Club, during each Contract Year of the Term, to receive from Sponsor, in accordance with Sections 3(a) and 2(d) of the Terms and Conditions, the Annual Fee as specified beside the relevant Contract Year (hereinafter referred to as the \"Annual Fee\").\n\nIn this revised version, the obligation is shifted from Sponsor to Club, implying that instead of Sponsor paying the annual fee to Club, it is now Club's responsibility to receive the payment. This change may be beneficial in situations where a party wants to emphasize their receipt or collection of funds rather than the payment itself.",
+    "contradiction_score": 0.028310628607869148,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 10,
+    "start_char": 4074,
+    "end_char": 5096,
+    "original": "First Contract Year (2018/19):  $ 35,000 Second Contract Year (2019/20):  $ 35,700 Third Contract Year (2020/21):  $ 36,410 Fourth Contract Year (2021/22):  $ 37,140 Fifth Contract Year (2022/23):  $ 37,890 As part of the Annual Trade Value, Sponsor shall provide Club with a designated liaison who will coordinate the menu and quantities to be provided by Sponsor. Sponsor shall deliver the food (the cost of which is included in the Annual Trade Value) to the Stadium at the time and location specified by Club. If any portion of the Annual Trade Value is not used in any given Contract Year, such unused amount shall carry forward to the subsequent Contract Year. If any portion of the Annual Trade Value is not used at the end of the Term, Club shall be permitted to use such unused amount within twelve (12) months following expiration of this Agreement. The parties acknowledge that the Annual Trade Value is inclusive of any taxes, surcharges or related fees applicable to the orders placed by Club during the Term.",
+    "ollama_generated": "Initial Contract Term (2018-2019): $35,000\nSubsequent Contract Terms (2019-2020, 2020-2021, 2021-2022, and 2022-2023): Incremental increases of $700 per annum, starting from $35,700 in the second contract year. The increment for the fifth contract year will be $37,890.\n\nAs part of the Annual Trade Value, Club shall designate a liaison who will collaborate with Sponsor on the menu and quantities to be supplied. Sponsor is responsible for delivering the food (included in the Annual Trade Value) to the Stadium at the specified time and location determined by Club. Any unutilized portion of the Annual Trade Value during a Contract Year shall roll over to the subsequent Contract Year, unless explicitly requested by either party otherwise.\n\nUpon expiration of this Agreement, if any portion of the Annual Trade Value remains unutilized, Sponsor may exercise the option to utilize such unused amount within twelve (12) months following the agreement's termination. The parties mutually acknowledge that the Annual Trade Value encompasses all applicable taxes, surcharges, and related fees associated with orders placed by Club during the Term.\n\nThis revised clause maintains the original meaning but alters the incremental increase pattern and shifts the responsibility of utilizing the unused amount upon agreement termination to the Sponsor, if desired.",
+    "contradiction_score": 0.02252296172082424,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 11,
+    "start_char": 5096,
+    "end_char": 6320,
+    "original": "Source: ARC GROUP, INC., 8-K, 12/11/2017 (c) If, during the Term, the Team plays in the Hall of Fame game, or any post-season playoff game, including any wild card, divisional playoff, conference championship, or Super Bowl (each, a \u201c Playoff Game \u201d), to the extent Club has the necessary rights to grant the Benefits identified on Exhibit A  for such Playoff Game, Sponsor shall pay Club an additional amount per Playoff Game equal to a pro-rated portion of the Annual Fee applicable during the then-current Contract Year. The pro-rated portion shall be determined by Club using Club\u2019s internal line item accounting values as set forth in Club\u2019s standard rate card for such Benefits during each Playoff Game\u037e provided  that the cost of the Playoff Game tickets shall be based upon the generally applicable price for such tickets (the \u201c Playoff Payments \u201d). Sponsor shall pay the Playoff Payments in accordance with Section 2(d)  of the Terms and Conditions not later than 30 days following Sponsor\u2019s receipt of an invoice requesting payment for such Playoff Games\u037e provided  that Club\u2019s failure to deliver such an invoice shall not, and not be construed to, relieve Sponsor of any obligation to pay any amount owed to Club.",
+    "ollama_generated": "Clause:\nSource: ARC GROUP, INC., 8-K, 12/11/2017 (c) Should the Team participate in any Playoff Game, as defined herein (each, a \"Playoff Game\"), if Club possesses the requisite rights to provide the Benefits listed on Exhibit A for such game, Sponsor is responsible for making an additional payment per Playoff Game, equivalent to a pro-rated portion of the Annual Fee applicable during the current Contract Year. The pro-rated amount will be calculated by Club using its internal line item accounting values as specified in Club's standard rate card for such Benefits during each Playoff Game; given that the cost of Playoff Game tickets shall correspond to the typical price for such tickets (the \"Playoff Payments\").\n\nSponsor will make the Playoff Payments as outlined in Section 2(d) of the Terms and Conditions within 30 days following Sponsor's receipt of an invoice. It is clarified that if Club fails to issue such an invoice, this does not, and shall not be interpreted to, absolve Sponsor from paying any amounts owed to Club. However, it should be noted that in the event Club fails to participate in a Playoff Game, no payment shall be due from Sponsor for that particular game.",
+    "contradiction_score": 0.04805539548397064,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 25,
+    "start_char": 11031,
+    "end_char": 11264,
+    "original": "2.RADIO a.Radio Spots : Sponsor shall receive the following radio spots in Club radio programming broadcasted by Club\u2019s primary radio partner. The exact timing of each spot shall be determined by Club or Club\u2019s primary radio partner:",
+    "ollama_generated": "2. RADIO (Amended)\nRadio Advertisements: Club's primary radio partner shall provide the following radio advertisements to Sponsor for broadcast within their programming on Club's station. The specific scheduling of each advertisement will be at the discretion of Sponsor or the radio partner:\n\nIn this revised clause, the sponsor now has the flexibility to determine the exact timing of the radio spots, shifting the responsibility from Club or its primary radio partner to the sponsor.",
+    "contradiction_score": 0.43088632822036743,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 27,
+    "start_char": 11453,
+    "end_char": 11676,
+    "original": "ii.Pre-Game Show : One (1) thirty second (:30) spot for broadcast of an advertisement of the Sponsor Business during each initial broadcast of the Pre-Game Show  (for a total of twenty (20) spots during each Contract Year).",
+    "ollama_generated": "ii. Pre-Game Show Advertisements: The Sponsor shall be granted an opportunity for twenty (20) thirty-second (:30) commercial airings during each initial broadcast of the Pre-Game Show throughout the Contract Term. However, the Broadcaster reserves the right to adjust the number and placement of these advertisements at its discretion, subject to reasonable notice provided to the Sponsor.",
+    "contradiction_score": 0.13597646355628967,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 29,
+    "start_char": 11934,
+    "end_char": 12303,
+    "original": "3.DIGITAL a.Banner Ad : During each Contract Year, Sponsor shall receive display of a Sponsor Mark on one (1) banner advertisement in respect of the Sponsor Business that rotates throughout www.jaguars.com  (approximately 300x250 pixels) and that links to Sponsor\u2019s official website. The exact placement of the banner shall be determined by Club in its sole discretion.",
+    "ollama_generated": "Clause:\n3.DIGITAL a.Banner Ad: Throughout each Contract Year, the Club grants permission for the display of a Sponsor Mark on one (1) rotating banner advertisement (approximately 300x250 pixels) related to the Sponsor Business on www.jaguars.com. The Sponsor shall be responsible for ensuring that this banner links directly to their official website. The specific placement of the banner shall be at the sole discretion of the Sponsor, subject to Club's approval.",
+    "contradiction_score": 0.25263094902038574,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 33,
+    "start_char": 13506,
+    "end_char": 13696,
+    "original": "4.HOSPITALITY a.Season Tickets : Sponsor shall receive tickets (in Section 150, Row X, Seats 5-8, or a substantially similar location) to each preseason and regular season Jaguars Home Game.",
+    "ollama_generated": "Clause:\n4.HOSPITALITY a. Season Tickets: The Recipient (hereafter referred to as the Sponsor) is granted tickets, located in Section 150, Row X, Seats 5-8, or an equivalent location, for each preseason and regular season Jaguars Home Game; however, no guarantee can be made that these seats will always be available, and any changes to the seating arrangement will be communicated promptly.",
+    "contradiction_score": 0.06393156945705414,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

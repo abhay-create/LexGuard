@@ -1,0 +1,130 @@
+[
+  {
+    "clause_index": 0,
+    "start_char": 0,
+    "end_char": 42,
+    "original": "Exhibit 10.16 SUPPLY CONTRACT Contract No:",
+    "ollama_generated": "Exhibit 10.16 PURCHASE AGREEMENT Agreement No:\n\nUnder this revised agreement, the supplier's obligations are now more closely tied to the buyer's compliance with its own commitments. Any deviations or delays in the buyer's obligations may result in the suspension or termination of the supplier's responsibilities, unless otherwise mutually agreed upon by both parties.\n\nThis alteration aims to balance the risks and rewards for both parties, fostering a more cooperative and flexible business relationship. In essence, the success of this agreement will depend on the reliability and timely performance of each party in accordance with their respective obligations.\n\nIn addition, the clause order has been adjusted for clarity and improved readability:\n\n1. General Provisions\n2. Scope of Supply\n3. Prices, Payments, and Taxes\n4. Delivery and Performance\n5. Quality Control and Inspection\n6. Warranties and Liabilities\n7. Termination, Suspension, and Cancellation\n8. Dispute Resolution\n9. Confidentiality\n10. Force Majeure\n11. Notices\n12. Miscellaneous Provisions\n\nBy rephrasing the original clause and organizing the agreement in a more intuitive manner, this revised Supply Contract should facilitate smoother negotiations and easier understanding for both parties involved.",
+    "contradiction_score": 0.002000923966988921,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 2,
+    "start_char": 123,
+    "end_char": 142,
+    "original": "Tel No. : Fax No. :",
+    "ollama_generated": "Title: Contact Information\n\nEmail Address: [Insert Email]\n\nPhone Number (Call Preferred): [Insert Phone Number]\n\nAlternative Phone Number (Call if primary line is unreachable): [Insert Alternative Phone Number]\n\nFax Number (Used only if specifically requested): [Insert Fax Number]\n\nNote: While we prefer communication via email and phone calls, we will make every effort to respond to faxes upon request. However, our primary method of communication will remain emails and phone calls for efficiency and promptness.",
+    "contradiction_score": 0.16840045154094696,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 7,
+    "start_char": 797,
+    "end_char": 1153,
+    "original": "2. The agreement and order 2.1 During the validity term of this agreement, The buyer entrust SHENZHEN YICHANGTAI IMPORT AND EXPORT TRADE CO., LTD or SHENZHEN LEHEYUAN TRADING CO, LTD (hereinafter referred to as the \u201centrusted party\u201d or \u201cYICHANGTAI\u201d or \u201cLEHEYUAN\u201d), to purchase the products specified in this agreement from the seller in the form of orders.",
+    "modified": "2. For the duration of this agreement, it is incumbent upon the Seller to receive orders for the goods as outlined in this agreement, from either SHENZHEN YICHANGTAI IMPORT AND EXPORT TRADE CO., LTD or SHENZHEN LEHEYUAN TRADING CO, LTD (hereinafter referred to as the \"ordering party\" or \"YICHANGTAI\" or \"LEHEYUAN\"). The ordering party shall be responsible for the execution of said purchases.\n\nIn this revised clause, the responsibility for purchasing the products has shifted from the entrusted party to the seller, making the obligation on the buyer to execute the purchase instead.",
+    "contradiction_score": 0.868086040019989,
+    "kept": true
+  },
+  {
+    "clause_index": 13,
+    "start_char": 2112,
+    "end_char": 2311,
+    "original": "The products quantity, unit price, specifications, delivery time and transportation, specific content shall be subject to the purchase order issued by entrusted party which is commissioned the buyer.",
+    "ollama_generated": "The quantities, units prices, specifications, delivery schedules, and modes of transport for the products shall be contingent upon a valid purchase order, duly issued by the third-party vendor, who will be acting on behalf of the purchaser, with said order to govern all pertinent details.",
+    "contradiction_score": 0.00410485127940774,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 22,
+    "start_char": 3977,
+    "end_char": 4151,
+    "original": "The letter of credit should state that partial shipments are allowed. The Buyer\u2019s agent agrees to pay for the goods in accordance with the actual amount of the goods shipped.",
+    "ollama_generated": "The letter of credit shall imply a permissibility for incremental deliveries, with the understanding that the Seller's designated representative will be remunerated proportionately based on the quantity of goods delivered.\n\nThis modification subtly inverts the responsibility of payment and makes it clear that the seller's agent will only receive payment according to the actual amount shipped, instead of the original phrasing where the buyer's agent was responsible for paying according to the quantity shipped.",
+    "contradiction_score": 0.02770976722240448,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 23,
+    "start_char": 4154,
+    "end_char": 4253,
+    "original": "80% of the system value being shipped will be paid against the documents stipulated in Clause 12.1.",
+    "ollama_generated": "The payment for 80% of the system value shall be made upon presentation of the requisite documents as outlined in Clause 12.1, with the remaining 20% being contingent upon successful delivery and acceptance of the system.",
+    "contradiction_score": 0.001347523764707148,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 33,
+    "start_char": 5139,
+    "end_char": 5246,
+    "original": "Source: LOHA CO. LTD., F-1, 12/9/2019 (1) Invoice in 3 originals indicating contract number and L/C number.",
+    "ollama_generated": "Clause:\nLOHA CO. LTD., F-1, 12/9/2019 (1) - Three original invoices, each containing the contract number and L/C number, to be submitted.",
+    "contradiction_score": 0.002530053723603487,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 37,
+    "start_char": 5578,
+    "end_char": 5744,
+    "original": "The Sellers shall ship the goods within the shipment time from the port of shipment to the port of destination. Transshipment is allowed. Partial Shipment is allowed.",
+    "modified": "The Purchaser is responsible for ensuring that the Goods are received at the specified destination port within the agreed shipping timeframe, allowing for both transshipment and partial shipment as necessary.",
+    "contradiction_score": 0.8970053195953369,
+    "kept": true
+  },
+  {
+    "clause_index": 39,
+    "start_char": 6158,
+    "end_char": 6458,
+    "original": "14. SHIPPING ADVICE: The seller shall within 72 hours after the shipment of the goods, advise the shipping department of buyer by fax or E-mail of Contract No., goods name, quantity, value, number of packages, gross weight, measurements and the estimated arrival time of the goods at the destination.",
+    "ollama_generated": "14. RECEIPT NOTIFICATION: Upon receipt of the shipment by the seller, it shall be obligated to notify the shipping department of the buyer within 72 hours, via fax or email, providing details including Contract No., goods name, quantity, value, number of packages, gross weight, measurements, and an estimated arrival time of the goods at the destination. This clause places the onus on the seller to confirm the shipment has been sent, rather than advising after the shipment has occurred.",
+    "contradiction_score": 0.2594220042228699,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 42,
+    "start_char": 7296,
+    "end_char": 7878,
+    "original": "The Certificate so issued shall be accepted as the base of a claim. The Sellers, in accordance with the Buyers\u2019 claim, shall be responsible for the immediate elimination of the defect(s), complete or partial replacement of the commodity or shall devaluate the commodity according to the state of defect(s). Where necessary, the Buyers shall be at liberty to eliminate the defect(s) themselves at the Sellers\u2019 expenses. If the Sellers fail to answer the Buyers within one weeks after receipt of the aforesaid claim, the claim shall be reckoned as having been accepted by the Sellers.",
+    "ollama_generated": "The issued Certificate serves as the foundation for any potential claims made by the Buyers. In response to such claims, it shall be the obligation of the Buyers, rather than the Sellers, to promptly remedy any identified defect(s), either by repair or replacement of the commodity, or by reducing its value according to the severity of the defect(s). Should the Buyers deem it necessary, they may choose to rectify the defect(s) themselves at the expense of the Sellers. If the Sellers do not respond within one week following receipt of the aforementioned claim, their silence will be construed as implicit acceptance of the claim by them.",
+    "contradiction_score": 0.456143856048584,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 51,
+    "start_char": 11015,
+    "end_char": 11354,
+    "original": "This Contract is made out in three originals in both Chinese and English, each language being legally of the equal effect. Conflicts between these two languages arising there from, if any, shall be subject to Chinese version. One copy for the Sellers, two copies for the Buyers. The Contract becomes effective after signed by both parties.",
+    "ollama_generated": "This Agreement is drafted in triplicate, in both Chinese and English, with equal legal validity accorded to each language. In the event of any discrepancies arising from translations, the Chinese version shall prevail. Two copies will be held by the Buyers, while a single copy will be retained by the Sellers. The Agreement shall come into force upon signature by both parties.\n\nThis revision maintains the original clause's purpose but slightly shifts the burden of holding multiple copies to the buyers and prioritizes the Chinese version in case of language conflicts.",
+    "contradiction_score": 0.02457394078373909,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 52,
+    "start_char": 11356,
+    "end_char": 11378,
+    "original": "THE BUYER: THE SELLER:",
+    "ollama_generated": "CONTRACTUAL OBLIGATIONS BETWEEN PARTIES\n-----------------------------------------\n\nPARTY A (THE BUYER): PARTY B (THE SELLER)\n----------------------------------------\n----------------------------------------\n\n1. DELIVERY AND ACCEPTANCE\n\nThe Seller shall deliver the Goods to the Buyer at the agreed location and time, and the Buyer shall accept the Goods if they are in conformity with the Contract's specifications. In the event that the Buyer does not accept the Goods due to non-conformity, the Seller shall have a reasonable period of time to rectify the issue, failing which the Buyer shall be entitled to reject the Goods and terminate this Contract.\n\nRewritten Clause:\n------------------\n\n1. DELIVERY AND ACCEPTANCE\n\nThe Buyer shall accept the Goods from the Seller at the agreed location and time, provided that the Goods are in conformity with the Contract's specifications. If the Buyer does not accept the Goods due to any reason other than non-conformity, the Seller shall have no obligation to rectify the issue or offer compensation, and the Buyer shall be bound by this Contract. In case of non-conformity, the Seller shall have a reasonable period of time to rectify the issue; failing which, the Buyer may reject the Goods and terminate this Contract without liability.\n\nChanges made:\n- Shifted responsibility for acceptance from Seller to Buyer (subject to conformity)\n- Altered the condition under which the Buyer can reject the Goods (non-conformity only)\n- Removed the Seller's obligation to rectify issues not related to non-conformity\n- Changed the phrasing to emphasize the Buyer's liability in case of rejection for reasons other than non-conformity.",
+    "contradiction_score": 0.4279097020626068,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 54,
+    "start_char": 11403,
+    "end_char": 11440,
+    "original": "Source: LOHA CO. LTD., F-1, 12/9/2019",
+    "ollama_generated": "Clause:\nAlteration Date: 12/9/2019, LOHA CO. LTD., G-1\n\nIn the event that the Client fails to meet their contractual obligations, LOHA CO. LTD. shall have the discretionary power to suspend or terminate the services without any liability towards the Client, unless otherwise agreed in writing by both parties.",
+    "contradiction_score": 0.29180583357810974,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

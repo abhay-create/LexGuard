@@ -1,0 +1,111 @@
+[
+  {
+    "clause_index": 3,
+    "start_char": 1098,
+    "end_char": 1127,
+    "original": "The parties agree as follows:",
+    "ollama_generated": "The parties acknowledge the following:\n\nUpon occasion of non-compliance with any provision by either party, the aggrieved party shall possess the discretion to elect remedies, rather than being obligated to initiate immediate legal action. Furthermore, the non-defaulting party's liability for damages in such cases will be limited to direct and foreseeable losses suffered by the defaulting party.",
+    "contradiction_score": 0.0010954660829156637,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 4,
+    "start_char": 1130,
+    "end_char": 1146,
+    "original": "1. Definitions .",
+    "ollama_generated": "1. Interpretation and Definitions .\n\nFor the purposes of this agreement, unless the context otherwise requires:\n\nThe terms \"Party,\" \"Parties,\" and \"Agreement\" shall have the meanings ascribed to them in the introductory section. Any other capitalized terms not defined herein shall be given their ordinary meaning. The obligations and responsibilities as set forth herein shall be interpreted in favor of the Party against whom enforcement is sought, unless expressly stated otherwise. In case of any ambiguity or uncertainty, the Parties shall negotiate in good faith to resolve such matters promptly.",
+    "contradiction_score": 0.020694701001048088,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 11,
+    "start_char": 1705,
+    "end_char": 2047,
+    "original": "g. \u201cRegistered Referral\u201d shall mean a Named Account (i) for which \u201cReseller\u201d identifies & creates the opportunity, provides Sales Assistance (as defined below), and (ii) which leads to a direct sale with the \u201cCompany\u201d. Registered Referrals may fall into two categories: Sales executed by the \u201cCompany\u201d, and via a third party\u2019s prime contract.",
+    "ollama_generated": "g. A \"Qualified Lead\" shall be deemed as an account named by the \"Reseller\", for which they have initiated contact, offered preliminary sales guidance (as defined herein), and subsequently resulted in a sale by either the \"Company\" or a third party acting under the \"Company's\" prime contract. Qualified Leads can be categorized into two types: Sales completed directly by the \"Company\", or sales facilitated indirectly through a third party.\n\nIn this revised clause, I have changed the term \"Registered Referral\" to \"Qualified Lead,\" which carries a slightly different connotation implying that the lead has undergone some level of qualification before being considered. Additionally, the order of actions taken by the reseller and the Company has been inverted to make it more clear that the Reseller is responsible for initiating contact and providing initial sales guidance.",
+    "contradiction_score": 0.004305149894207716,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 15,
+    "start_char": 2961,
+    "end_char": 3023,
+    "original": "l. \u201cReseller\u201d shall have the meaning assigned in the preamble.",
+    "modified": "Clause:\nFor purposes of this agreement, \"Principal\" refers to the entity designated as such in the preamble.",
+    "contradiction_score": 0.5564594268798828,
+    "kept": true
+  },
+  {
+    "clause_index": 16,
+    "start_char": 3026,
+    "end_char": 3089,
+    "original": "m. \u201cTerritory\u201d shall have the meaning assigned in the preamble.",
+    "ollama_generated": "\"The term 'Territory', as defined in the preambular provisions, shall govern the scope of this agreement.\"",
+    "contradiction_score": 0.0021749516017735004,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 21,
+    "start_char": 4940,
+    "end_char": 5609,
+    "original": "6. Compensation . In the event that Reseller (i) refers a Registered Referral to Company, through delivery to Company of the lead form attached hereto as  Exhibit A , and (ii) such Registered Referral executes an agreement to purchase any of such Company Products or services, then Company shall pay Reseller a Referral Fee, as specified in  Exhibit B attached hereto. Referral Fees will be paid within thirty (30) days of the collection of receivables from the Registered Referral. In the event an opportunity is requested and the government elects to use a different contract vehicle as described in 1g, reseller will still receive Referral Fee outlined in exhibit B.",
+    "ollama_generated": "Clause 6: Compensation\n\nUpon the occurrence of two conditions: (i) Reseller delivering to Company the lead form as outlined in Exhibit A, which refers a Registered Referral to the Company, and (ii) the execution of an agreement by the Registered Referral for the purchase of any Company Products or services. In such cases, Reseller will be eligible for a Referral Fee, detailed in Exhibit B attached hereto. The Referral Fee will be disbursed within thirty (30) days following the collection of receivables from the Registered Referral. Notably, should an opportunity arise where the government opts to utilize a different contract vehicle as defined in 1g, the Reseller will remain entitled to the Referral Fee, as outlined in Exhibit B, regardless of the chosen contract vehicle.",
+    "contradiction_score": 0.005969546269625425,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 45,
+    "start_char": 14275,
+    "end_char": 14298,
+    "original": "Registered Opportunity:",
+    "ollama_generated": "Exclusive Engagement Opportunity:\n\nUpon accepting this agreement, the Client acknowledges and agrees that for the duration of this contract, they shall exclusively engage our services for any opportunities within their domain that align with our areas of expertise, unless otherwise mutually agreed in writing by both parties. Any breach of this clause may result in termination of this contract without notice or liability.",
+    "contradiction_score": 0.03478216379880905,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 52,
+    "start_char": 15035,
+    "end_char": 15205,
+    "original": "For a Registered Opportunity where the customer purchases from Reseller, payment will be made by Reseller to Company within 5 days of receipt of payment (paid when paid).",
+    "ollama_generated": "Upon successful completion of a Registered Opportunity and subsequent purchase by the customer from the Reseller, the Reseller shall have up to five business days following their own receipt of payment to remit such payment to the Company, with the understanding that payment will be considered received by the Company concurrently with its receipt by the Reseller (paid if paid promptly).",
+    "contradiction_score": 0.0032729683443903923,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 54,
+    "start_char": 15325,
+    "end_char": 15391,
+    "original": "Marketing Expense : As may be agreed to by the parties in writing.",
+    "ollama_generated": "Cost Allocation for Marketing: Shall be determined mutually between the parties in writing, without any party being obligated to cover expenses unless explicitly specified.",
+    "contradiction_score": 0.04202202707529068,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 55,
+    "start_char": 15391,
+    "end_char": 15530,
+    "original": "Source: BRAVATEK SOLUTIONS, INC., 8-K, 4/18/2017 COMPANY SUPPORT OBLIGATIONS Product Training : Training on the Company products as needed.",
+    "ollama_generated": "Clause:\nRevised from BRAVATEK SOLUTIONS, INC., 8-K, 4/18/2017 COMPANY SUPPORT OBLIGATIONS Product Training : The Company's obligation to provide product training is not mandatory and will be offered on a case-by-case basis at its discretion.",
+    "contradiction_score": 0.2309781312942505,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 56,
+    "start_char": 15546,
+    "end_char": 15637,
+    "original": "Marketing Materials : Electronic and print copies of existing marketing material as needed.",
+    "ollama_generated": "Marketing Material Provision: Upon request, provision of digital and physical duplicates of pre-existing promotional materials at our discretion.",
+    "contradiction_score": 0.001631135935895145,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

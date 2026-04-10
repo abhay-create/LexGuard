@@ -1,0 +1,141 @@
+[
+  {
+    "clause_index": 4,
+    "start_char": 1151,
+    "end_char": 1200,
+    "original": "(d) \"DOMAIN NAME\" means www.iescrow.com/2TheMart.",
+    "ollama_generated": "(d) \"THE MART\" shall hereafter refer to the domain name www.iescrow.com/2TheMart, for purposes of this agreement. In case of any reference or mention regarding the domain name elsewhere in the document, it is understood that it refers to www.iescrow.com/2TheMart.",
+    "contradiction_score": 0.06461120396852493,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 13,
+    "start_char": 3219,
+    "end_char": 3493,
+    "original": "2.1 OVERVIEW.  As set forth herein, 2TheMart will promote Services to its auction users (buyers and sellers), and i-Escrow shall develop Co-Branded Site, and develop the Information Transfer Mechanism working with 2TheMart to make Services available seamlessly to Customers.",
+    "ollama_generated": "2.1 SUMMARY OF ROLES. As outlined herein, i-Escrow will be responsible for developing the Co-Branded Site and the Information Transfer Mechanism in collaboration with 2TheMart, while 2TheMart agrees to market and facilitate access to these services for its auction users (both buyers and sellers).\n\nIn this revised version, the responsibility of promoting services has been shifted from i-Escrow to 2TheMart. This alteration weakens the obligation on i-Escrow with regards to marketing efforts and instead emphasizes their focus on developing the required infrastructure.",
+    "contradiction_score": 0.1711384505033493,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 19,
+    "start_char": 5488,
+    "end_char": 5992,
+    "original": "2.4 RESTRICTIONS ON COMMUNICATIONS.  i-Escrow may place banner advertising on the Co-Branded Site upon prior written approval of 2TheMart, which shall be at the discretion of 2TheMart.  All advertising revenue arising from the banner ads shall be solely i-Escrow's.  i-Escrow shall not run banner advertisements on the Co-Branded Site for any of 2TheMart's competitors. 2TheMart shall provide in writing, a list of companies they would like to exclude, including every time they wish to change this list.",
+    "ollama_generated": "2.4 MANAGEMENT OF COMMUNICATIONS: While i-Escrow maintains the right to display banner advertisements on the Co-Branded Site, such placements will be subject to 2TheMart's written disapproval, which shall not be unreasonably withheld. Any advertising revenue derived from these banner ads will remain exclusively with i-Escrow. However, i-Escrow is granted discretion to run banner advertisements for competitors of 2TheMart, provided that such advertisements are not detrimental to the interests of 2TheMart as determined by 2TheMart in writing. 2TheMart shall be responsible for providing a list of companies they wish i-Escrow to exclude from advertising on the Co-Branded Site, with no obligation to update this list unless requested by i-Escrow.",
+    "contradiction_score": 0.2894732356071472,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 23,
+    "start_char": 6471,
+    "end_char": 6532,
+    "original": "After Launch Date, 2TheMart will widely promote the Services:",
+    "ollama_generated": "Upon the occurrence of the Launch Date, TheMart shall be obligated to undertake an extensive marketing campaign for the provision of the Services. However, the extent and success of such promotional efforts remain solely within TheMart's discretion.",
+    "contradiction_score": 0.005368062760680914,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 34,
+    "start_char": 8825,
+    "end_char": 8910,
+    "original": "i-Escrow shall within two (2) weeks make any overdue payments disclosed by the audit.",
+    "ollama_generated": "i-The Party receiving the audit report shall have a period of two (2) weeks to challenge any disputed payments, upon which Escrow will make the overdue payments in question promptly thereafter.",
+    "contradiction_score": 0.018327945843338966,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 40,
+    "start_char": 10316,
+    "end_char": 10385,
+    "original": "Neither party shall exceed the scope of the rights granted hereunder.",
+    "ollama_generated": "To ensure clarity, neither party is authorized to extend beyond the boundaries of the rights bestowed in this agreement.",
+    "contradiction_score": 0.0006234083557501435,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 44,
+    "start_char": 11842,
+    "end_char": 12170,
+    "original": "Notwithstanding the foregoing, to the extent that the Domain Name is deemed a combination mark, neither party shall use the Domain Name for any purpose except as expressly provided herein or attempt to register the Domain Name, and the parties will jointly cooperate on any enforcement action of infringement of the Domain Name.",
+    "ollama_generated": "The Domain Name, if considered a combination mark, shall be exclusively utilized by each party only in accordance with this agreement, without any attempts to register it independently. Moreover, both parties will mutually agree and collaborate on all enforcement actions relating to potential infringement of the Domain Name's rights, ensuring no unauthorized use occurs beyond the scope of this contract.",
+    "contradiction_score": 0.0013880613259971142,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 46,
+    "start_char": 12864,
+    "end_char": 13777,
+    "original": "6.6 CONTENT STANDARDS. 2TheMart shall not provide any 2TheMart Content, and i-Escrow shall not provide any i-Escrow Content, that: (a) infringes any third party's copyright, patent, trademark, trade secret or other proprietary rights or rights of publicity or privacy\u037e (b) violates any law, statute, ordinance or regulation (including without limitation the laws and regulations governing export control, unfair competition, antidiscrimination or false advertising)\u037e (c) is defamatory, trade libelous, unlawfully threatening or unlawfully harassing\u037e (d) is obscene, harmful to minors or child pornographic\u037e (e) contains any viruses, Trojan horses, worms, time bombs, cancelbots or other computer programming routines that are intended to damage, detrimentally interfere with, surreptitiously intercept or expropriate any system, data or personal information\u037e and (f) is materially false, misleading or inaccurate.",
+    "modified": "6.6 STANDARDS FOR PROVIDED CONTENT: Both TheMart and i-Escrow retain the right to supply content that:\n(a) does not unintentionally infringe upon any third party's copyright, patent, trademark, trade secret, or rights of publicity or privacy;\n(b) complies with all applicable laws, statutes, ordinances, and regulations (excluding those pertaining to export control, unfair competition, antidiscrimination, or false advertising);\n(c) is not libelous, defamatory, unlawfully threatening, or harassing;\n(d) is neither obscene nor harmful to minors, but does not necessarily exclude content suitable for mature audiences;\n(e) does not include any harmful computer programming routines intended to damage, interfere with, surreptitiously intercept, or expropriate any system, data, or personal information; and\n(f) is truthful, accurate, and while striving for accuracy, may contain minor inconsistencies or errors.",
+    "contradiction_score": 0.8605838418006897,
+    "kept": true
+  },
+  {
+    "clause_index": 47,
+    "start_char": 13777,
+    "end_char": 14457,
+    "original": "6.7  SERVICE STANDARDS. i-Escrow will comply with all laws and regulations and act as an Independent Escrow Agent as per the guidelines of California Escrow Law (California Financial Code Section17000 et seq., or its successor).  Should any of the terms, conditions or provisions of this Agreement conflict with the California Escrow Law, its rules or regulations, which govern i-Escrow's business practices, the California Escrow Law shall prevail. Notwithstanding the foregoing, at any time that i-Escrow reasonably believes such a conflict exists, i-Escrow will give 2TheMart written notice of such conflict and the parties will use their best efforts to resolve such conflict.",
+    "ollama_generated": "6.7 ESCROW OBLIGATIONS. As an Independent Escrow Agent, i-Escrow is committed to adhering to all applicable laws and regulations as outlined in California Escrow Law (California Financial Code Section17000 et seq., or its successor). However, in the event of any discrepancies between the terms, conditions, or provisions of this Agreement and California Escrow Law, the rules or regulations that govern i-Escrow's business practices will take precedence. In such instances where i-Escrow reasonably believes a conflict exists, it will promptly notify 2TheMart in writing. It is understood that resolving such conflicts shall be the joint responsibility of both parties.\n\nIn this rewritten clause, the responsibility for resolving conflicts arising from discrepancies between the Agreement and California Escrow Law has been shifted to a shared responsibility between i-Escrow and 2TheMart, thus weakening the obligation placed solely on i-Escrow in the original clause.",
+    "contradiction_score": 0.03594523295760155,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 51,
+    "start_char": 15601,
+    "end_char": 16109,
+    "original": "Source: 2THEMART COM INC, 10-12G, 8/26/1999 8.2 TERMINATION FOR BREACH.  In addition to other remedies that may be available to it, by providing written notice, a party may immediately terminate this Agreement: (a) if the other party materially breaches this Agreement and fails to cure that breach within sixty (60) days after receiving written notice of the breach, or (b) as provided in Sections 2.2   [INITIAL INFORMATION TRANSFER MECHANISM DEVELOPMENT] , 2.4  [RESTRICTIONS ON COMMUNICATIONS] , or 12.4.",
+    "ollama_generated": "Clause:\nAmended for a subtle change in meaning \u2014 specifically, extending the cure period for breach before termination:\n\nTarget: 2THEMART COM INC, 10-12G, 8/26/1999\n8.2 TERMINATION FOR BREACH (Revised)\n\nUpon providing written notice, either party retains the right to terminate this Agreement with a notice period: (a) if the other party materially breaches this Agreement and fails to remedy that breach within ninety (90) days after receiving written notice of the breach, or (b) as outlined in Sections 2.2 [INITIAL INFORMATION TRANSFER MECHANISM DEVELOPMENT], 2.4 [RESTRICTIONS ON COMMUNICATIONS], and 12.4.\n\nBy extending the cure period from sixty to ninety days, the other party is given a more extensive time frame to rectify any material breach before the Agreement may be terminated. This modification aims to promote the opportunity for a resolution of disputes and avoid immediate termination in certain circumstances.",
+    "contradiction_score": 0.2446744292974472,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 68,
+    "start_char": 24798,
+    "end_char": 24836,
+    "original": "To i-Escrow:            i-Escrow, Inc.",
+    "ollama_generated": "To the Beneficiary (i-Escrow, Inc.):\n\nThe Obligor shall have the obligation to transfer and safeguard all funds and assets as directed by the Beneficiary in accordance with the terms of this Agreement. Any disputes regarding the performance or interpretation of the Agreement shall be resolved in favor of the Beneficiary's interpretation, unless otherwise provided herein.\n\nIn essence, this revised clause places a greater emphasis on the Obligor (the party transferring funds) to comply with the instructions from the Beneficiary (i-Escrow, Inc.) and shifts the resolution of disputes in favor of the Beneficiary's interpretation, unless otherwise specified.",
+    "contradiction_score": 0.011773543432354927,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 72,
+    "start_char": 25544,
+    "end_char": 25772,
+    "original": "12.9 ADDITIONAL DOCUMENTS/INFORMATION. The parties agree to sign and/or provide such additional documents and/or information as may reasonably be required to carry out the intent of this Agreement and to effectuate its purposes.",
+    "ollama_generated": "12.9 SUPPLEMENTARY MATERIALS REQUIREMENT: Upon request, each party shall furnish any additional documents or information that may be reasonably deemed necessary for the execution and completion of this Agreement's objectives, understanding that such provision is non-obligatory unless expressly stated otherwise in writing. The onus lies on the party requesting the supplementary materials to justify their relevance and necessity.",
+    "contradiction_score": 0.0424027293920517,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 79,
+    "start_char": 28338,
+    "end_char": 28518,
+    "original": "When an auction ends, your end of auction email contains links to i-Escrow. Once you have signed up with i-Escrow   you go through the following steps to complete your transaction.",
+    "ollama_generated": "Upon the conclusion of an auction, your post-auction email shall include links to i-Escrow for the purpose of account registration. Following successful registration, i-Escrow will guide you through the necessary steps to finalize the transaction, with the onus on them to ensure a seamless process.\n\nThis alteration subtly shifts the responsibility from the buyer (you) to i-Escrow for guiding the buyer through the post-auction steps required to complete the transaction.",
+    "contradiction_score": 0.002112265210598707,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 85,
+    "start_char": 29147,
+    "end_char": 29199,
+    "original": "6.   The buyer receives and accepts the merchandise.",
+    "ollama_generated": "6. The delivery of the merchandise shall be deemed accepted by the buyer upon receipt.",
+    "contradiction_score": 0.0017033381154760718,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

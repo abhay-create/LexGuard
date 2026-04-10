@@ -1,0 +1,149 @@
+[
+  {
+    "clause_index": 13,
+    "start_char": 3178,
+    "end_char": 3310,
+    "original": "e) \u201cRIGHTS\u201d shall mean all of the endorsement rights, services and other rights and benefits granted to Berkshire in this Agreement.",
+    "modified": "Clause:\ne) \"BENEFITS\" shall encompass all endorsement privileges, services, and other rights and advantages bestowed upon the Endorsee (you) in accordance with this Agreement.\n\nThis rewritten clause shifts the responsibility of the rights to the endorsee (you), whereas in the original clause, Berkshire held those rights.",
+    "contradiction_score": 0.8581029176712036,
+    "kept": true
+  },
+  {
+    "clause_index": 14,
+    "start_char": 3316,
+    "end_char": 3429,
+    "original": "g) \u201cBERKSHIRE COMPETITOR \u201d is any person or entity that in any way competes with Berkshire \u2019s financial services.",
+    "ollama_generated": "h) \"Competing Entities\" encompass any individual or organization engaged in the provision of financial services, who could potentially pose a competitive threat to Berkshire's operations within the same market sector.",
+    "contradiction_score": 0.037491247057914734,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 20,
+    "start_char": 4692,
+    "end_char": 4807,
+    "original": "Source: BERKSHIRE HILLS BANCORP INC, 10-Q, 8/9/2012 3. EXCLUSIVITY.  Auriemma expressly agrees and undertakes that:",
+    "modified": "Clause:\nAltered: BERKSHIRE HILLS BANCORP INC, 10-Q, 8/9/2012\n3. NON-EXCLUSIVITY. While Auriemma understands and acknowledges the importance of exclusivity in certain contexts, it is hereby clarified that Auriemma is not explicitly bound to any such obligation:\n\nThis modification subtly shifts the focus from an exclusive agreement to a non-exclusive one, implying that Auriemma may engage in other business dealings without breaching the contract.",
+    "contradiction_score": 0.8275010585784912,
+    "kept": true
+  },
+  {
+    "clause_index": 26,
+    "start_char": 6143,
+    "end_char": 6372,
+    "original": "(a) In consideration of the rights and benefits granted to Berkshire hereunder, Berkshire shall pay to Auriemma the sum of Four Hundred Eighty Thousand and 00/100 Dollars ($480,000.00), as set forth in Paragraph 4 (b) -(c) below.",
+    "ollama_generated": "(a) As a reciprocal agreement for the privileges and advantages conferred upon Auriemma herein, Auriemma shall be entitled to receive from Berkshire the amount of Four Hundred Eighty Thousand and 00/100 Dollars ($480,000.00), as detailed in Paragraphs 4 (b) -(c). Berkshire's obligation to make this payment is contingent upon Auriemma's fulfillment of all its obligations under this contract.",
+    "contradiction_score": 0.008797617629170418,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 30,
+    "start_char": 7590,
+    "end_char": 7694,
+    "original": "Source: BERKSHIRE HILLS BANCORP INC, 10-Q, 8/9/2012 6. AURIEMMA \u2019S ENDORSEMENT SERVICES AND APPEARANCES.",
+    "ollama_generated": "Clause:\nRevised for altered meaning while maintaining fluency, professionalism, and realism \u2013 weaken an obligation:\n\nBERKSHIRE HILLS BANCORP INC, 10-Q, 8/9/2012 - 6. AURIEMMA'S ENDORSEMENT SERVICES AND APPEARANCES\n\nThe Corporation shall have the discretion to request Auriemma's endorsement services and appearances; however, such requests will not be deemed mandatory unless explicitly stated in writing by authorized representatives of both parties, prior to each individual engagement. In such cases where written agreement is absent, the Corporation acknowledges its right to withdraw or postpone the request at any given time without liability.",
+    "contradiction_score": 0.1838284730911255,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 34,
+    "start_char": 9163,
+    "end_char": 9270,
+    "original": "(d) Unless otherwise agreed to in advance, no appearance shall exceed a total of two (2) hours in duration.",
+    "ollama_generated": "(d) Absent any prior agreement to the contrary, each appearance is limited to a maximum duration of two (2) hours, unless additional time is explicitly permitted or required.",
+    "contradiction_score": 0.0018758507212623954,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 35,
+    "start_char": 9270,
+    "end_char": 9489,
+    "original": "(e) Any apparel that Auriemma is requested by Berkshire to wear during any appearance or any photo shoot session must be approved by Auriemma at least forty -eight (48) hours in advance and must be Nike branded apparel.",
+    "ollama_generated": "(e) Berkshire may request that Auriemma wear specific apparel for any appearance or photo shoot sessions. If such a request is made, Auriemma shall have the discretion to approve or deny the selected apparel within a forty-eight (48) hour timeframe. In case of approval, the apparel must be Nike branded. However, it's understood that in situations where approved apparel isn't available or feasible, Auriemma may be permitted to wear non-Nike branded apparel with Berkshire's prior written consent.",
+    "contradiction_score": 0.030564120039343834,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 40,
+    "start_char": 11188,
+    "end_char": 12292,
+    "original": "9. CONFIDENTIALITY. Except as required by federal securities laws, or federal or state banking laws, each party agrees: (i) that it will not disclose to any third party or use any Confidential Information, as defined herein, disclosed to it by the other party except as expressly permitted in this Agreement; and (ii) that it will take all reasonable measures to maintain the confidentiality of all Confidential Information of the other party in its possession or control, which will in no event be less than the measures it uses to maintain the confidentiality of its own information of similar importance. For the purpose of this Agreement, Confidential Information shall mean all information, materials and data, in any form, format or medium, disclosed, or revealed to either party in any way relating to the other party \u2019s business including but not limited to its finances, customers, operations, products, services, plans, pricing, suppliers, business strategies or any other similar information.  Confidential Information may be contained in written material, verbal or electronic communications.",
+    "ollama_generated": "9. DISCLOSURE RESTRICTIONS AND CONFIDENTIALITY OBLIGATIONS: Each party acknowledges that it will have access to the other's sensitive information during the course of this agreement. In recognition of this, and except as necessary to comply with federal securities laws, or federal or state banking laws, or any order from a court of competent jurisdiction, each party agrees: (i) to maintain the confidentiality of all such information received from the other party, referred to herein as Confidential Information, and not disclose it to any third party or use it for any purpose outside the scope of this Agreement without prior written consent from the disclosing party; and (ii) to implement at least the same level of protection for the Confidential Information of the other party as it uses for its own confidential information of comparable importance. For the avoidance of doubt, Confidential Information shall encompass any information, materials, or data, in any form, format, or medium, disclosed, or revealed to either party, relating to the other's business affairs, which may include but are not limited to financial statements, client lists, operational details, product specifications, service offerings, strategic plans, pricing structures, supplier relationships, and any other similar information. Confidential Information may be communicated through written documents, verbal conversations, or electronic means.\n\nBy explicitly acknowledging the sensitive nature of the information that will be exchanged between the parties, this revised clause emphasizes a stricter obligation to maintain confidentiality, with stronger language regarding the need for consent before disclosing or using Confidential Information outside the scope of the Agreement. Furthermore, it clarifies that the level of protection required for Confidential Information must be at least equivalent to that used for the parties' own sensitive information.",
+    "contradiction_score": 0.010206020437180996,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 44,
+    "start_char": 12803,
+    "end_char": 13416,
+    "original": "Upon the breach of either of the above conditions, the non -defaulting party may terminate this Agreement as follows: (A) as to a default under clause (i) above, if payment is not made within ten (10) days after the defaulting party shall have received written notice of such failure to make payment; or (B) as to a default under clause (ii) above, if such default is not cured within thirty (30) days after the defaulting party shall have received written notice specifying in reasonable detail the nature of such default and such action the defaulting party must take in order to cure each such item of default.",
+    "ollama_generated": "Upon a breach of either stipulated condition, this Agreement may be terminated by the non-breaching party as follows: (A) for a payment default under clause (i), if the delinquent party fails to make the payment within ten (10) business days following receipt of written notice regarding the unpaid amount; or (B) for a default under clause (ii), if the default persists beyond thirty (30) days after delivery of a written notice detailing the nature of the default and outlining the necessary steps the defaulting party must undertake to remedy each instance of non-compliance.\n\nIn this revised version, the emphasis has been shifted towards providing the defaulting party more time to address the issue before termination occurs, making it a slightly more favorable clause for the defaulting party.",
+    "contradiction_score": 0.0025579945649951696,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 48,
+    "start_char": 16072,
+    "end_char": 16441,
+    "original": "Berkshire may terminate this Agreement immediately by giving Auriemma notice if (i) Auriemma dies or is prevented by injury or illness from satisfactorily performing the obligations required by this Agreement; (ii) Auriemma is convicted of a felony or criminal offense involving dishonesty or fraud; or (iii) Auriemma publicly disparages Berkshire and/ or its products.",
+    "ollama_generated": "The Parties agree that Berkshire shall have the right to promptly terminate this Agreement upon providing written notice, should any of the following occur: (i) Berkshire encounters circumstances necessitating its inability to fulfill its obligations under this Agreement; (ii) an instance arises where Berkshire, or any of its representatives, are found guilty of a felony or criminal offense involving dishonesty or fraud; or (iii) Berkshire is subjected to public disparagement by Auriemma or in relation to Auriemma's products.\n\nThis modification shifts the responsibility for termination in certain circumstances from Auriemma to Berkshire, while still maintaining a professional tone and adhering to legal requirements.",
+    "contradiction_score": 0.001029617851600051,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 56,
+    "start_char": 18194,
+    "end_char": 18689,
+    "original": "If to Auriemma:  Geno Auriemma With a copy to:  Kahan, Kerensky & Capossela, LLP Attn: Sol Kerensky & Justin L. Murphy 45 Hartford Turnpike Vernon, CT 06066 If to Berkshire:  Berkshire Bank Attn:Sean A. Gray, EVP \u2014 Retail Banking 24 North Street P.O. Box 1308 Pittsfield, MA 01202 -1308 With a copy to:  Berkshire Bank Attn: Wm. Gordon Prescott, VP and General Counsel 24 North Street P.O. Box 1308 Pittsfield, MA 01202 -1308 Source: BERKSHIRE HILLS BANCORP INC, 10-Q, 8/9/2012 15. FORCE MAJEUR.",
+    "ollama_generated": "Clause:\nUpon receipt by Auriemma: Geno Auriemma, with a copy to Kahan, Kerensky & Capossela, LLP, Attn: Sol Kerensky & Justin L. Murphy, 45 Hartford Turnpike, Vernon, CT 06066\n\nUpon receipt by Berkshire: Berkshire Bank, Attn: Sean A. Gray, EVP \u2014 Retail Banking, 24 North Street, P.O. Box 1308, Pittsfield, MA 01202 -1308\nWith a carbon copy to: Berkshire Bank, Attn: Wm. Gordon Prescott, VP and General Counsel, 24 North Street, P.O. Box 1308, Pittsfield, MA 01202 -1308\n\nFORCE MAJEURE CLAUSE:\nIn the event of extraordinary circumstances beyond our control, such as acts of God, war, terrorism, strikes, or governmental actions, either party shall be relieved of its obligations under this agreement to the extent that they are unable to perform their respective duties.\n\nSource: BERKSHIRE HILLS BANCORP INC, 10-Q, 8/9/2012",
+    "contradiction_score": 0.2208785116672516,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 70,
+    "start_char": 21540,
+    "end_char": 21639,
+    "original": "(iii) that Auriemma will not assign or transfer any of the License Rights described in Paragraph 2.",
+    "modified": "(iii) granting Auriemma the right to assign or transfer any of the License Rights as described in Paragraph 2, at their sole discretion, without requiring prior consent from the other party.",
+    "contradiction_score": 0.9990487694740295,
+    "kept": true
+  },
+  {
+    "clause_index": 91,
+    "start_char": 27640,
+    "end_char": 27878,
+    "original": "2. Auriemma will participate in one (1) recording session annually during the Services Period of not more than two (2) hours, not including travel time, to record a radio advertising spot at a date and location to be mutually agreed upon;",
+    "ollama_generated": "2. The Services Period obliges Auriemma to engage in one (1) annual recording session, with each session lasting a maximum of two (2) hours, excluding travel time, for the purpose of creating a radio advertisement. The specific date and location for these sessions will be determined jointly by both parties; however, it is understood that Auriemma's participation in such sessions is not mandatory beyond this agreed-upon annual commitment. Any additional recording sessions requested by either party may require separate arrangements and compensation.",
+    "contradiction_score": 0.03014024719595909,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 94,
+    "start_char": 28323,
+    "end_char": 28591,
+    "original": "5. Auriemma will be available for two (2) appearances annually during the Services Period within the Contract Territory, the date and location to be mutually agreed upon, each not more than one (1) hour in duration, where Auriemma will meet, greet and pose for photos.",
+    "ollama_generated": "5. The Client shall have the opportunity for two (2) scheduled meetings with Auriemma annually during the Services Period within the Contract Territory, subject to mutual agreement on date and location. Each meeting shall not exceed one (1) hour in duration, during which Auriemma will be expected to be present, greet, and participate in photograph opportunities. The Client shall bear responsibility for any additional time or activities beyond these scheduled meetings.",
+    "contradiction_score": 0.0012727489229291677,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 95,
+    "start_char": 28591,
+    "end_char": 28746,
+    "original": "6. Auriemma will be available one (1) time per calendar quarter during the Services Period to meet and address Berkshire \u2019s small business customer groups.",
+    "ollama_generated": "6. Berkshire shall have the right, but not the obligation, to request up to one (1) meeting per calendar quarter during the Services Period with Auriemma for addressing their small business customer groups. In the event that such a request is made and accepted by Auriemma, they will be expected to make themselves available. However, failure to do so shall not result in breach of contract by Auriemma unless repeated instances occur or cause substantial inconvenience to Berkshire.",
+    "contradiction_score": 0.16611066460609436,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

@@ -1,0 +1,31 @@
+{
+    "doc_id": "dev_contract_1",
+    "text": "Payment: The Buyer shall pay the Seller an amount of $10,000 within thirty (30) days of invoice.\n\nTermination: Either party may terminate this Agreement upon thirty (30) days' written notice if the other party breaches any material term.",
+    "segments": [
+      {
+        "segment_id": 0,
+        "text": "Payment: The Buyer shall pay the Seller an amount of $10,000 within thirty (30) days of invoice.",
+        "clauses": [
+          {
+            "start": 9,
+            "end": 96,
+            "text": "The Buyer shall pay the Seller an amount of $10,000 within thirty (30) days of invoice.",
+            "type": "Payment"
+          }
+        ]
+      },
+      {
+        "segment_id": 1,
+        "text": "Termination: Either party may terminate this Agreement upon thirty (30) days' written notice if the other party breaches any material term.",
+        "clauses": [
+          {
+            "start": 13,
+            "end": 139,
+            "text": "Either party may terminate this Agreement upon thirty (30) days' written notice if the other party breaches any material term.",
+            "type": "Termination"
+          }
+        ]
+      }
+    ]
+  }
+  

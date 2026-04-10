@@ -1,0 +1,22 @@
+[
+  {
+    "clause_index": 0,
+    "start_char": 0,
+    "end_char": 705,
+    "original": "AMENDMENT NO. 1 TO STREMICK\u2019S HERITAGE FOODS, LLC and PREMIER NUTRITION CORPORATION MANUFACTURING AGREEMENT This Amendment No. 1 (the \u201cAmendment\u201d), entered into by and between Stremick\u2019s Heritage Foods, LLC (\u201cHeritage\u201d) Premier Nutrition Corporation (\u201cPremier\u201d) is effective as of June  11, 2018  (\u201cAmendment Effective Date\u201d) and amends that certain Manufacturing Agreement between Heritage and Premier dated July 1, 2017  (\u201cAgreement\u201d). Heritage and Premier are each referred to herein as a \u201cParty\u201d and collectively as the \u201cParties.\u201d WHEREAS,  Heritage and Premier entered into the Agreement\u037e WHEREAS,  the Parties wish to amend the Agreement in accordance with the terms and conditions set forth herein.",
+    "ollama_generated": "Amendment 1 to the Manufacturing Agreement between Stremick's Heritage Foods, LLC (\"Heritage\") and Premier Nutrition Corporation (\"Premier\"): This Amendment No. 1 (the \"Amendment\"), signed on June 11, 2018 (the \"Effective Date of Amendment\"), serves to modify the original Manufacturing Agreement between Heritage and Premier, which was dated July 1, 2017 (\"Original Agreement\"). In this document, each party is referred to as a \"Party\" and collectively as the \"Parties.\"\n\nUpon entering into the Original Agreement, Heritage and Premier mutually agreed to make certain amendments, with Premier now initiating these changes.\n\nHerein lies the revised Manufacturing Agreement between the Parties, effective from June 11, 2018.",
+    "contradiction_score": 0.02231536991894245,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 2,
+    "start_char": 949,
+    "end_char": 1050,
+    "original": "1. The Parties hereby agree to remove Section 2(c) in its entirety and replace it with the following:",
+    "ollama_generated": "1. Pursuant to this Agreement, the Parties consent to eliminate entirely Section 2(c) as it currently exists and substitute it with the ensuing text:\n\nAlternatively, a more subtle change could be:\n\n1. In accordance with the terms of this contract, the Parties concur in expunging completely Section 2(c) from its present form and inserting the subsequent text as a replacement.",
+    "contradiction_score": 0.000722478493116796,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

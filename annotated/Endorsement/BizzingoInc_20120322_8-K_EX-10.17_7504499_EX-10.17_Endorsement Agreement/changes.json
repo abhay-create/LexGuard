@@ -1,0 +1,149 @@
+[
+  {
+    "clause_index": 7,
+    "start_char": 3989,
+    "end_char": 4040,
+    "original": "\u201cTerritory\u201d as stated  herein shall mean worldwide.",
+    "modified": "\"The 'Territory,' as defined herein, encompasses exclusively local regions.\"",
+    "contradiction_score": 0.9993187189102173,
+    "kept": true
+  },
+  {
+    "clause_index": 9,
+    "start_char": 4383,
+    "end_char": 4399,
+    "original": "3. COMPENSATION.",
+    "ollama_generated": "3. REMUNERATION.\n\nIn the event that the Services as outlined in this Agreement are rendered by the Contractor, the Client shall be obliged to remunerate the Contractor promptly and fairly for such Services, subject to any mutually agreed-upon deductions or withholdings. Failure of the Client to make timely payments may result in interest charges or other penalties as stipulated herein or in applicable law.",
+    "contradiction_score": 0.012124991044402122,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 18,
+    "start_char": 6928,
+    "end_char": 7512,
+    "original": "5. NOTICES AND PAYMENTS. Any notice, request, demand or other communication required or permitted hereunder shall be in  writing and shall be deemed properly given when actually received or within fourteen (14) days of mailing by certified or registered  mail, return receipt requested, postage prepaid, whichever first occurs, a. Make himself available for four (4) sessions for production of photographs, or radio,  television, video or other multi -media programming for use in Bizzingo's advertising or promotional materials, with each such  session not exceeding eight (8) hours.",
+    "ollama_generated": "Clause 5: NOTICES AND REQUIREMENTS\n\nAny notice, request, demand, or other communication required or permitted herein shall be in writing and will be considered duly delivered when received or within fourteen (14) business days of being sent via certified or registered mail, return receipt requested, postage prepaid. However, to accommodate Bizzingo's advertising and promotional needs, the party involved must be prepared for up to four (4) sessions, each not exceeding eight (8) hours, for the production of photographs, radio, television, video, or other multi-media programming. This obligation is flexible in terms of scheduling, subject to mutual agreement between the parties involved.",
+    "contradiction_score": 0.004527956712990999,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 26,
+    "start_char": 8967,
+    "end_char": 8992,
+    "original": "7. RESERVATION OF RIGHTS.",
+    "ollama_generated": "7. DISCRETIONARY AUTHORITY AND RELEASE OF OBLIGATIONS.\n\nThe Parties acknowledge that the Grantor reserves the right to exercise its discretion with respect to any and all actions, decisions, or omissions in connection with this Agreement. The Grantor further releases itself from any obligations or liabilities beyond those explicitly stated herein, unless otherwise expressly agreed upon in writing by both Parties.",
+    "contradiction_score": 0.0018312858883291483,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 28,
+    "start_char": 9586,
+    "end_char": 9773,
+    "original": "Bizzingo and Theismann agree that they shall take all necessary steps during the  Term to protect the endorsement in connection with the advertisement, promotion, and sale of the Network.",
+    "ollama_generated": "Bizzingo and Theismann acknowledge their mutual responsibility to endeavor, yet not be strictly liable for any shortcomings, in taking appropriate measures throughout the Term to safeguard and preserve the endorsement related to the advertisement, promotion, and sale of the Network. While striving for the best outcomes, they understand that circumstances beyond their control may occasionally necessitate a different outcome.",
+    "contradiction_score": 0.003504740772768855,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 33,
+    "start_char": 10752,
+    "end_char": 10767,
+    "original": "With a copy to:",
+    "ollama_generated": "Notification Copies:\n\nBy providing this agreement, all notifications shall be made with copies to the following parties:\n\nThis modification ensures that everyone remains informed of any updates or changes regarding the agreement.",
+    "contradiction_score": 0.000750707637052983,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 38,
+    "start_char": 11694,
+    "end_char": 12110,
+    "original": "a. Theismann represents and warrants that, except as otherwise disclosed herein, he has  not granted nor will he grant during the Term and for a period of one (1) year thereafter to any other party any right, permission,  or license to use the Property in connection with the advertisement, sale, or promotion of the Network or in connection with networks  that are identical or substantially similar to the Network.",
+    "ollama_generated": "c. Theismann acknowledges and represents that, except as specifically disclosed herein, he has not and will not, during the Term and for a period of one (1) year following, license, permit, or grant any rights to another party for utilizing the Property in association with the advertisement, sale, or promotion of the Network, or networks closely resembling or identical to the Network. Furthermore, Theismann assumes responsibility for ensuring that no such rights are granted during the specified timeframe without prior written consent from the parties involved.",
+    "contradiction_score": 0.0039156400598585606,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 42,
+    "start_char": 13441,
+    "end_char": 13909,
+    "original": "e. Theismann agrees to defend, indemnify, and hold Bizzingo, and its officers, directors,  agents, and employees, harmless against all costs, expenses, and losses (including reasonable attorney fees and costs) incurred  through claims of third parties against Bizzingo based on a breach by Theismann of any representation and/or warranty made in  this Agreement or with respect to any third -party claims for infringement involving the use of the Property by Bizzingo.",
+    "ollama_generated": "e. Bizzingo shall have the right, at its own expense, to be indemnified, defended, and held harmless by Theismann from all costs, expenses, losses (including reasonable attorney fees and costs), arising out of any third-party claims against Bizzingo resulting from a breach by Theismann of any representation and/or warranty contained in this Agreement or any third-party allegations of infringement related to the use of the Property by Bizzingo. In such cases, Theismann shall be solely responsible for the defense of any such claims and any settlement or judgment thereof, with Bizzingo's prior written consent being required at all times.",
+    "contradiction_score": 0.0139644555747509,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 44,
+    "start_char": 13964,
+    "end_char": 14249,
+    "original": "Upon termination of this Agreement as provided  in this Section 10 (each a \"Termination Date\") or upon the expiration of the Term, Bizzingo shall cease using the Property  in any way, and Theismann shall not be entitled to the Royalty, in each case from and after the Termination Date.",
+    "modified": "Upon the occurrence of a Termination Event as defined in Section 10 (each an \"Event of Termination\"), or upon the conclusion of the Term, Theismann shall have the right to instruct Bizzingo to cease utilizing the Property in any manner, and Bizzingo shall be obligated to comply with such instruction effective from the date of such termination or expiration. During the period between the cessation of use and the final settlement of any outstanding obligations, Theismann shall continue to be entitled to receive the Royalty.",
+    "contradiction_score": 0.9607998728752136,
+    "kept": true
+  },
+  {
+    "clause_index": 51,
+    "start_char": 15490,
+    "end_char": 15946,
+    "original": "i.Theismann engages in illegal, immoral, or criminal conduct resulting in a felony conviction;  misrepresents or conceals anything in his or her background that could be detrimental to the value of the endorsement being made;  engages in conduct contrary to the best interests of Bizzingo; engages in conduct that offends the sensitivities of a significant  portion of the population; or engages in conduct that could bring Theismann into public disrepute;",
+    "ollama_generated": "i. The engagement of Theismann in actions that are illegal, immoral, or criminal, leading to a felony conviction, misrepresentation or concealment of any aspect in his/her background potentially harmful to the endorsement's value, actions contrary to Bizzingo's best interests, conduct offensive to a substantial portion of the public, or actions that could tarnish Theismann's reputation in the public eye;\n\nThis revised clause maintains the original meaning while slightly altering the emphasis. Instead of focusing on specific negative behaviors, it broadens the scope by including any actions that may negatively impact Theismann's reputation or Bizzingo's interests. This makes the clause more flexible and applicable to a wider range of potential issues.",
+    "contradiction_score": 0.00933679100126028,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 53,
+    "start_char": 16040,
+    "end_char": 16371,
+    "original": "c. In addition to as stated in (a) or (b) above, either party may terminate this Agreement  in the event of a breach of any provision of this Agreement by the other by providing thirty (30) days* prior written notice to  the breaching party, provided that, during the 30 - day period, the breaching party fails to cure such breach.",
+    "ollama_generated": "c. Beyond what's outlined in (a) or (b) previously mentioned, either party retains the discretion to terminate this Agreement if a breach of any agreement provision occurs by the other party. Such termination may be initiated by delivering a thirty (30) day written notice to the breaching party. However, it's essential to note that during this 30-day notice period, the party in breach is not obligated to rectify the breach, unless they choose to do so.\n\nThis revision gives the breaching party an opportunity to correct the breach even if they receive a termination notice within the 30-day period, thus weakening the obligation for the breaching party to immediately cure the breach upon receiving notice.",
+    "contradiction_score": 0.0267490241676569,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 57,
+    "start_char": 17784,
+    "end_char": 18007,
+    "original": "15. ASSIGNABILITY. Neither party may assign this Agreement or the rights and obligations thereunder to any third party without  the prior express written approval of the other party which shall not be unreasonably withheld.",
+    "modified": "15. TRANSFERABILITY: Either party retains the right to transfer this Agreement, along with its rights and responsibilities, only after obtaining the prior, written consent from the other party, which will not be arbitrarily denied. However, such consent shall not be withheld unnecessarily.",
+    "contradiction_score": 0.566185712814331,
+    "kept": true
+  },
+  {
+    "clause_index": 62,
+    "start_char": 19137,
+    "end_char": 19301,
+    "original": "IN WITNESS WHEREOF, the Parties hereto, intending to be legally bound hereby, have each caused to be affixed hereto its  or his/her hand on the day indicated above.",
+    "ollama_generated": "FOR VALIDITY'S SAKE, the Parties involved, desiring to be lawfully obligated by this Agreement, have respectively authorized their signatures below on the date stated herein.\n\nBy making this adjustment, the new clause has subtly shifted the responsibility of signing from \"each Party\" in the initial clause to \"the Parties involved\" in the rewritten one, which may imply that multiple parties (not just an individual) are responsible for affixing their signatures.",
+    "contradiction_score": 0.005464855581521988,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 68,
+    "start_char": 23489,
+    "end_char": 24280,
+    "original": "The securities represented by this certificate have not been registered under the United  States Securities Act of 1933,  as amended (the \"Act\") or any state securities law. These  shares have been acquired for investment and may not  be offered for sale, hypothecated,  sold or transferred, nor will any assignee or transferee thereof be recognized by the  Company as having any interest in such shares, in the absence of(i) an effective registration  statement with respect to  the shares under the Act, and any other applicable state law, or (ii)  an opinion of counsel satisfactory to the Company  that such shares will be offered for sale,  hypothecated, sold or transferred only in a transaction which is exempt under  or is otherwise in compliance with the applicable securities laws.",
+    "ollama_generated": "The securities denoted by this certificate are not registered under the United States Securities Act of 1933, as amended (the \"Act\"), nor any state securities law. These shares have been procured for investment purposes and may not be offered for sale, pledged, sold, or transferred without the prior consent of the Company. Any individual or entity seeking to acquire these shares shall do so under the condition that:\n\n(i) A registration statement concerning the shares is effective under the Act and any relevant state law; or\n(ii) The Company receives an opinion from counsel that the sale, pledge, or transfer of these shares complies with the applicable securities laws. It is important to note that the Company will not recognize any assignee or transferee as having an interest in these shares unless such conditions are met.",
+    "contradiction_score": 0.001971227116882801,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 69,
+    "start_char": 24280,
+    "end_char": 24357,
+    "original": "Source: BIZZINGO, INC., 8-K, 3/22/2012 Source: BIZZINGO, INC., 8-K, 3/22/2012",
+    "ollama_generated": "Clause:\nShifted Responsibility:\nSource: In the event that BIZZINGO, INC. finds itself liable for any claims or actions arising from this agreement, the affected party shall have the responsibility to seek and secure independent legal counsel at their own expense.\n\nInverted Condition:\nAltered Obligation:\nConditionally Shifting Responsibility:\nSource: Should any claim or action arise against BIZZINGO, INC. due to this agreement, it is the affected party's obligation to cover all costs associated with hiring independent legal counsel at their own expense, upon request by BIZZINGO, INC.",
+    "contradiction_score": 0.1800689548254013,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

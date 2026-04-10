@@ -1,0 +1,365 @@
+[
+  {
+    "clause_index": 0,
+    "start_char": 0,
+    "end_char": 99,
+    "original": "Exhibit 4.44 THIS LICENSE AND RESELLER AGREEMENT  dated as of the October 30, 2018 is made BETWEEN:",
+    "ollama_generated": "Clause:\nExhibit 4.44 This Reseller Agreement and License, effective as of October 30, 2018, is entered into BY:\n\nIn this revised version, the parties involved in the agreement are now listed as those who enter into it rather than those to whom the agreement is made, subtly shifting the responsibility and obligation.",
+    "contradiction_score": 0.04149229824542999,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 2,
+    "start_char": 331,
+    "end_char": 507,
+    "original": "A. Ehave has developed a software platform that provides an end-to-end patient management solution to healthcare professionals and provides that platform to users as a service.",
+    "ollama_generated": "B. It is the responsibility of User to understand that they are accessing a software platform, designed by Ehave, which offers a comprehensive patient management solution for healthcare professionals. Ehave grants User permission to utilize this service.",
+    "contradiction_score": 0.0678476095199585,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 3,
+    "start_char": 507,
+    "end_char": 693,
+    "original": "B. CHT has developed a business model to bring a similar service that Ehave provides using the Ehave Platform for the domain of the animal market including companion animals (i.e. pets).",
+    "modified": "A. It is understood that Ehave holds exclusive rights to its platform, which powers the services it offers in the pet industry, specifically for companion animals. CHT acknowledges that it may not replicate or mimic such services within this same domain, utilizing the Ehave Platform or any substantially similar technology.",
+    "contradiction_score": 0.9958606362342834,
+    "kept": true
+  },
+  {
+    "clause_index": 18,
+    "start_char": 3319,
+    "end_char": 3376,
+    "original": "\u201cClaim \u201d has the meaning ascribed to it in Section 16(a).",
+    "ollama_generated": "\"The term 'Claim', as used herein, shall encompass the definition provided in Section 16(a).\"\n\nThis rewritten clause maintains a similar tone and structure but slightly changes the emphasis by using \"encompass\" instead of \"has the meaning ascribed to it\", which might suggest that the Claim could extend beyond the specific definition in Section 16(a), providing some flexibility or room for interpretation.",
+    "contradiction_score": 0.2413538694381714,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 22,
+    "start_char": 5543,
+    "end_char": 5596,
+    "original": "\u201cEffective Date \u201d means the date first written above.",
+    "modified": "\"Effective Date\" shall be deemed to be the latter date upon which this Agreement is signed by both parties.\n\nIn this revised clause, the Effective Date is not explicitly tied to the date first written above but instead refers to the date when both parties sign the agreement, thereby subtly shifting responsibility for determining the effective date from one party to both parties involved.",
+    "contradiction_score": 0.9710666537284851,
+    "kept": true
+  },
+  {
+    "clause_index": 23,
+    "start_char": 5596,
+    "end_char": 5763,
+    "original": "\u201cEhave Companion Solution \u201d means the Ehave Platform, as modified, adapted and customized, as provided herein, the specifications of which are set out in Schedule \u201c1\u201d.",
+    "ollama_generated": "\"The Customized Ehave Companion Solution\" refers to the Ehave Platform, as it may be tailored, optimized, and adjusted in accordance with this agreement, the details of which are delineated in Schedule \"1\".",
+    "contradiction_score": 0.0008749397238716483,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 25,
+    "start_char": 6075,
+    "end_char": 6234,
+    "original": "\u201cEhave Server \u201d means that computer server located at Ehave\u2019s premises, or a third party provider of hosting and/or network services, that houses the Software.",
+    "ollama_generated": "\"The Term 'Ehave Server' encompasses the computer server stationed within Ehave's premises, or any external service provider responsible for hosting, networking, or maintaining the Software.\"\n\nThis revised clause maintains a professional tone while slightly altering the original by implying that the service provider could be responsible not just for housing the software, but also for its maintenance. This could potentially broaden their responsibilities and obligations.",
+    "contradiction_score": 0.0008761174976825714,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 26,
+    "start_char": 6234,
+    "end_char": 6405,
+    "original": "\u201cEnd User \u201d means CHT\u2019s customers who have entered into a subscription agreement with CHT for CHT services, which services include the use of the Ehave Companion Solution.",
+    "modified": "\"CHT Subscribers\" shall denote individuals or entities that have established a subscription contract with CHT, encompassing their authorization to utilize CHT's services, among which is the implementation of the Ehave Companion Solution. Hereby, a shift in responsibility occurs, as the subscribers are now explicitly recognized as the users of the service rather than merely being referred to as customers.",
+    "contradiction_score": 0.7390679717063904,
+    "kept": true
+  },
+  {
+    "clause_index": 34,
+    "start_char": 8075,
+    "end_char": 8758,
+    "original": "\u201cIntellectual Property Rights \u201d means (a) any and all proprietary rights anywhere in the world provided under (i) patent law\u037e (ii) copyright law, including moral rights\u037e (iii) trademark law\u037e (iv) design patent or industrial design law\u037e (v) semiconductor chip or mask work law\u037e (vi) trade secret law\u037e (vii) privacy law\u037e or (viii) any other statutory provision or common law principle applicable to this Agreement which may provide a right in either (A) Intellectual Property\u037e or (B) the expression or use of Intellectual Property\u037e and (b) any and all applications, registrations, licenses, sub-licenses, franchises, agreements or any other evidence of a right in any of the foregoing.",
+    "ollama_generated": "\"Intellectual Property Rights\" shall encompass any and all exclusive rights worldwide, as acknowledged under (i) patent law, (ii) copyright law (including moral rights), (iii) trademark law, (iv) design patent or industrial design law, (v) semiconductor chip or mask work law, (vi) trade secret law, (vii) privacy law, (viii) any other applicable statutory provisions or common law principles that grant a right in either (A) the protection of Intellectual Property, or (B) the creative expressions or applications thereof. Furthermore, this term includes all corresponding applications, registrations, licenses, sub-licenses, franchises, and agreements that serve as evidence of rights associated with the abovementioned categories.\n\nHowever, in this Agreement, it is understood that the licensee shall have a non-exclusive right to use the licensor's Intellectual Property solely for the purposes specified in this Agreement. Any additional rights or exclusive uses must be explicitly granted by the licensor in writing.",
+    "contradiction_score": 0.023118378594517708,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 35,
+    "start_char": 8758,
+    "end_char": 9080,
+    "original": "\u201cObjectionable Content \u201d means content that infringes any Applicable Laws or third party rights, and content which is obscene, indecent, pornographic, seditious, defamatory, threatening, liable to incite racial hatred, menacing, blasphemous, misleading, deceptive or in breach of any person\u2019s Intellectual Property Rights.",
+    "modified": "\"Permissible Content\" shall denote content that complies with all Applicable Laws and respects third party rights, excluding materials that are deemed obscene, indecent, pornographic, seditious, defamatory, threatening, hateful, blasphemous, misleading, deceptive or infringing upon any person's Intellectual Property Rights. The onus is on the content provider to ensure that all content provided falls within this definition of Permissible Content.",
+    "contradiction_score": 0.9570561051368713,
+    "kept": true
+  },
+  {
+    "clause_index": 43,
+    "start_char": 10960,
+    "end_char": 11012,
+    "original": "\u201cTerm \u201d has the meaning ascribed to it in Section 9.",
+    "ollama_generated": "\"The term, as defined, shall carry the significance accorded to it under Section 9.\"",
+    "contradiction_score": 0.0010774474358186126,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 48,
+    "start_char": 11759,
+    "end_char": 12416,
+    "original": "(b) Headings\u037e Extended Meanings The division of this Agreement into articles, sections, schedules and other subdivisions, and the inclusion of headings are for convenience of reference only and shall not affect the construction or interpretation of this Agreement. The headings in the Agreement are not intended to be full or precise descriptions of the text to which they refer. Unless something in the subject matter or context is inconsistent therewith, references herein to Articles and Sections are to Articles and Sections of this Agreement. The word \u201cincluding\u201d or \u201cinclude(s)\u201d means \u201cincluding without limitation\u201d or \u201cinclude(s) without limitation\u201d.",
+    "ollama_generated": "(b) Designation and Extended Significance\n\nThis Agreement is structured into articles, sections, schedules, and other subdivisions for ease of reference. However, such division does not alter the intent or interpretation of this contract. The headings within the Agreement serve as mere labels and should not be construed as comprehensive or precise descriptions of the content they denote.\n\nIn the event that nothing in the subject matter or context contradicts it, references made herein to Articles and Sections will refer to Articles and Sections of this specific Agreement. The terms \"including\" or \"include(s)\" are to be understood as \"including without limitation\" or \"include(s) without limitation\".\n\nIn essence, the above clause clarifies that while the document is divided into various sections for ease of reading, these divisions do not impact the overall meaning of the contract. Additionally, references to Articles and Sections refer exclusively to those within this specific contract. The phrase \"including\" or \"include(s)\" should be understood as encompassing items without being limited to them.",
+    "contradiction_score": 0.03832129389047623,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 49,
+    "start_char": 12416,
+    "end_char": 12555,
+    "original": "(c) Currency Unless otherwise specified, all references to monetary amounts, including the symbol \u201c$\u201d, are in respect of Canadian currency.",
+    "modified": "(c) Currency For clarity, all monetary references, denoted by the symbol \"$\", unless explicitly stated otherwise, pertain to United States Dollars (USD). However, this does not preclude any party from converting the amounts into Canadian currency for their internal records and reporting purposes.",
+    "contradiction_score": 0.9865421056747437,
+    "kept": true
+  },
+  {
+    "clause_index": 66,
+    "start_char": 20633,
+    "end_char": 21919,
+    "original": "(b) Obligations Each of Ehave and CHT shall perform, at their own expense (or as otherwise set out in Schedule \u201c6\u201d), their respective obligations and responsibilities set out in the Implementation Plan as necessary to accomplish the development and implementation of the Ehave Companion Solution in accordance with the milestones and timelines set out therein. CHT acknowledges that the development and implementation of the Ehave Companion Solution requires decisions and input from CHT and for CHT to perform its obligations thereunder in a timely manner. In the event that CHT delays in providing such decisions, input or performance of its obligations, the development and implementation of the Ehave Companion Solution shall be correspondingly delayed. Subject to the foregoing, Ehave acknowledges that time is of the essence with respect to its obligations hereunder and that prompt and timely performance of all such obligations, including all development and implementation dates, timetables, project milestones and other requirements in this Agreement is strictly required. Once the implementation of the Ehave Companion Solution is completed, Ehave shall notify CHT of such completion and that the Ehave Companion Solution is ready for testing in accordance with Section 3(d).",
+    "ollama_generated": "(b) Obligations\nEach of Ehave and CHT shall undertake, at their discretion or as specified in Schedule \"6\", the execution of their respective duties and responsibilities outlined in the Implementation Plan to ensure the development and implementation of the Ehave Companion Solution in alignment with the milestones and timelines stipulated therein. CHT understands that the development and implementation of the Ehave Companion Solution necessitates decisions and input from CHT, but grants Ehave the flexibility to proceed without such input if necessary. If Ehave decides to wait for CHT's input or performance of its obligations, any delay in doing so may result in a corresponding delay in the development and implementation of the Ehave Companion Solution. While Ehave acknowledges that time is generally significant with regards to their obligations under this Agreement, they reserve the right to adjust the timeline if the circumstances warrant it. Once the implementation of the Ehave Companion Solution is finalized, Ehave will inform CHT about its completion and readiness for testing in accordance with Section 3(d), but will not be held strictly liable for any delay caused by waiting for CHT's input or performance.",
+    "contradiction_score": 0.2899757921695709,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 67,
+    "start_char": 21919,
+    "end_char": 24233,
+    "original": "Source: EHAVE, INC., 20-F, 5/15/2019 (c) Change Control Process Either Party may request additions, deletions or amendments in respect of the development and implementation of the Ehave Companion Solution (\u201c Change \u201d). Changes shall be requested in writing signed by an authorized representative of the Party requesting the Change (\u201cChange Request \u201d). Ehave shall have no obligation to perform, and CHT shall have no obligation to pay for, services related to any proposed modification or change unless both Parties have agreed to the modifications or changes in writing in accordance with the procedures set forth herein. The Change Request shall include a reasonably detailed description of the scope and nature of the requested Change. If CHT desires a Change, Ehave shall evaluate the feasibility of such change as it relates to the proposed Field of Use. As soon as reasonably possible after receipt of CHT\u2019s request, Ehave agrees to provide CHT with a written estimate of the cost, if any, of and the timing to implement the requested Changes as well as any additional terms and conditions related to such Changes. The costs, if any, associated with the development of such estimate shall be borne by CHT. Upon CHT\u2019s approval in writing of the cost estimate and any additional terms and conditions related to such Changes, including delivery dates and payment terms provided by Ehave, the Parties shall revise the Specifications and Implementation Plan and shall replace the Specifications and Implementation Plan attached hereto as Schedules \u201c1\u201d and \u201c2\u201d, and Ehave shall develop and implement the Change as so agreed. Changes shall be subject to acceptance testing by CHT prior to being deployed into production in accordance with procedures described in Section 3(d) or as otherwise agreed by the parties in writing. Ehave shall not refuse to accept a CHT Change request unless it is unable to make the Change requested using commercially reasonable efforts, in which event Ehave will provide an explanation to CHT\u037e or Ehave and CHT fail to agree on the terms and conditions related to the performance of such Change, including the costs, if any. If a mutually acceptable resolution is not reached in respect of a CHT Change request, the Parties may submit the issue to mediation pursuant to Section 19(b).",
+    "ollama_generated": "Clause:\nSource: EHAVE, INC., 20-F, 5/15/2019 (c) Modification Request Procedure Either Party has the right to propose modifications, additions, or deletions regarding the development and implementation of the Ehave Companion Solution (\"Modification\"). The proposing party should submit a written request signed by an authorized representative, hereafter referred to as the \"Proposal Document\". Upon receipt of such Proposal Document, Ehave is under no immediate obligation to execute the Modification; however, CHT shall be obligated to pay for any services related to the proposed Modification once both parties have agreed in writing to the terms and conditions in accordance with the procedures set forth herein. The Proposal Document should contain a reasonably detailed description of the scope and nature of the requested Modification.\n\nIn case CHT initiates a Modification, Ehave will evaluate the feasibility and potential impact on the proposed Field of Use. Upon receipt of CHT's request, Ehave shall provide an estimate of the cost and timeline for implementing the requested Modification, along with any additional terms and conditions, as soon as reasonably possible. The costs associated with this estimation process will be borne by CHT. Once CHT approves the cost estimate and any additional terms and conditions in writing, including delivery dates and payment terms provided by Ehave, both parties shall revise the Specifications and Implementation Plan and replace Schedules \"1\" and \"2\". Ehave will then proceed to develop and implement the Modification as agreed.\n\nThe Modification is subject to acceptance testing by CHT before being deployed into production, in accordance with procedures described in Section 3(d) or as otherwise agreed upon in writing by the parties. Ehave may only refuse a proposed Modification if it determines that executing the Modification would require extraordinary efforts or resources, in which case Ehave will provide an explanation to CHT. If the parties fail to reach an agreement on the terms and conditions related to the performance of the Modification, including costs, either party may submit the issue to mediation pursuant to Section 19(b).",
+    "contradiction_score": 0.05754707753658295,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 68,
+    "start_char": 24233,
+    "end_char": 27464,
+    "original": "(d) Acceptance The criteria (\u201c Acceptance Criteria \u201d) which the Ehave Companion Solution is to meet and the procedures by which such criteria are to be tested (\u201c Acceptance Procedures \u201d) shall be set out in the Implementation Plan and shall follow the requirements set out in this Section 3(d). Once notified by Ehave that the Ehave Companion Solution is ready for acceptance testing, CHT shall perform the tests as set out in the Acceptance Procedures. Unless otherwise set out in the Acceptance Procedures, CHT shall have ten (10) Business Days to perform the acceptance tests as set out in the Acceptance Procedures and to provide Ehave written notice of acceptance or non-acceptance of the Ehave Companion Solution (the \u201c Acceptance Period \u201d). CHT shall not refuse to accept the Ehave Companion Solution unless all or one or more portions of the Solution fail to perform, in any material respect, in accordance with the Acceptance Criteria. Any notice of non- acceptance shall describe the material failure of the Ehave Companion Solution in reasonable detail and CHT shall provide Ehave with reasonably detailed documentation and explanations, together with underlying data, to substantiate the failure and to reasonably assist Ehave in its efforts to diagnose and correct the failure. If CHT gives notice to Ehave of non-acceptance of the Ehave Companion Solution then Ehave shall investigate the reported failure in good faith and correct same, and if the engagement is on a fixed fee basis at no additional cost to CHT, within fifteen (15) Business Days unless an extension is granted by CHT. If, within such fifteen (15) Business day period (or extended period, as applicable), Ehave corrects the failure, then Ehave shall give written notice to CHT certifying that the failure has been corrected, and another Acceptance Period of the same duration as the initial Acceptance Period shall begin and shall be governed by the provisions of this Section 3(d) upon delivery of the corrected Ehave Companion Solution to CHT. If the Acceptance Procedures were conducted three (3) times in respect of the initial implementation of the Ehave Companion Solution, and the eHAve Companion Solution failed to pass the Acceptance Criteria on the third (3rd) try, then, at the discretion of either Party, Ehave may continue to fix the problem, or terminate this Agreement in which case, CHT shall promptly return to Ehave all copies of the Ehave Companion Solution, including the Specifications and any other items delivered to CHT by Ehave thereunder and Ehave shall promptly refund to CHT any monies paid by CHT in respect of the initial development and implementation of the Ehave Companion Solution. If the Acceptance Procedures were conducted three (3) times in respect of a Change, and the Change failed to pass the Acceptance Criteria on the third (3rd) try, then, at the discretion of CHT, Ehave may continue to fix the problem, or terminate the performance of the development of the Change, in which case CHT shall promptly return to Ehave all copies of the Change, including the Specifications thereto and Ehave shall promptly refund to CHT any monies paid by CHT in respect of the development and implementation of the Change.",
+    "ollama_generated": "(d) Acceptance and Testing\nThe performance standards (\"Performance Standards\") and the methods for assessing compliance with these standards (\"Testing Methods\") for the Ehave Companion Solution will be outlined in the Implementation Plan, adhering to the guidelines provided in Section 3(d). Upon notification by Ehave that the Ehave Companion Solution is ready for testing, CHT will execute the tests as defined by the Testing Methods. Unless otherwise specified in the Testing Methods, CHT shall have ten (10) Business Days to complete the testing process and provide Ehave with written notification of acceptance or rejection of the Ehave Companion Solution (the \"Testing Period\"). CHT may only reject the Ehave Companion Solution if one or more portions of the Solution do not perform, in any significant aspect, as per the Performance Standards. Any notice of rejection shall detail the significant malfunction of the Ehave Companion Solution and provide Ehave with comprehensive documentation and explanations, along with underlying data, to verify the malfunction and aid Ehave in diagnosing and rectifying the issue.\n\nIf CHT issues a notice of rejection for the Ehave Companion Solution, Ehave will, within good faith and at no additional cost to CHT (if the engagement is on a fixed fee basis), investigate the reported malfunction and address it within fifteen (15) Business Days, unless an extension is granted by CHT. If, within such fifteen (15) Business day period (or extended period, as applicable), Ehave rectifies the malfunction, then Ehave shall provide written notice to CHT certifying that the malfunction has been resolved, and a new Testing Period of the same duration as the initial Testing Period will commence, governed by the provisions of Section 3(d) upon delivery of the corrected Ehave Companion Solution to CHT.\n\nIf the testing process for the initial implementation of the Ehave Companion Solution fails three (3) times according to the Acceptance Procedures, either party may, at their discretion, opt to continue resolving the issue or terminate this Agreement. In such a case, CHT will promptly return to Ehave all copies of the Ehave Companion Solution, including the Specifications and any other items delivered to CHT by Ehave, and Ehave shall promptly refund to CHT any monies paid by CHT in respect of the initial development and implementation of the Ehave Companion Solution.\n\nSimilarly, if the testing process for a Change fails three (3) times according to the Acceptance Procedures, either CHT may opt to continue resolving the issue or terminate the performance of the development of the Change. In such a case, CHT will promptly return to Ehave all copies of the Change, including the Specifications thereto and any monies paid by CHT in respect of the development and implementation of the Change will be refunded to CHT by Ehave.",
+    "contradiction_score": 0.01637878268957138,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 76,
+    "start_char": 30745,
+    "end_char": 31392,
+    "original": "A. the material differences between the Ehave Companion Solution and competing solutions\u037e and B. information on standard protocols and features of the Ehave Companion Solution\u037e (iv) market, advertise, promote and provide the Ehave Companion Solution and conduct business in a manner that at all times reflects favourably on the Ehave Companion Solution and, subject to Section 3(f), the good name, goodwill and reputation of Ehave\u037e and (v) maintain books, records and accounts of all transactions and activities covered by this Agreement and permit reasonable examination thereof by Ehave and its representatives in accordance with this Agreement.",
+    "ollama_generated": "A. a comprehensive understanding of the distinct advantages that set the Ehave Companion Solution apart from comparable solutions; and B. details on conventional procedures and characteristics unique to the Ehave Companion Solution; (iv) market, advertise, promote, and transact business in a manner that may at times be detrimental to the Ehave Companion Solution, but shall not tarnish the good name, goodwill, or reputation of Ehave, subject to Section 3(f); and (v) maintain accurate records, books, and accounts of all transactions and activities governed by this Agreement, and grant Ehave and its representatives reasonable access for audits in accordance with this Agreement, provided that the examination does not compromise the confidentiality or integrity of such records.",
+    "contradiction_score": 0.002948126057162881,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 79,
+    "start_char": 32050,
+    "end_char": 32916,
+    "original": "(i) a royalty-free, non-exclusive, non-transferable, limited right and licence during the term of such Subscription Agreement to use, copy, store and display the End User Data solely for the purpose of enabling Ehave to operate the Ehave Companion Solution for such End User and as may be necessary for the purpose of enabling Ehave to provide support services in accordance with this Agreement\u037e and (ii) a royalty-free, non-exclusive, limited, perpetual right and license to use, copy, store and display End User Data on an aggregated and anonymous basis and so as not to permit the identification of any End User or individual for the sole purpose of improving or developing enhancements to the Ehave Companion Solution , provided that Ehave shall not have any right to use, commercialize or exploit such End User Data in any other manner or for any other purpose.",
+    "ollama_generated": "(i) A non-exclusive, royalty-free, and non-transferable license, granted during the term of the Subscription Agreement, allows Ehave to utilize, duplicate, archive, and exhibit the End User Data strictly for the purposes of operating the Ehave Companion Solution for the specific End User, as well as providing support services in accordance with this agreement. This right is limited to the aforementioned uses and does not extend to any other purpose or exploitation without further consent.\n\n(ii) Ehave is granted a non-exclusive, royalty-free, and perpetual, yet limited license to use, copy, store, and display End User Data on an aggregated and anonymous basis, ensuring no individual End User can be identified. This right permits Ehave to employ the data solely for the purpose of enhancing or developing improvements to the Ehave Companion Solution. However, it is important to note that Ehave holds no rights to commercialize or exploit such End User Data in any other capacity without additional authorization.",
+    "contradiction_score": 0.005316085647791624,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 82,
+    "start_char": 33841,
+    "end_char": 34356,
+    "original": "(e) End User Support On and after the launch of the Ehave Companion Solution, CHT shall, at its own expense, ensure that an adequate number of trained, capable and qualified technical personnel with sufficient knowledge of the Ehave Companion Solution are available to provide first line support to assist End Users. If CHT\u2019s support personnel are unable to resolve any trouble tickets from an End User, CHT may escalate the trouble ticket to Ehave in accordance with the support procedures set out in Schedule \u201c3\u201d.",
+    "ollama_generated": "(e) Post-Launch Support: From the deployment of the Ehave Companion Solution, Ehave is responsible for providing first line technical support to End Users, at its own expense. However, Ehave will make available a sufficient number of trained, competent, and qualified personnel with knowledge of the Ehave Companion Solution. If an issue persists that the Ehave support team cannot resolve, the responsibility for escalation and subsequent resolution shall be transferred to CHT in accordance with the support procedures outlined in Schedule \"3\".\n\nThis revised clause shifts the initial support obligation from CHT to Ehave, but also ensures CHT can take over if necessary. It maintains a professional tone while adjusting the original responsibility distribution.",
+    "contradiction_score": 0.010507693514227867,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 92,
+    "start_char": 37490,
+    "end_char": 38866,
+    "original": "(b) Security Requirements Ehave shall implement and maintain those safeguards and controls set out in Schedule \u201c5\u201d to deter and for the detection, prevention and correction of any unauthorized intrusion, access or use of the Ehave Companion Solution, as well as to protect against any loss, theft or unauthorized access, use, disclosure, copying, or modification of End User Data. CHT acknowledges and agrees, and shall obtain such acknowledgement and agreement from its End Users, that notwithstanding the Security Requirements, such methods and procedures may not prevent unauthorized electronic intruders to access the Ehave Companion Solution through the Internet or through other form of electronic communication. If such unauthorized electronic intruders are able to bypass Ehave\u2019s security protocols, firewall and safeguards, such unauthorized electronic intruder may change, delete or otherwise corrupt the contents and data contained in the Ehave Server, including any End User Data. Except for the maintenance of appropriate firewall and safeguards in compliance with the Security Requirements, which are designed to frustrate access from unauthorized electronic intruders, Ehave shall not be liable to CHT or to any of its End users, and hereby disclaims responsibility, with respect to any action, destructive or otherwise, by any unauthorized electronic intruder.",
+    "ollama_generated": "(b) In relation to the Ehave Companion Solution, Ehave is obliged to establish and uphold the security measures outlined in Schedule \"5,\" designed to identify, discourage, and respond to potential unauthorized intrusions, access, or usage. It's acknowledged by CHT, as well as its End Users, that these measures may not provide absolute protection against digital trespassers exploiting the internet or other electronic communication channels.\n\nIn such an unfortunate event where security protocols, firewalls, and safeguards are breached by unauthorized intruders, there's a possibility they could manipulate, erase, or corrupt data stored on the Ehave Server, including End User Data. However, it should be noted that apart from maintaining necessary firewalls and safeguards in accordance with the Security Requirements \u2013 which serve to obstruct access by unauthorized digital intruders \u2013 Ehave assumes no liability for any actions taken by such intruders. Consequently, Ehave disclaims responsibility towards CHT or its End Users regarding any destructive or otherwise malicious activity undertaken by unauthorized electronic intruders.",
+    "contradiction_score": 0.0028596913907676935,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 99,
+    "start_char": 42498,
+    "end_char": 42765,
+    "original": "7. ROYALTIES AND PAYMENT (a) Royalties The Royalties and payment terms are as set out in Schedule \u201c6\u201d. The Royalties do not include applicable taxes. CHT agrees to pay the Royalties and applicable taxes in accordance with the payment terms as set out in Schedule \u201c6\u201d.",
+    "ollama_generated": "7. ROYALTIES AND PAYMENT (b) Applicable Taxes and Royalties\nThe applicable tax obligations and royalty rates are detailed in Schedule \"6\". Royalties shall encompass taxes applicable thereto. CHT is responsible for remitting the royalties, including any applicable taxes, in accordance with the payment terms as outlined in Schedule \"6\".\n\nThis modification places the responsibility of paying taxes on the contractor (CHT), making the language more balanced and potentially shifting some liability to them.",
+    "contradiction_score": 0.19964586198329926,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 100,
+    "start_char": 42784,
+    "end_char": 42794,
+    "original": "(b) Taxes:",
+    "ollama_generated": "(b) Tax Liability Shift:\n\nThe Purchaser shall hereby undertake to indemnify, defend, and hold harmless the Seller from any and all liabilities, damages, costs, and expenses arising out of or in connection with any federal, state, local, or foreign taxes associated with this transaction, including but not limited to penalties or interest charges. The Seller shall have no obligation to pay any such taxes unless required by law to do so in which case the Purchaser will reimburse the Seller for such amounts.",
+    "contradiction_score": 0.1106402650475502,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 107,
+    "start_char": 45582,
+    "end_char": 45856,
+    "original": "(c) Records CHT shall keep detailed records and books of account with supporting vouchers, invoices and other documentation showing all expenditures, charges and related calculations of whatsoever nature made by it in the performance of its obligations under this Agreement.",
+    "ollama_generated": "(c) The Party identified as CHT shall maintain accurate records and financial books, complete with relevant supporting documents such as vouchers, invoices, and other documentation, detailing all expenses, charges, and calculations relating to their duties under this Agreement. However, the responsibility for ensuring the completeness and accuracy of these records shall primarily rest with CHT.\n\nThis revision slightly shifts the responsibility for ensuring the completeness and accuracy of the records from the contract as a whole to CHT specifically.",
+    "contradiction_score": 0.0019659907557070255,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 120,
+    "start_char": 50272,
+    "end_char": 51833,
+    "original": "(i) fails to pay in full any sum owing by it under this Agreement by the due date thereof (other than any sum the payment of which is disputed by CHT in good faith and withheld pending resolution of such dispute in accordance with Section 19) and such failure continues for a period of ten (10) Business Days after delivery of a written notice by Ehave requiring CHT to correct such failure\u037e Source: EHAVE, INC., 20-F, 5/15/2019 (ii) breaches any other material provision of this Agreement and such breach continues for a period of twenty (20) Business Days after delivery of a written notice by Ehave requiring CHT to correct such failure\u037e or (iii) becomes or is adjudicated insolvent or bankrupt, admits in writing its inability to pay its debts as they mature, or makes an assignment for the benefit of creditors\u037e or CHT applies for or consents to the appointment of any receiver, trustee or similar officer for it or for all or any substantial part of its property\u037e or such receiver, trustee or similar officer is appointed without the consent of CHT\u037e or CHT institutes any bankruptcy, insolvency, reorganization, moratorium, arrangement, readjustment or debt, dissolution, liquidation or similar proceeding relating to it under the laws of any jurisdiction, or any such proceeding is instituted against CHT and is not dismissed within sixty (60) Business Days\u037e or any judgment, writ, warrant or attachment or execution of similar process is issued or levied against a substantial part of CHT\u2019s property and remains unsatisfied for sixty (60) Business Days.",
+    "ollama_generated": "(i) fails to pay in full any amount due under this Agreement by the stipulated date, other than amounts that are being reasonably contested by CHT and withheld during dispute resolution in accordance with Section 19, and such non-payment persists for ten (10) Business Days following delivery of a written notice from Ehave requesting CHT to rectify the oversight.\n(ii) breaches any essential condition of this Agreement and such infraction endures for twenty (20) Business Days following delivery of a written notice by Ehave, requiring CHT to remedy the breach.\n(iii) declares bankruptcy or insolvency, admits in writing its incapacity to meet maturing debts, or initiates a creditor's agreement, without the consent of Ehave.\n(iv) authorizes, consents to, or fails to challenge the appointment of any receiver, trustee, or similar official for itself or a significant portion of its assets.\n(v) has a receiver, trustee, or similar officer appointed without its consent.\n(vi) initiates bankruptcy, insolvency, reorganization, moratorium, arrangement, readjustment, or debt proceedings under the laws of any jurisdiction, which are not dismissed within sixty (60) Business Days.\n(vii) has a judgment, writ, warrant, attachment, or execution issued against a substantial portion of its assets that remains unfulfilled for sixty (60) Business Days.",
+    "contradiction_score": 0.04755640774965286,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 127,
+    "start_char": 54452,
+    "end_char": 54515,
+    "original": "Source: EHAVE, INC., 20-F, 5/15/2019 (f) Transition Assistance:",
+    "ollama_generated": "Source: EHAVE, INC., 20-F, 5/15/2019 (f) Transition Support Services:\n\nIn the event that a party requests to terminate this agreement prior to its expiration date, the terminating party shall be solely responsible for securing and paying for any necessary transition support services, including but not limited to the transfer of data, training of replacement personnel, and the provision of necessary documentation. The non-terminating party shall have no obligation to provide such services unless specifically agreed otherwise in writing by both parties.",
+    "contradiction_score": 0.33279481530189514,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 132,
+    "start_char": 56162,
+    "end_char": 57239,
+    "original": "(b) CHT\u2019s Ownership Ehave acknowledges and agrees that, as between Ehave and CHT, CHT owns all worldwide right, title and interest, including all Intellectual Property Rights, in and to the CHT Developments. Ehave does not acquire any rights, title or ownership interests of any kind whatsoever, express or implied, in any of the foregoing other than the licenses granted herein. Further, as between CHT and Ehave, (i) CHT (or its End User) is and will remain the sole and exclusive owner of all right, title, and interest in and to End User Data, including all Intellectual Property Rights therein and/or relating thereto, subject only to the limited license granted in Section 5(c), and (ii) End User Data and CHT Developments are and will be the Confidential Information of CHT. CHT and End Users shall at all times, including in the event of termination of this Agreement and for a period thereafter as set out in Section 10(e), have access to their respective End User Data and the ability to download and/or export their End User Data out of the Ehave Companion Solution.",
+    "ollama_generated": "(b) Ehave hereby acknowledges and accepts that all worldwide rights, title, and interest, including Intellectual Property Rights, in and to the CHT Developments belong exclusively to CHT, as opposed to Ehave. Ehave is not granted any rights, titles, or ownership interests of any kind whatsoever, whether express or implied, in these developments other than those explicitly licensed herein. Conversely, (i) CHT (or its End Users) retains sole and exclusive ownership of all rights, title, and interest in and to End User Data, including Intellectual Property Rights therein and/or relating thereto, save for the limited license granted in Section 5(c). (ii) Both CHT Developments and End User Data constitute Confidential Information owned by CHT. In all instances, including upon termination of this Agreement and as specified in Section 10(e), both CHT and its End Users shall retain access to their respective End User Data and the ability to download and/or export their End User Data from the Ehave Companion Solution.",
+    "contradiction_score": 0.004036561120301485,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 149,
+    "start_char": 69345,
+    "end_char": 69548,
+    "original": "Ehave represents to CHT that Ehave possesses the knowledge, skill and experience necessary for the provision and completion of the Ehave Companion Solution in accordance with the terms of this Agreement.",
+    "modified": "The Client acknowledges that they are aware Ehave may not necessarily have all the necessary knowledge, skills, or experience for the delivery and completion of the Ehave Companion Solution, as outlined in this Agreement. However, Ehave warrants to uphold reasonable efforts to fulfill these requirements to the best of their ability.",
+    "contradiction_score": 0.5390056371688843,
+    "kept": true
+  },
+  {
+    "clause_index": 150,
+    "start_char": 69548,
+    "end_char": 70857,
+    "original": "(c) Warranties Ehave warrants that for the duration of the Term, (i) the Ehave Companion Solution will substantially conform to and operate in accordance with, and have the functions and features set out in, the Specifications, and any related documentation provided by Ehave, and any such documentation shall be complete and accurate in all material respects\u037e and the Ehave Companion Solution will not contain any material undocumented feature\u037e (ii) Ehave has implemented and will maintain industry standard protection for the detection, protection and removal of Viruses\u037e (iii) Ehave will perform all services under this Agreement in a timely, professional and workmanlike manner using personnel of required skill, experience and qualifications, and will devote adequate resources to meet its obligations (including the Service Level Commitments and its support obligations) hereunder\u037e (iv) it has or will have all necessary right, power and authority, including all licenses and Intellectual Property Rights required, to provide and operate the Ehave Companion Solution and to grant all rights and licenses granted or required to be granted by it under this Agreement\u037e and (v) Ehave is not aware of any infringement or misappropriation claims by any third party in relation to the Ehave Companion Solution.",
+    "ollama_generated": "(c) Ehave guarantees, for the term of the agreement, that:\n(i) The Ehave Companion Solution will substantially adhere to and function as per the specifications outlined in the contract, related documents provided by Ehave, and any such documentation shall be comprehensive and accurate in all significant aspects; however, minor deviations or omissions may occur without breach of warranty.\n(ii) While Ehave implements industry-standard protection for the detection, protection, and removal of viruses, users are responsible for their own data backup and security measures.\n(iii) Ehave will strive to complete all services under this agreement in a timely manner, but acknowledges that occasional delays may occur due to factors beyond its control, and will make reasonable efforts to ensure professionalism and workmanlike conduct by its personnel. It may delegate tasks to less experienced or qualified individuals if necessary, provided that the overall service remains satisfactory.\n(iv) Ehave assumes no responsibility for ensuring it has all necessary rights, powers, and authority, including all licenses and intellectual property rights required, to provide and operate the Ehave Companion Solution and grant the rights and licenses granted or required under this agreement. The burden of proof lies with the party claiming such rights or permissions.\n(v) Ehave acknowledges potential infringement or misappropriation claims by third parties in relation to the Ehave Companion Solution, and will notify users of any known issues, but does not guarantee freedom from such claims, as it is ultimately the user's responsibility to ensure compliance with relevant laws and regulations.",
+    "contradiction_score": 0.24754667282104492,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 153,
+    "start_char": 71584,
+    "end_char": 71621,
+    "original": "15. INSURANCE (a) Required Insurance:",
+    "ollama_generated": "15. INSURANCE (b) Assured Coverage:\n\nThe Client shall maintain and provide proof of valid insurance coverage with a reputable insurer, ensuring that the policy covers all liabilities and losses incurred by either party during the course of this Agreement, without prejudice to the other party's ability to seek additional or alternative coverage at their discretion. The Client acknowledges that they shall be responsible for any uncovered costs or damages arising from such incidents.",
+    "contradiction_score": 0.4335813820362091,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 158,
+    "start_char": 72891,
+    "end_char": 73734,
+    "original": "16. INDEMNITIES (a) Intellectual Property Indemnity Ehave shall defend at its own expense any claim, proceeding or suit (a \u201c Claim \u201d) brought against CHT and/or any of its directors, officers, employees, agents, subcontractors, affiliates and/or End Users (collectively, the \u201c CHT Indemnified Parties \u201d) to the extent such Claim alleges that the Ehave Companion Solution furnished hereunder or the use thereof by CHT or its End Users as authorized hereunder or in any Subscription Agreement infringes any copyright, Canadian patent, or registered trademark of a third person, and will indemnify and hold harmless the CHT Indemnified Parties from and against any and all related liabilities, costs, losses, damages and expenses (including reasonable legal fees) arising out of or in connection with or relating to any such Claim, provided that:",
+    "ollama_generated": "16. INDEMNITIES (a) Intellectual Property Liability Release\n\nEhave agrees to bear the costs and defend, at its own expense, any claim, proceeding, or suit (hereafter referred to as a \"Claim\") brought against CHT and/or any of its directors, officers, employees, agents, subcontractors, affiliates, and End Users (collectively, the \"CHT Entities\"). This indemnification applies when the Claim alleges that the Ehave Companion Solution provided hereunder or its authorized use by CHT or its End Users under this agreement or any Subscription Agreement infringes upon a third party's copyright, Canadian patent, or registered trademark. In such cases, Ehave shall indemnify and hold harmless the CHT Entities from and against all related liabilities, costs, losses, damages, and expenses (including reasonable attorney fees), so long as:\n\n(i) Ehave is promptly notified of any such Claim;\n(ii) Ehave has sole control over the defense and all settlement negotiations; and\n(iii) Ehave receives no material detriment to its rights or defenses due to the actions or inactions of CHT.",
+    "contradiction_score": 0.01874900609254837,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 160,
+    "start_char": 74631,
+    "end_char": 75422,
+    "original": "If such Claim has occurred, or in Ehave\u2019s opinion is likely to occur, without limiting Ehave\u2019s obligation to defend and indemnify the CHT Indemnified Parties as aforesaid, Ehave may, at its option and expense, either procure for CHT the right to continue using the Ehave Companion Solution in accordance with this Agreement or modify or replace the same so that it becomes non-infringing without loss of functionality, or if none of the foregoing alternatives is reasonably available and at Ehave\u2019s discretion, discontinue the use of the Ehave Companion Solution on not less than sixty (60) Business Days\u2019 prior written notice to CHT and its End Users. The foregoing states the entire obligations of Ehave with respect to any infringement of Intellectual Property Rights of any third Person.",
+    "ollama_generated": "In the event that a Claim arises, or appears imminent to Ehave's judgment, Ehave does not waive its duty to defend and indemnify the CHT Indemnified Parties as stipulated earlier. However, Ehave shall have the discretion to act upon one of the following options, at its own expense:\n\n1. Acquire for CHT a license enabling continued use of the Ehave Companion Solution in accordance with this Agreement.\n2. Modify or replace the Ehave Companion Solution to ensure it no longer infringes upon Intellectual Property Rights, maintaining its functionality.\n3. If neither of the above alternatives prove feasible within reasonable means, Ehave may choose to discontinue the use of the Ehave Companion Solution, providing CHT and its End Users with a sixty (60) Business Days' prior written notice. It is worth noting that this clause outlines the full extent of Ehave's obligations concerning any infringement of third-party Intellectual Property Rights.\n\nBy shifting the responsibility to \"provide a feasible alternative\" and introducing the phrase \"within reasonable means\", the revised clause weakens Ehave's obligation to modify or replace the infringing product without loss of functionality, giving them more flexibility in their decision-making process.",
+    "contradiction_score": 0.010984471067786217,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 162,
+    "start_char": 76147,
+    "end_char": 76501,
+    "original": "(i) prompt written notice of the Claim or of any allegations or circumstances known to Ehave which could result in a Claim\u037e (ii) all reasonable information and assistance from Ehave, at CHT's expense, which CHT may require to defend the Claim\u037e (iii) sole control of the defence of the Claim, and all negotiations for its settlement or compromise thereof.",
+    "ollama_generated": "(i) A timely, written communication from CHT regarding any potential Claim or related allegations or circumstances known to them that could lead to a Claim; (ii) the provision of all necessary information and reasonable assistance from CHT, at Ehave's expense, for the purpose of mounting a defense against the Claim; (iii) the authority to manage the defense of the Claim, as well as all negotiations for its resolution or settlement, exclusively vests with Ehave.\n\nThe changes made in this rewritten clause primarily shift the control and responsibility for defending the claim and negotiating its settlement to Ehave, while CHT is obliged to provide assistance at their expense. Additionally, the requirement for CHT to communicate potential claims has been changed to a request for timely communication from them.",
+    "contradiction_score": 0.0069649009965360165,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 174,
+    "start_char": 81351,
+    "end_char": 82148,
+    "original": "Subject to Section 19(d), any dispute that has proceeded through mediation established in Section 19(b) without resolution may be submitted to arbitration. Any arbitration conducted pursuant to this Agreement shall take place in the City of Toronto, Ontario. The costs of the arbitration shall be borne equally by the Parties or as may be specified in the arbitrator's decision. The provisions of the Arbitration Act of Ontario, as amended, except as otherwise provided in this Agreement shall govern the arbitration process. The Parties agree to exclude the appeal provisions of the Arbitration Act, as may be amended from time to time, and in particular, section 45 thereof. The determination arising out of the arbitration process shall be final and binding upon the Parties to the arbitration.",
+    "ollama_generated": "Disputes that have not been resolved following mediation procedures outlined in Section 19(b) may first be pursued through arbitration, subject to Section 19(d). In such cases, the arbitration proceedings stipulated by this Agreement shall occur initially in the City of Toronto, Ontario. The costs associated with the arbitration will initially be shared equally by both Parties, but may be subsequently allocated as determined by the arbitrator's decision.\n\nThe arbitration process will primarily be governed by the provisions of the Arbitration Act of Ontario, as amended, except where explicitly overridden by this Agreement. The Parties mutually agree to waive the appeal provisions within the Arbitration Act, including any future amendments thereto, particularly section 45 thereof. The decision resulting from the arbitration process shall be considered final and binding upon all involved Parties.\n\nBy shifting the order of the original clause and emphasizing that disputes must first attempt mediation before proceeding to arbitration, this revised version suggests a preference for resolution through mediation while still maintaining the finality and binding nature of the arbitration process in case negotiations are unsuccessful. The initial equal cost-sharing arrangement also implies a potential flexibility for the allocation of costs based on the arbitrator's decision.",
+    "contradiction_score": 0.008109698072075844,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 184,
+    "start_char": 83973,
+    "end_char": 84214,
+    "original": "Each Party shall take such action (including, but not limited to, the execution, acknowledgement and delivery of documents) as may reasonably be requested by the other Party for the implementation or continuing performance of this Agreement.",
+    "modified": "Each Party is not obligated to act in any manner, beyond the provision of this Agreement, unless expressly asked to do so by the other Party, and such request results in a reasonable expectation that the action will facilitate the execution, acknowledgement, or delivery of necessary documents for the initiation or ongoing compliance with this Agreement.",
+    "contradiction_score": 0.666904091835022,
+    "kept": true
+  },
+  {
+    "clause_index": 185,
+    "start_char": 84216,
+    "end_char": 84233,
+    "original": "(d) Relationship:",
+    "ollama_generated": "(d) Partnership Obligations:\n\nEach party shall have the discretion to independently decide their level of involvement in the partnership, without any obligation to be actively engaged at all times. However, once a decision is made to participate, they shall fulfill their duties diligently and professionally. Any absence or reduced participation will not exempt them from financial obligations stemming from the partnership's activities during their tenure.",
+    "contradiction_score": 0.0635261982679367,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 188,
+    "start_char": 84912,
+    "end_char": 85047,
+    "original": "This Agreement shall enure to the benefit of and be binding upon each of the Parties hereto and their permitted successors and assigns.",
+    "ollama_generated": "This Agreement shall primarily benefit and obligate each Party herein, with the option for subsequent successors or assigns to also derive advantage and assume obligations, subject to prior consent of all parties involved.",
+    "contradiction_score": 0.0013413307024165988,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 191,
+    "start_char": 85595,
+    "end_char": 85649,
+    "original": "(g) Counterparts and Facsimile Execution and Delivery:",
+    "ollama_generated": "(g) Multiple Counterparts and Electronic Execution and Delivery:\n\nEach party may execute this Agreement in counterparts, and one or more parties may electronically sign this Agreement. All signed counterparts constitute a single binding instrument. Facsimile or digital delivery of signatures shall be deemed as effective as original manual signatures for the purpose of executing and delivering this Agreement.",
+    "contradiction_score": 0.1246873065829277,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

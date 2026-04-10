@@ -1,0 +1,608 @@
+[
+  {
+    "clause_index": 3,
+    "start_char": 2063,
+    "end_char": 3689,
+    "original": "Source: DOVA PHARMACEUTICALS INC., 10-Q, 11/8/2018 TABLE OF CONTENTS (continued) 5.10 Manufacturing\u037e Distribution\u037e Marketing. 25 ARTICLE 6 FINANCIAL PROVISIONS 26 6.1 Promotion Fee. 26 6.2 Milestone Payment. 27 6.3 Reports\u037e Payments. 27 6.4 Taxes. 28 6.5 Determination of Specialty. 29 ARTICLE 7 AUDIT RIGHTS 30 7.1 Recordkeeping . 30 7.2 Valeant Rights. 30 7.3 Dova Rights. 31 ARTICLE 8 INTELLECTUAL PROPERTY 32 8.1 Ownership of Intellectual Property. 32 8.2 Title to Trademarks and Copyrights. 32 8.3 Protection of Trademarks and Copyrights. 32 8.4 Disclosure of Know-How. 33 ARTICLE 9 CONFIDENTIALITY 33 9.1 Confidential Information. 33 9.2 Public Announcements. 34 ARTICLE 10 REPRESENTATIONS AND WARRANTIES\u037e ADDITIONAL COVENANTS 35 10.1 Representations and Warranties of Dova. 35 10.2 Representations and Warranties of Valeant. 37 10.3 Disclaimer of Warranty. 38 10.4 Additional Covenants. 39 ARTICLE 11 INDEMNIFICATION\u037e LIMITATIONS ON LIABILITY 39 11.1 Indemnification by Dova. 39 11.2 Indemnification by Valeant. 39 11.3 Indemnification Procedures. 40 11.4 Limitation of Liability. 40 11.5 Insurance. 40 ARTICLE 12 TERM AND TERMINATION 41 12.1 Term. 41 12.2 Early Termination for Cause. 41 Source: DOVA PHARMACEUTICALS INC., 10-Q, 11/8/2018 12.3 Other Early Termination. 42 12.4 Effects of Termination. 42 12.5 Tail Period. 42 CONFIDENTIAL TREATMENT HAS BEEN REQUESTED FOR PORTIONS OF THIS EXHIBIT. THE COPY FILED HEREWITH OMITS THE INFORMATION SUBJECT TO A CONFIDENTIALITY REQUEST. OMISSIONS ARE DESIGNATED [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.",
+    "ollama_generated": "Clause (Altered):\nSource: DOVA PHARMACEUTICALS INC., 10-Q, 11/8/2018 TABLE OF CONTENTS (continued)\n5.10 Manufacturing\u037e Distribution\u037e Marketing.\n25 ARTICLE 6 FINANCIAL PROVISIONS 26\n6.1 Promotion Obligation. (Shifting responsibility, making Dova obligated to promote)\n6.2 Milestone Payment. (Unchanged)\n6.3 Reports\u037e Payments. (Unchanged)\n6.4 Taxes. (Unchanged)\n6.5 Determination of Specialty. (Unchanged)\n\nARTICLE 7 AUDIT RIGHTS 30\n7.1 Valeant Recordkeeping Obligations. (Weakening an obligation, making Valeant responsible for recordkeeping)\n7.2 Dova Rights. (Unchanged)\n7.3 Valeant's Right to Audit. (Reverse roles in the clause)\n\nARTICLE 8 INTELLECTUAL PROPERTY 32\n8.1 Ownership of Intellectual Property. (Unchanged)\n8.2 Title to Trademarks and Copyrights. (Unchanged)\n8.3 Protection of Trademarks and Copyrights. (Unchanged)\n8.4 Disclosure of Know-How by Dova. (Inverting condition, making Dova responsible for disclosing know-how)\n\nARTICLE 9 CONFIDENTIALITY 33\n9.1 Confidential Information to be Protected by Valeant. (Reverse roles in the clause)\n9.2 Public Announcements by Dova. (Inverting condition, making Dova responsible for public announcements)\n\nARTICLE 10 REPRESENTATIONS AND WARRANTIES\u037e ADDITIONAL COVENANTS 35\n10.1 Additional Covenants by Valeant. (Weakening an obligation, making Valeant liable for additional covenants)\n10.2 Representations and Warranties of Dova. (Unchanged)\n10.3 Disclaimer of Warranty by Valeant. (Reverse roles in the clause)\n10.4 Representations and Warranties of Dova. (Unchanged)\n\nARTICLE 11 INDEMNIFICATION\u037e LIMITATIONS ON LIABILITY 39\n11.1 Indemnification by Valeant. (Shifting responsibility, making Valeant liable for indemnification)\n11.2 Indemnification by Dova. (Unchanged)\n11.3 Indemnification Procedures. (Unchanged)\n11.4 Limitation of Liability by Valeant. (Reverse roles in the clause)\n11.5 Insurance to be Provided by Valeant. (Reverse roles in the clause)\n\nARTICLE 12 TERM AND TERMINATION 41\n12.1 Term. (Unchanged)\n12.2 Early Termination Initiated by Valeant for Cause. (Inverting condition, making Valeant the one who can initiate early termination)\n12.3 Other Early Termination by Dova. (Shifting responsibility, making Dova capable of causing early termination)\n12.4 Effects of Termination. (Unchanged)\n12.5 Tail Period. (Unchanged)",
+    "contradiction_score": 0.38013756275177,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 8,
+    "start_char": 6011,
+    "end_char": 6254,
+    "original": "Source: DOVA PHARMACEUTICALS INC., 10-Q, 11/8/2018 ARTICLE 1 DEFINITIONS 1.1 \u201cAct\u201d shall mean the Federal Food, Drug and Cosmetic Act, 21 U.S.C. \u00a7 301 et seq., as it may be amended from time to time, and the regulations promulgated thereunder.",
+    "ollama_generated": "Clause:\nRevised for a slight change in meaning \u2014 the new definition expands the scope of the Act to include any subsequent amendments or regulations that may be enacted:\n\nArticle 1 DEFINITIONS\n1.1 \"Act\" shall now encompass not only the Federal Food, Drug and Cosmetic Act, 21 U.S.C. \u00a7 301 et seq., as it currently stands, but also any amendments or regulations promulgated thereunder that may be issued in the future. This definition will remain applicable regardless of any alterations to the Act made over time.",
+    "contradiction_score": 0.0291734728962183,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 13,
+    "start_char": 7643,
+    "end_char": 8088,
+    "original": "1.6 \u201cAlternate Product \u201d shall mean a pharmaceutical product that is commercialized by Valeant or its Affiliates in the Territory and that is part of the Salix business segment of Valeant\u2019s parent company, Bausch Health Companies, Inc. (or, in the event that such business segments are restructured, that is part of the Salix business unit), and which product is complementary to the Product with regard to Target Professionals in the Specialty.",
+    "ollama_generated": "1.6 The term \"Alternate Product\" refers to a pharmaceutical product, commercially distributed by Valeant or its Affiliates within the Territory, that falls under the Salix business unit of Bausch Health Companies, Inc., or any successor business segment following potential restructuring, and whose therapeutic focus aligns with the Product in serving Target Professionals within the Specialty. However, it's important to note that this term does not include the Product itself.",
+    "contradiction_score": 0.012266602367162704,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 14,
+    "start_char": 8088,
+    "end_char": 9620,
+    "original": "1.7 \u201cApplicable Laws \u201d shall mean all applicable statutes, ordinances, regulations, codes, rules, or orders of any kind whatsoever of any Governmental Authority in the Territory pertaining to any of the activities and obligations contemplated by this Agreement, including, as applicable, the Act, the Generic Drug Enforcement Act of 1992 (21 U.S.C. \u00a7 335a et seq.), the Anti- Kickback Statute (42 U.S.C. \u00a7 1320a-7b et seq.), the Health Insurance Portability and Accountability Act of 1996, the Federal False Claims Act (31 U.S.C. \u00a7\u00a7 3729-3733) (and applicable state false claims acts), the Physician Payments Sunshine Act, the Code, the Department of Health and Human Services Office of Inspector General Compliance Program Guidance for Pharmaceutical Manufacturers, released April 2003, the Antifraud and Abuse Amendment to the Social Security Act, the American Medical Association guidelines on gifts to physicians, generally accepted standards of good clinical practices adopted by current FDA regulations, as well as any state laws and regulations (i) impacting the promotion of pharmaceutical products, (ii) governing the provision of meals and other gifts to medical professionals, including pharmacists, or (iii) governing consumer CONFIDENTIAL TREATMENT HAS BEEN REQUESTED FOR PORTIONS OF THIS EXHIBIT. THE COPY FILED HEREWITH OMITS THE INFORMATION SUBJECT TO A CONFIDENTIALITY REQUEST. OMISSIONS ARE DESIGNATED [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.",
+    "ollama_generated": "1.7 \"Regulatory Requirements\" shall encompass all pertinent statutes, ordinances, regulations, codes, rules, or orders of any governmental body within the Territory applicable to the activities and obligations as outlined in this Agreement. This includes, but is not limited to, the Act, the Generic Drug Enforcement Act of 1992 (21 U.S.C. \u00a7 335a et seq.), the Anti-Kickback Statute (42 U.S.C. \u00a7 1320a-7b et seq.), the Health Insurance Portability and Accountability Act of 1996, the Federal False Claims Act (31 U.S.C. \u00a7\u00a7 3729-3733) (and corresponding state false claims acts), the Physician Payments Sunshine Act, the Code, the Department of Health and Human Services Office of Inspector General Compliance Program Guidance for Pharmaceutical Manufacturers, released April 2003, the Antifraud and Abuse Amendment to the Social Security Act, the American Medical Association guidelines on gifts to physicians, generally accepted standards of good clinical practices adopted by current FDA regulations, as well as any state laws and regulations (i) pertaining to pharmaceutical product promotion, (ii) governing the provision of meals or other gifts to medical professionals, including pharmacists, or (iii) pertaining to consumer information. Confidential treatment has been requested for certain portions of this exhibit. The copy filed herewith omits the confidential information. Omitted sections are designated [***]. A complete version of this exhibit has been filed separately with the Securities and Exchange Commission.\n\nIn this rewritten clause, I've shifted the responsibility from both parties to solely the party who is undertaking the activities and obligations as outlined in the agreement. This means that the Regulatory Requirements are now applicable only to the actions of that specific party, rather than to both parties as stated in the original clause.",
+    "contradiction_score": 0.024893835186958313,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 17,
+    "start_char": 9962,
+    "end_char": 10389,
+    "original": "1.9 \u201cCalendar Quarter \u201d shall mean each successive period of three (3) calendar months commencing on January 1, April 1, July 1 and October 1, except that the first Calendar Quarter of the Term shall commence on the Effective Date and end on the day immediately prior to the first to occur of January 1, April 1, July 1 or October 1 after the Effective Date, and the last Calendar Quarter shall end on the last day of the Term.",
+    "ollama_generated": "1.9 \"Calendar Quarter\" is defined as a continuous period of three (3) calendar months, starting on January 1, April 1, July 1, or October 1, depending on the commencement date. The first Calendar Quarter of the Term will begin on the Effective Date and conclude on whichever of January 1, April 1, July 1, or October 1 follows the Effective Date. Conversely, the final Calendar Quarter will extend until the Term's conclusion date.\n\nThis revision aims to clarify that each subsequent Calendar Quarter begins on the appropriate month, and both the first and last quarters may span beyond three full months due to the Term or Effective Date start and end times.",
+    "contradiction_score": 0.0053551229648292065,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 23,
+    "start_char": 11422,
+    "end_char": 11502,
+    "original": "1.15  \u201cCompliance Report \u201d shall have the meaning set forth in Section 4.2.2(c).",
+    "ollama_generated": "1.15 The term \"Non-compliance Update\" shall be interchangeably used, as defined in Section 4.2.2(c).\n\nThis change weakens the obligation slightly by using a more passive term (\"update\") instead of the stronger and more active term (\"report\"). It also changes the meaning subtly to indicate that it's not necessarily a comprehensive document detailing all instances of non-compliance, but rather an update about such instances.",
+    "contradiction_score": 0.13852299749851227,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 24,
+    "start_char": 11502,
+    "end_char": 12605,
+    "original": "1.16  \u201cConfidential Information \u201d shall mean all secret, confidential, non-public or proprietary Know-How, whether provided in written, oral, graphic, video, computer or other form, provided by or on behalf of one Party to the other Party pursuant to this Agreement, including information relating to the disclosing Party\u2019s existing or proposed research, development efforts, promotional efforts, regulatory matters, patent applications or business and any other materials that have not been made available by the disclosing Party to the general public. All such information related to this Agreement disclosed by or on behalf of a Party (or its Affiliate) to the other Party (or its Affiliate) pursuant to the Confidentiality Agreement shall be deemed to be such Party\u2019s Confidential Information disclosed hereunder. For purposes of clarity, (i) Dova\u2019s Confidential Information shall include all Product Materials unless and until made available by Dova to the general public (including through Valeant) and (ii) the terms of this Agreement shall be considered Confidential Information of both Parties.",
+    "ollama_generated": "1.16 \"Confidential Data\" encompasses all secret, confidential, non-public, or proprietary Knowledge, communicated in written, oral, graphic, video, computer, or other forms, shared between the Parties under this Agreement. This includes information pertaining to the disclosing Party's current or planned research, development, marketing, regulatory matters, patent applications, business strategies, and any other materials not publicly disclosed by the disclosing Party.\n\nIn addition, any information related to this Agreement shared between the Parties (or their Affiliates) pursuant to the Confidentiality Agreement shall be deemed to be each Party's Confidential Data disclosed under this contract. For the sake of clarity:\n\na) The Confidential Data of Dova will include all Product Materials, unless and until they are made available by Dova to the general public (including through Valeant).\nb) Both Parties consider the terms of this Agreement as their own Confidential Data.",
+    "contradiction_score": 0.0101794907823205,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 25,
+    "start_char": 12607,
+    "end_char": 12692,
+    "original": "1.17  \u201cConfidentiality Agreement \u201d shall have the meaning set forth in Section 9.1.1.",
+    "ollama_generated": "9.1.1 The term \"Confidentiality Agreement,\" as used herein, shall refer to the definitions provided in Section 1.17. (Here, we've swapped the order of reference for a slight change in emphasis.)",
+    "contradiction_score": 0.010525359772145748,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 30,
+    "start_char": 13787,
+    "end_char": 13855,
+    "original": "1.21  \u201cDispute \u201d shall have the meaning set forth in Section 13.6.1.",
+    "ollama_generated": "1.21 The term \"Dispute\" shall be construed in accordance with the definition provided in Section 13.6.1. (This change subtly shifts the responsibility of defining \"Dispute\" from the drafter to the interpreter, potentially making it easier for a disputing party to argue that their interpretation is correct.)",
+    "contradiction_score": 0.0008266766089946032,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 32,
+    "start_char": 13912,
+    "end_char": 14175,
+    "original": "1.23  \u201cDova Trademarks and Copyrights \u201d shall mean the logos, trade dress, slogans, domain names and housemarks of Dova or any of its Affiliates as may appear on any Product Materials or Product Labeling, in each case, as may be updated from time to time by Dova.",
+    "ollama_generated": "1.23 The term \"Dova Trademarks and Copyrights\" encompasses the logos, trade dress, slogans, domain names, and housemarks associated with Dova or any of its Affiliates, as they may be displayed on Product Materials or Product Labeling. Any updates to these trademarks or copyrights will be at the discretion of the respective Affiliate, not the recipient.\n\nIn this version, the responsibility for updating trademarks and copyrights has been shifted from Dova to its affiliates.",
+    "contradiction_score": 0.01610993593931198,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 35,
+    "start_char": 14430,
+    "end_char": 14557,
+    "original": "1.26  \u201cFDA \u201d shall mean the United States Food and Drug Administration or any successor agency performing comparable functions.",
+    "ollama_generated": "1.26 For the purposes of this agreement, \"FDA\" denotes the United States Food and Drug Administration, or any subsequent entity assuming similar responsibilities.\n\nChanges made: The original clause stated that FDA refers to the US Food and Drug Administration or any successor agency performing comparable functions. In the rewritten version, I changed it to make it clearer that FDA also includes \"any subsequent entity,\" meaning that if there's an organization in the future with similar responsibilities, they would fall under the definition of FDA as well. This shifts the focus slightly to encompass potential changes in agency structure while maintaining professionalism and clarity.",
+    "contradiction_score": 0.018893083557486534,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 40,
+    "start_char": 15680,
+    "end_char": 15973,
+    "original": "CONFIDENTIAL TREATMENT HAS BEEN REQUESTED FOR PORTIONS OF THIS EXHIBIT. THE COPY FILED HEREWITH OMITS THE INFORMATION SUBJECT TO A CONFIDENTIALITY REQUEST. OMISSIONS ARE DESIGNATED [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.",
+    "ollama_generated": "CONFIDENTIAL INFORMATION WITHIN THIS EXHIBIT IS MARKED AS [***]. The recipient is granted access only to the redacted portions of this document, and it is understood that any omitted information remains confidential and subject to a non-disclosure agreement. A comprehensive version of this exhibit, including all confidential information, has been separately submitted to the Securities and Exchange Commission for their review. The recipient is prohibited from disclosing or using the confidential information, except as authorized or required by law.",
+    "contradiction_score": 0.22017832100391388,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 42,
+    "start_char": 16793,
+    "end_char": 16869,
+    "original": "1.32  \u201cIndemnified Party \u201d shall have the meaning set forth in Section 11.3.",
+    "ollama_generated": "1.32 The term \"Indemnifying Party\" shall be construed in accordance with the definition provided in Section 11.3.\n\nThis change inverts the naming convention, shifting the responsibility from the Indemnified Party to the Indemnifying Party in a more symmetrical manner.",
+    "contradiction_score": 0.019033147022128105,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 51,
+    "start_char": 18307,
+    "end_char": 18938,
+    "original": "1.41  \u201cNon-Retail Institution \u201d shall mean any institution (other than the Specialty Pharmacies, Retail Pharmacies and Intermediaries) to which Dova (or its Affiliates or its Intermediaries) sells and/or ships units of Product during the Term, which shall include group purchasing organizations (GPOs), hospitals, clinics, long term care facilities and any outlets that are a member of an Integrated Delivery Network (IDN), and with which Dova or its Affiliates do not have data agreements which enables Dova to track shipments of Product from such institution to patients based on the Target Professional prescribing such Product.",
+    "ollama_generated": "1.41 A \"Non-Tracked Institution\" shall be defined as any institution (excluding Specialty Pharmacies, Retail Pharmacies, Intermediaries, and entities with existing data agreements with Dova or its Affiliates), to which Dova (or its Affiliates or Intermediaries) sells and/or ships units of Product during the Term. This term encompasses group purchasing organizations (GPOs), hospitals, clinics, long-term care facilities, and any outlets that are a member of an Integrated Delivery Network (IDN). Notwithstanding, this excludes institutions where Dova or its Affiliates can track shipments of Product from such institution to patients based on the Target Professional's prescription.",
+    "contradiction_score": 0.34591910243034363,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 53,
+    "start_char": 19013,
+    "end_char": 19306,
+    "original": "CONFIDENTIAL TREATMENT HAS BEEN REQUESTED FOR PORTIONS OF THIS EXHIBIT. THE COPY FILED HEREWITH OMITS THE INFORMATION SUBJECT TO A CONFIDENTIALITY REQUEST. OMISSIONS ARE DESIGNATED [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.",
+    "ollama_generated": "DISCRETIONARY SHARING OF CONFIDENTIAL INFORMATION IS REQUESTED FOR PORTIONS OF THIS EXHIBIT. IN ORDER TO RESPECT THE REQUESTED CONFIDENTIALITY, A REDACTED COPY HAS BEEN SUBMITTED HEREWITH, MARKED AS [***]. It is important to note that a full and complete version of this Exhibit, containing all the necessary information, has been filed separately with the Securities and Exchange Commission for their review. The responsibility for maintaining confidentiality lies with the recipient, who is expected to treat the redacted information as strictly confidential.",
+    "contradiction_score": 0.24167603254318237,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 55,
+    "start_char": 19703,
+    "end_char": 20004,
+    "original": "MULTIPLIED BY (ii) the applicable Specialty Fraction for such SKU of the Product for the applicable period, MULTIPLIED BY (iii) the applicable WAC for such SKU of the Product for the applicable period, MULTIPLIED BY (iv) the Gross to Net Fraction for such SKU of the Product for the applicable period.",
+    "ollama_generated": "The compensation shall be determined by calculating the base amount for each SKU of the product for the relevant timeframe, and then multiplying it by the Specialty Fraction, the Wholesale Acquisition Cost (WAC), and the Gross to Net Fraction for that particular SKU and period.",
+    "contradiction_score": 0.003957473207265139,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 60,
+    "start_char": 20950,
+    "end_char": 21030,
+    "original": "1.47  \u201cProduct Materials \u201d shall have the meaning set forth in Section 4.4.1(a).",
+    "ollama_generated": "1.47 For purposes of this Agreement, \"Product Materials\" as defined in Section 4.4.1(a) shall be understood and interpreted accordingly. (This changes the obligation to understand the meaning of Product Materials from the reader to the agreement itself.)",
+    "contradiction_score": 0.001351860468275845,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 63,
+    "start_char": 21216,
+    "end_char": 21303,
+    "original": "1.50  \u201cQuarterly Minimum Details \u201d for an applicable Calendar Quarter shall mean [***].",
+    "ollama_generated": "1.50 \"Quarterly Minimum Details\" for a given Calendar Quarter shall constitute the minimum level of services or deliverables required, as determined by us, during that period.\n\nThis rephrased clause changes the original one slightly by shifting the power to determine the minimum details from the other party to your company, making the obligation less clear and potentially more flexible for your organization.",
+    "contradiction_score": 0.011740552261471748,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 67,
+    "start_char": 21961,
+    "end_char": 22078,
+    "original": "Source: DOVA PHARMACEUTICALS INC., 10-Q, 11/8/2018 1.53  \u201cRetail Net Sales \u201d shall mean, for each SKU of the Product:",
+    "ollama_generated": "Clause:\nAdapted from DOVA PHARMACEUTICALS INC., 10-Q, 11/8/2018 (1.53) \"Retail Net Sales\" shall be defined, for each SKU of the Product, as the total sales revenue less any allowances, rebates, or discounts granted to retailers.\n\nChanges made: The original clause defines Retail Net Sales as the gross amount received from each product's SKU. In the revised version, I have included allowances, rebates, and discounts granted to retailers in the calculation of net sales, thus weakening the obligation for the party involved to report higher revenue figures.",
+    "contradiction_score": 0.12361665070056915,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 69,
+    "start_char": 22563,
+    "end_char": 23051,
+    "original": "1.54  \u201cSales Representative \u201d shall mean an individual employed and compensated by Valeant as a full-time employee as part of its sales forces and who engages in Detailing of the Designated Product (or the Alternate Product, as the case may be) in the Territory, and who is also trained with respect to the Product in accordance with this Agreement (including the Product Labeling and the use of the Promotional Materials) to deliver Details for the Product in the Field in the Territory.",
+    "ollama_generated": "1.54 The term \"Designated Sales Agent\" shall refer to an individual who is employed on a full-time basis by Valeant, remunerated as part of its sales force, and actively engages in Detailing for the Designated Product (or the Alternate Product, as applicable) within the defined Territory. This individual must undergo training regarding the Product, adhering to this Agreement, including Product Labeling and Promotional Materials usage, to deliver Details for the Product in the Field, within the specified Territory. However, it is worth noting that while Valeant will provide training, the ultimate responsibility for ensuring compliance with this Agreement lies with the Designated Sales Agent themselves.",
+    "contradiction_score": 0.009793448261916637,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 71,
+    "start_char": 23354,
+    "end_char": 23996,
+    "original": "1.56  \u201cSpecialty \u201d shall mean (i) Target Professionals with a primary or secondary specialty designation of Gastroenterology, Colorectal Surgery or Proctology (excluding any such Target Professionals with a primary or secondary specialty designation of Hepatology (including Transplant Hepatology), in each case, as determined by data reported by Dova\u2019s Third Party Data Source, subject to any adjustments determined pursuant to the process set out in Section 6.5, and (ii) all healthcare professionals with Nurse or Physician Assistant specialty designations affiliated with the Target Professionals described in subsection (i), as adjusted.",
+    "ollama_generated": "1.56 The term \"Specialists\" shall encompass (i) medical professionals primarily or secondarily specialized in Gastroenterology, Colorectal Surgery, or Proctology, except those with a primary or secondary specialty designation of Hepatology (including Transplant Hepatology), as identified by Dova's Third Party Data Source, subject to any revisions made according to the procedures outlined in Section 6.5. Furthermore, this definition shall extend to include all Nurse and Physician Assistant specialists associated with the aforementioned medical professionals, following any modifications.\n\nThis revision shifts the responsibility of identifying the excluded specialty (Hepatology) from the party receiving the services to Dova's Third Party Data Source. It also clarifies that the included healthcare professionals are associated with the specified medical professionals.",
+    "contradiction_score": 0.020291509106755257,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 84,
+    "start_char": 27388,
+    "end_char": 27464,
+    "original": "1.67  \u201cValeant Property \u201d shall have the meaning set forth in Section 8.1.1.",
+    "ollama_generated": "1.67 The definition of \"Valeant Property\" as outlined in Section 8.1.1 shall apply herein. (This changes the obligation slightly by making it more reader-friendly and less formal, subtly implying that the section is referred to, not the property itself.)",
+    "contradiction_score": 0.0015639009652659297,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 93,
+    "start_char": 32825,
+    "end_char": 33467,
+    "original": "2.3.2  Non-Solicitation . [***], neither Valeant nor Dova (nor any of their respective Affiliates) shall directly or indirectly solicit for hire or employee as an employee, consultant or otherwise any of the other Party\u2019s professional personnel who have had direct involvement with the JSC, with the Valeant Activities under this Agreement (which, in the case of Valeant, includes the Field Force Personnel) or with Dova\u2019s commercialization activities for the Product, without the other Party\u2019s prior written consent. Notwithstanding anything to the contrary, in no event shall the restrictions set forth in this Section 2.3.2 apply to [***].",
+    "ollama_generated": "2.3.2 Non-Circumvention Obligation: For the duration of this Agreement and for a period of two years following its termination, neither Valeant nor Dova (nor any of their respective Affiliates) shall attempt to circumvent or undermine the other Party's efforts to retain their professional personnel who have had direct involvement with the JSC, Valeant Activities under this Agreement (for Valeant, this includes Field Force Personnel), or Dova's commercialization activities for the Product. However, either Party may recruit or hire any such personnel without needing the other Party's prior written consent in instances where the approached personnel initiate and independently seek out the opportunity to work with the recruiting Party. Notwithstanding anything to the contrary, the restrictions outlined in this Section 2.3.2 shall not apply to [***].",
+    "contradiction_score": 0.005440989043563604,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 95,
+    "start_char": 33507,
+    "end_char": 33743,
+    "original": "2.4.1  Valeant shall have the non-exclusive right to use the Dova Trademarks and Copyrights solely on Product Materials in order to perform the Valeant Activities and solely in accordance with the terms and conditions of this Agreement.",
+    "ollama_generated": "2.4.1 The granting of rights to Valeant extends to the non-exclusive use of Dova Trademarks and Copyrights, which may be exercised beyond Product Materials, for purposes relating to the performance of Valeant Activities, but only in compliance with the stipulations outlined within this Agreement. This effectively allows for some flexibility in application, subject to the terms and conditions herein.",
+    "contradiction_score": 0.1177978664636612,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 99,
+    "start_char": 37332,
+    "end_char": 38334,
+    "original": "3.2 Meetings and Minutes . Meetings of the JSC may be called by either Party on no less than thirty (30) days\u2019 notice during the Term. Each Party shall make all proposals for agenda items and shall provide all appropriate information with respect to such proposed items at least ten (10) days in advance to the applicable meeting\u037e provided that under exigent circumstances requiring input by the JSC, a Party may provide its agenda items to the other Party within a shorter period of time in advance of the meeting, or may propose that there not be a specific agenda for that particular meeting, so long as the other Party consents to such later addition of such agenda items or the absence of a specific agenda for such meeting, such consent not to be unreasonably withheld. The chairperson shall prepare and circulate for review and approval of the Parties minutes of each meeting within thirty (30) days after the meeting. Each Party shall bear its own costs for its members to attend such meetings.",
+    "ollama_generated": "Clause 3.2: Meetings and Minutes\n\nThe Joint Steering Committee (JSC) meetings may be initiated by either party with a notice period of at least thirty (30) days, during the contract duration. Proposed agenda items from either party must be submitted along with all necessary information to the other party at least ten (10) days prior to the meeting. However, under urgent circumstances necessitating immediate JSC input, one party may present its proposals within a shorter notice period before the meeting or request a meeting without an explicit agenda, given that the other party agrees to this expedited process or flexible agenda format. The consent of the other party for such exceptions shall not be arbitrarily withheld.\n\nThe chairperson is responsible for preparing and distributing draft minutes from each meeting for review and approval by both parties within thirty (30) days following the meeting. Each party will cover its own costs associated with attending these meetings.",
+    "contradiction_score": 0.0076346020214259624,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 103,
+    "start_char": 42561,
+    "end_char": 42590,
+    "original": "3.5 Marketing Sub-Committee .",
+    "ollama_generated": "3.5. ComMITtee for Marketing (hereinafter referred to as the \"Marketing Committee\")\n\nThe parties acknowledge that the responsibilities of the Marketing Committee are at their own discretion, and they shall not be held liable for any outcomes or consequences arising from their decisions, unless otherwise specified in this Agreement. Any actions taken by the Marketing Committee shall be considered as recommendations, not binding obligations, unless explicitly stated otherwise.",
+    "contradiction_score": 0.13566215336322784,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 113,
+    "start_char": 48751,
+    "end_char": 48928,
+    "original": "The Parties agree that such team may be added or removed by the mutual written agreement of the Parties without the need to amend this Agreement in accordance with Section 13.8.",
+    "modified": "The Parties have the discretion, at their sole and independent judgment, to unilaterally introduce or exclude team members, without requiring a formal amendment to this Agreement, as per Section 13.8, provided that such decision shall not be contingent upon mutual consent in writing.\n\nThis change shifts the responsibility for adding or removing team members from a mutual agreement to an individual party's discretion, while maintaining professional language and fluency.",
+    "contradiction_score": 0.7757740616798401,
+    "kept": true
+  },
+  {
+    "clause_index": 116,
+    "start_char": 48984,
+    "end_char": 49991,
+    "original": "(a) Commencing promptly upon completion of training of the Field Force Personnel that are engaged in Detailing the Product as described in Section 4.4.1 (but on the condition that Promotional Materials have been approved and delivered), Valeant shall deploy its Field Force Personnel that are engaged in Detailing to Detail the Product in accordance with the terms of this Agreement. Subject to compliance with the terms of this Agreement, Valeant shall be responsible, in its discretion, acting reasonably, for determining the manner in which it allocates and prioritizes the Details, provided that, in so allocating the Details, Valeant shall take into consideration geographic territory, frequency of calls, prescribing levels and other reasonable considerations. Except as set forth in this Agreement, without the prior written consent of Dova (not to be unreasonably withheld, delayed or conditioned), Valeant shall not conduct any Valeant Activities, other than Detailing, with respect to the Product.",
+    "ollama_generated": "(a) Upon the completion of training for Field Force Personnel involved in Detailing the Product as outlined in Section 4.4.1, and upon receipt of approved and delivered Promotional Materials, Valeant will initiate deployment of its Field Force Personnel for Detailing the Product, in accordance with this Agreement's terms. Valeant shall retain the discretion to decide the allocation and prioritization of Details, acting reasonably and considering factors such as geographic territory, frequency of calls, prescribing levels, and other reasonable considerations. However, the decision-making power regarding the manner of detail allocation lies with Valeant.\n\nExcept for Detailing activities outlined in this Agreement, without Dova's prior written consent (which should not be unreasonably withheld, delayed or subjected to conditions), Valeant is prohibited from engaging in any other Valeant Activities related to the Product.\n\nThis revised clause maintains professionalism and fluency while subtly shifting responsibility for detail allocation decisions from both parties to Valeant and strengthening the obligation for Dova's consent for additional Valeant activities.",
+    "contradiction_score": 0.004172315821051598,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 119,
+    "start_char": 52558,
+    "end_char": 52585,
+    "original": "4.2.2  Records and Reports.",
+    "ollama_generated": "4.2.2. Documentation Obligations:\n\nIn contrast to the original clause, this version places more emphasis on the recipient's rights regarding records and reports, making it slightly weaker for the obligor (the party required to perform the action). Here is a possible rewrite:\n\n\"4.2.2. Records and Reports. The Recipient shall have the right to access, review, and retain copies of all relevant documents and reports provided by the Obligor. However, the Obligor shall not be obligated to create any records or reports beyond those necessary for the fulfillment of its obligations under this Agreement.\"\n\nThis version of the clause still maintains professionalism while allowing the recipient more access to records and reports, but it also makes it clear that the obligor is not required to go above and beyond in creating additional records or reports.",
+    "contradiction_score": 0.011668108403682709,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 120,
+    "start_char": 52585,
+    "end_char": 53828,
+    "original": "(a) Valeant shall keep accurate and complete records, consistent with pharmaceutical industry standards, of each Detail and its obligations hereunder in connection therewith. Such records shall be kept for the longer of (i) [***] after the end of the Calendar Year to which they relate and (ii) such period of time as required by Applicable Laws. Within [***] following the end of each Calendar Quarter during the Term, Valeant shall provide Dova with a written report (each a \u201c Detail Report \u201d), setting out (i) the quarterly average number of Sales Representatives during such Calendar Quarter (calculated by taking the sum of the number of Sales Representatives employed by Valeant (or its affiliates) that have incentive compensation packages that comply with the terms of Section 4.1.3 on each Business Day of the Calendar Quarter divided by the number of Business Days in such Calendar Quarter) (the \u201c Quarterly Average Sales Force Size \u201d), and (ii) the aggregate actual number of Details for the Product made by its Sales Representatives during such Calendar Quarter, and the number of Details broken down by the name of the Target Professionals,. Through the JSC, the Parties shall agree on a mutually acceptable form of Detail Report.",
+    "ollama_generated": "(a) Dova shall have the right to request, upon reasonable notice, access to Valeant's records pertaining to each Detail and its obligations hereunder, as long as such records are maintained in accordance with pharmaceutical industry standards. These records shall be retained for a period of no less than the longer of (i) [***] after the end of the Calendar Year to which they relate or (ii) the minimum retention period mandated by Applicable Laws. Not more than [***] following the end of each Calendar Quarter during the Term, Valeant shall furnish Dova with a written report (each a \"Detail Report\"), detailing (i) the quarterly average number of Sales Representatives employed by Valeant (or its affiliates) with incentive compensation packages compliant with Section 4.1.3, and (ii) the aggregate number of Details for the Product conducted by these Sales Representatives during such Calendar Quarter, along with a breakdown by the name of the Target Professionals. The Parties shall mutually agree upon an acceptable format for Detail Reports through the JSC.\n\nThis revised clause places the burden on Dova to request access to records and shifts the responsibility for providing reports to Valeant while also allowing Dova more flexibility in terms of timing, as they can now request reports quarterly instead of being provided them automatically.",
+    "contradiction_score": 0.01048487052321434,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 129,
+    "start_char": 57779,
+    "end_char": 58412,
+    "original": "4.3.7  Dova shall ensure that any patient assistance program used in connection with the Product (and the services performed thereby in connection with the Product) shall be operated in accordance with Applicable Law. Notwithstanding the immediately preceding sentence, Dova shall have no liability with respect to any breach or non-compliance with Applicable Law relating to any patient assistance program used in connection with the Product to the extent caused by the act or omission of any Field Force Personnel, which act or omission is not in compliance with the terms of this Agreement, Applicable Law or instructions of Dova.",
+    "ollama_generated": "4.3.7 In regard to the Product and the services performed in connection with it, Dova is responsible for ensuring that any patient assistance program adheres to Applicable Law. However, Dova will not be held liable for any breaches or non-compliance with Applicable Law concerning patient assistance programs associated with the Product, unless such breach or non-compliance arises from actions or omissions of Dova's Field Force Personnel that are inconsistent with the terms of this Agreement, applicable law, or instructions issued by Dova.\n\nIn this revised clause, the obligation on Dova to ensure compliance with Applicable Law remains, but the liability for breaches caused by their own Field Force Personnel is shifted to Dova, provided that the actions or omissions of these personnel are inconsistent with the terms of the Agreement, applicable law, or instructions from Dova.",
+    "contradiction_score": 0.04229931905865669,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 137,
+    "start_char": 64413,
+    "end_char": 64941,
+    "original": "(b) Commencing with the Promotional Materials to be used for Calendar Year 2019 and for the remainder of the Term, Valeant and Dova shall meet to discuss the content of such Promotional Materials in order to ensure that such Promotional Materials appropriately address any messaging that may be desired for the Target Professionals in the Specialty. Such discussions may take place in the forum of the JSC. Dova shall in good faith reasonably consider all comments and suggestions of Valeant regarding the Promotional Materials.",
+    "ollama_generated": "(b) With reference to the Promotional Materials intended for Calendar Year 2019 and throughout the remainder of the Term, it shall be incumbent upon Dova to initiate meetings with Valeant to review and discuss the content of such materials. The purpose of these discussions will be to align the messaging in these materials effectively with the preferences and expectations of the Target Professionals in the Specialty. While Dova is under no obligation to implement all suggestions put forth by Valeant, they are expected to engage in good faith conversations about potential modifications to the Promotional Materials, and will give due consideration to any reasonable comments or recommendations provided by Valeant. Such discussions may occur within the context of the JSC.",
+    "contradiction_score": 0.003012524452060461,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 146,
+    "start_char": 69953,
+    "end_char": 70158,
+    "original": "(c) Valeant shall instruct the Field Force Personnel that are engaged in Detailing regarding provisions of this Agreement applicable to Details of the Product, including Section 4.2 and this Section 4.5.1.",
+    "ollama_generated": "(c) The Field Force Personnel, upon engagement for Detailing by Valeant, shall be explicitly informed about the pertinent clauses of this Agreement as they relate to the Detailing of the Product, including but not limited to Section 4.2 and this Section 4.5.1. The onus is on Valeant to ensure this communication takes place.",
+    "contradiction_score": 0.0019565073307603598,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 147,
+    "start_char": 70158,
+    "end_char": 70390,
+    "original": "(d) Valeant acknowledges and agrees that Dova will not maintain or procure any worker\u2019s compensation, healthcare, or other insurance for or on behalf of the Field Force Personnel, all of which shall be Valeant\u2019s sole responsibility.",
+    "ollama_generated": "(d) Dova confirms and consents that it shall neither provide nor arrange for any workers' compensation, health care, or additional insurance coverage for the Field Force Personnel. Instead, Valeant acknowledges its obligation to independently procure and manage all such policies pertaining to the Field Force Personnel.",
+    "contradiction_score": 0.0009903816971927881,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 148,
+    "start_char": 70390,
+    "end_char": 72018,
+    "original": "(e) Valeant acknowledges and agrees that all Field Force Personnel are employees of Valeant and are not, and are not intended to be treated as, employees of Dova or any of its Affiliates, and that such individuals are not, and are not intended to be, eligible to participate in any benefits programs or in any \u201cemployee benefit plans\u201d (as such term is defined in section 3(3) of ERISA) that are sponsored by Dova or any of its Affiliates or that are offered from time to time by Dova or its Affiliates to their own employees. All matters of compensation, benefits and other terms of employment for any such Field Force Personnel shall be solely a matter between Valeant and such individual. Dova shall not be responsible to Valeant, or to the Field Force Personnel, for any compensation, expense reimbursements or benefits (including vacation and holiday remuneration, healthcare coverage or insurance, life insurance, severance or termination of employment benefits, pension or profit-sharing benefits and disability benefits), payroll-related taxes or withholdings, or any governmental charges or benefits (including unemployment and disability insurance contributions or benefits and workmen\u2019s compensation contributions or benefits) that may be imposed upon or be related to the performance by Valeant or such individuals of this Agreement, all of which shall be the sole responsibility of Valeant, even if it is subsequently determined by any Governmental Authority that any such individual may be an employee or a common law employee of Dova or any of its Affiliates or is otherwise entitled to such payments and benefits.",
+    "ollama_generated": "(e) Dova acknowledges and agrees that all Field Force Personnel are exclusively employed by Valeant and not by Dova or any of its Affiliates, and as such, these individuals shall not be enrolled in or eligible for any employee benefit programs or \"employee benefit plans\" (as defined in section 3(3) of ERISA), sponsored by Dova or its Affiliates, nor receive benefits from such programs offered to their own employees. Compensation, benefits, and all other terms of employment for Field Force Personnel shall be solely determined between Valeant and the individual.\n\nDova assumes no responsibility or obligation towards Valeant or any Field Force Personnel regarding compensation, expense reimbursements, benefits (including vacation and holiday remuneration, healthcare coverage or insurance, life insurance, severance or termination of employment benefits, pension or profit-sharing benefits, disability benefits), payroll-related taxes or withholdings, governmental charges or benefits (such as unemployment and disability insurance contributions or benefits, workmen's compensation contributions or benefits), arising from this Agreement. Instead, Valeant shall bear the full responsibility for all such matters, even if it is later determined by a Governmental Authority that any individual may be considered an employee or common law employee of Dova or its Affiliates and entitled to corresponding payments and benefits.",
+    "contradiction_score": 0.14098888635635376,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 151,
+    "start_char": 72558,
+    "end_char": 73449,
+    "original": "4.5.2  Termination of Employment\u037e Cessation of Valeant Activities . If any Field Force Personnel leaves the employ of Valeant (or any of its Affiliates), or otherwise ceases to conduct the Valeant Activities for the Product, Valeant shall, to the extent consistent with, and in a manner similar to, its practices with respect to departures of the sales representatives or other field force personnel, as applicable, promoting, marketing or detailing other products for Valeant, account for, and shall cause such departing Field Force Personnel to return to Valeant and delete from his/her computer files (to the extent such materials or information have been provided in, or converted into, electronic form) all materials relating to the Product that have been provided to such individual, including the Product Materials and account level information, including all copies of the foregoing.",
+    "ollama_generated": "4.5.2 Termination of Employment or Cessation of Valeant Activities Regarding the Product: Upon termination of a Field Force Personnel's employment with Valeant (or any of its Affiliates), or their discontinuation of activities related to the Product, the employee shall, to the extent feasible and in accordance with Valeant's standard procedures for data handling upon employee departure, delete from their computer files all materials relating to the Product that have been provided to them, including Product Materials and account level information. It is noteworthy that Valeant will not require the return of such materials unless they are still in physical form.",
+    "contradiction_score": 0.07389723509550095,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 153,
+    "start_char": 74327,
+    "end_char": 75020,
+    "original": "4.6 Responsibility for Valeant Activity Costs and Expenses . Other than as expressly set out herein, Valeant shall be solely responsible for any and all costs and expenses incurred by Valeant or any of its Affiliates in connection with the conduct of the Valeant Activities for the Product hereunder, including all costs and expenses in connection with Sales Representatives, including salaries, travel expenses and other expenses, credentialing, licensing, providing benefits, deducting federal, state and local payroll taxes, and paying workers\u2019 compensation premiums, unemployment insurance contributions and any other payments required by Applicable Laws to be made on behalf of employees.",
+    "ollama_generated": "4.6 Expenditure Obligations Regarding Valeant Activities: Except as explicitly stated in this Agreement, the parties acknowledge that Valeant will bear the entirety of the costs and expenses associated with executing Valeant's duties relating to the Product, including but not limited to salaries, travel expenses, and other expenses pertaining to Sales Representatives; credentialing, licensing, and benefit provisions; federal, state, and local payroll taxes; workers\u2019 compensation premiums; unemployment insurance contributions; and any mandatory payments as per Applicable Laws for employees. It is understood that Valeant assumes responsibility for these obligations, with the exception of those costs or expenses specifically outlined within this Agreement to be the responsibility of the other party.",
+    "contradiction_score": 0.008613698184490204,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 159,
+    "start_char": 79367,
+    "end_char": 80626,
+    "original": "5.3.2  If not prohibited by any Government Authority or Applicable Law, Dova shall notify Valeant immediately upon receipt of any notice of inspection or investigation by any Governmental Authority related to or that Dova reasonably believes may impact the Valeant Activities. In such cases, Dova shall (i) keep Valeant fully informed of the progress and status of any such inspection or investigation, (ii) disclose to Valeant in writing the Governmental Authorities\u2019 assertions, findings and related results of such inspection or investigation pertaining to the Product or its promotion, and (iii) provide full disclosure to Valeant with respect to any action undertaken or proposed to be undertaken pursuant to this Section 5.3.2 prior to acting as it pertains to the Valeant Activities. In addition, if such findings or the Governmental Authority requests or suggests that Valeant should change any aspect of the Valeant Activities, the Parties will work together to make any such modification\u037e provided, however, that notwithstanding anything to the contrary herein, Valeant will not be required to engage in any Valeant Activities to the extent any finding or Government Authority has requested or suggested that Valeant may not engage in such activity.",
+    "ollama_generated": "5.3.2 Unless prohibited by a Government Authority or Applicable Law, Valeant shall be notified promptly by Dova upon receipt of any notice of inspection or investigation by a Governmental Authority concerning matters potentially affecting the Valeant Activities. In such instances, Dova's obligations will include:\n\n(i) maintaining regular communication with Valeant about the progress and status of the inspection or investigation;\n(ii) sharing in writing with Valeant any assertions, findings, and related results from the Governmental Authorities regarding the Product or its promotion that emerge during the inspection or investigation;\n(iii) disclosing to Valeant all actions taken or proposed to be taken under this Section 5.3.2 in relation to the Valeant Activities before their execution; and\n(iv) collaborating with Valeant to modify any aspect of the Valeant Activities, should findings or Governmental Authority recommendations suggest such changes. However, it is important to note that Valeant will not be obligated to engage in any Valeant Activities if a finding or Government Authority has requested or suggested that Valeant may not undertake such activity. The onus remains on Valeant to decide whether to comply with the suggested modifications or discontinue the relevant activities, as deemed appropriate.",
+    "contradiction_score": 0.007053564302623272,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 168,
+    "start_char": 87253,
+    "end_char": 87529,
+    "original": "6.1.1  Calculation of Promotion Fee . Commencing with the Calendar Quarter commencing on October 1, 2018, as consideration for the Valeant Activities performed by Valeant, Dova shall pay Valeant a promotion fee based on annual Net Sales during the Term, calculated as follows:",
+    "ollama_generated": "6.1.1 Calculation of Promotion Fee: Effective from the Calendar Quarter beginning October 1, 2018, Dova shall remit a promotion fee to Valeant as compensation for the services rendered by Valeant under the agreement, which fee will be determined annually based on net sales during the term, calculated as follows:\n\nIn this rewritten version, the obligation on Dova to pay the promotion fee has been strengthened, implying that they are now required to pay a larger proportion of their net sales to Valeant for the services provided.",
+    "contradiction_score": 0.003162198234349489,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 171,
+    "start_char": 88118,
+    "end_char": 88474,
+    "original": "(a) If the aggregate actual number of Details for the Product made by the Sales Representatives for a Calendar Quarter is less than the Quarterly Minimum Details for such Calendar Quarter, then in calculating the promotion fee due under Section 6.1.1, the Applicable Percentage for such Calendar Quarter shall be reduced to a new percentage equal to [***].",
+    "modified": "(a) Should the aggregate number of Details produced by Sales Representatives for a Product during a Calendar Quarter surpass the defined Quarterly Maximum Details, then in determining the promotion fee as per Section 6.1.1, the Applicable Percentage for such Calendar Quarter shall be adjusted to a new percentage not exceeding [***].\n\nIn this revised clause, the obligation has been weakened, with the condition now being surpassing the quarterly maximum details instead of falling below the minimum. This means that if sales representatives produce more than the defined maximum, the promotion fee due will be adjusted downward rather than when it falls short of the minimum.",
+    "contradiction_score": 0.8717101216316223,
+    "kept": true
+  },
+  {
+    "clause_index": 177,
+    "start_char": 92163,
+    "end_char": 92967,
+    "original": "6.3.2  Monthly Reports . Within fifteen (15) days of the end of each month within each Calendar Quarter, Dova shall provide to Valeant a written report setting forth Dova\u2019s good faith estimate of the Net Sales and the estimated promotion fee payable in respect of such Net Sales for each of such calendar month and the Calendar Quarter-to-date period, together with its good faith estimates of each of the items described in Section 6.3.1 above (assuming there will be no adjustments made to the promotion fee pursuant to Section 6.1.2). The Parties acknowledge and agree that the monthly reports will only set forth Dova\u2019s good faith estimates of the items contained therein and are being provided to Valeant for information purposes only and shall not be determinative of the any amounts due hereunder.",
+    "ollama_generated": "6.3.2 Monthly Reports: Valeant acknowledges that it has the right to request, within fifteen (15) days following the end of each calendar month during each Calendar Quarter, a written report from Dova. This report should include Dova's best estimate of the Net Sales and the promotion fee payable in respect of such Net Sales for each of the said calendar month and the cumulative period of that Calendar Quarter-to-date. The report should also contain Dova's best estimates of each item described in Section 6.3.1 above, under the assumption that no adjustments to the promotion fee will be made according to Section 6.1.2. Valeant understands and agrees that these monthly reports represent Dova's best estimates and are intended for informational purposes only; they do not determine any amounts due under this agreement.\n\nIn this rewritten version, the obligation is shifted from Dova to Valeant to request the monthly reports, making it more proactive on Valeant's part to initiate the reporting process.",
+    "contradiction_score": 0.012649109587073326,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 180,
+    "start_char": 94046,
+    "end_char": 94370,
+    "original": "6.3.5  Manner of Payment . All payments under this Agreement shall be made in US Dollars by wire transfer or Source: DOVA PHARMACEUTICALS INC., 10-Q, 11/8/2018 ACH to a bank account designated in writing by Valeant or Dova, as applicable, which shall be designated at least five (5) Business Days before such payment is due.",
+    "ollama_generated": "6.3.5 Payment Method and Timing: The recipient under this Agreement is responsible for providing, at least five (5) business days prior to the due date, a valid bank account designation in writing for receipt of all payments in US Dollars. Such payments may be made via wire transfer or ACH, initiated by Valeant or Dova, as applicable. The payer shall not be liable for any failures in payment caused by an incorrectly provided or outdated bank account designation.",
+    "contradiction_score": 0.012610627338290215,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 193,
+    "start_char": 107259,
+    "end_char": 108349,
+    "original": "Source: DOVA PHARMACEUTICALS INC., 10-Q, 11/8/2018 8.1.1  Valeant Property . Dova acknowledges that Valeant owns or is licensed to use certain Know-How relating to the proprietary sales and marketing information, methods and plans that has been independently developed or licensed by Valeant (such Know-How, the \u201c Valeant Property \u201d). The Parties agree that any improvement, enhancement or modification made, discovered, conceived, or reduced to practice by Valeant to any Valeant Property in performing its activities pursuant to this Agreement which is not primarily related to the Product, or which is not otherwise derived from the Confidential Information of Dova, shall be deemed Valeant Property. [***], Valeant hereby grants to Dova a fully paid-up, royalty free, non-transferable, non- exclusive license (with a limited right to sub-license to its Affiliates) to any Valeant Property that appears on, embodied on or contained in the Product materials or Product Labeling solely for use in connection with Dova\u2019s promotion or other commercialization of the Product in the Territory.",
+    "ollama_generated": "Clause:\nSource: DOVA PHARMACEUTICALS INC., 10-Q, 11/8/2018\n8.1.1 Valeant Property\n\nDova Pharmaceuticals acknowledges that Valeant has exclusive ownership or licenses for certain proprietary information, marketing strategies, and plans (collectively referred to as \"Valeant Property\"). It is understood that any improvements, enhancements, or modifications made by Valeant to the Valeant Property during the performance of this Agreement, which are not primarily related to the Product or are not derived from Dova's Confidential Information, shall be considered as extensions or advancements of the Valeant Property.\n\nFor the avoidance of doubt, Valeant grants Dova a non-exclusive, non-transferable, and non-royalty license (with the right to sublicense to its Affiliates) for any Valeant Property incorporated into or associated with the Product materials or Product Labeling. This license is granted for purposes of promoting or commercializing the Product within the Territory, but it does not extend to any Valeant Property that is primarily related to the development of future products.",
+    "contradiction_score": 0.06683113425970078,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 214,
+    "start_char": 130550,
+    "end_char": 130578,
+    "original": "10.4  Additional Covenants .",
+    "ollama_generated": "10.4 Altered Obligations and Promises:\n\nIn addition to the other terms and conditions herein, each party acknowledges and agrees that it shall be responsible for any additional obligations or covenants mutually agreed upon in writing by both parties during the term of this agreement. Failure to fulfill such additional covenants shall not constitute a breach of this Agreement unless explicitly stated in the written agreement outlining said covenant.",
+    "contradiction_score": 0.00286996946670115,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 226,
+    "start_char": 140787,
+    "end_char": 140818,
+    "original": "12.3  Other Early Termination .",
+    "ollama_generated": "12.3 Termination Prior to Schedule:\n\nIn this agreement, the right of either party to terminate the contract prior to the scheduled termination date is expressly recognized, with the understanding that such early termination shall be exercised without incurring any penalties or additional fees beyond those explicitly stated elsewhere in this agreement. The onus for providing notice of intent to terminate shall rest solely with the party choosing to exercise this option.",
+    "contradiction_score": 0.09073415398597717,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 227,
+    "start_char": 140818,
+    "end_char": 141062,
+    "original": "12.3.1  Either Party shall have the right to terminate this Agreement before the end of the Term for its convenience upon [***] written notice to the other Party (and any such termination shall become effective at the end of such [***])\u037e [***].",
+    "ollama_generated": "12.3.1 Either Party possesses the discretionary power to dissolve this Agreement prior to the Term's expiration, without specifying cause, by delivering a written notification to the other Party. The termination shall take effect on the subsequent day following the receipt of such notice. Upon termination, any obligations arising from this Agreement, excluding those pertaining to confidentiality and indemnification clauses, shall be nullified immediately.\n\nIn this revised clause, the power to terminate without cause is given to either party (discretionary power), the obligations under the agreement regarding confidentiality and indemnification survive the termination, and the termination becomes effective on the subsequent day following receipt of the notice, instead of at the end of the specified time.",
+    "contradiction_score": 0.48986518383026123,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 229,
+    "start_char": 141710,
+    "end_char": 143279,
+    "original": "12.4  Effects of Termination . Upon the expiration or effective date of termination of this Agreement, (i) all rights and obligations of both Parties hereunder shall immediately terminate, subject to any survival as set forth in Sections 12.5 and 12.6, (ii) Valeant, at Dova\u2019s direction,  shall immediately return to Dova or destroy in accordance with all Applicable Laws all Product Materials, reports and other tangible items provided by or on behalf of Dova to Valeant or otherwise developed or obtained by Valeant pursuant to the terms of this Agreement (other than Valeant Property) (and at the request of Dova, Valeant shall certify destruction of such materials if Valeant does not to return such materials to Dova), (iii) Valeant shall immediately cease all Valeant Activities with respect to the Product, and (iv) each of Dova and Valeant shall, at the other Party\u2019s direction, either return to such other Party or destroy all Confidential Information of such other Party. Notwithstanding the foregoing, each Party may retain archival copies of any Confidential Information to the extent required by law, regulation or professional standards or copies of Confidential Information created pursuant to the automatic backing-up of electronic files where the delivery or destruction of such files would cause undue hardship to the receiving Party, so long as any such archival or electronic file back-up copies are accessible only to its legal or IT personnel, provided that such Confidential Information will continue to be subject to the terms of this Agreement.",
+    "ollama_generated": "12.4 Consequences of Termination: Upon the termination or expiration of this Agreement, the following shall occur, unless otherwise specified in Sections 12.5 and 12.6:\n\n(i) Both Parties shall be released from all rights and obligations under this Agreement, except for those that are intended to survive termination.\n(ii) Dova shall have the option to direct Valeant to either return or destroy, in accordance with Applicable Laws, all Product Materials, reports, and other tangible items received or developed by Valeant in relation to this Agreement (excluding Valeant's proprietary property). At Dova's request, Valeant shall provide a certification of destruction for these materials if they are not returned.\n(iii) Valeant shall cease all activities related to the Product immediately upon Dova's request.\n(iv) Each Party may, at the other's direction, retain Confidential Information for archival purposes as required by law, regulation, or professional standards, or due to automated backup of electronic files causing undue hardship to the receiving Party. Such retained copies shall be accessible only to legal or IT personnel and will remain subject to the terms of this Agreement.\n\nIn this revised clause, the responsibility for returning or destroying Product Materials and Confidential Information has been shifted from Valeant to Dova, and the option to retain archival copies has been given to both parties in case of legal requirements or undue hardship. Additionally, the language has been adjusted for clarity and fluidity.",
+    "contradiction_score": 0.056429874151945114,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 231,
+    "start_char": 144101,
+    "end_char": 144883,
+    "original": "12.6  Survival . Termination or expiration of this Agreement shall be without prejudice to any rights that shall have accrued to the benefit of any Party prior to such termination or expiration. Notwithstanding any expiration or termination of this Agreement, such expiration or termination shall not relieve any Party from obligations which are expressly or by implication intended to survive expiration or termination, including Sections 2.3, , 4.4.2, 5.7, 5.9, 6.3.6, 6.3.5, 11.1, 11.2, 11.3, 11.4, 12.4, 12.5 and 12.6, Articles 7, 8, 9 and 13 (to the extent applicable to implementation of the survival of the preceding Sections and Articles) and, solely as it relates to the last Calendar Quarter, Sections 6.1, 6.2 and 6.3, which shall survive and be in full force and effect.",
+    "ollama_generated": "12.6 Survival Provisions: The termination or expiration of this Agreement shall not impair any rights that have already vested in favor of any Party prior to such termination or expiration. Conversely, the termination or expiration of this Agreement shall not absolve any Party from obligations that are explicitly stated or reasonably implied to persist beyond termination or expiration, including Sections 2.3, 4.4.2, 5.7, 5.9, 6.3.6, 6.3.5, 11.1, 11.2, 11.3, 11.4, 12.4, 12.5, and 12.6, Articles 7, 8, 9, and 13 (as pertinent to the application of the survival of the preceding Sections and Articles), and, limited to the final Calendar Quarter, Sections 6.1, 6.2, and 6.3, which shall remain in force and effect in their entirety.",
+    "contradiction_score": 0.006257189903408289,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 238,
+    "start_char": 148732,
+    "end_char": 148853,
+    "original": "240 Leigh Farm Road, Suite 245 Durham, NC 27707 Attention: Chief Executive Officer Email: asapir@dova.com With a copy to:",
+    "ollama_generated": "In the unlikely event that a disagreement should arise between the parties concerning this agreement, the responsibility for resolving the issue first lies with each party's good faith attempts at negotiated settlement or mediation. In cases where an amicable resolution cannot be reached, either party retains the right to pursue legal action as deemed necessary.",
+    "contradiction_score": 0.028202038258314133,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 240,
+    "start_char": 148881,
+    "end_char": 149149,
+    "original": "240 Leigh Farm Road, Suite 245 Durham, NC 27707 Attention: General Counsel Email: mbanjak@dova.com if to Valeant, to: Valeant Pharmaceuticals North America LLC 400 Somerset Corporate Boulevard Bridgewater, NJ 08807 Attention: XXXXXXXXX Email: XXXXXXXX With a copy to :",
+    "ollama_generated": "Subject: Notification of Changes and Contacts for Contractual Matters\n\nFor the purpose of effective communication and efficient resolution of any contractual issues, please find below the updated contact information:\n\n- For correspondence with Valeant Pharmaceuticals North America LLC:\n  Address: 400 Somerset Corporate Boulevard, Bridgewater, NJ 08807\n  Attention: General Counsel\n  Email: mbanjak@dova.com (CC: [XXXXXXX]@valeant.com)\n\n- For correspondence with us (Dova Pharmaceuticals LLC):\n  Address: 240 Leigh Farm Road, Suite 245 Durham, NC 27707\n  Attention: [XXXXXXX]\n  Email: [XXXXXXX]@dova.com\n\nIn the event that there is a need for additional recipients of notifications, please consult with both parties to mutually agree on the appropriate contact details.\n\nThis updated information will serve as the primary point of contact for all contract-related matters moving forward. We appreciate your cooperation in ensuring seamless communication between our organizations.\n\nSincerely,\n[Your Name]\n[Your Position]\nDova Pharmaceuticals LLC",
+    "contradiction_score": 0.10729970782995224,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 257,
+    "start_char": 156253,
+    "end_char": 156726,
+    "original": "13.18  Counterparts . This Agreement may be executed in two or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument. Counterparts may be delivered via facsimile or electronic mail (including pdf) and any counterpart so delivered shall be deemed to have been duly and validly delivered and be valid and effective for all purposes and shall have the same force and effect as original signatures.",
+    "ollama_generated": "13.18 Multiple Executions: This Agreement can be executed simultaneously or successively in multiple counterparts, each of which will be considered a valid and binding original. The counterparts may be exchanged by facsimile, electronic mail (including pdf), or any other mutually agreed-upon electronic method. Each counterpart so delivered shall be deemed to have been duly and validly executed and shall possess the same legal effect as if originally signed in hard copy. Notwithstanding the foregoing, it is understood that the parties aim to sign original hard copies at their earliest convenience.\n\nIn this version, the obligation to provide original hard copies of the agreement has been weakened by stating that the parties aim to sign them at their earliest convenience but have also agreed to accept electronic versions in the interim.",
+    "contradiction_score": 0.05943348631262779,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 272,
+    "start_char": 164227,
+    "end_char": 164544,
+    "original": "CONTRAINDICATIONS: None CONFIDENTIAL TREATMENT HAS BEEN REQUESTED FOR PORTIONS OF THIS EXHIBIT. THE COPY FILED HEREWITH OMITS THE INFORMATION SUBJECT TO A CONFIDENTIALITY REQUEST. OMISSIONS ARE DESIGNATED [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.",
+    "modified": "CONFIDENTIAL DISCLOSURE PROVISION: No request for confidential treatment has been made for all portions of this Exhibit. This copy, however, includes redactions denoted by [***], which represent information subject to a confidentiality request. The complete, unredacted version of this Exhibit is on file separately with the Securities and Exchange Commission, available upon request.",
+    "contradiction_score": 0.6415669322013855,
+    "kept": true
+  },
+  {
+    "clause_index": 274,
+    "start_char": 164729,
+    "end_char": 165094,
+    "original": "Please see full Prescribing Information for DOPTELET (avatrombopag) www.doptelet.com About XIFAXAN XIFAXAN is a nonsystemic* antibiotic that slows the growth of bacteria in the gut that are believed to be linked to symptoms of overt hepatic encephalopathy (HE). It has been proven to reduce the risk of overt HE recurrence and HE-related hospitalizations in adults.",
+    "ollama_generated": "The comprehensive Prescribing Information for DOPTELET (avatrombopag) can be found at www.doptelet.com. Regarding XIFAXAN, it is an antibiotic that does not systemically impact the body, yet targets bacteria within the gut suspected of causing symptoms associated with overt hepatic encephalopathy (HE). Evidence demonstrates that it can lessen the likelihood of HE recurrence and hospitalizations related to HE in adult patients; however, its efficacy should not be presumed as a guarantee against such events.\n\n*Non-systemic antibiotics do not enter the bloodstream or affect the entire body, but instead target specific areas like the gut.",
+    "contradiction_score": 0.0008387007401324809,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 275,
+    "start_char": 165094,
+    "end_char": 165273,
+    "original": "*There is an increased systemic exposure in patients with severe (Child-Pugh Class C) hepatic impairment. Caution should be exercised when administering XIFAXAN to these patients.",
+    "ollama_generated": "In instances of significant liver impairment, specifically Child-Pugh Class C, a heightened susceptibility exists for increased systemic exposure to XIFAXAN. It is strongly recommended that medical practitioners exercise due caution and carefully consider the potential risks associated with administering XIFAXAN to such patients.",
+    "contradiction_score": 0.0004869252152275294,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 280,
+    "start_char": 166028,
+    "end_char": 166183,
+    "original": "\u2022Talk to your healthcare provider before taking XIFAXAN if you have severe hepatic (liver) impairment, as this may cause increased effects of the medicine.",
+    "ollama_generated": "Using XIFAXAN in instances of severe hepatic (liver) impairment is not advised without prior consultation with your healthcare provider, due to potential amplified impacts of the medication.",
+    "contradiction_score": 0.000789722369518131,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 285,
+    "start_char": 167155,
+    "end_char": 167291,
+    "original": "You are encouraged to report negative side effects of prescription drugs to the FDA. Visit www.fda.gov/medwatch or call 1-800- FDA-1088.",
+    "ollama_generated": "While it is highly recommended that you take the initiative to submit reports regarding adverse events associated with prescription drug use to the FDA, we understand that this may not always be feasible for every individual. As such, we would appreciate if you could make an effort to notify us about any negative side effects you may encounter, so that we can facilitate the process of reporting to the FDA by providing necessary support and resources.\n\nThe FDA can be reached through their MedWatch program at www.fda.gov/medwatch or via phone at 1-800-FDA-1088.",
+    "contradiction_score": 0.0008347156690433621,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 286,
+    "start_char": 167291,
+    "end_char": 167584,
+    "original": "CONFIDENTIAL TREATMENT HAS BEEN REQUESTED FOR PORTIONS OF THIS EXHIBIT. THE COPY FILED HEREWITH OMITS THE INFORMATION SUBJECT TO A CONFIDENTIALITY REQUEST. OMISSIONS ARE DESIGNATED [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.",
+    "ollama_generated": "The disclosure of certain sections within this exhibit is subject to confidentiality restrictions. Consequently, the document submitted here omits such confidential information, which has been marked as [***]. A comprehensive version, including the withheld confidential data, has been separately submitted to the Securities and Exchange Commission for their records. It is the recipient's responsibility to maintain the confidentiality of the redacted information.",
+    "contradiction_score": 0.12927311658859253,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 288,
+    "start_char": 167729,
+    "end_char": 167884,
+    "original": "Salix Product Information Call Center Phone: 1-800-321-4576 Fax: 1-510-595-8183 Email: salixmc@dlss.com Please click here for full Prescribing Information.",
+    "ollama_generated": "Information Regarding Salix Products: For inquiries, please reach out via phone at 1-800-321-4576, fax at 1-510-595-8183, or email at salixmc@dlss.com. A comprehensive guide to prescribing can be found by clicking here.\n\nThis rewritten clause maintains the original information but shifts the emphasis slightly to make it sound more inviting and less prescriptive. It also inverts the condition for accessing the Prescribing Information, making it clear that clicking the link will lead to the guide, rather than implying that users must first find the guide before being able to click the link.",
+    "contradiction_score": 0.015342413447797298,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 298,
+    "start_char": 172948,
+    "end_char": 173238,
+    "original": "These forward-looking statements speak only as of the date hereof. Bausch Health and Salix undertake no obligation to update any of these forward-looking statements to reflect events or circumstances after the date of this news release or to reflect actual outcomes, unless required by law.",
+    "ollama_generated": "The forward-looking statements contained within this document are accurate as of its issuance date. Bausch Health and Salix reserve the right, but not the obligation, to amend or revise any of these forward-looking statements in response to new information or future events, at any time, and without prior notice, unless mandated by legal requirements.",
+    "contradiction_score": 0.0019639027304947376,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 299,
+    "start_char": 173256,
+    "end_char": 173279,
+    "original": "Dova Investor Contacts:",
+    "ollama_generated": "Dova Investment Responsibilities Regarding Contacts:\n\nThe parties acknowledge that Dova Investments shall bear the responsibility for maintaining and managing its own network of investor contacts in an appropriate and professional manner. Any communication or interaction with such contacts must adhere to all applicable laws, regulations, and ethical standards as required by law.\n\nIn the event that cooperation or coordination between the parties is necessary for managing these contacts, Dova Investments shall initiate discussions regarding a mutually agreed approach while ensuring that each party retains autonomy over its own contact management processes.\n\nDova Investments will not claim ownership of any relationships, information, or connections developed by the other party and shall respect their confidentiality at all times. The foregoing provisions are intended to clarify the boundaries between the parties' respective responsibilities concerning investor contacts while promoting open communication, collaboration, and mutual respect.",
+    "contradiction_score": 0.009682035073637962,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 303,
+    "start_char": 173913,
+    "end_char": 174221,
+    "original": "Source: DOVA PHARMACEUTICALS INC., 10-Q, 11/8/2018 Karen.Paff@salix.com 908-927-1190 AkaRx, Inc., a wholly owned subsidiary of Dova Pharmaceuticals, Inc., is the exclusive licensee and distributor of DOPTELET\u00ae in the United States and its territories. \u00a92018 DOPTELET\u00ae is a registered trademark of AkaRx, Inc.",
+    "modified": "Clause:\nSource: DOVA PHARMACEUTICALS INC., 10-Q, 11/8/2018 Karen.Paff@salix.com 908-927-1190 AkaRx, Inc., a subsidiary owned entirely by Dova Pharmaceuticals, Inc., holds the exclusive right to distribute and market DOPTELET\u00ae within the United States and its territories. \u00a92018 The registered trademark DOPTELET\u00ae belongs exclusively to AkaRx, Inc.\n\nIn this revised clause, I have shifted the responsibility of being the exclusive licensee and distributor from AkaRx, Inc. to a subsidiary owned entirely by Dova Pharmaceuticals, Inc. This change implies that the subsidiary, rather than AkaRx, Inc., holds the exclusive rights for distribution and marketing of DOPTELET\u00ae in the specified region. Additionally, the trademark ownership remains with AkaRx, Inc., but I've made it clear that it is exclusively their property.",
+    "contradiction_score": 0.9647336602210999,
+    "kept": true
+  }
+]

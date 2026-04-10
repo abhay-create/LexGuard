@@ -1,0 +1,209 @@
+[
+  {
+    "clause_index": 8,
+    "start_char": 3049,
+    "end_char": 3239,
+    "original": "2.4 \u201cNewegg Marks \u201d means the Newegg trademarks and logos set out in Schedule 1 , together with any accompanying artwork, design, slogan, text and other collateral marketing signs of Newegg.",
+    "ollama_generated": "Clause 2.4: \"Newegg Brand Elements\" encompasses the Newegg trademarks, logos, and associated visual elements as outlined in Schedule 1, along with any additional artistic designs, slogans, text, and marketing signage that represent Newegg's brand identity.\n\nIn this version, I have slightly broadened the definition of protected elements to include \"associated visual elements\" and \"any additional artistic designs,\" potentially expanding the scope of what is considered proprietary Newegg property.",
+    "contradiction_score": 0.3570829927921295,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 10,
+    "start_char": 3678,
+    "end_char": 3890,
+    "original": "Source: ALLIED ESPORTS ENTERTAINMENT, INC., 8-K, 8/15/2019 2.6 \u201cSponsorship Benefits \u201d means the benefits Newegg will provide Allied, including the license granted in Section 6.1 and the fee stated in Schedule 3.",
+    "ollama_generated": "Clause:\nRevised: ALLIED ESPORTS ENTERTAINMENT, INC., 8-K, 8/15/2019\n2.6 \"Benefits to Allied\" encompass the advantages that Allied shall receive from Newegg, including but not limited to the license as outlined in Section 6.1 and the stipulated fee detailed in Schedule 3.\n\nIn this revised clause, the focus shifts from Newegg providing benefits to Allied, to Allied receiving benefits from Newegg, subtly altering the perspective of who is responsible for the provision of benefits.",
+    "contradiction_score": 0.0691203847527504,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 12,
+    "start_char": 4120,
+    "end_char": 4566,
+    "original": "2.8 \u201cTechnology E-Commerce (or E-Tail)\u201d means the Arena partnership category that Allied is granting to Newegg and is defined as including technology-focused products in categories including computer systems, components, electronics, gaming, networking, office solutions, software & services, automotive and industrial, home and tools, health & sports, and hobbies and toys. For purposes of clarity, this does not include apparel and accessories.",
+    "ollama_generated": "2.8 The designation \"Newegg E-Commerce (or E-Arena)\" refers to the category exclusively granted to Newegg by Allied, encompassing merchandise centered around technology in categories such as computer systems, components, electronics, gaming, networking, office solutions, software & services, automotive and industrial, home and tools, health & sports, and hobbies and toys. To avoid any confusion, this categorization expressly excludes apparel and accessories, implying that Newegg is solely responsible for managing these excluded product lines outside of the defined category.",
+    "contradiction_score": 0.14879272878170013,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 16,
+    "start_char": 4782,
+    "end_char": 5266,
+    "original": "3. Term of this Agreement. This Agreement shall be valid for five (5) years from February 1, 2019 through January 31, 2024 unless this Agreement is terminated earlier pursuant to Section 14 (the \u201c Term \u201d). For the purpose of clarity, the second year of this Agreement starts February 1, 2020, and the third year of this Agreement starts February 1, 2021 the fourth year of this Agreement starts February 1, 2022, and the fifth and final year of this Agreement starts February 1, 2023.",
+    "ollama_generated": "Clause 3 - Duration of Agreement: The term of this agreement commences on February 1, 2019, and will continue for five (5) years, concluding on January 31, 2024, unless otherwise terminated in accordance with Section 14. For the sake of clarity, the commencement of each subsequent year of this agreement shall be on February 1, specifically:\n\n1. The first year begins on February 1, 2019;\n2. The second year begins on February 1, 2020;\n3. The third year begins on February 1, 2021;\n4. The fourth year begins on February 1, 2022; and\n5. The final year, the fifth year, commences on February 1, 2023.\n\nHowever, it is to be noted that the first year of this agreement does not necessarily extend until January 31, 2020, but rather concludes with the completion of its full term as outlined above.",
+    "contradiction_score": 0.02646891213953495,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 22,
+    "start_char": 7788,
+    "end_char": 8853,
+    "original": "6.2 Allied acknowledges and agrees that Newegg has valuable goodwill and reputation in the Newegg Marks and that Newegg is and shall be at all times the sole and exclusive owner of rights, including Intellectual Property Rights, in and related to the Newegg Marks. Allied does not acquire any right, title, or interest in or to the Newegg Marks by virtue of the limited license granted in Section 6.1, or through Allied\u2019s permitted use of the Newegg Marks, other than the right to use such Newegg Marks in accordance with that license. Allied acknowledges that its use of the Newegg Marks pursuant to this Agreement, and all goodwill associated with such use, shall inure exclusively to the benefit of Newegg. Allied further acknowledges and agrees that Newegg shall have sole control and final editorial say, in Newegg\u2019s sole discretion, over the marketing/promotion, appearance, design, layout, placement, and presentation of Newegg\u2019s Products, including all packaging, advertisements and other marketing and promotional materials relating to the Newegg Products.",
+    "ollama_generated": "6.2 The parties acknowledge and consent that Newegg possesses significant goodwill and reputation associated with the Newegg Marks, and Newegg retains absolute ownership of all Intellectual Property Rights concerning the Newegg Marks. While Allied is granted a limited license as per Section 6.1, and permitted to use the Newegg Marks, it is important to note that Allied does not obtain any additional rights, titles, or interests in the Newegg Marks beyond the scope of the authorized usage.\n\nAllied understands that all goodwill derived from its utilization of the Newegg Marks under this Agreement shall exclusively benefit Newegg. Additionally, Allied acknowledges and agrees that Newegg holds the authority to exercise complete control and final discretion over the marketing/promotion, aesthetic aspects, design, layout, positioning, and representation of Newegg's Products, including but not limited to product packaging, advertisements, and all related promotional materials.",
+    "contradiction_score": 0.0006986401858739555,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 32,
+    "start_char": 13488,
+    "end_char": 13942,
+    "original": "9.2 Allied shall use its best endeavours to deliver or ensure the delivery to Newegg of each and all of the Sponsorship Rights. Without limitation of the preceding sentence or any other provision of this Agreement, Allied shall identify and name Newegg as a Founding Partner, and as the exclusive Technology E-Commerce (or E-tail) Partner, of the Arena and in all of Allied\u2019s marketing materials in connection with the Arena where reasonably practicable.",
+    "modified": "9.2 In order to fulfill our commitments, Newegg understands that Allied will strive to its utmost ability to deliver or facilitate the delivery of the Sponsorship Rights. Notwithstanding any other provision in this Agreement or the preceding sentence, Allied shall not be obliged to name Newegg as a Founding Partner, nor shall it be confined to designating Newegg as the exclusive Technology E-Commerce (or E-tail) Partner, of the Arena. However, where feasible and reasonably practical, Allied will acknowledge Newegg's partnership in its marketing materials related to the Arena.",
+    "contradiction_score": 0.527514636516571,
+    "kept": true
+  },
+  {
+    "clause_index": 37,
+    "start_char": 15520,
+    "end_char": 15887,
+    "original": "9.6 Allied accepts that, regardless of its obligations to promote the Arena within the terms of this Agreement, Newegg shall be entitled to advertise, publicise, promote and otherwise commercially exploit its own Products, goodwill and reputation through Newegg's association with the Arena on and subject to the terms of this Agreement throughout and after the Term.",
+    "modified": "9.6 While Newegg acknowledges the stipulations within this Agreement regarding Allied's efforts to promote the Arena, it is understood that Allied relinquishes any exclusive rights to commercially exploit or promote its own products, goodwill, and reputation associated with the Arena. This allows Newegg the freedom to advertise, publicize, and promote its own Products throughout and beyond the Term of this Agreement, subject to the terms herein.",
+    "contradiction_score": 0.9715518355369568,
+    "kept": true
+  },
+  {
+    "clause_index": 41,
+    "start_char": 16617,
+    "end_char": 16918,
+    "original": "10.2 Newegg shall provide to Allied, at Newegg's cost and expense, all necessary materials including artwork of Newegg Marks in a format and within print deadlines reasonably specified by Allied in order for it to be reproduced under the control of Allied for the fulfilment of the Sponsorship Rights.",
+    "ollama_generated": "10.2 For the sake of fulfilling the Sponsorship Rights, Allied shall have the right, at its own expense, to acquire from Newegg any and all essential materials, including artwork associated with Newegg Marks, in a format and within print deadlines reasonably determined by Newegg. Any reproduction or control thereof will remain the sole responsibility of Allied.\n\nIn this revised clause, the responsibility for obtaining necessary materials has shifted from Newegg to Allied, and Allied now holds the sole responsibility for any reproduction or control of the materials obtained. The print deadlines are still reasonable, as specified by the party making the request (Newegg), but Allied now has the discretion in determining the format of the materials.",
+    "contradiction_score": 0.09939377009868622,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 44,
+    "start_char": 18050,
+    "end_char": 18223,
+    "original": "11.3 Each Party represents and warrants that it is not a government-owned entity and that neither its management personnel nor any of its employees are government officials.",
+    "ollama_generated": "11.3 Each Party affirmatively declares and guarantees that they do not possess any government ownership, and furthermore ensures that neither their executive team nor any staff members function as government officials. This declaration explicitly excludes the possibility of indirect affiliations or relationships with government entities.",
+    "contradiction_score": 0.0010252459906041622,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 46,
+    "start_char": 18950,
+    "end_char": 19700,
+    "original": "11.5 Allied represents and warrants that it holds the necessary rights to permit Newegg to use Allied's Marks and accept the Commercial Rights in accordance with the Sections 5.1 and 9.7\u037e and that to Allied\u2019s actual knowledge the use, reproduction, distribution or transmission of Allied's Marks will not violate any criminal laws, or any rights of any third parties, including, but not limited to, such violations as infringement or misappropriation of any copyright, patent, trademark, trade secret, music, image, or other proprietary or property right, false advertising, unfair competition, defamation, invasion of privacy or rights of celebrity, violation of any anti-discrimination law or regulation, or any other right of any person or entity.",
+    "ollama_generated": "11.5 Newegg's use of Allied's Marks and acceptance of the Commercial Rights shall be contingent upon Allied's assurance that it possesses the requisite rights to authorize such actions, in accordance with Sections 5.1 and 9.7. Furthermore, Allied ensures, to the best of its knowledge, that the utilization, reproduction, distribution, or transmission of Allied's Marks will not infringe upon any criminal laws, nor encroach upon any third-party rights, including but not limited to copyrights, patents, trademarks, trade secrets, music, images, or other proprietary or property rights. However, any potential liability arising from false advertising, unfair competition, defamation, invasion of privacy or rights of celebrity, violation of anti-discrimination laws or regulations, or infringement upon any other person's or entity's right shall be borne solely by Allied.",
+    "contradiction_score": 0.0038547073490917683,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 48,
+    "start_char": 20680,
+    "end_char": 21180,
+    "original": "12.2 EXCEPTING ONLY CLAIMS MADE PURSUANT TO SECTION 12.1, IN NO EVENT WILL EITHER PARTY BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, PUNITIVE OR CONSEQUENTIAL DAMAGES OF ANY KIND, INCLUDING ANY LOST PROFITS, LOST REVENUES OR LOST SAVINGS, ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT AND/OR THE PRODUCTS, WHETHER IN CONTRACT, TORT, STRICT LIABILITY OR OTHERWISE, EVEN IF THE PARTY HAS BEEN ADVISED, KNOWS OR SHOULD KNOW, OR IS OTHERWISE AWARE OF THE POSSIBILITY OF SUCH DAMAGES.",
+    "ollama_generated": "12.2 Under no circumstances shall either Party have any liability for direct damages that are a foreseeable consequence of a breach of this Agreement or related to the Products, except as expressly stated in Section 12.1. This includes but is not limited to lost business opportunities, revenue, profits, or savings. Liability for indirect, special, incidental, exemplary, punitive, or consequential damages is explicitly disclaimed, regardless of whether one Party could have reasonably foreseen the possibility of such damages, even with notice or awareness thereof.",
+    "contradiction_score": 0.0033071835059672594,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 49,
+    "start_char": 21180,
+    "end_char": 22705,
+    "original": "13. Confidentiality 13.1 Confidential Information . Each Party (the \u201c Disclosing Party \u201d) may from time to time during the Term of this Agreement disclose to the other Party (the \u201c Receiving Party \u201d) certain information regarding the Disclosing Party\u2019s business, including, without limitation, technical, marketing, financial, employee, planning and other confidential or proprietary information, which information is either marked as confidential or proprietary (or bears a similar legend) or which a reasonable person would understand to be confidential given the circumstance and nature of the disclosure (\u201c Confidential Information \u201d), whether disclosed orally or in writing. Without limiting the foregoing, Newegg\u2019s Confidential Information shall include information and materials provided by Newegg in connection with this Agreement. Confidential Information does not include information that: (i) is in the Receiving Party\u2019s possession at the time of disclosure as shown by credible evidence\u037e (ii) before or after it has been disclosed to the Receiving Party, enters the public domain, not as a result of any action or inaction of the Receiving Party\u037e (iii) is approved for release by written authorization of the Disclosing Party\u037e (iv) is disclosed to the Receiving Party by a third party not in violation of any obligation of confidentiality\u037e or (v) is independently developed by the Receiving Party without reference to Confidential Information of the Disclosing Party, as evidenced by such Party\u2019s written records.",
+    "ollama_generated": "Clause:\n13. Confidentiality Obligations\n13.1 Definition of Confidential Information\nEach Recipient (the \" Receiving Party \") shall have access to certain confidential information relating to the Discloser's (the \" Disclosing Party's \") business, which includes but is not limited to technical, marketing, financial, employee, planning, and other sensitive or proprietary data. This information may be communicated orally or in writing, and is either explicitly marked as confidential or proprietary (or bears a similar notice) or could reasonably be perceived as confidential given the circumstances of disclosure (\" Confidential Information \"). For the purposes of this Agreement, Newegg's Confidential Information shall encompass any information and materials provided by Newegg in connection with this contract.\n\nConfidential Information does not include: (i) information that is already within the Recipient's possession at the time of disclosure as demonstrated by credible evidence; (ii) information that, prior to or after its disclosure to the Recipient, becomes publicly available without any action or inaction of the Recipient; (iii) information that is approved for release by a written authorization from the Discloser; (iv) information that is obtained by the Recipient from a third party who is not in breach of any confidentiality obligation; or (v) information that is independently developed by the Recipient, as evidenced by the Recipient's written records.\n\nHowever, it is understood that the Recipient shall hold the Confidential Information in strict confidence for the entire duration of this Agreement and for a reasonable period thereafter, and shall only disclose such information to those employees, affiliates, or contractors who have a need to know such information for the purposes of this Agreement. The Recipient shall ensure that these individuals are also subject to confidentiality obligations no less restrictive than those set forth in this Agreement.\n\nUpon request by the Discloser, the Recipient shall return all Confidential Information and destroy all copies thereof in its possession or control. This obligation shall survive termination or expiration of this Agreement for a period of five (5) years.",
+    "contradiction_score": 0.3953048586845398,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 54,
+    "start_char": 25270,
+    "end_char": 25716,
+    "original": "Source: ALLIED ESPORTS ENTERTAINMENT, INC., 8-K, 8/15/2019 14. Expiry or Termination 14.1 Failure by Allied to perform and comply with any of its obligations in sections 5, 6, 7, 9, 11, 12 and 13 of this Agreement shall be deemed a material breach of this Agreement and Newegg shall have the right to terminate this Agreement immediately if Allied fails to cure the breach within fifteen (15) days following Newegg\u2019s written notice of the breach.",
+    "modified": "Clause:\nRevised: ALLIED ESPORTS ENTERTAINMENT, INC., 8-K, 8/15/2019\n\n14. Expiry or Termination\n14.1 In the event that ALLIED fails to fulfill and abide by any of its obligations as specified in sections 5, 6, 7, 9, 11, 12, and 13 of this Agreement, such action will be considered a material breach. However, Newegg shall afford ALLIED a grace period of fifteen (15) days following the delivery of written notice outlining the breach, within which ALLIED may remedy the breach without resulting in immediate termination of this Agreement by Newegg.",
+    "contradiction_score": 0.5619070529937744,
+    "kept": true
+  },
+  {
+    "clause_index": 55,
+    "start_char": 25716,
+    "end_char": 26632,
+    "original": "14.2 Each Party may also terminate the Agreement for convenience after Contract Year 2 (as defined in Section 14.4) by providing written notice to the other Party at least sixty (60) calendar days prior to the effective date of such termination 14.3 Except as provided in (i) Section 5.2 for immediate termination subject to cure provisions in Section 14.1 , (ii) Section 14.1 for termination following notice, and (iii) Section 14.5 for immediate termination without notice, if either Party defaults in the performance, or breaches any provision, of this Agreement, then the non- defaulting Party may give written notice to the defaulting Party requiring the default or breach to be cured, and if the default or breach is not cured within fifteen (15) days of the receipt of the notice, this Agreement shall, without prejudice to any accrued right, automatically terminate at the end of the fifteen (15) day period.",
+    "ollama_generated": "14.2 Either Party retains the discretion to discontinue the Agreement after the conclusion of Contract Year 2 (as defined in Section 14.4), by delivering written notice to the other Party no less than sixty (60) calendar days prior to the intended termination date.\n\n14.3 With the exception of instances outlined in (i) Section 5.2 for immediate termination with opportunity for remedy as stipulated in Section 14.1, (ii) Section 14.1 for termination after notice, and (iii) Section 14.5 for immediate termination without prior warning, the Party not in default shall have the authority to deliver written notification to the defaulting Party, specifying a timeframe of fifteen (15) days for rectification of the default or breach. In cases where the default or breach remains uncorrected within this period, this Agreement shall terminate, but without prejudice to any vested rights, at the expiration of the specified timeframe.\n\nThe changes in the rewritten clause weaken the obligation for termination by the non-defaulting party, as they now have discretion to discontinue the agreement after Contract Year 2, and also shift the responsibility slightly towards the defaulting party, as the default or breach must be cured within a specified timeframe before the Agreement automatically terminates.",
+    "contradiction_score": 0.015496447682380676,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 56,
+    "start_char": 26632,
+    "end_char": 27447,
+    "original": "14.4 During the first two (2) contract years of Term (i.e., February 1, 2019 through January 31, 2020 (\u201cContract Year 1\u201d) and February 1, 2020 through January 31, 2021 (\u201cContract Year 2\u201d)) and notwithstanding any other provisions of this Agreement, if Newegg defaults on or breaches any its obligations under the Agreement for any reason and fails to cure such default or breach within fifteen (15) days following receipt of Allied\u2019s written notice of such default or breach, the Parties acknowledge and agree that (i) Newegg shall remain responsible and/or liable for the full payment or, if applicable, the remaining portion of the Sponsorship Fee for Contract Year 1 and Contract Year 2, and (ii) Allied shall have the right to pursue any additional legal and equitable remedies in connection with the Agreement.",
+    "ollama_generated": "Clause 14.4: For the initial two (2) years of the Term, commencing from February 1, 2019, through January 31, 2021 (\"Contract Year 1\" and \"Contract Year 2\"), regardless of any other stipulations within this Agreement, should Allied provide written notice of a default or breach by Newegg in fulfilling its contractual obligations, and if after fifteen (15) days, the default or breach remains unrectified, both Parties acknowledge and concur that (i) Allied retains the right to seek full reimbursement for the Sponsorship Fee during Contract Year 1 and Contract Year 2 from Newegg, and (ii) Newegg will bear any additional legal and equitable consequences arising from the Agreement.",
+    "contradiction_score": 0.010326515883207321,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 61,
+    "start_char": 28388,
+    "end_char": 28733,
+    "original": "(a) make any form of representation (whether express or implied) that Allied remains under the sponsorship of or in public association with Newegg\u037e or (b) commit any act that would reasonably be seen as disparaging (whether expressly or implicitly) the Newegg and Allied brand names, reputations or any of their respective products or offerings.",
+    "ollama_generated": "(a) The parties agree not to suggest, either explicitly or implicitly, that Allied continues to be sponsored by or publicly affiliated with Newegg, unless authorized in writing by Newegg.\n\n(b) Each party acknowledges responsibility to avoid any action that could reasonably be perceived as damaging, whether explicitly or implicitly, the reputation or brand names of Newegg and Allied, their respective products, or offerings. This obligation extends to ensuring third-party representatives and agents also adhere to this condition.",
+    "contradiction_score": 0.06690456718206406,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 65,
+    "start_char": 29584,
+    "end_char": 30139,
+    "original": "15.2 Publicity . The Parties shall co-operate in good faith on all announcements and press releases regarding this Agreement and Newegg\u2019s sponsorship arrangement with Allied and Newegg shall determine in its sole discretion whether any such announcement or press release shall be published. Press releases concerning Newegg\u2019s sponsorship of the Arena will only be published after written preapproval by both Parties and Newegg shall have the final decision making right concerning any press releases regarding Newegg\u2019s sponsorship arrangement with Allied.",
+    "ollama_generated": "15.2 Publicity Collaboration: The Parties agree to collaborate in good faith on all announcements and press releases related to this Agreement and Newegg's partnership with Allied, with the understanding that both parties will have equal input in determining whether any such announcement or press release is published. Press releases regarding the Arena's sponsorship by Newegg will be subject to mutual written approval before publication. In cases where there may be discrepancies, the final decision-making authority on all press releases concerning the partnership between Newegg and Allied will rest jointly with both parties.",
+    "contradiction_score": 0.4348051846027374,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 72,
+    "start_char": 32498,
+    "end_char": 33411,
+    "original": "15.9 Notice . Any notice required under this Agreement shall be given in writing, in the English language and sent to the address or e-mail address of the other Party as set out below its signature of this Agreement, or such other address or email address as shall have been notified to the other Party in accordance with this provision. Notices shall be sent by registered post or equivalent, facsimile, courier or by electronic transmission. If posted, the notice shall be deemed to have been received five (5) working days after the date of posting or, in the case of a notice to an addressee not in the country of the sender, ten (10) working days after the date of posting. If sent by facsimile or electronic transmission, notice shall be deemed received upon confirmation of complete receipt being given by the intended receiving Party. If couriered, notice will be deemed to have been received on delivery.",
+    "ollama_generated": "15.9 Notification: Any notification essential under this Agreement should be provided in writing and in the English language, delivered to the initial email address or physical address of the other Party as indicated beneath their signature in this Agreement, or any updated contact information they may have communicated according to this provision. Notifications may be transmitted through registered mail, fax, courier service, or electronic communication. If sent by postal service, the notification will be considered received five (5) business days after the date of mailing, or in the case of a recipient residing outside the sender's country, within ten (10) business days after mailing. In instances of fax or electronic transmission, the notification shall be deemed received upon confirmation of complete receipt being received from the intended receiving Party. If sent by courier, the notification will be considered delivered upon receipt.\n\nIn this rewritten clause, I've made a minor adjustment to emphasize that it is the sender who should provide the initial contact information, and the recipient who may communicate updated contact information according to the agreement. This slight shift in wording subtly places the responsibility for ensuring correct notification addresses on the recipient, rather than the sender.",
+    "contradiction_score": 0.09294027090072632,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 75,
+    "start_char": 35767,
+    "end_char": 36017,
+    "original": "15.12  Counterparts . This Agreement may be executed in any number of counterparts, each of which when executed and delivered shall be deemed to be an original and all of which counterparts taken together shall constitute one and the same instrument.",
+    "ollama_generated": "15.12 Multi-Counterparts: Execution of this Agreement can occur in multiple counterparts, with each countersigned and delivered document considered a valid original. Combined, these separate counterparts will collectively represent a single, integral instrument.\n\nIn this revised version, the wording has been adjusted to emphasize that each signed and delivered part is an original, but also clarifies that all of these individual originals together make up one integrated agreement. This slight change subtly strengthens the idea that each counterpart is essential to the overall agreement's validity.",
+    "contradiction_score": 0.004234138410538435,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 81,
+    "start_char": 37383,
+    "end_char": 37391,
+    "original": "Address:",
+    "ollama_generated": "Location Details:\n\nUpon acceptance of this agreement, the Client shall provide, within fifteen (15) business days of such acceptance, the complete and accurate address where all correspondence regarding this contract should be sent. Failure to provide said information in a timely manner may result in delays or potential breaches of this agreement. The Contractor shall not be responsible for any consequences arising from inaccurate or insufficient address details provided by the Client.",
+    "contradiction_score": 0.12089063972234726,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 82,
+    "start_char": 37392,
+    "end_char": 37403,
+    "original": "Newegg Inc.",
+    "ollama_generated": "Newegg Inc., however, shall not be liable for any losses or damages arising from the use of its services, except in cases where such losses or damages are directly attributable to Newegg's gross negligence or intentional misconduct. The burden of proof for these exceptional cases rests with the party asserting the claim against Newegg Inc.",
+    "contradiction_score": 0.002731666201725602,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

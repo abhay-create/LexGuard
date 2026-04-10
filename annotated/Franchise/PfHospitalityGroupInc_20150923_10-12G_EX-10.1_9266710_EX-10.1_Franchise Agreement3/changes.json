@@ -1,0 +1,12 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 396,
+    "end_char": 405,
+    "original": "RECITALS:",
+    "ollama_generated": "1. It is understood that neither Party shall be obligated to maintain insurance policies specifically for the terms of this Agreement; however, each Party agrees to have sufficient insurance coverage in place throughout the duration of this Agreement to cover any risks associated with their respective obligations herein, including property damage, personal injury, and liability arising from the performance of such obligations. Each Party shall provide proof of insurance coverage to the other Party at least thirty (30) days prior to the commencement of this Agreement, and thereafter upon request within a reasonable timeframe before the expiration of any policy term.\n\nThis revised clause weakens the obligation for each party to maintain specific insurance policies solely for the duration of the agreement, while still ensuring that they have adequate coverage for their obligations under the terms. The requirement for proof of insurance has also been adjusted to be provided upon request within a reasonable timeframe instead of at fixed intervals.",
+    "contradiction_score": 0.038308221846818924,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

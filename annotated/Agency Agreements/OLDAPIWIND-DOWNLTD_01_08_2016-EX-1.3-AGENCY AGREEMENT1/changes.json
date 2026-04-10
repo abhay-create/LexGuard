@@ -1,0 +1,238 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 77,
+    "end_char": 202,
+    "original": "151 Steeles Avenue East Milton, Ontario L9T 1Y1 Attention: Rob Harris, President and Chief Executive Officer Dear Mr. Harris:",
+    "ollama_generated": "Subject: 151 Steeles Avenue East, Milton, Ontario L9T 1Y1 - Attn: Rob Harris, CEO & President\n\nDear Mr. Harris,\n\nIn an effort to foster a collaborative and flexible relationship, we propose revising Clause X as follows:\n\nClause X (Revised):\nIn the event that any dispute arises between us regarding this Agreement or its interpretation, either party may initiate discussions with the other to seek resolution. If, after a reasonable period of time, the parties are unable to reach an amicable settlement, either party shall have the option to submit the matter to mediation or arbitration, at their own cost and expense. This clause is intended to minimize potential disruptions to our ongoing relationship.\n\nWe look forward to your feedback on this revised Clause X.\n\nBest Regards,\n[Your Name]\n[Your Position]",
+    "contradiction_score": 0.006224092561751604,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 9,
+    "start_char": 3022,
+    "end_char": 6241,
+    "original": "(a) \u201cAgent \u201d and \u201c Agents \u201d have the respective meanings given to them above\u037e (b) \u201cAgents\u2019 Counsel \u201d means Dentons Canada LLP\u037e (c) \u201cAgents\u2019 Fee \u201d has the meaning given in Section 1(1)(a)\u037e (d) \u201cAgreement \u201d means the agreement resulting from the acceptance by the Corporation of the offer made by the Agents by this letter\u037e (e) \u201cApplicable Securities Laws \u201d means all applicable securities laws, rules, regulations, notices and published policies of the Selling Jurisdictions in Canada and the United States\u037e (f) \u201cBusiness Day \u201d means any day other than a Saturday, Sunday or statutory or civic holiday in Toronto, Ontario\u037e (g) \u201cClosing \u201d means the completion of the Offering\u037e (h) \u201cClosing Date \u201d means May 21, 2015 or such other date as the Corporation and the Agents may agree upon in writing, or as may be changed pursuant to this Agreement\u037e (i) \u201cClosing Time \u201d means 8:00 a.m. (Toronto time) on the Closing Date\u037e (j) \u201cCorporation \u201d has the meaning given to it above\u037e (k) \u201cCorporation\u2019s Auditors \u201d means such firm of chartered accountants as the Corporation may have appointed or may from time to time appoint as auditors of the Corporation, including prior auditors of the Corporation, as applicable\u037e (l) \u201cCorporation\u2019s Counsel \u201d means Fogler Rubinoff LLP\u037e (m) \u201cCompensation Options \u201d has the meaning ascribed thereto on the face page of this Agreement\u037e (n) \u201cCompensation Option Certificates\u201d shall mean the certificates representing the Compensation Options \u037e (o) \u201cDebt Instrument \u201d means any loan, bond, debenture, promissory note or other instrument evidencing indebtedness (demand or otherwise) for borrowed money or other liability\u037e (p) \u201cDue Diligence Session \u201d means the due diligence question and answer session held with management of the Corporation on May 21, 2015 and July 14, 2014\u037e (q) \u201cEnvironmental Laws \u201d means any federal, state, provincial, territorial or local law, statute, ordinance, rule, regulation, order, decree, judgment, injunction, permit, license, authorization or other binding requirement, or common law, relating to health, safety or the regulation, protection, cleanup or restoration of the environment or natural resources, including those relating to the distribution, processing, generation, treatment, control, storage, disposal, transportation, other handling or release or threatened release of Hazardous Materials or Conditions, and \u201c Hazardous Materials or Conditions \u201d means any material, substance (including, without limitation, pollutants, contaminants, hazardous or toxic substances or wastes) or condition that is regulated by or may give rise to liability under any Environmental Laws\u037e (r) \u201cFinancial Statements \u201d means the audited consolidated financial statements of the Corporation as at and for the years ended December 31, 2013 and 2014 and for the unaudited interim financial statements for the period ended March 31, 2015 together with the notes thereto\u037e (s) \u201cGovernmental Authority (ies) \u201d means governments, regulatory authorities, governmental departments, agencies, commissions, bureaus, officials, ministers, Crown corporations, courts, bodies, boards, tribunals or dispute settlement panels or other law, rule or regulation-making organizations or entities:",
+    "ollama_generated": "(a) The term \"Agent\" and \"Agents\" shall bear the meanings assigned to them previously; (b) \"Agents' Legal Representative\" refers to Dentons Canada LLP; (c) \"Agents' Fee\" denotes the definition provided in Section 1(1)(a); (d) \"Agreement\" signifies the contract that arises from the Corporation's acceptance of the offer proffered by the Agents, as stated in this letter; (e) \"Applicable Securities Regulations\" encompass all relevant securities laws, rules, regulations, notices, and published policies applicable to the Selling Jurisdictions within Canada and the United States; (f) \"Business Hour\" denotes any day excluding Saturdays, Sundays, or public holidays in Toronto, Ontario; (g) \"Completion\" designates the finalization of the Offering; (h) \"Closing Date\" is set for May 21, 2015, unless otherwise agreed upon in writing by both parties, or as may be altered according to this Agreement; (i) \"Closing Time\" refers to 8:00 a.m. (Toronto time) on the stipulated Closing Date; (j) \"Corporation\" maintains the meaning ascribed earlier; (k) \"Corporation's Accountants\" encompasses any firm of chartered accountants appointed or that may be designated as auditors for the Corporation, including prior and current auditors, as necessary; (l) \"Corporation's Legal Counsel\" is Fogler Rubinoff LLP; (m) \"Compensation Options\" bear the meaning indicated on the face page of this Agreement; (n) \"Compensation Option Certificates\" represent the certificates representing the Compensation Options; (o) \"Financial Obligation\" encompasses any loan, bond, debenture, promissory note, or other instrument indicative of indebtedness (demand or otherwise) for borrowed money or other liability; (p) \"Due Diligence Session\" denotes the due diligence question and answer session conducted with Corporation management on May 21, 2015 and July 14, 2014; (q) \"Environmental Regulations\" incorporate any federal, state, provincial, territorial or local law, statute, ordinance, rule, regulation, order, decree, judgment, injunction, permit, license, authorization, or other binding requirement, or common law, relating to health, safety, or the management, protection, cleanup, or restoration of the environment or natural resources, including those pertaining to the distribution, processing, generation, treatment, control, storage, disposal, transportation, handling, or potential release of Harmful Substances or Conditions; (r) \"Environmental Hazards\" comprise any material, substance (including, but not limited to, pollutants, contaminants, hazardous or toxic substances or wastes), or condition that is regulated by, or may give rise to liability under, any Environmental Regulations; and (s) \"Financial Statements\" entail the audited consolidated financial statements of the Corporation as at and for the years ended December 31, 2013 and 2014 and for the unaudited interim financial statements for the period ended March 31, 2015 together with the notes thereto.\n\nRegarding (g), if you intend to shift responsibility or weaken an obligation, consider revising it as follows:\n(g) \"Closing\" signifies the occurrence of the Offering, and the Corporation shall bear the sole responsibility for ensuring that all necessary conditions precedent are satisfied, including but not limited to obtaining any required regulatory approvals, by the stipulated Closing Date or as may be mutually agreed upon in writing.",
+    "contradiction_score": 0.005484814289957285,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 14,
+    "start_char": 10810,
+    "end_char": 11345,
+    "original": "The division of this Agreement into sections, subsections, paragraphs, subparagraphs and clauses and the insertion of headings are for convenience of reference only and do not affect the construction or interpretation of this Agreement. The terms \u201cthis Agreement\u201d, \u201chereof\u2019, \u201cherein\u201d, \u201chereunder\u201d and similar expressions refer to this Agreement and the schedules hereto and not to any particular section, paragraph, subparagraph, clause or other portion hereof and include any agreement or instrument supplementary or ancillary hereto.",
+    "ollama_generated": "The text of this Agreement is divided into sections, subsections, paragraphs, subparagraphs, and clauses, as well as provided with headings, for the ease of reference. However, these divisions do not alter the meaning or interpretation of this Agreement. The terms \"this Agreement\", \"herein\", \"hereof\", \"hereunder\", and similar expressions encompass this main agreement, all accompanying schedules, and any additional agreements or documents related to this contract. These terms are not limited to specific sections, paragraphs, subparagraphs, clauses, or other parts of the agreement.\n\nIn this revised clause, I have aimed to keep the language professional while slightly modifying the obligation by specifying that the divisions and headings serve a convenience purpose, which distinguishes them from having any interpretative impact on the Agreement itself. Additionally, I have expanded the scope of the terms \"this Agreement\", \"herein\", \"hereof\", \"hereunder\" to include all agreements or instruments supplementary or ancillary to this contract, making it clear that these terms encompass a broader context.",
+    "contradiction_score": 0.011164928786456585,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 17,
+    "start_char": 11817,
+    "end_char": 12359,
+    "original": "(i) \u201caccredited investors\u201d (as defined in National Instrument 45-106 - Prospectus Exemptions or, in Ontario, Section 73.3 of the Securities Act  (Ontario)), and (ii) purchasing as principals\u037e and (c) not advertise the proposed sale of the Offered Shares in printed media of general and regular paid circulation, radio, television or the internet nor provide or make available to prospective purchasers of Offered Shares any document or material which would constitute an offering memorandum as defined in Applicable Securities Laws in Canada.",
+    "ollama_generated": "(i) Investors who meet the criteria for \"accredited investors\" as outlined in National Instrument 45-106 - Prospectus Exemptions or, in Ontario, Section 73.3 of the Securities Act (Ontario), and (ii) those purchasing the Offered Shares on a principal basis, shall be subject to the following conditions:\n\n(a) They will not advertise the proposed sale of the Offered Shares in any printed media, radio, television, or internet outlets that cater to a general audience. However, they may engage in private communications or targeted marketing efforts.\n\n(b) They are not obligated to provide or make available to prospective purchasers of Offered Shares any document or material that would be considered an offering memorandum as defined under Applicable Securities Laws in Canada, unless explicitly requested by the potential investor and necessary for them to make an informed investment decision.\n\nThis revised clause maintains the original intent but provides some flexibility regarding advertising and disclosure requirements while still adhering to regulatory standards.",
+    "contradiction_score": 0.0118792075663805,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 22,
+    "start_char": 14017,
+    "end_char": 14239,
+    "original": "4. Representations and Warranties of the Corporation The Corporation represents, warrants and covenants to the Agents, and acknowledges that the Agents are relying upon such representations, warranties and covenants, that:",
+    "modified": "4. Covenants and Representations by the Agent\nThe Agents will make certain representations and warranties to the Corporation, and acknowledge that the Corporation relies on these statements. The Agents covenant and agree that:\n\nThis rewritten clause shifts the responsibility of making representations and warranties from the Corporation to the Agents. This change may be beneficial if the Agent has more specialized knowledge or expertise related to the subject matter of the agreement. It is essential, however, to ensure that the agents have access to the necessary information to make accurate and reliable representations and warranties.",
+    "contradiction_score": 0.8959302306175232,
+    "kept": true
+  },
+  {
+    "clause_index": 27,
+    "start_char": 45771,
+    "end_char": 46215,
+    "original": "5. Agents\u2019 Fee In consideration for the Agents\u2019 services hereunder, the Corporation will pay to the Agents the Agents\u2019 Fee and the Corporation shall issue to the Agents that number of Compensation Options equal to 3.5% of the number of Offered Shares sold pursuant to the Offering. Unless otherwise stated herein, the Offered Shares shall also refer to the Compensation Options. The Agents\u2019 Fee shall be apportioned among the Agents as follows:",
+    "ollama_generated": "5. Remuneration of Agents\nIn consideration for the services rendered by the Agents under this agreement, the Corporation agrees to compensate the Agents with a remuneration equivalent to 3.5% of the total number of Shares offered in the Offering. This remuneration will be paid to the Agents, and in addition, the Corporation shall issue Compensation Options equal to the agreed percentage of the Offered Shares sold through the Offering. It is noted that unless specified otherwise, the term \"Offered Shares\" encompasses both the actual shares and the Compensation Options. The remuneration will be distributed among the Agents as follows:\n\nIn this revised clause, the obligation of the Corporation to pay a fee has been weakened by changing it from a definitive payment to a compensation equivalent to a percentage of the Offered Shares sold. Additionally, the responsibility for issuing Compensation Options has been shifted from being an explicit act to something that is implied in the agreement based on the number of Offered Shares sold. The language remains professional and fluent.",
+    "contradiction_score": 0.17001472413539886,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 32,
+    "start_char": 48819,
+    "end_char": 49133,
+    "original": "8. Agency Basis The Corporation agrees that the Agents are acting as agents of the Corporation in seeking purchasers of Offered Shares without underwriter liability, and nothing in this Agreement or any other agreement shall require the Agents to purchase any of the Offered Shares in connection with the Offering.",
+    "ollama_generated": "8. Limited Purchase Obligation\nThe Agents acknowledge that they are acting as agents of the Corporation in securing potential purchasers for the Offered Shares, but with no obligation or liability to act as underwriters. It is clarified that neither this Agreement nor any other agreement binds the Agents to purchase any of the Offered Shares as part of the Offering.",
+    "contradiction_score": 0.12376994639635086,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 36,
+    "start_char": 51029,
+    "end_char": 51470,
+    "original": "(iii) The Agents having received at the Closing Time  such further opinions, certificates and other documentation from the Corporation as may be contemplated herein or as the Agents may reasonably require, provided, however, that the Agents shall request any such opinion, certificate or document within a reasonable period prior to the Closing Time  that is sufficient for the Corporation to obtain and deliver such certificate or document.",
+    "ollama_generated": "(iii) The Corporation, upon request from the Agents, shall provide any additional opinions, certificates, and other documentation reasonably required as contemplated herein or at the Agents' discretion, with the understanding that the Corporation will have a reasonable time to procure and deliver such documents once the Agents' request is made within a reasonable period preceding the Closing Time. The onus is on the Agents to make such requests in a timely manner to ensure the Corporation can comply without undue burden.",
+    "contradiction_score": 0.004958361387252808,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 38,
+    "start_char": 52227,
+    "end_char": 52333,
+    "original": "(ii) The Agents shall have received at the Closing Time a certificate of good standing of the Corporation.",
+    "ollama_generated": "(ii) It is expressly agreed that the Corporation will provide, prior to the Closing Time, a certificate of good standing to the Agents.",
+    "contradiction_score": 0.06291883438825607,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 46,
+    "start_char": 57091,
+    "end_char": 57792,
+    "original": "(c) Material Change or Change in Material Fact Out If, after the date hereof and prior to the Closing Time, there shall occur any material change or change in a material fact which, in the reasonable opinion of any of the Agents, would be expected to have a significant adverse effect on the business, affairs, prospects or financial condition of the Corporation and its subsidiaries taken as a whole or the market price or value of the securities of the Corporation, then such Agent shall be entitled, at its option, in accordance with Section 10(e), to terminate its obligations under this Agreement by written notice to that effect given to the Corporation any time at or prior to the Closing Time.",
+    "modified": "(c) If, prior to the Closing Time and following the date hereof, a material change or change in a material fact occurs that, in the reasonable judgment of any Agent, could reasonably be expected to have a substantial positive impact on the business, affairs, prospects, or financial condition of the Corporation and its subsidiaries collectively, or the market price or value of the securities of the Corporation, such Agent shall have the discretionary right, as outlined in Section 10(e), to forego their obligations under this Agreement by delivering a written notice to that effect to the Corporation at any time up until the Closing Time.",
+    "contradiction_score": 0.6137077808380127,
+    "kept": true
+  },
+  {
+    "clause_index": 50,
+    "start_char": 60942,
+    "end_char": 63101,
+    "original": "(a) any information or statement contained in this Agreement, the Corporation\u2019s publicly available disclosed documents filed on SEDAR or elsewhere, or in any other material prepared by the Corporation used for marketing the Offering or any certificate of the Corporation delivered hereunder or pursuant hereto, which at the time and in the light of the circumstances under which it was made contains or is alleged to contain a misrepresentation or any misstatement of a material fact\u037e (b) the omission or alleged omission to state in in this Agreement, the Corporation\u2019s publicly available disclosed documents filed on SEDAR or elsewhere, or in any other material prepared by the Corporation used for marketing the Offering or any certificate of the Corporation delivered hereunder or pursuant hereto, any material fact required to be stated therein or necessary to make any statement therein not misleading in light of the circumstances in which it was made\u037e (c) any order made, or inquiry, investigation or proceeding commenced by any securities regulatory authority or other competent authority based upon any misrepresentation, untrue statement or omission or alleged untrue statement or omission in this Agreement, the Corporation\u2019s publicly available disclosed documents filed on SEDAR or elsewhere, or in any other material prepared by the Corporation used for marketing the Offering or any certificate of the Corporation delivered hereunder or pursuant hereto that prevents or restricts the trading in any of the Corporation\u2019s securities or the distribution or distribution to the public, as the case may be, of any of the Offered Shares in any of the Qualifying Jurisdictions\u037e (d) the Corporation not complying with any requirement of Applicable Securities Laws or stock exchange requirements in connection with the transactions contemplated herein, including the Corporation\u2019s non-compliance with any statutory requirement to make any document available for inspection\u037e or (e) any breach of a representation or warranty of the Corporation contained in this Agreement or the failure of the Corporation to comply with any of its obligations hereunder.",
+    "ollama_generated": "Clause:\n(a) any misrepresentation or material false statement found within this Agreement, publicly available disclosed documents filed on SEDAR or elsewhere, or any promotional materials prepared by the Corporation related to the Offering or any certificate of the Corporation issued hereunder, where such misstatement was made under circumstances that would render it materially misleading at the time; (b) the failure to disclose a material fact required to be stated in this Agreement, publicly available disclosed documents filed on SEDAR or elsewhere, or any promotional materials prepared by the Corporation related to the Offering or any certificate of the Corporation issued hereunder, which non-disclosure could have made statements therein less misleading; (c) any investigation, inquiry, order, or legal proceeding initiated by a securities regulatory authority or other competent body against the Corporation based on an alleged misrepresentation, untrue statement, or omission in this Agreement, publicly available disclosed documents filed on SEDAR or elsewhere, or any promotional materials prepared by the Corporation related to the Offering or any certificate of the Corporation issued hereunder, that results in restrictions on trading the Corporation's securities or distributing the Offered Shares in specified jurisdictions; (d) the Corporation's failure to comply with Applicable Securities Laws or stock exchange requirements regarding transactions under this Agreement, including but not limited to, failing to make any document available for inspection as required by statute; (e) any breach of a representation or warranty made by the Corporation in this Agreement, or failure of the Corporation to fulfill its obligations hereunder.",
+    "contradiction_score": 0.04280351102352142,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 51,
+    "start_char": 63101,
+    "end_char": 63689,
+    "original": "(2) Notwithstanding Subsection 11(a) (1), the indemnification in Subsection 11(a)(1) does not and shall not apply to the extent that a court of competent jurisdiction in a final judgment that has become non- appealable shall determine that (a) the Agents and their respective affiliates have been negligent or have committed any fraudulent or illegal act in the course of the professional services rendered to the Corporation, and (b) such expenses, losses, claims, damages, liabilities or actions were caused or incurred by the gross negligence, fraud or wilful misconduct of the Agents.",
+    "ollama_generated": "(2) Contrariwise to Subsection 11(a)(1), the indemnification outlined in said subsection shall be invalidated to an extent where a court of competent jurisdiction, upon rendering a final, non-appealable judgment, finds that (a) the Agents and their respective affiliates have been negligent or have engaged in any fraudulent or unlawful conduct while providing professional services to the Corporation, or (b) such expenses, losses, claims, damages, liabilities, or actions originated from the gross negligence, fraud, or intentional misconduct of the Agents, for which they shall bear full responsibility.",
+    "contradiction_score": 0.01284883450716734,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 53,
+    "start_char": 64651,
+    "end_char": 65781,
+    "original": "(4) In any such claim, such Indemnified Party shall have the right to retain other legal counsel to act on such Indemnified Party\u2019s behalf, provided that the fees and disbursements of such other legal counsel shall be paid by such Indemnified Party, unless: (a) the employment of such counsel has been authorized by the Corporation\u037e or (b) the Corporation has not assumed the defence and employed counsel thereof promptly after receiving notice of such claim\u037e or (c) the named parties to any such claim include both the Indemnified Party and the Corporation, and the Indemnified Party has been advised by legal counsel thereto that representation of both the Corporation and the Indemnified Party by the same legal counsel would be inappropriate due to actual or potential differing interests between them\u037e or (d) there are one or more defences available to the Indemnified Party which are different from and in addition to those available to the Corporation, provided that the Corporation shall not be responsible for the fees or expenses of more than one legal firm in any single jurisdiction for all of the Indemnified Parties.",
+    "ollama_generated": "(4) In instances where a claim arises against the Indemnified Party, the Indemnified Party shall possess the prerogative to engage separate legal representation, on condition that the fees and expenses of such external counsel will be borne by the Indemnified Party, except under the following circumstances:\n\n(a) The engagement of this counsel is sanctioned by the Corporation.\n(b) The Corporation has failed to promptly assume defense and appoint its own legal representation following receipt of notice of the claim.\n(c) The parties named in such claim encompass both the Indemnified Party and the Corporation, and the Indemnified Party's counsel advises that the concurrent representation of both entities by a single firm could potentially compromise their distinct interests.\n(d) The Indemnified Party possesses unique defenses not shared with the Corporation, in which case the Corporation will not be liable for the costs or fees of more than one legal entity in any given jurisdiction representing all Indemnified Parties; however, this does not preclude the Corporation from assuming defense and employing its own counsel concurrently if it deems necessary.",
+    "contradiction_score": 0.014971254393458366,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 59,
+    "start_char": 68496,
+    "end_char": 68744,
+    "original": "(c) Right of Indemnity in Favour of Others With respect to any Indemnified Party who is not a party to this Agreement, the Agents shall obtain and hold the rights and benefits of this Section 11 in trust for and on behalf of such Indemnified Party.",
+    "ollama_generated": "(c) Trusted Indemnification Obligation Extends Beyond This Agreement\nWhile not being a party to this Agreement, any third party benefiting from the indemnity provided under Section 11 shall be deemed to benefit from the rights and protections afforded by this section, held in trust by the Agents on their behalf.",
+    "contradiction_score": 0.008853544481098652,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 63,
+    "start_char": 71761,
+    "end_char": 72010,
+    "original": "(c) Right of Contribution in Favour of Others With respect to this Section 12, the Corporation acknowledges and agrees that the Agents are contracting on their own behalf and as agents for their affiliates, directors, officers, employees and agents.",
+    "modified": "(c) Imputed Obligation for Contribution Regarding Section 12, the Corporation acknowledges and accepts that the Agents act not only in their personal capacity but also as representatives of their affiliates, directors, officers, employees, and agents. As such, the Corporation assumes responsibility for any obligations arising from this Section 12 that may potentially extend to the specified parties.",
+    "contradiction_score": 0.5951749086380005,
+    "kept": true
+  },
+  {
+    "clause_index": 67,
+    "start_char": 72964,
+    "end_char": 73256,
+    "original": "13. Severability If any provision of this Agreement is determined to be void or unenforceable in whole or in part, it shall be deemed not to affect or impair the validity of any other provision of this Agreement and such void or unenforceable provision shall be severable from this Agreement.",
+    "ollama_generated": "13. Non-Impact Clauses: Should any part of this Agreement be deemed invalid or unenforceable, the remaining provisions shall remain in full force and effect. The affected portion shall be considered separable and independent from the remainder of the Agreement.\n\nThis modification aims to maintain the validity of the overall agreement, while minimizing potential consequences if a specific provision proves problematic. It also emphasizes that the affected provision is distinct and separate from the rest of the agreement.",
+    "contradiction_score": 0.06467112898826599,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 70,
+    "start_char": 74859,
+    "end_char": 75509,
+    "original": "15. Survival of Representations and Warranties The representations, warranties, obligations and agreements of the Corporation contained in this Agreement and in any certificate delivered pursuant to this Agreement or in connection with the purchase and sale of the Offered Shares shall survive the payment by the Agents for the Offered Shares, if any, and the distribution of the Offered Shares, and shall continue in full force and effect unaffected by the termination of the Agents\u2019 obligations and shall not be limited or prejudiced by any investigation made by or on behalf of the Agents in connection with the distribution of the Offered Shares.",
+    "ollama_generated": "15. Persistence of Representations and Warranties\nThe representations, warranties, obligations, and agreements of the Corporation, as detailed within this Agreement, any certificates delivered under this Agreement, or related to the transaction involving the purchase and sale of the Offered Shares, will persist beyond the completion of such transactions. This survival applies regardless of the Agent's payment for the Offered Shares, if any, and the transfer of those shares. These representations, warranties, obligations, and agreements will remain in full force and effect, unaffected by the termination of the Agents' responsibilities. Any investigation conducted by or on behalf of the Agents regarding the distribution of the Offered Shares shall not limit or prejudice these persisting commitments.",
+    "contradiction_score": 0.004829365760087967,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 71,
+    "start_char": 75509,
+    "end_char": 75823,
+    "original": "16. Entire Agreement This Agreement, including any schedules hereto, represents the entire agreement of the parties hereto relating to the subject matter hereof and there are no representations, warranties, covenants or other agreements relating to the subject matter hereof except as stated or referred to herein.",
+    "ollama_generated": "16. All-Inclusive Agreement: This contract, including any attached schedules, constitutes the complete understanding between the parties concerning the specified subject matter. Any representations, warranties, covenants, or other agreements not explicitly expressed or referenced within this contract are expressly excluded.\n\nThis revision slightly alters the original clause by implying that only what is stated or referred to in the contract will be binding, thereby potentially weakening any obligations beyond those explicitly stated. It also provides a more concise and straightforward presentation of the intent of the clause.",
+    "contradiction_score": 0.009836363606154919,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 73,
+    "start_char": 76273,
+    "end_char": 76410,
+    "original": "17. Amendment No modification or amendment to this Agreement may be made unless agreed upon by the Corporation and the Agents in writing.",
+    "ollama_generated": "17. Modification and Amendments: Any proposed modifications or amendments to this Agreement require the mutual consent, in writing, from both parties, namely the Corporation and the Agents. (This implies that one party cannot unilaterally make changes without the other's agreement.)",
+    "contradiction_score": 0.001573374611325562,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 87,
+    "start_char": 79099,
+    "end_char": 79532,
+    "original": "22. Authority of the Lead Agent The Lead Agent is hereby authorized by each of the other Agents to act on its behalf, except in respect of any consent to a settlement pursuant to Section 11(b) which consent shall be given by the Indemnified Party, a notice of termination pursuant to Section 10 which notice may be given by any of the Agents, or any waiver pursuant to Section 10(d), which waiver must be signed by all of the Agents.",
+    "ollama_generated": "22. Delegated Authority of Agents\nEach Agent grants authority to the Lead Agent to act on its behalf, with the exception that consent to a settlement under Section 11(b) shall be given solely by the Indemnified Party, termination notices under Section 10 may be issued by any Agent, and any waiver under Section 10(d) requires signatures from all Agents.\n\nThis revision emphasizes that each agent gives authority to the Lead Agent for most actions, but specific exceptions are noted for settlement consent, termination notices, and waivers, which require involvement of the Indemnified Party or all Agents respectively.",
+    "contradiction_score": 0.024452118203043938,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 106,
+    "start_char": 87475,
+    "end_char": 88216,
+    "original": "7. Neither the Corporation nor any of its predecessors or affiliates has been subject to any order, judgment, or decree of any court of competent jurisdiction temporarily, preliminarily or permanently enjoining such person for failure to comply with Rule 503 of Regulation 8. None of the Corporation, its affiliates or any person on any of their behalf (other than the Agents, the U.S. Affiliates, or any members of the banking and selling group formed by them, or any person acting on any of their behalf, as to whom the Corporation makes no representation, warranty, covenant or acknowledgment) has taken or will take any action that would constitute a violation of Regulation M under the U.S. Exchange Act in connection with the Offering.",
+    "ollama_generated": "7. No court of competent jurisdiction has ever issued an order, judgment, or decree against the Corporation, its predecessors, or affiliates, enjoining them for non-compliance with Rule 503 of Regulation 8 on a temporary, preliminary, or permanent basis. It is hereby declared that, except for the Agents, U.S. Affiliates, members of the banking and selling group formed by them, or any individual acting on their behalf (for whom the Corporation makes no representations, warranties, covenants, or acknowledgments), neither the Corporation, its affiliates, nor any person acting on their behalf will engage in actions that would result in a violation of Regulation M under the U.S. Exchange Act with respect to the Offering. However, it is understood that the Corporation does not guarantee compliance by any third parties not explicitly mentioned in this clause.",
+    "contradiction_score": 0.04475002735853195,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 110,
+    "start_char": 90019,
+    "end_char": 90300,
+    "original": "12. The Corporation will notify the Agents, in writing, prior to the Closing Date of (i) any Disqualification Event relating to any Issuer Covered Person and (ii) any event that would, with the passage of time, become a Disqualification Event relating to any Issuer Covered Person.",
+    "modified": "12. The Agents shall be notified, in writing, by the Corporation, following the Closing Date, of any Disqualification Event or any event that could potentially develop into a Disqualification Event, concerning any Issuer Covered Person, with the understanding that such notification is intended to allow sufficient time for the Agents to take appropriate action, if necessary.\n\nThis revised clause shifts the responsibility slightly from the Corporation to the Agents, indicating that the Agents should be notified after the Closing Date, and they will have enough time to respond if a Disqualification Event occurs or could potentially occur in the future regarding any Issuer Covered Person.",
+    "contradiction_score": 0.8452441692352295,
+    "kept": true
+  },
+  {
+    "clause_index": 113,
+    "start_char": 91650,
+    "end_char": 92283,
+    "original": "2. It has not entered and will not enter into any contractual arrangement with respect to the offer and sale of the Offered Shares, except with its U.S. Affiliate, any selling group members or with the prior written consent of the Corporation. It shall require its U.S. Affiliate and each selling group member to agree, for the benefit of the Corporation, to comply with, and shall use its reasonable best efforts to ensure that its U.S. Affiliate and each selling group member complies with, the provisions of this Schedule applicable to the Agent as if such provisions applied to such U.S. Affiliate and such selling group members.",
+    "ollama_generated": "2. The Party shall not engage in any contractual agreements pertaining to the Offered Shares, save for those with its U.S. Affiliate, any associated selling groups, or upon obtaining prior written approval from the Corporation. The Party shall seek commitments from its U.S. Affiliate and every member of the selling group, in the interest of the Corporation, to adhere to and make reasonable endeavors to ensure compliance with Schedule provisions that apply to the Agent, as if such provisions were applicable to the U.S. Affiliate and the selling group members themselves.\n\nIn this revised clause, I've aimed to maintain professional tone while slightly altering the obligation of the Party to seek commitments rather than requiring them directly. This puts a more passive emphasis on the Party's role in securing compliance from its affiliates and selling group members.",
+    "contradiction_score": 0.015798065811395645,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 114,
+    "start_char": 92283,
+    "end_char": 92968,
+    "original": "3. All offers of Offered Shares in the United States shall be made only by the Lead Agent through its U.S. Affiliate, which on the dates of such offers and subsequent sales by the Corporation was and will be duly registered as a broker-dealer under the U.S. Exchange Act and under all applicable state securities laws (unless exempt from the registration requirements thereof) and a member of, and in good standing with, the Financial Industry Regulatory Authority, Inc. The U.S. Affiliate will make all offers and arrange for all sales by the Corporation of Offered Shares in compliance with all applicable United States federal and state broker-dealer requirements and this Schedule.",
+    "ollama_generated": "3. The Corporation may only offer Offered Shares within the United States through its U.S. Affiliate, who shall be responsible for ensuring registration as a broker-dealer under the U.S. Exchange Act and all applicable state securities laws (excluding instances where such registration is explicitly exempted). The U.S. Affiliate, while maintaining membership with the Financial Industry Regulatory Authority, Inc. and being in good standing, will be responsible for making all offers and arranging sales of Offered Shares. Compliance with all applicable United States federal and state broker-dealer requirements and this Schedule shall remain the responsibility of the Corporation.",
+    "contradiction_score": 0.01651722379028797,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

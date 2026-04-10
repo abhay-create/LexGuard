@@ -1,0 +1,139 @@
+[
+  {
+    "clause_index": 5,
+    "start_char": 707,
+    "end_char": 924,
+    "original": "RECITALS a.The Manufacturer wishes to appoint the Customer to be the sole and exclusive agent for the promotion, sales, marketing distribution and administration of the Products listed in schedule A of this agreement.",
+    "ollama_generated": "RECITALS b. The Customer desires to be appointed as the single and irrevocable representative by the Manufacturer for the purpose of promoting, selling, marketing, distributing, and administering the Products detailed in Schedule A of this agreement, with the exclusive authority granted to them.\n\nThis revised clause maintains a professional tone but slightly shifts the focus from the manufacturer's desire to appoint the customer as their agent to the customer's desire to represent the manufacturer. Additionally, the word \"irrevocable\" adds an element of permanence to the appointment and grants more power to the customer.",
+    "contradiction_score": 0.0733058899641037,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 10,
+    "start_char": 1533,
+    "end_char": 2087,
+    "original": "ODM Supply Agreement 2 Organic Preparations INC. & Agape ATP International Holding Limited Source: AGAPE ATP CORP, 10-K/A, 12/2/2019 2. PROVISION OF DOCUMENTATION 2.1 Provision by the Manufacturer The Manufacturer agrees to supply to the Customer, within a reasonable period of time, all documentation and information relating to the Products and their Manufacture as is required for the registration of the Products in the Territories as listed in Schedule C of this document. The party responsible for documentation fees and costs will be the Customer.",
+    "modified": "Clause:\nODM Supply Agreement 2 Organic Preparations INC. & Agape ATP International Holding Limited Source: AGAPE ATP CORP, 10-K/A, 12/2/2019\n\n2. REQUEST AND PROVISION OF DOCUMENTATION\n2.1 Documentation Requirements by the Customer\nThe Customer shall have the right to request from the Manufacturer, within a reasonable period of time, all documentation and information relating to the Products and their Manufacture as may be necessary for the registration of the Products in the Territories as listed in Schedule C of this document. The Manufacturer shall bear the costs and fees associated with the provision of such documentation.\n\nIn this revised clause, the Customer now has the right to request documentation from the Manufacturer, who will then be responsible for the related costs and fees. This slightly shifts the responsibility towards the Manufacturer in terms of providing required documentation and bearing the associated costs.",
+    "contradiction_score": 0.5933130383491516,
+    "kept": true
+  },
+  {
+    "clause_index": 12,
+    "start_char": 2388,
+    "end_char": 2722,
+    "original": "3. COVENANTS BY THE MANUFACTURER 3.1 Compliance with Local Laws and Regulations The Manufacturer covenants that it is and will remain for the term of this agreement in compliance with any and all Local Laws and Regulations. This includes without limitation laws relating to business practice, workplace relations, safety and taxation.",
+    "ollama_generated": "3.1 Obligations Concerning Compliance with Local Laws and Regulations\nThe Manufacturer agrees that for the duration of this agreement, it shall strive to comply with all applicable Local Laws and Regulations pertaining to business practices, workplace relations, safety, and taxation. However, any non-compliance arising from a change in the law or regulation during the term of this agreement shall not constitute a breach of this agreement provided that the Manufacturer takes reasonable steps towards achieving compliance as soon as reasonably practicable.",
+    "contradiction_score": 0.009973869659006596,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 20,
+    "start_char": 4209,
+    "end_char": 4431,
+    "original": "3.6 Sale of Product The Manufacturer covenants not to sell any product listed in this agreement, or product name (as listed in schedule A of this agreement) to any other party without prior written consent of the Customer.",
+    "ollama_generated": "3.6 Unauthorized Product Sales\nThe Customer reserves the right to prohibit the Manufacturer from selling, without prior written notice, any product identical or substantially similar to those listed in this agreement or products bearing names identical or similar (as detailed in Schedule A of this agreement) to any third party, unless such sale has been explicitly approved by the Manufacturer.",
+    "contradiction_score": 0.25013741850852966,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 21,
+    "start_char": 4431,
+    "end_char": 4757,
+    "original": "4. COVENANTS BY THE CUSTOMER 4.1 Compliance with Local Laws and Regulations The Customer covenants that it is and will remain for the term of this agreement in compliance with any and all Local Laws and Regulations. This includes without limitation laws relating to business practice, workplace relations, safety and taxation.",
+    "modified": "4.1 Exemption from Compliance Obligation\nThe Company grants the Customer an exemption from the obligation to comply with any and all Local Laws and Regulations during the term of this agreement. This exemption includes without limitation laws relating to business practice, workplace relations, safety, and taxation, provided that the Customer assumes full responsibility for any non-compliance and its resulting consequences.",
+    "contradiction_score": 0.8997491598129272,
+    "kept": true
+  },
+  {
+    "clause_index": 25,
+    "start_char": 5564,
+    "end_char": 5831,
+    "original": "The Customer agrees to pay freight, insurance and any associated expenses. The Customer agrees to help the Manufacturer select the most appropriate carrier for each of the Territories. All freight, insurance, and other shipping expenses shall be paid by the Customer.",
+    "ollama_generated": "The Manufacturer reserves the right to choose carriers for delivery within each Territory. The selected carrier's associated costs, including freight, insurance, and any additional expenses, will be borne by the Customer. However, we encourage open communication between parties for optimal carrier selection.",
+    "contradiction_score": 0.014962363056838512,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 28,
+    "start_char": 6325,
+    "end_char": 6646,
+    "original": "(i) request to destroy in field for credit of the value of the defective product and the associated shipping costs (with approval), or (ii) request a Return Material Authorization (\u201cRMA\u201d) number and within seven (7) days of receipt of the RMA number from the Manufacturer return such rejected Product to the Manufacturer.",
+    "ollama_generated": "The clause can be rewritten as follows:\n\n(i) The Manufacturer may approve a request for on-site destruction of the defective product and related shipping costs, or (ii) they may provide a Return Material Authorization (\u201cRMA\u201d) number, upon which you shall return the rejected Product to the Manufacturer within seven (7) days of receiving the RMA number.\n\nIn this version, the obligation is shifted towards the Manufacturer by specifying that they may approve the on-site destruction or provide an RMA number, and the recipient is obligated to return the product if an RMA number is provided.",
+    "contradiction_score": 0.010000462643802166,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 32,
+    "start_char": 7157,
+    "end_char": 7239,
+    "original": "(i) 50% of the Total Order Cost must be paid on placement of the customer\u2019s order.",
+    "ollama_generated": "(i) The customer is only required to pay 50% of the Total Order Cost upon confirmation of their order submission, with the remaining balance due prior to shipment.",
+    "contradiction_score": 0.36974531412124634,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 35,
+    "start_char": 8103,
+    "end_char": 8341,
+    "original": "6.2 The Customer shall at all times during the term of this agreement maintain product liability insurance, covering all products sold by the Manufacturer to the Customer and which policy shall name the Manufacturer as Additional Insured.",
+    "modified": "6.2 For the duration of this agreement, it is the Manufacturer's responsibility to ensure that the Customer maintains a valid product liability insurance policy, covering all products supplied by the Manufacturer to the Customer. The Manufacturer shall be added as an Additional Insured under this policy.",
+    "contradiction_score": 0.926200807094574,
+    "kept": true
+  },
+  {
+    "clause_index": 41,
+    "start_char": 9506,
+    "end_char": 9696,
+    "original": "(c) On either party for any reason (other than a default of the other party) being substantially prevented from performing or becoming unable to perform its obligations under this agreement.",
+    "ollama_generated": "(c) Neither party shall be held liable if, due to circumstances beyond their control (except for the default of the other party), they are significantly impeded or rendered incapable of fulfilling their duties as outlined in this agreement.",
+    "contradiction_score": 0.0030138157308101654,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 42,
+    "start_char": 9706,
+    "end_char": 9828,
+    "original": "(d) On either party assigning or attempting to assign this agreement without the prior written consent of the other party.",
+    "ollama_generated": "(d) In the event that either party intends to transfer or seeks to delegate their rights under this agreement, such action shall only be permissible following a written approval from the non-transferring party, prior to any such assignment or delegation.",
+    "contradiction_score": 0.013695522211492062,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 45,
+    "start_char": 10363,
+    "end_char": 10536,
+    "original": "The termination of this agreement shall be without prejudice to the rights of either party to payment or other claims due or accrued up to the termination of this agreement.",
+    "ollama_generated": "Upon the termination of this agreement, both parties retain the unimpaired right to seek and collect any payments or claims that have arisen or may arise prior to such termination.",
+    "contradiction_score": 0.0012166615342721343,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 74,
+    "start_char": 18850,
+    "end_char": 19016,
+    "original": "Signature ______________ Name How Kok Choong ________ ______________ Common Seal of Agape ATP International Holding Limited Date 31 JANAURY, 2018 In the presence of :",
+    "ollama_generated": "Clause:\nDate: 31 JANUARY, 2018\nName: How Kok Choong\nSignature ______________\nCommon Seal of Agape ATP International Holding Limited\nWitnessed by:\n\nIn the presence of:\n\nThis modification keeps the same information but places a stronger emphasis on the witness to the signing, suggesting a heightened level of verification and accountability for the presence of How Kok Choong at the time of signing.",
+    "contradiction_score": 0.02933994121849537,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 81,
+    "start_char": 20456,
+    "end_char": 20612,
+    "original": "Global \u2013 All countries ODM Supply Agreement 13 Organic Preparations INC. & Agape ATP International Holding Limited Source: AGAPE ATP CORP, 10-K/A, 12/2/2019",
+    "ollama_generated": "Title: Global - All Countries ODM Supply Agreement\nBetween: Organic Preparations Inc. and Agape ATP International Holding Limited (hereinafter referred to as \"Supplier\") and Agape ATP Corporation (hereinafter referred to as \"Purchaser\")\nReference: Agape ATP Corp, 10-K/A, 12/2/2019\n\nRewritten Clause:\n\nIn the event that either party fails to meet their contractual obligations or encounters any unforeseen circumstances that might impact the performance of this agreement, it shall be the responsibility of the affected party to promptly notify and collaborate with the other to find a mutually acceptable solution. This clause is intended to ensure flexibility and understanding in our business relationship.\n\nThe original clause has been rewritten to shift some responsibility from both parties in case of failure to meet contractual obligations or unforeseen circumstances. The new clause places an emphasis on collaboration and finding mutually acceptable solutions when faced with such situations, fostering a more cooperative and understanding business relationship.",
+    "contradiction_score": 0.003045502584427595,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

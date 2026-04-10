@@ -1,0 +1,159 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 224,
+    "end_char": 776,
+    "original": "STREMICK HERITAGE FOODS, LLC and PREMIER NUTRITION CORPORATION MANUFACTURING AGREEMENT THIS MANUFACTURING AGREEMENT (the \u201cAgreement\u201d) is made this first day of July, 2017 (the \u201cEffective Date\u201d) between Stremicks Heritage Foods, LLC (\u201cHeritage\u201d), a Delaware limited liability company with an address of 4002 Westminster Avenue, Santa Ana, CA 92703 and PREMIER NUTRITION CORPORATION (\u201cPremier\u201d), a Delaware corporation with a principal place of business at 5905 Christie Avenue, Emeryville, California 94608 (each a \u201cParty\u201d, collectively, the \u201cParties\u201d).",
+    "ollama_generated": "MANUFACTURING AGREEMENT BETWEEN PREMIER NUTRITION CORPORATION AND STREMICK HERITAGE FOODS, LLC (the \"Agreement\") was executed on the first day of July, 2017 (the \"Commencement Date\"). This Agreement is entered into by and between PREMIER NUTRITION CORPORATION (\"Premier\"), a Delaware corporation with its principal place of business at 5905 Christie Avenue, Emeryville, California 94608, and STREMICK HERITAGE FOODS, LLC (\"Heritage\"), a Delaware limited liability company with an address of 4002 Westminster Avenue, Santa Ana, CA 92703 (each referred to as a \"Party\" and collectively as the \"Parties\").\n\nIn this agreement, any obligations or responsibilities assigned to either party may be delegated to a third party, with prior written consent from the other party, unless explicitly stated otherwise.",
+    "contradiction_score": 0.043420083820819855,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 9,
+    "start_char": 4425,
+    "end_char": 5717,
+    "original": "(e) [***] (f) [***] (g) Within [***] of each calendar month during the Term, Premier shall provide to Heritage a [***] rolling production forecast which shall set forth Premier\u2019s non-binding  good faith estimated purchases (each, a \u201cForecast\u201d) for the [***] period commencing on the date thereof (the \u201cForecast Delivery Date\u201d). Each Forecast shall also designate which Facility shall manufacture the Products set forth in such Forecast (i.e. Heritage\u2019s [***] Facility, Jasper\u2019s [***] Facility, or some other facility agreed to by the Parties). Heritage shall notify Premier, in writing (or email), within [***] of each Forecast Delivery Date, if Heritage\u2019s or Jasper\u2019s Facilities will not be able to fulfill Premier\u2019s estimated purchases as set out in the [***] of such Forecast. For the avoidance of doubt, the [***] are Source: BELLRING BRANDS, INC., S-1, 9/20/2019 the [***] immediately following the Forecast Delivery Date. If Heritage notifies Premier that it can fulfill Premier\u2019s Forecast for this [***] period, or if it fails to notify Premier that it cannot fulfill that portion of the Forecast, Heritage shall be obligated to fulfill, or cause Jasper to fulfill as applicable, if ordered through POs, the full amount of Product set forth for purchase during [***] (\u201cFirm Forecast\u201d).",
+    "ollama_generated": "(e) During each calendar month of the Term, Premier is required to deliver to Heritage a rolling production forecast, which serves as a non-binding good faith estimate of potential purchases (each, a \"Forecast\") for the subsequent [***] period, effective from the Forecast Delivery Date. Each Forecast will specify the facility responsible for manufacturing the Products listed in such Forecast (either Premier's own facility, Jasper's facility, or an agreed-upon third party facility).\n\nWithin [***] of each Forecast Delivery Date, Heritage or Jasper shall notify Premier, in writing (or email), if their respective facilities are unable to meet the estimated product demand as stated in the relevant portion of the Forecast. It is clarified that the periods referenced herein are the [***], as detailed in BELLRING BRANDS, INC., S-1, dated September 20, 2019.\n\nIf Heritage or Jasper fail to notify Premier that they cannot fulfill the Forecast for a given period, or if they confirm their ability to do so, they will be bound to deliver, or cause Premier to procure through purchase orders, the full quantity of Products specified in the \"Firm Forecast\" for the relevant period.",
+    "contradiction_score": 0.18176132440567017,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 14,
+    "start_char": 6526,
+    "end_char": 7550,
+    "original": "(j) Within [***] of receipt of a PO, Heritage shall (i) provide to Premier email confirmation of acceptance of the PO, a schedule of production and an estimated production completion date (the \u201cEstimated Completion Date\u201d), or (ii) notify Premier if any term of the PO cannot be met. Heritage\u2019s failure to notify Premier, within the time specified herein, of an inability to meet a term of the PO shall constitute acceptance of such PO in its entirety. If Heritage notifies Premier that it or Jasper cannot meet the Due Date, the Parties shall discuss an acceptable alternate date on which production will commence (the \u201cProduction Date\u201d). Once a Due Date is accepted or a Production Date is mutually agreed upon, Heritage shall, or shall cause Jasper to, use all commercially reasonable efforts to start production on or before the Due Date (or Production Date, as applicable), but in no case more than [***] earlier or later than the Due Date (or Production Date, as applicable) unless mutually agreed otherwise by Premier.",
+    "ollama_generated": "(j) Upon receipt of a Purchase Order (PO) from Premier, Heritage will have [***] to respond with an email confirming acceptance of the PO and providing both a production schedule and an estimated completion date (the \"Estimated Completion Date\"). If Heritage is unable to meet any term of the PO, they will notify Premier immediately. Failure by Heritage to notify Premier, within the specified timeframe, of their inability to meet a term of the PO shall be deemed as acceptance of the PO in its entirety by Heritage. In case Heritage or Jasper inform Premier that they cannot meet the required delivery date (Due Date), both parties will collaborate to determine an alternative production start date (the \"Production Date\"). Once the Due Date is accepted or a Production Date has been mutually agreed upon, Heritage shall make every reasonable commercial effort, but not more than [***] earlier or later than the agreed-upon date, to commence production. Any deviation from this timeline requires Premier's mutual agreement.",
+    "contradiction_score": 0.007714095059782267,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 19,
+    "start_char": 10535,
+    "end_char": 10577,
+    "original": "(o) Heritage represents and warrants that:",
+    "modified": "(p) The Client warrants and represents that they shall indemnify and hold harmless Heritage against any claims, damages, or liabilities arising from a breach of this agreement regarding the authenticity, ownership, or intellectual property rights of the items provided by the Client.\n\nChanges made:\n- Shifted responsibility to the Client (instead of Heritage)\n- Inverted the condition to a promise of indemnification for any claims arising from a breach\n- Made the warranty more specific to the authenticity, ownership, and intellectual property rights of items provided by the Client.",
+    "contradiction_score": 0.6755052804946899,
+    "kept": true
+  },
+  {
+    "clause_index": 25,
+    "start_char": 14189,
+    "end_char": 14727,
+    "original": "Source: BELLRING BRANDS, INC., S-1, 9/20/2019 (q) Heritage will keep, and will ensure that Jasper keeps [***] complete and accurate records in connection with each unique production lot of Products with respect to manufacturing practices, quality assurance measures, analytical procedures and their resultant data. Such records shall include at least those listed on attached Schedule B. Upon reasonable notice, Heritage shall allow, and Heritage shall ensure that Japer allows, Premier access to such records during normal working hours.",
+    "ollama_generated": "Clause:\nIn the BELLRING BRANDS, INC., S-1 filing dated 9/20/2019 (q), it is understood that Jasper will maintain and ensure the completeness and accuracy of records associated with each unique production lot of Products, pertaining to manufacturing practices, quality assurance measures, analytical procedures, and their corresponding data. These records must include at least those specified in Schedule B. Upon a reasonable request, Jasper shall grant, and shall guarantee that Heritage is granted, access to such records during regular business hours by Premier.\n\nThis revised clause shifts the responsibility of allowing access to the records from Heritage to Jasper while maintaining the requirement for Heritage to ensure access upon request.",
+    "contradiction_score": 0.04624249413609505,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 29,
+    "start_char": 15401,
+    "end_char": 16135,
+    "original": "(d) For Product produced at Jasper facilities, Jasper shall invoice Premier on the date Jasper issues a Certificate of Analysis (COA) for those Products. Payment terms for these Product invoices shall be [***]. For Product produced at Heritage facilities, Heritage shall invoice Premier on the date the Products are loaded onto Premier\u2019s carrier. Payment terms for all these Product invoices shall be [***]. Failure by Premier to meet payment terms of any invoice shall result in interest being imposed on any unpaid balance at the rate of [***] per month, pro rata on a daily basis for partial months, accrued from its due date or in the event such rate exceeds that permitted to be charged by law, the maximum rate permitted by law.",
+    "ollama_generated": "(d) Invoicing arrangements will differ based on the production facilities of the Product:\n\nFor Products manufactured at Jasper facilities, Premier shall receive an invoice from Jasper upon issuance of a Certificate of Analysis (COA). The payment terms for these invoices shall be as specified in our agreed-upon contract. For Products produced at Heritage facilities, Premier will be responsible for being invoiced by Heritage once the Products are loaded onto Premier's carrier. The payment terms for these invoices will also adhere to our mutually agreed contractual terms.\n\nShould Premier fail to meet the payment terms stipulated in any invoice, interest will accrue on any outstanding balance at a monthly rate of [***], proportionally for partial months. This interest will commence from the due date or, if such rate exceeds the maximum permitted by law, Premier will be charged the legal maximum rate.\n\nIn this revised clause, the responsibility for invoicing has been shifted from the manufacturer to Premier when products are produced at Heritage facilities. Additionally, the obligation to meet payment terms has been placed on Premier rather than Jasper. Lastly, the interest rate has remained the same but is now charged only when Premier fails to meet the payment terms, instead of the initial clause which implied an ongoing interest charge from the date of invoice.",
+    "contradiction_score": 0.41501128673553467,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 32,
+    "start_char": 17721,
+    "end_char": 18122,
+    "original": "(b) Premier agrees to issue shipping instructions in full pallet increments of [***] and Heritage agrees to make the Products available for shipping within [***]. Heritage shall ship oldest Products first, unless otherwise directed in writing by Premier. Release of Products shall only be from inventory that has completed any required incubation period and Heritage quality control release protocols.",
+    "modified": "(b) Heritage is empowered to prepare shipping instructions in full pallet increments of [***], with an expectation that Premier will make themselves ready to receive the shipment within [***]. Premier shall have the discretion to decide the order of shipping, unless otherwise instructed in writing by Heritage. The release of Products will be permitted solely from inventory that has successfully completed any required incubation period and Heritage quality control approvals, with the responsibility for such compliance resting on Heritage.",
+    "contradiction_score": 0.8417514562606812,
+    "kept": true
+  },
+  {
+    "clause_index": 37,
+    "start_char": 18930,
+    "end_char": 19074,
+    "original": "2. Monthly Inventory Reports at Supplier\u2019s end of fiscal month to include a. Inventory on hand, b. Inventory on hold, and c. Inventory adjusted.",
+    "modified": "2. At the beginning of each fiscal month, the Supplier shall provide Monthly Inventory Reports, which should encompass a. Current inventory levels, b. Pending inventory, and c. Any inventory adjustments made since the previous report submission.",
+    "contradiction_score": 0.9935117363929749,
+    "kept": true
+  },
+  {
+    "clause_index": 47,
+    "start_char": 23403,
+    "end_char": 23987,
+    "original": "(c) The Party seeking indemnification shall promptly notify the other Party hereto in writing of any suit, claim, or damage for which such Party has notice and to which these provisions may apply. In the event suit is commenced, the indemnifying Party shall have the right to control the defense of any such suit at its own cost. The appearance of the indemnifying Party in such proceeding shall not be construed as an admission of liability and shall not constitute a waiver of any of its rights, including, but not limited to, the indemnifying Party\u2019s right to hire its own counsel.",
+    "ollama_generated": "(c) The Party receiving indemnity is obligated to promptly provide written notice to the other Party in the event they become aware of any lawsuit, claim, or damage that may potentially be covered by these provisions. Should litigation ensue, the indemnifying Party retains the authority to manage the defense at their own expense. The involvement of the indemnifying Party in such proceedings should not be interpreted as an acknowledgment of liability and shall not imply a relinquishment of any rights, including the prerogative to appoint separate legal representation.\n\nThis revised clause maintains the original meaning but shifts the responsibility for providing notice slightly towards the indemnified party, and emphasizes the indemnifying party's control over the defense and their right to hire separate counsel.",
+    "contradiction_score": 0.03603189066052437,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 49,
+    "start_char": 24471,
+    "end_char": 24606,
+    "original": "(b) Heritage and Jasper shall maintain insurance of the following kinds and in the following amounts during the Term of this Agreement:",
+    "ollama_generated": "(b) It is hereby stipulated that the obligation falls upon Jasper and Heritage to ensure that they carry insurance policies covering the specified types and with the prescribed minimum levels of coverage, throughout the duration of this Agreement. In the event of any discrepancy, it shall be incumbent upon them to promptly rectify such deficiencies.",
+    "contradiction_score": 0.0008713850984349847,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 50,
+    "start_char": 24606,
+    "end_char": 24893,
+    "original": "i. Commercial General Liability Insurance with a limit of $[***] each occurrence and $[***] in the aggregate, including Contractual, Completed-Operations and Product-Liability Coverage with a limit of $[***] for each occurrence, covering both bodily injury and property damage liability.",
+    "ollama_generated": "Clause:\ni. The Contractor shall maintain Commercial General Liability Insurance coverage, with a limit of $[***] per incident and an aggregate limit of $[***], encompassing Contractual, Completed-Operations, and Product-Liability protection, also covering both bodily injury and property damage liabilities. However, the insurance policy shall indemnify the Owner against claims only up to a limit of $[***] for each occurrence related to product liability, contractual obligations, or completed operations.\n\nIn this rewritten clause, the liability coverage has been shifted from covering both parties (Contractor and Owner) to primarily covering the Owner, with a lower limit on the Contractor's responsibility for product liability, contractual obligations, or completed operations.",
+    "contradiction_score": 0.029181167483329773,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 55,
+    "start_char": 26557,
+    "end_char": 26595,
+    "original": "Certificate holder language must read:",
+    "ollama_generated": "Certificate issuer shall specify:\n\n\"The language to be used on the certificate holder's behalf shall clearly state:\"",
+    "contradiction_score": 0.007655647583305836,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 62,
+    "start_char": 32022,
+    "end_char": 32532,
+    "original": "and Premier shall remain as an additional insured on the Heritage\u2019s policies, for [***]. If either Party shall file a voluntary petition in bankruptcy, be declared bankrupt, make an assignment for the benefit Source: BELLRING BRANDS, INC., S-1, 9/20/2019 of the creditors, or suffer the appointment of a receiver or a trustee of its assets, that Party shall be in breach of this Agreement and the other Party shall have the right to terminate this Agreement by giving written notice to take effect immediately.",
+    "ollama_generated": "The counterparty, Heritage, shall retain Premier as an additional insured on their policies, for [***]. However, if either Party voluntarily files for bankruptcy, is declared bankrupt, initiates a creditor assignment, or experiences the appointment of a receiver or trustee over its assets, the responsible Party will be deemed in default under this Agreement. Consequently, the non-defaulting Party shall possess the authority to terminate this Agreement upon providing written notice, with immediate effect.",
+    "contradiction_score": 0.019635839387774467,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 65,
+    "start_char": 34492,
+    "end_char": 35168,
+    "original": "13. NOTICES Except as otherwise expressly set forth in this Agreement, all consents, authorizations, agreements, approvals, notices, demands and other communications to be given or delivered under or by reason of the provisions of this Agreement shall be in writing and shall be deemed to have been given when delivered personally or by documented overnight delivery services, or sent by facsimile or other electronic transmission service provided they are sent in a manner that provides confirmation of their receipt. Notices, demands, and communications to the respective Parties shall, unless another address is specified in writing, be sent to the address indicated below:",
+    "ollama_generated": "Clause 13: NOTICES\n\nUnless otherwise specified within this Agreement, all consents, authorizations, agreements, approvals, notices, demands, and other communications required or resulting from this Agreement's provisions shall be in written form. However, for the purpose of this clause, electronic transmissions are considered as valid as written documents, provided they offer confirmation of receipt, such as email with read receipt, or other recognized digital communication services.\n\nParties involved will receive notices, demands, and communications at the addresses below, unless otherwise explicitly communicated in writing. Any changes to these addresses shall be duly notified following this process:\n\n[Addresses of the respective Parties]\n\nIn contrast to the original clause, the rewritten version shifts the onus of confirming receipt of electronic communications from the sender to the recipient and allows for email communication with read receipts as a valid form of written notice. Additionally, it establishes that any changes in address must be communicated following the specified process, making the responsibility of updating addresses clearer.",
+    "contradiction_score": 0.16732925176620483,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 72,
+    "start_char": 35805,
+    "end_char": 36100,
+    "original": "15. NO WAIVER The failure of either Party to assert a right hereunder or to insist upon compliance with any terms or condition of this Agreement shall not constitute a waiver of that right or excuse the subsequent performance or non-performance  of any such term or condition by the other Party.",
+    "ollama_generated": "15. NO IMPLIED WAIVER Neither Party's neglect to exercise, nor their delay in exercising, any rights under this Agreement shall be construed as a waiver of those rights, nor will it absolve either Party from their future performance or non-performance of any terms or conditions outlined within this Agreement.",
+    "contradiction_score": 0.004958420991897583,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 79,
+    "start_char": 41365,
+    "end_char": 41587,
+    "original": "[Signature  Page Next Following] Source: BELLRING BRANDS, INC., S-1, 9/20/2019 IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed by a duly authorized officer on the day and year first above written.",
+    "ollama_generated": "[Last Page Preceding Signature]\nSource: BELLRING BRANDS, INC., S-1, 9/20/2019\nIN WITNESS WHEREOF, this Agreement has been executed by a duly authorized officer on the day and year preceding this statement. The Parties, in turn, have authorized the execution of this document.\n\nChanges made:\n1. The clause now refers to the last page preceding the signature instead of the next following. This subtle shift implies that the signature page is included in the count of pages, making it the second-last page, rather than the last one.\n2. The order of the Parties' actions has been reversed: they have first authorized the execution and then executed this document, implying a slight change in the responsibilities assigned to each party regarding the signing process.",
+    "contradiction_score": 0.09785738587379456,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

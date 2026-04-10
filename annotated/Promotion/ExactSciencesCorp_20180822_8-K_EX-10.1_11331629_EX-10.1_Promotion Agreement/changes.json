@@ -1,0 +1,613 @@
+[
+  {
+    "clause_index": 4,
+    "start_char": 3860,
+    "end_char": 4085,
+    "original": "NOW THEREFORE, in consideration of the mutual promises and covenants set forth below and other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the Parties hereby agree as follows:",
+    "ollama_generated": "IN CONSIDERATION of the mutual assurances and undertakings detailed below, as well as other worthy and substantial considerations, the existence and validity of which are hereby recognized, the Parties mutually consent to the terms outlined below:\n\nThis subtle modification shifts the focus from promises and covenants (which can be seen as obligations) to mutual assurances and undertakings (which have a softer, less binding connotation). This alteration may suggest a slightly more flexible or negotiable relationship between the parties involved.",
+    "contradiction_score": 0.0025443846825510263,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 23,
+    "start_char": 8062,
+    "end_char": 8829,
+    "original": "1.18  \u201cChange of Control \u201d shall mean, with respect to a Party: (a) the sale of all or substantially all of such Party\u2019s assets or business relating to the subject matter of this Agreement\u037e (b) a merger, reorganization, or consolidation involving such Party in which the holders of voting securities of such Party outstanding immediately Source: EXACT SCIENCES CORP, 8-K, 8/22/2018 prior thereto cease to hold at least fifty percent (50%) of the combined voting power of the surviving entity or acquiring entity (or its parent) immediately after such merger, reorganization, or consolidation\u037e or (c) the acquisition of more than fifty percent (50%) of the voting equity securities of such Party as a result of a single transaction or a series of related transactions.",
+    "ollama_generated": "1.18 The term \"Transfer of Control\" shall pertain, in reference to a Party, as follows: (a) the disposition of nearly all or essentially all of such Party's assets or operations associated with the matters outlined in this Agreement; (b) a merger, reorganization, or consolidation wherein the voting securities held by the current stockholders of such Party constitute less than fifty percent (50%) of the combined voting power in the surviving entity or acquiring entity (or its parent) post-combination; or (c) the procurement of over fifty percent (50%) of the voting shares of such Party due to a singular transaction or a sequence of related transactions, with the responsibility for control shifting predominantly towards the new shareholders.",
+    "contradiction_score": 0.024781158193945885,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 25,
+    "start_char": 8897,
+    "end_char": 8964,
+    "original": "1.20  \u201cClaims \u201d shall have the meaning set forth in Section 6.1(a).",
+    "ollama_generated": "6.1(a) Defines the term \"Claims\" as referred to throughout this agreement.",
+    "contradiction_score": 0.002164633246138692,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 28,
+    "start_char": 9124,
+    "end_char": 9557,
+    "original": "1.23  \u201cCo-Promote Field \u201d shall mean those physicians and practices customarily considered primary care or gastroenterology providers and practices and, subject to Sections 3.1(c)(ii) and 4.2(d), the OB/Gyn Field, in the Territory. For clarity, if Exact, either through its own Sales Representative or by agreement with a Third Party, launches the Product in the OB/Gyn Field, the Co-Promote Field shall not include the OB/Gyn Field.",
+    "ollama_generated": "1.23 The \"Co-Promoted Sphere\" refers to primary care and gastroenterology physicians, practices, and, contingent upon Sections 3.1(c)(ii) and 4.2(d), the OB/Gyn Field, within the defined Territory. Notably, if Exact initiates the Product's introduction in the OB/Gyn Field through its own Sales Representative or via an agreement with a Third Party, the OB/Gyn Field will be excluded from the Co-Promoted Sphere. However, should Exact cease marketing the Product within the OB/Gyn Field, the Co-Promoted Sphere shall encompass the previously excluded OB/Gyn Field, thereby making it subject to collaborative promotional efforts.",
+    "contradiction_score": 0.12895794212818146,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 31,
+    "start_char": 9862,
+    "end_char": 11896,
+    "original": "1.26  \u201cDetail \u201d shall mean a customary face-to-face or non-face-to-face contact of a Sales Representative of a Party with an Eligible Prescriber during which such Sales Representative makes a presentation of certain of the Product\u2019s attributes, such as describing the FDA-approved indicated uses, safety, effectiveness, or other relevant characteristics of the Product, in a fair and balanced manner and in accordance with the requirements of this Agreement and Applicable Law and in a manner that is customary for the purpose of Promoting a prescription medical device subject to pre-market approval, but excluding: (a) any activities performed by any Representative other than a Sales Representative who is not conducting a face-to-face or non-face- to-face sales call, (b) presentations made at conventions or (c) mere delivery of savings cards, coupons or similar items without discussions with an Eligible Prescriber about the Product\u037e provided  that, such measurement shall be on the same basis as the recording Party\u2019s measurement for its Sales Representatives\u2019 detailing of its other medical devices subject to pre-market approval or prescription pharmaceutical products (as applicable), consistently applied throughout the Term. For clarity, non- face-to-face contact shall mean e-detailing, video detailing or other presentation of Promotional Material by a Sales Representative to an Eligible Prescriber via audio, video, internet, using webex or other similar live conference applications, and in all instances that allows for real time, detailed and substantive communication between the Sales Representative and the Eligible Prescriber regarding the Product and would be considered a Detail by Pfizer for its own products under its own guidelines, but shall exclude any such communications, such as telephone calls, during which such detailed and visual Source: EXACT SCIENCES CORP, 8-K, 8/22/2018 exchanges of information do not occur. \u201c Detail ,\u201d when used as a verb, and \u201c Detailing \u201d shall have correlative meanings.",
+    "ollama_generated": "Clause 1.26: The term \"Interaction\" is defined as a standard, either face-to-face or non-face-to-face encounter between a Party's Sales Representative and an Eligible Prescriber. This Interaction involves the delivery of information about specific attributes of the Product, such as its FDA-approved uses, safety, effectiveness, or other relevant characteristics, in a fair and balanced manner, conforming to this Agreement and Applicable Law. The Interaction is primarily aimed at promoting a prescription medical device subject to pre-market approval, excluding: (a) activities undertaken by any representative other than a Sales Representative who is not engaged in a sales call, (b) presentations made at conventions, or (c) the delivery of savings cards, coupons, or similar items without a subsequent discussion with an Eligible Prescriber about the Product. However, it's important to note that this definition aligns with Pfizer's own guidelines for its products, but does not include communication exchanges, such as telephone calls, where detailed and visual discussions do not take place. When used as a verb, \"Interact\" or \"Interacting\" shall bear similar meanings.\n\nThis rewritten clause weakens the obligation slightly by changing the term from \"Detail\" to \"Interaction,\" which may imply a broader range of activities beyond just product presentations. It also provides more flexibility by excluding certain types of communication that do not involve detailed and visual discussions, such as telephone calls. The revised clause still maintains professionalism and clarity while slightly altering the original meaning.",
+    "contradiction_score": 0.1897456794977188,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 32,
+    "start_char": 11900,
+    "end_char": 11974,
+    "original": "1.27  \u201cDisclosing Party \u201d shall have the meaning set forth in Section 7.1.",
+    "ollama_generated": "1.27 The term \"Revealing Entity\" as defined in Section 7.1 shall be applicable.\n\nIn this revised clause, I've changed the noun \"Disclosing Party\" to \"Revealing Entity,\" which subtly alters the tone while maintaining professionalism and clarity. This change does not significantly affect the original clause's meaning but introduces a slight variation in terminology.",
+    "contradiction_score": 0.05777863785624504,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 37,
+    "start_char": 12291,
+    "end_char": 12749,
+    "original": "1.32  \u201cEligible Prescriber \u201d shall mean (a) a health care provider who has the authority to prescribe the Product under Applicable Law and (b) any other health care professional without prescribing authority but who (i) is reasonably believed to assist with patient care and reimbursement for healthcare service in the office of a health care provider who has authority to prescribe the Product under Applicable Law, and (ii) is allowed to receive Promotion.",
+    "ollama_generated": "1.32 The term \"Authorized Prescriber\" shall encompass (a) a healthcare professional duly authorized by law to prescribe the Product, and (b) any other non-prescribing healthcare professional who, while not having the authority to prescribe, is deemed to significantly contribute to patient care and reimbursement for healthcare services within the office of an Eligible Prescriber under Applicable Law, and (c) who is explicitly permitted to partake in Promotion activities.\n\nThis revised clause maintains the original intent but shifts the focus slightly towards requiring the non-prescribing professional to be allowed to participate in promotional activities. It also clarifies that this professional contributes significantly to patient care and reimbursement, emphasizing their role within the office of an Eligible Prescriber.",
+    "contradiction_score": 0.0054764957167208195,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 45,
+    "start_char": 13555,
+    "end_char": 14166,
+    "original": "1.40  \u201cExact Trademarks \u201d shall mean (a) the Trademarks listed on Exhibit 1.39 and the registrations thereof, (b) any pending or future trademark registration applications owned or controlled and used in connection with or intended for use in connection with the Product in the Territory, (c) any unregistered trademark rights used in connection with the Product as may exist through use in the Territory, (d) any current or future modifications or variants of any of the foregoing rights, and (e) any future Trademarks adopted by Exact or its Affiliates for use in connection with the Product in the Territory.",
+    "ollama_generated": "1.40 The term \"Exact Trademarks\" shall encompass (a) the Trademarks listed on Exhibit 1.39 and their registrations, (b) any pending or prospective trademark registration applications owned, controlled, or licensed by Exact or its Affiliates that are not currently registered but intended for use in connection with or relating to the Product in the Territory, (c) any unregistered trademark rights or goodwill associated with the Product arising from their use within the Territory, (d) any current or future modifications or variations of any of the aforementioned rights not explicitly excluded by Exact or its Affiliates, and (e) any new Trademarks adopted by Exact, its Affiliates, or third parties with Exact's permission for use in connection with the Product in the Territory.\n\nThe key changes are:\n- Expanded the scope of trademark rights to include pending or prospective applications that are not currently registered but intended for use in the specified territory (b).\n- Shifted some responsibility from Exact to third parties, allowing them to adopt new Trademarks with Exact's permission (e).",
+    "contradiction_score": 0.003939374815672636,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 48,
+    "start_char": 14333,
+    "end_char": 14480,
+    "original": "Source: EXACT SCIENCES CORP, 8-K, 8/22/2018 1.43  \u201cEx-US Commercial Rights Transfer Notice \u201d shall have the meaning set forth in Section 3.1(c)(i).",
+    "ollama_generated": "Clause:\nRevised: In the context of this agreement, the term \"Notice for Ex-US Commercial Rights Transfer\" as defined in Section 3.1(c)(i) shall be applicable.\n\nIn this revised version, the meaning of the term remains the same, but a slightly more concise and formal tone is used to make it clearer that the term is being defined or referenced within the agreement.",
+    "contradiction_score": 0.19325357675552368,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 49,
+    "start_char": 14484,
+    "end_char": 14587,
+    "original": "1.44  \u201cFDA \u201d shall mean the United States Food and Drug Administration or any successor agency thereto.",
+    "ollama_generated": "1.44 The term \"FDA\" encompasses the United States Food and Drug Administration, or any entity that may assume its responsibilities in the future.\n\nBy adjusting the order of the sentence and using more concise language, the meaning remains the same but reads more naturally for a legal document.",
+    "contradiction_score": 0.0006202192162163556,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 58,
+    "start_char": 16713,
+    "end_char": 16911,
+    "original": "1.53  \u201cGross Margin Percent \u201d shall mean the percentage as determined by multiplying (a) the fractional value of Gross Margin divided by Laboratory Service Revenue by (b) one hundred percent (100%).",
+    "modified": "1.53 The \"Relative Profit Margin\" will be calculated as the proportion obtained by dividing the Gross Margin by the Laboratory Service Revenue, and then multiplying by 100 to express the result as a percentage. In this case, a lower percentage indicates a stronger relative profit margin for the client.",
+    "contradiction_score": 0.7185697555541992,
+    "kept": true
+  },
+  {
+    "clause_index": 66,
+    "start_char": 18144,
+    "end_char": 18208,
+    "original": "1.62  \u201cJRC \u201d shall have the meaning set forth in Section 2.3(a).",
+    "ollama_generated": "1.62 For purposes of this Agreement, the term \"JRC\" as defined in Section 2.3(a) shall apply. (This rewording subtly shifts the responsibility of understanding the meaning of \"JRC\" from the reader to the parties involved.)",
+    "contradiction_score": 0.0007127865683287382,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 68,
+    "start_char": 18273,
+    "end_char": 18346,
+    "original": "1.64  \u201cJSC Co-Chair \u201d shall have the meaning set forth in Section 2.1(b).",
+    "ollama_generated": "1.64 For purposes of this Agreement, the term \"JSC Co-Chair\" as defined in Section 2.1(b) shall be interpreted as referring to an individual or entity who may be assigned such role at any given time. The onus is on the party claiming that a specific JSC Co-Chair has been designated to provide evidence substantiating their claim.",
+    "contradiction_score": 0.005683685652911663,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 71,
+    "start_char": 18489,
+    "end_char": 19629,
+    "original": "1.67  \u201cLaboratory Service Revenue \u201d shall mean, with respect to a particular Calendar Quarter, as applicable, Exact\u2019s revenue earned from performing the Product Laboratory Service in the Territory with regard to patient samples collected in the Territory, subject to Section 4.2(d), as calculated by Exact in accordance with GAAP consistently applied, less the following deductions: (i) trade, quantity or cash discounts, credits, adjustments or allowances, including without limitation those granted in connection with managed care network agreements and those granted on account of price adjustments, billing errors, rejected goods, damaged goods or incomplete tests or other services\u037e (ii) rebates and chargebacks allowed, given or accrued (including, but not limited to, cash, governmental and managed care rebates, hospital or other buying group chargebacks, and governmental taxes in the nature of a rebate based on usage levels or sales of the Product Laboratory Service)\u037e and (iii) patient compliance incentives that are treated as a reduction in revenue in accordance with GAAP, including without limitation gift cards to patients.",
+    "modified": "1.67 \"Laboratory Service Revenue\" is defined, pertaining to a specific Calendar Quarter, as the total income Exact acquires from providing the Product Laboratory Service within the Territory for patient samples gathered in the Territory, under Section 4.2(d) conditions and in accordance with GAAP consistently applied, minus the following additions: (i) trade, quantity or cash discounts, credits, adjustments or allowances, including but not limited to those associated with managed care network agreements and price adjustments, billing errors, rejected goods, damaged goods, or incomplete tests or other services; (ii) rebates and chargebacks received, given or accrued (including, yet not limited to, cash, governmental and managed care rebates, hospital or other buying group chargebacks, and governmental taxes in the nature of a rebate based on usage levels or sales of the Product Laboratory Service); and (iii) patient compliance incentives that, under GAAP, are treated as revenue increases.",
+    "contradiction_score": 0.8837984204292297,
+    "kept": true
+  },
+  {
+    "clause_index": 78,
+    "start_char": 20548,
+    "end_char": 20627,
+    "original": "1.74  \u201cParty \u201d or \u201c Parties \u201d shall have the meaning set forth in the preamble.",
+    "ollama_generated": "1.74 The terms \"Party\" or \"Parties\" as defined within the preamble shall apply to the present agreement. (This change shifts the responsibility slightly, making it clearer that the definitions provided in the preamble also apply to the main body of the contract.)",
+    "contradiction_score": 0.001254015020094812,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 83,
+    "start_char": 22251,
+    "end_char": 22329,
+    "original": "1.79  \u201cPfizer Indemnitee \u201d shall have the meaning set forth in Section 6.1(a).",
+    "ollama_generated": "6.1(a) defines the term \"Indemnified Party by Pfizer,\" which shall hereafter be referred to as the \"Pfizer Indemnitee.\"",
+    "contradiction_score": 0.006004562601447105,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 92,
+    "start_char": 24401,
+    "end_char": 25404,
+    "original": "1.88  \u201cPromotion \u201d shall mean (a) those activities customarily undertaken by a Party\u2019s field sales representatives in the Territory to encourage the approved use of a particular prescription medical device (or prescription pharmaceutical medicine as applicable) subject to pre-market approval (or other regulatory approval, as applicable), including detailing, and (b) any other activities customarily undertaken by a Party aimed at encouraging the approved use of a particular prescription medical device subject to pre-market authorization approval, including without limitation, healthcare professional peer-to-peer communication, communications of product benefits to IDNs, the creation and use of promotional materials, Marketing, meetings and events (including without limitation speaker bureau events), trade shows, advocacy activities, including with respect to guideline organizations, and sponsorships. The terms \u201c Promote \u201d, \u201cPromoting \u201d and \u201c Promotional \u201d shall have corresponding meanings.",
+    "modified": "Clause 1.88: The term \"Marketing Initiatives\" encompasses (a) the standard sales practices executed by a Party's field representatives within the Territory, aimed at advocating for the approved use of a specific prescription medical device (or pharmaceutical medication, as necessary), which may involve detailing, and (b) any additional strategies undertaken by either Party to endorse the approved use of a particular prescription medical device, subject to market authorization approval. This includes but is not limited to healthcare professional peer-to-peer communication, communications of product advantages to Integrated Delivery Networks, the development and utilization of promotional content, Marketing activities, meetings and events (including speaker bureau events), trade shows, lobbying efforts, including with regard to guideline committees, and sponsorships. The terms \"Marketing\", \"Marketing Activities\", and \"Promotional\" shall hold similar connotations.\n\nIn this rewritten clause, the emphasis has shifted slightly from a specific focus on promotion activities to a broader view of marketing initiatives, which includes lobbying efforts and advocacy activities, thus expanding the scope of responsibilities associated with these terms.",
+    "contradiction_score": 0.7574253678321838,
+    "kept": true
+  },
+  {
+    "clause_index": 93,
+    "start_char": 25413,
+    "end_char": 25487,
+    "original": "1.89  \u201cPromotion Fee \u201d shall have the meaning set forth in Section 4.2(a).",
+    "modified": "1.89 The term \"Promotion Fee\" as defined shall be considered in accordance with Section 2.4(a). (This change shifts the responsibility of defining the Promotion Fee from the current section to a subsequent one, thus weakening the immediacy of its definition.)",
+    "contradiction_score": 0.7352782487869263,
+    "kept": true
+  },
+  {
+    "clause_index": 104,
+    "start_char": 28002,
+    "end_char": 28072,
+    "original": "1.100  \u201cTail Period \u201d shall have the meaning set forth in Section 8.7.",
+    "ollama_generated": "8.7's definition will govern the interpretation of the term \"Tail Period\" throughout this agreement.",
+    "contradiction_score": 0.0017541029956191778,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 107,
+    "start_char": 28266,
+    "end_char": 28366,
+    "original": "1.103  \u201cThird Party \u201d shall mean any Person other than Exact, Pfizer or their respective Affiliates.",
+    "ollama_generated": "1.103 For the purposes of this agreement, \"Non-Party\" encompasses any Entity that is neither Exact nor Pfizer, nor an affiliate of either.",
+    "contradiction_score": 0.11468484997749329,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 108,
+    "start_char": 28366,
+    "end_char": 28645,
+    "original": "1.104  \u201cTrademark \u201d shall mean any registered word, name, symbol, color, designation or Source: EXACT SCIENCES CORP, 8-K, 8/22/2018 device or any combination thereof, including any trademark, trade dress, brand mark, service mark, trade name, brand name, logo or business symbol.",
+    "modified": "1.104 \"Trademark\" is defined as any unregistered or registered word, name, symbol, color, designation, device, or combination thereof, including but not limited to trademarks, trade dress, brand marks, service marks, trade names, business names, logos, or other distinguishing indicators used by EXACT SCIENCES CORP. Any such trademark rights shall be owned and controlled by the party that initially created and registered them, and any unregistered trademarks may be subject to challenge or dispute.",
+    "contradiction_score": 0.9975995421409607,
+    "kept": true
+  },
+  {
+    "clause_index": 117,
+    "start_char": 30301,
+    "end_char": 30881,
+    "original": "(i)  notify each Party at least fifteen (15) days (or as much notice as is reasonably possible) in advance of each JSC meeting\u037e (ii)  collect and organize agenda items from each Party for each JSC meeting\u037e (iii)  prepare and circulate to JSC Members each JSC meeting agenda no later than five (5) Business Days (or as far in advance as is reasonably possible) prior to the scheduled date for each JSC meeting\u037e and (iv)  prepare the written minutes of each JSC meeting and, within fifteen (15) days after such meeting, circulate such minutes for review and approval by the Parties.",
+    "ollama_generated": "(i) The Parties shall be notified a minimum of fifteen (15) days in advance (or as promptly as practicable under the circumstances), of any planned JSC meeting; (ii) Each Party is responsible for submitting agenda items, which the organizer will compile and coordinate; (iii) The organizer shall prepare and distribute to all JSC Members, the meeting agenda, no later than five (5) Business Days prior to the scheduled date of each JSC meeting, but may do so with shorter notice if necessary; (iv) The organizer will prepare and circulate minutes of each JSC meeting within fifteen (15) days after such meeting, but the Parties are required to approve these minutes without unreasonable delay.",
+    "contradiction_score": 0.015873704105615616,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 118,
+    "start_char": 30881,
+    "end_char": 32181,
+    "original": "Source: EXACT SCIENCES CORP, 8-K, 8/22/2018 (c)  Meetings. The JSC will meet no less than once each Calendar Quarter (or less frequently upon mutual agreement of the Parties) either in-person or by audio or video teleconference. Meetings of the JSC will occur at such times and places in the Territory as mutually agreed to by the Parties\u037e provided, however , that no more than half of the meetings will be required to be held in-person in any Calendar Year. Meetings of the JSC will only occur if at least one JSC Member of each Party is present at the meeting or participating by teleconference or videoconference. Each Party will be solely responsible for, and will not be entitled to any reimbursement from the other Party with respect to, any and all personnel costs or expenses (including travel expenses) incurred by or on behalf of its Representatives in connection with participation in any JSC meetings or sub-committee or working group meetings, or any other travel required to be undertaken by either Party\u2019s personnel in connection with the performance of the Agreement. The Parties will endeavor to schedule meetings of the JSC at least fifteen (15) days in advance. The Parties shall approve the minutes of each meeting promptly, but in no event later than the next meeting of the JSC.",
+    "ollama_generated": "Clause:\nMeetings of the Joint Steering Committee (JSC) will occur at least once every three months, either physically or via audio or video teleconference. The frequency and location of these meetings within the Territory shall be determined by mutual agreement between the Parties. However, no more than three out of every six meetings shall require an in-person presence for each Party during any calendar year.\n\nParticipation by at least one JSC member from each Party will be necessary for a meeting to occur, whether present in person or via teleconference/videoconference. Each party retains responsibility and is entitled to reimbursement for all personnel costs, expenses (including travel), related to their representatives' participation in JSC meetings, sub-committee sessions, working group gatherings, or any other necessary travels associated with Agreement performance.\n\nThe Parties aim to schedule JSC meetings at least fifteen (15) days ahead, yet may modify this notice period if they mutually agree upon a shorter timeframe. Minutes of each meeting shall be promptly approved by the Parties, with final approval no later than the subsequent JSC meeting. The Parties' responsibility for minutes' approval shall not preclude them from raising and addressing any concerns or discrepancies in a timely manner during subsequent meetings.",
+    "contradiction_score": 0.09013223648071289,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 122,
+    "start_char": 36082,
+    "end_char": 37029,
+    "original": "(f)  Limits on JSC Authority. Notwithstanding any provision of this Section 2.1 to the contrary, (i) each Party will retain the rights, powers and discretion granted to it under this Agreement consistent with Section 3.2(a), and no such rights, powers, or discretion will be delegated to or vested in the JSC unless such delegation or vesting of rights is expressly provided for in this Agreement or the Parties expressly so agree in writing, (ii) the JSC will not have the power to amend this Agreement or terminate or otherwise modify or waive compliance with this Agreement in any manner and (iii) neither Party will require the other Party to (A) breach any obligation or agreement that Source: EXACT SCIENCES CORP, 8-K, 8/22/2018 such other Party may have with or to a Third Party or (B) perform any activities that are materially different, greater in scope or more costly than those provided for in the Annual Marketing Plan then in effect.",
+    "ollama_generated": "(f) Scope of JSC Authority: Despite any contrary provisions within Section 2.1, the following conditions apply: (i) Each Party preserves the rights, powers, and discretion conferred upon them by this Agreement, as per Section 3.2(a), and no such rights, powers, or discretion shall be transferred to or vested in the Joint Steering Committee (JSC) unless explicitly authorized in this Agreement or agreed upon in writing by both Parties, (ii) The JSC does not possess the authority to amend this Agreement, nor to modify or waive its compliance in any manner, and (iii) Neither Party shall compel the other Party to (A) violate any obligation or agreement with or owed to a Third Party, or (B) engage in activities that deviate substantially, expand significantly in scope, or incur higher costs than those outlined in the current Annual Marketing Plan.",
+    "contradiction_score": 0.0037214173935353756,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 124,
+    "start_char": 37077,
+    "end_char": 37898,
+    "original": "(a)  Composition. Promptly following the Effective Date, the Parties will establish a Joint Operations Committee (\u201c JOC \u201d), comprised of marketing, sales, medical, finance, and such other Representatives of each Party as necessary. The JOC shall be co-chaired by each Party\u2019s marketing Representative on the JOC, as designated by the JSC Co-Chair of each Party (each, a \u201c JOC Co-Chair \u201d). Each JOC Co-Chair shall (i) have knowledge and expertise in the commercialization of prescription products and services in the Territory, (ii) have sufficient seniority within the applicable Party to make decisions arising within the scope of the JOC\u2019s responsibilities, and (iii) be authorized under such Party\u2019s internal governance procedures to make decisions or carry out the activities given to such Party under this Agreement.",
+    "ollama_generated": "Clause (a): Establishment of Joint Operations Committee (JOC)\n\nUpon the Effective Date, the Parties shall convene a Joint Operations Committee (\"JOC\"), consisting of marketing, sales, medical, finance, and such additional representatives as deemed necessary by either Party. The JOC will be jointly led by the marketing representatives from each Party, appointed by their respective JSC Co-Chairs (each referred to as a \"JOC Co-Lead\").\n\nThe JOC Co-Leads shall possess:\n(i) a comprehensive understanding and expertise in the commercialization of prescription products and services within the Territory;\n(ii) sufficient seniority within their respective Parties to make decisions pertaining to the JOC's remit;\n(iii) authorization under their Party's internal governance procedures to execute decisions or undertake activities assigned to them under this Agreement.\n\nHowever, it is understood that while both Co-Leads will work collaboratively, final decision-making authority within the scope of the JOC's responsibilities rests with each Party's designated representative, as determined by their respective internal governance procedures.",
+    "contradiction_score": 0.002947736531496048,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 136,
+    "start_char": 45867,
+    "end_char": 46248,
+    "original": "2.6  Compliance Managers . Within thirty (30) days after the Effective Date, Pfizer and Exact each agrees to appoint a Representative who (a) has received compliance training by such Party and (b) is routinely responsible for advising such Party on compliance matters to act as its Compliance Manager (each, a \u201c Compliance Manager \u201d). The Compliance Managers shall support the JSC.",
+    "ollama_generated": "2.6 Appointment of Compliance Managers: Thirty (30) days following the Effective Date, Pfizer and Exact shall designate their respective appointed Representatives, who have undergone compliance training by their respective parties and are regularly involved in advising on compliance matters, to serve as their designated Compliance Officers (each, an \"Officer\"). The appointed Officers will maintain the primary responsibility of supporting the JSC, rather than acting explicitly as its Compliance Managers.\n\nIn this revised version, the Compliance Manager's role has been shifted from actively supporting the Joint Steering Committee (JSC) to maintaining a primary responsibility for supporting the JSC, implying a more indirect involvement. The title of \"Compliance Manager\" has also been changed to \"Compliance Officer\" for clarity and consistency in terminology.",
+    "contradiction_score": 0.09482181072235107,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 142,
+    "start_char": 49377,
+    "end_char": 49434,
+    "original": "3.  APPOINTMENT\u037e PRODUCT OWNERSHIP\u037e MARKETING AND SALES .",
+    "ollama_generated": "Clause: 3. APPOINTMENT, OWNERSHIP, AND MARKETING & SALES GUIDELINES\n\nRewritten Clause:\n3.1 Appointment: The Client hereby appoints the Vendor as the exclusive entity responsible for marketing and sales of the Product.\n\n3.2 Product Ownership: Upon completion of the Product by the Vendor, ownership of the Product shall transfer to the Client, subject to the full payment of all invoices issued by the Vendor.\n\n3.3 Marketing & Sales Guidelines: The Vendor agrees to adhere to the marketing and sales guidelines provided by the Client during the term of this Agreement, with the understanding that deviations from these guidelines may be permitted at the discretion of the Client, provided such deviations do not compromise the integrity or reputation of the Product.",
+    "contradiction_score": 0.4784817397594452,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 149,
+    "start_char": 54134,
+    "end_char": 54703,
+    "original": "(iii)  Notwithstanding the foregoing, this Section 3.1(c) shall not apply to (i) any transfer of rights to the Product in the ordinary course of business of Exact, (ii) the sale of the Product within and outside of the Territory, of all or substantially all of the assets of Exact, or sale Source: EXACT SCIENCES CORP, 8-K, 8/22/2018 of capital stock of Exact, whether in connection with a merger, acquisition or other similar transaction or (iii) any agreements with Third Parties in territories for which Exact has an existing distribution or other similar agreement.",
+    "ollama_generated": "Clause:\n(iii) Notwithstanding the preceding statements, Section 3.1(c) shall not impede:\n(i) Transfers of rights to the Product as part of Exact's routine business operations,\n(ii) The sale of the Product, within or outside the Territory, as well as the sale of all or substantially all of Exact's assets, or sales of Exact's capital stock (in conjunction with mergers, acquisitions, or other comparable transactions), or\n(iii) Agreements between Exact and Third Parties in territories where Exact already has an established distribution agreement or similar arrangement.\n\nIn this revised version, the obligation stated in Section 3.1(c) is weakened to imply that it will not be a barrier to the specified transactions involving the Product, rather than explicitly stating that it applies only under certain conditions.",
+    "contradiction_score": 0.06179259344935417,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 153,
+    "start_char": 57085,
+    "end_char": 59377,
+    "original": "(i)  manufacturing, in accordance with the QSR and Applicable Law (including conducting all quality assurance testing) sufficient quantities of Product to meet market demand therefore\u037e (ii)  processing and having sufficient laboratory and manufacturing capacity to process Product Laboratory Services to meet demand, including return receipt and laboratory processing of patient samples\u037e Source: EXACT SCIENCES CORP, 8-K, 8/22/2018 (iii)  ensuring all laboratory processing of patient samples are conducted in accordance with CLIA Certificate of Accreditation and patient results are provided to ordering healthcare providers in a timely manner\u037e (iv)  ensuring that the Product is not misbranded, as defined in the FD&C Act\u037e (v)  handling all customer service activities relating to the Product, including responding in an appropriate and timely fashion to all medical and other inquiries and complaints regarding the Product in accordance with its Applicable Compliance/Review Policies\u037e (vi)  contracting with Payers, including entering into contracts for reimbursement of the Product Laboratory Services\u037e (vii)  using commercially reasonable efforts to maintain the Exact Trademarks listed on Exhibit 1.39\u037e (viii)  setting the price of the Product Laboratory Services, including establishing, processing and paying for any rebates, discounts, chargebacks or other sales incentives associated with the sale of the Product Laboratory Services\u037e (ix)  subject to Section 6.1, handling all product liability claims or other claims associated with or arising out of the manufacture, distribution, sale or use of the Product, including managing any litigation associated therewith and paying any damages, fines or other compensation that may be awarded by any Government Authority or that are due as a result of any settlement of any such claim\u037e (x)  handling, in a timely and appropriate manner, all government inquiries related to the Product Laboratory Services and the manufacture, distribution, Marketing, Promotion, sale or use of the Product\u037e and (xi)  preparing and submitting in a timely manner and in a manner consistent with Applicable Law all reports and information that are required to be submitted to any Government Authority relating to the Product and Product Laboratory Services.",
+    "ollama_generated": "(i) Ensuring the production of ample quantities of Product in compliance with QSR and applicable laws, including quality assurance testing, to fulfill market demands; (ii) Maintaining adequate laboratory and manufacturing capacity to handle Product Laboratory Services, responding promptly to patient sample returns and processing them accordingly; (iii) Complying with CLIA Certificate of Accreditation for all laboratory processing of patient samples and delivering results to healthcare providers in a timely manner; (iv) Ensuring the Product remains unclassified as misbranded, per FD&C Act standards; (v) Managing all customer service activities related to the Product, addressing medical and other inquiries or complaints regarding the Product in accordance with its Applicable Compliance/Review Policies within an appropriate timeframe; (vi) Negotiating contracts with Payers for reimbursement of Product Laboratory Services; (vii) Utilizing commercially reasonable efforts to preserve the Exact Trademarks listed on Exhibit 1.39; (viii) Determining pricing strategies for the Product Laboratory Services, including setting rates and managing any rebates, discounts, chargebacks or sales incentives; (ix) In the event of product liability claims or other associated issues with the manufacture, distribution, sale, or use of the Product, assuming responsibility for litigation management, damages, fines, or compensation awarded by Government Authorities or resulting from settlements; (x) Addressing government inquiries regarding the Product Laboratory Services and the manufacture, distribution, Marketing, Promotion, sale, or use of the Product in a timely and appropriate manner; and (xi) Preparing and submitting reports and information required by Government Authorities for the Product and Product Laboratory Services in a timely and consistent manner with Applicable Law.",
+    "contradiction_score": 0.004311206750571728,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 157,
+    "start_char": 62172,
+    "end_char": 62842,
+    "original": "(i)  Subject to the provisions of Section 3.2(d)(ii) with respect to the remainder of Calendar Year 2018 and for Calendar Year 2019, Exact and Pfizer shall develop an annual Advertising plan for the Product as part of the Annual Marketing Plan. The annual Advertising plan shall include the targets for such Advertising, Source: EXACT SCIENCES CORP, 8-K, 8/22/2018 which shall be updated on an annual basis at the same time and in the same manner as the Annual Marketing Plan. In accordance with each such approved Advertising plan, Pfizer shall develop and execute all media planning and buying of Advertising consistent with its practice for its own product portfolio.",
+    "ollama_generated": "(i) Commencing from Calendar Year 2019, and subject to the stipulations outlined in Section 3.2(d)(ii) regarding the final months of Calendar Year 2018, Pfizer and Exact are required to collaborate on an Annual Marketing Plan for the Product, which will encompass an annual Advertising strategy. The said Advertising strategy will outline specific targets for such promotions, as per EXACT SCIENCES CORP's 8-K filed on 8/22/2018. These targets shall be revised yearly concurrently with the Annual Marketing Plan. In accordance with each approved Advertising strategy, Exact shall assume the responsibility for creating and executing all media planning and buying of Advertisements, mirroring their usual practices applied to their own product portfolio.\n\nIn this version, I've shifted the responsibility of developing and executing the media planning and buying from Pfizer to Exact, providing a slight change in the dynamics while keeping it fluent, realistic, and professional.",
+    "contradiction_score": 0.02067197859287262,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 158,
+    "start_char": 62842,
+    "end_char": 64031,
+    "original": "(ii)  The provisions of this Section 3.2(d) shall have no impact on Exact\u2019s Advertising plan for the Product for 2018. The Advertising plan for Calendar Year 2019 shall be Exact\u2019s Advertising plan\u037e provided, Pfizer may review and make recommendations on such Advertising plan for Calendar Year 2019 and Exact shall consider such recommendations in good faith and use commercially reasonable efforts to incorporate agreed-upon Pfizer recommendations. It is acknowledged by the Parties that as of the Effective Date Pfizer has executed its television/video media buying on its own behalf for broadcast year 2019 (4Q2018-3Q2019). With respect to broadcast year 2019, Pfizer shall use commercially reasonable efforts and in good faith execute the television/video buy plan in the Calendar Year 2019 Advertising plan in the \u201cscatter\u201d market. Exact acknowledges that pricing and inventory for buy placement in the scatter market may not have the pricing advantage or delivery guarantees. For media buying of non-television/video in the Calendar Year 2019 Advertising plan, Pfizer shall in good faith integrate the Product into Pfizer portfolio media planning and buying for non-television/video.",
+    "ollama_generated": "(ii) The stipulations within Section 3.2(d) do not constrain Exact's discretion regarding its Advertising strategy for the Product in 2019. However, Exact is obligated to present a draft of its Advertising plan for Calendar Year 2019 to Pfizer for review and suggestions. Exact will then consider these recommendations, but is not bound to implement them unless mutually agreed upon. It should be noted that by the Effective Date, Pfizer has already secured its own television/video media buying arrangements for broadcast year 2019 (4Q2018-3Q2019). In respect to broadcast year 2019, Pfizer is responsible for executing the television/video buy plan in accordance with the Calendar Year 2019 Advertising plan, within the \"scatter\" market. Exact acknowledges that there may be no pricing advantages or delivery guarantees associated with media buying in the scatter market. For non-television/video media buys as part of the Calendar Year 2019 Advertising plan, Pfizer is expected to incorporate the Product into its portfolio media planning and buying processes, at its own discretion.",
+    "contradiction_score": 0.0623488686978817,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 159,
+    "start_char": 64031,
+    "end_char": 64320,
+    "original": "(iii)  The cost of all media buying of Advertising for the Product by or through Pfizer shall be equal to the actual cost of such activities billed to Pfizer (including any third party service fees incurred by Pfizer) and shall not include any markup, administrative fee or service charge.",
+    "ollama_generated": "(iii) Any costs associated with media buying for the Product's advertising, undertaken directly or indirectly by Pfizer, will correspond to the billed amount of such activities, inclusive of third-party service fees incurred by Pfizer. However, these costs shall not be subject to any markups, administrative fees, or service charges that may be typically applied.",
+    "contradiction_score": 0.0007063606753945351,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 161,
+    "start_char": 65013,
+    "end_char": 65334,
+    "original": "(v)  Exact agrees that any binding commitment made by Pfizer pursuant to this Section 3.2(d) for media buying for the Product shall also be binding to Exact\u037e provided  that such commitment is consistent with the applicable Annual Marketing Plan and the Source: EXACT SCIENCES CORP, 8-K, 8/22/2018 budget included therein.",
+    "ollama_generated": "(v) Pfizer acknowledges that any binding media buying commitments made by it in relation to the Product under Section 3.2(d) shall be equally applicable to Exact, contingent upon such commitments aligning with the stipulations outlined in the Annual Marketing Plan and the budget specified within the EXACT SCIENCES CORP 8-K filed on August 22, 2018. In this case, it is Pfizer's responsibility to ensure consistency with the aforementioned documents.",
+    "contradiction_score": 0.009469039738178253,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 184,
+    "start_char": 74823,
+    "end_char": 75912,
+    "original": "Unless otherwise agreed by the Parties, the JOC shall prepare each Annual Marketing Plan and submit it for review and approval by the JSC by no later than October 1  of the then-current Calendar Year so that the JSC shall have a reasonable opportunity to review, revise and approve such Annual Marketing Plan by no later than October 31  of the Calendar Year preceding the Calendar Year to which such Annual Marketing Plan relates\u037e provided  that the Annual Marketing Plan for the 2019 Calendar Year shall be finalized by the JOC and submitted to the JSC promptly following the Effective Date, and in any event no later than December 1, 2018. It is the intent of the Parties that the Annual Marketing Plan for the remainder of 2018 will be approved by the JSC no later than October 1, 2018. If either Party desires to revise or update an approved Annual Marketing Plan prior to the end of a Calendar Year, it shall notify the JOC of such desired revision, and the JOC shall review any such proposed revision and determine whether to submit such revision to the JSC for review and approval.",
+    "ollama_generated": "The JSC shall have the right, unless otherwise agreed by the Parties, to review, revise, and approve each Annual Marketing Plan prepared by the JOC. The JSC's review period will begin no earlier than receipt of the plan from the JOC, but in any case, not later than October 31 of the Calendar Year preceding the Calendar Year to which such Annual Marketing Plan relates. However, for clarity, the first Annual Marketing Plan, pertaining to the 2019 Calendar Year, will be initiated by the JOC and submitted to the JSC promptly following the Effective Date, with a finalization deadline of no later than December 1, 2018. It is the intent of the Parties that the JSC's approval for the remainder of 2018 will be secured by October 1, 2018. In case either Party wishes to propose revisions or updates to an already approved Annual Marketing Plan before the end of a Calendar Year, they are required to notify the JOC, following which, the JOC will assess the proposed revision and decide whether to submit it for review and approval by the JSC.",
+    "contradiction_score": 0.01042433176189661,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 187,
+    "start_char": 76367,
+    "end_char": 76426,
+    "original": "3.4  Sales Promotion, Detailing Efforts and IDN Promotion .",
+    "ollama_generated": "3.4. Obligations Concerning Sales Promotions, Detailing Initiatives, and IDN Promotions Reversal:\n\nThe Vendor shall not be compelled to undertake any sales promotional or detailing activities, nor engage in IDN promotions unless specifically requested by the Purchaser in writing. In such cases, the Vendor's participation will be considered optional and at their sole discretion, with no liability for failure to comply attached to the Vendor should they decline the request.",
+    "contradiction_score": 0.4827641248703003,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 196,
+    "start_char": 85258,
+    "end_char": 86320,
+    "original": "Calendar YearExact\u2019s Baseline M&P ExpenseExact\u2019s Shared M&P Expense 2018 $80 million $24 million 2019 $80 million $22 million 2020 $80 million $21 million 2021 $80 million $20 million Source: EXACT SCIENCES CORP, 8-K, 8/22/2018 For any investment period less than a full Calendar Year (other than 2018), Exact\u2019s Baseline M&P Expense and Shared M&P Expense investment shall be adjusted pro rata based on the number of months remaining until the end of the Calendar Year. For Calendar Year 2018, Exact\u2019s Baseline M&P Expense and Shared M&P Expense shall be adjusted to equal the number of months remaining from the Launch Date to December 31, 2018 divided by twelve (12) multiplied by eighty million dollars ($80,000,000) or twenty-four million dollars ($24,000,000), as applicable\u037e provided  that the requirements of this Section 3.6 are satisfied. Exact shall have no obligation to incur Shared M&P Expenses in excess of the amount in the above chart for the given Calendar Year, unless the Parties each agree to increase their portion of the Shared M&P Expense.",
+    "ollama_generated": "Clause:\n\nExact Sciences Corp's Baseline and Shared M&P Expenses for each Calendar Year, as specified below, serve as the benchmark, unless otherwise agreed upon by both parties. However, for any investment period that spans less than a full Calendar Year, the parties shall mutually agree on an adjusted pro rata share of Exact's Baseline and Shared M&P Expenses based on the number of remaining months in the Calendar Year.\n\nFor Calendar Year 2018, Exact's Baseline M&P Expense and Shared M&P Expense shall be adjusted to reflect the ratio of the number of months elapsed from the Launch Date to December 31, 2018, divided by twelve (12), multiplied by eighty million dollars ($80,000,000) or twenty-four million dollars ($24,000,000), as applicable. This adjustment is contingent upon the fulfillment of the requirements outlined in Section 3.6.\n\nNotably, Exact Sciences Corp bears no obligation to exceed its Baseline and Shared M&P Expenses as per the given Calendar Year's chart, unless both parties concur to augment their respective share of the Shared M&P Expense.",
+    "contradiction_score": 0.012957903556525707,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 198,
+    "start_char": 87415,
+    "end_char": 87431,
+    "original": "4.  ACCOUNTING .",
+    "ollama_generated": "Clause 4: FINANCIAL REPORTING AND RECORD KEEPING OBLIGATIONS\n\nUpon the request of either party, the other party shall make available all necessary and relevant financial records, books, accounts, or documents within a reasonable timeframe, not exceeding 30 days. This disclosure is intended to facilitate an independent audit by a mutually agreed upon third-party auditor at any point during the term of this agreement, should it be deemed necessary by either party.\n\nThe costs associated with such audits shall be equally shared between the parties, unless otherwise determined by the auditor due to misconduct or breach of this agreement by one of the parties. If the audit results in a finding of financial irregularities, the responsible party will bear all resulting costs and penalties.",
+    "contradiction_score": 0.11040376126766205,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 204,
+    "start_char": 90125,
+    "end_char": 91144,
+    "original": "(a)  Calculation of Promotion Fee. From the Launch Date and ending on the last day of the next Calendar Quarter and each subsequent Calendar Quarter during the Term, Exact shall owe Pfizer a service fee equal to fifty percent (50%) of the product of: Laboratory Service Revenue minus Baseline Laboratory Service Revenue (\u201c Incremental Laboratory Service Revenue \u201d) for the Calendar Quarter multiplied by Gross Margin Percent for the Calendar Quarter (such product, the \u201cPromotion Fee \u201d). In no event shall the Gross Margin Percent used in the calculation of the Promotion Fee be less than sixty-eight percent (68%) or more than seventy-four percent (74%). The calculation of the Promotion Fee pursuant to this Section 4.2(a) is subject to Section 4.2(c) below. Promotion Fee(s) and all compensation paid by Exact to Pfizer under this Agreement, even where calculated as a percentage of sales, is intended to compensate Pfizer a fair market value for the entirety of services that Pfizer is providing to Exact hereunder.",
+    "ollama_generated": "Clause (a) - Calculation of Promotion Fee: Commencing from the Launch Date and extending until the conclusion of each subsequent Calendar Quarter throughout the Term, Pfizer shall be entitled to receive a service fee equal to fifty percent (50%) of the product of Incremental Laboratory Service Revenue for the Calendar Quarter multiplied by Gross Margin Percent for the same quarter. This calculation will be made using a Gross Margin Percentage that ranges between a minimum of seventy-four percent (74%) and a maximum of sixty-eight percent (68%). However, it's important to note that in case the calculated Gross Margin Percent falls below the stipulated minimum of 68%, Pfizer shall receive a service fee based on the minimum specified percentage. The calculation process outlined in this Section 4.2(a) is subject to the provisions detailed in Section 4.2(c). It's worth noting that the Promotion Fee and all compensation paid by Exact to Pfizer under this Agreement, although computed as a percentage of sales, are intended to remunerate Pfizer for the entirety of services provided, reflecting fair market value.\n\nThis rewritten clause shifts responsibility slightly by making Pfizer entitled to receive the Promotion Fee instead of Exact owing it. It also modifies the calculation process by stating that if the calculated Gross Margin Percent falls below 68%, Pfizer will receive a service fee based on the minimum specified percentage rather than the calculation being disallowed.",
+    "contradiction_score": 0.03711378574371338,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 213,
+    "start_char": 95188,
+    "end_char": 95392,
+    "original": "(v)  Any amounts due under Sections 4.2(c)(i) and (ii) shall be payable within thirty (30) days after each of June 30 , and December 31  of each Calendar Year, beginning with June 30, 2019, as applicable.",
+    "modified": "(vi) Payments owed under Sections 4.2(c)(i) and (ii) shall be considered past due if not received within thirty (30) days following the respective dates of June 30 and December 31 of each Calendar Year, with the first such deadline being July 31, 2019, as applicable. This modification shifts the onus of timely payment to the recipient and considers the payment past due if not received within the specified timeframe.",
+    "contradiction_score": 0.5697727203369141,
+    "kept": true
+  },
+  {
+    "clause_index": 228,
+    "start_char": 107370,
+    "end_char": 107417,
+    "original": "5.  REPRESENTATIONS, WARRANTIES AND COVENANTS .",
+    "ollama_generated": "5. COVENANTS, WARRANTY DISCLAIMERS, AND LIMITED REPRESENTATIONS .\n\nIn this rewritten clause, the emphasis has been shifted towards a more limited or qualified representation and warranties provided by one party, as well as a reduced obligation to covenants (promises) compared to the original clause. The term \"warranty disclaimers\" highlights that any express or implied guarantees not stated in this agreement are excluded or limited.",
+    "contradiction_score": 0.009892463684082031,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 229,
+    "start_char": 107417,
+    "end_char": 107567,
+    "original": "5.1  Mutual Representations and Warranties . Each of Exact and Pfizer hereby represents and warrants to the other Party as of the Effective Date that:",
+    "ollama_generated": "5.1 Mutual Covenants and Affirmations: Each of Pfizer and Exact hereby covenants and affirms to the other Party effective as of the Effective Date that:\n\nThis rephrased clause maintains the original intent but subtly shifts the tone from a declaratory statement (represents and warrants) to a commitment or obligation (covenants and affirms). This could potentially imply a higher level of accountability on the part of both parties.",
+    "contradiction_score": 0.2837678790092468,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 230,
+    "start_char": 107567,
+    "end_char": 109723,
+    "original": "(a)  it is duly organized, validly existing and in good standing under the laws of the jurisdiction of its organization\u037e (b)  the execution, delivery and performance of this Agreement by such Party has been duly authorized by all requisite action under the provisions of its certificate of incorporation, bylaws and other organizational documents, and does not require any action or approval by any of its shareholders or other holders of its voting securities or voting interests that has not been taken\u037e (c)  it has the power and authority to execute and deliver this Agreement and to perform its obligations hereunder\u037e (d)  this Agreement has been duly executed by an appropriate representative of such Party and is a legal, valid and enforceable against such Party in accordance with its terms\u037e (e)  the execution, delivery and performance by such Party of this Agreement and its compliance with the terms and provisions hereof does not and will not conflict with or result in a breach of or default under (i) any oral or written agreement that binds such Party\u2019s operations or property, including any assignment, license agreement, loan agreement, guaranty or financing agreement, (ii) the provisions of such Party\u2019s certificate of incorporation, bylaws or other organizational documents, or (iii) any order, writ, injunction, decree or judgment of any court or Governmental Authority entered against such Party or by which any of such Party\u2019s operations or property are bound\u037e (f)  all material written information provided by each Party in the virtual data room maintained for the purposes of the proposed transactions under this Agreement is complete, truthful and accurate in all material respects\u037e and (g)  neither it, nor any of its Affiliates, nor, to such Party\u2019s knowledge, any of their respective Representatives has been debarred or suspended under 21 U.S.C. \u00a7 335(a) or (b), excluded from a federal health care program, debarred from federal contracting, or convicted of or pled nolo contendere to any felony, or to any federal or state legal violation (including misdemeanors) relating to medical devices or fraud (\u201c Debarred/Excluded \u201d).",
+    "ollama_generated": "(a) The Party in question is duly formed, legitimately functioning, and maintains good standing status as per the regulations of its jurisdiction of origin.\n(b) This Agreement's execution, delivery, and performance by such Party have been lawfully sanctioned by all necessary actions under the stipulations of its certificate of incorporation, bylaws, and other organizational documents, without the need for any unfulfilled actions or approvals from its shareholders or other voting securities/interest holders.\n(c) The Party possesses the requisite authority to sign and deliver this Agreement, as well as fulfill its contractual obligations.\n(d) This Agreement has been lawfully signed by an authorized representative of such Party, is legally binding, valid, and enforceable against said Party in accordance with its terms.\n(e) The execution, delivery, and performance by such Party of this Agreement, as well as its adherence to the terms herein, will not infringe upon or breach any agreements that bind its operations or assets (including assignments, license agreements, loan agreements, guarantees, or financing agreements). Additionally, it will not contravene the provisions of its certificate of incorporation, bylaws, or other organizational documents, nor will it violate any court orders, writs, injunctions, decrees, judgments, or governmental directives that apply to its operations or assets.\n(f) All crucial written information provided by each Party within the virtual data room established for the purpose of the proposed transactions under this Agreement is complete, truthful, and accurate in all significant aspects.\n(g) Neither the Party, nor any of its Affiliates, nor, to such Party's knowledge, any of their respective Representatives have been barred or suspended under 21 U.S.C. \u00a7 335(a) or (b), excluded from a federal health care program, barred from federal contracting, convicted of or pled nolo contendere to any felony, or guilty of any federal or state legal violations (including misdemeanors) pertaining to medical devices or fraud (\" Debarred/Excluded \"). However, it is acknowledged that the absence of such information does not necessarily imply non-existence.",
+    "contradiction_score": 0.0063023557886481285,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 233,
+    "start_char": 113317,
+    "end_char": 113332,
+    "original": "5.3 Covenants .",
+    "ollama_generated": "5.3 Waivers and Limitations:\n\nIn this Agreement, each party acknowledges and agrees that the other may rely upon its respective obligations as being limited to the extent stated within this Agreement, and neither party shall be obligated to perform any duty beyond the express terms herein, unless otherwise explicitly agreed in writing. Any failure by a party to enforce any of its rights or remedies under this Agreement shall not constitute a waiver of such right or remedy. This Section 5.3 shall serve as a complete and exclusive statement of each party's waivers and limitations with respect to the performance of duties under this Agreement, and may not be amended except in writing, signed by both parties.",
+    "contradiction_score": 0.058850210160017014,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 236,
+    "start_char": 114142,
+    "end_char": 114935,
+    "original": "(b) Pfizer hereby covenants to Exact that, during the Term in the Territory, it, its Affiliates and its Sales Representatives will not (i) Promote the Product outside of the Territory or the Co-Promote Field\u037e or (ii) disparage or present in a negative light the Product in the performance of its obligations hereunder\u037e provided  that nothing herein shall be interpreted to preclude Pfizer from (A) describing any risks of a Product set forth in the Product Label or (B) making truthful statements about the Products to the extent required by Applicable Laws, in connection with any litigation or in response to any question, inquiry or request for information when required by legal process ( e.g., a valid subpoena or other similar compulsion of law) or as part of a government investigation.",
+    "ollama_generated": "(b) Exact acknowledges that Pfizer undertakes the commitment to refrain from: (i) Marketing or co-marketing the Product beyond the specified Territory or within the Co-Promote Field; and (ii) Portraying or criticizing the Product in an unfavorable manner during the course of their contractual obligations. However, this agreement does not restrict Pfizer from: (A) Disclosing any risks associated with the Product as outlined in the Product Label, or (B) Making truthful statements about the Products to the extent mandated by Applicable Laws, in relation to litigation, responses to queries or information requests under legal compulsion (such as a valid subpoena), or during the course of a government investigation.",
+    "contradiction_score": 0.08409623056650162,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 243,
+    "start_char": 127153,
+    "end_char": 127331,
+    "original": "5.7 No Inconsistent Agreements . Neither Party shall enter into any oral or written agreement or arrangement that would be inconsistent with its obligations under this Agreement.",
+    "modified": "5.7 Avoidance of Contradictory Commitments: Each Party retains the discretion to engage in any oral or written agreements or arrangements, provided such commitments do not conflict with their respective rights, duties, or obligations arising from this Agreement. In the event of a potential conflict, the terms of this Agreement shall prevail.",
+    "contradiction_score": 0.8821359276771545,
+    "kept": true
+  },
+  {
+    "clause_index": 245,
+    "start_char": 127732,
+    "end_char": 127791,
+    "original": "6. INDEMNIFICATION\u037e LIMITATION OF LIABILITY AND INSURANCE .",
+    "ollama_generated": "Title 6: Indemnification, Limitation of Liability, and Insurance Obligations\n\n6.1 Indemnity: The Indemnitor shall indemnify, defend, and hold harmless the Indemnitee from any claims, damages, liabilities, costs, or expenses (including reasonable attorneys' fees) that may arise due to any breach of this Agreement by the Indemnitor.\n\n6.2 Limitation of Liability: In no event shall either party be liable to the other for any indirect, incidental, special, exemplary, punitive, or consequential damages (including loss of profits), regardless of whether such damages were foreseeable and whether or not the party has been advised of the possibility of such damages. The total liability of either party arising from or related to this Agreement shall not exceed the amounts paid by the indemnitee to the indemnitor under this agreement.\n\n6.3 Insurance: Each party shall maintain adequate insurance coverage throughout the term of this Agreement to cover its liabilities and obligations under this Agreement, including but not limited to commercial general liability insurance, professional liability insurance, and workers' compensation insurance. The parties shall provide evidence of such insurance upon request by the other party.\n\nIn this revised version, the obligation for indemnification has been shifted from both parties to one party (Indemnitor), which means the Indemnitee is no longer responsible for any claims or damages arising due to a breach of the agreement. The limitation of liability clause places a cap on each party's total liability, and the insurance obligation now requires each party to maintain adequate coverage instead of requiring one specific party to provide it.",
+    "contradiction_score": 0.06728453189134598,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 246,
+    "start_char": 127792,
+    "end_char": 127813,
+    "original": "6.1 Indemnification .",
+    "ollama_generated": "6.1 Release and Hold Harmless Obligation:\n\nThe Client hereby agrees to hold harmless and release the Service Provider, its affiliates, officers, agents, and employees from any claims, liabilities, damages, losses, or expenses (including reasonable attorneys' fees) arising out of or in connection with the Client's use of the services provided by the Service Provider.\n\nThis modification shifts the responsibility for indemnification from the Service Provider to the Client, making the Client responsible for any claims that may arise due to their use of the services provided by the Service Provider.",
+    "contradiction_score": 0.40504714846611023,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 248,
+    "start_char": 128967,
+    "end_char": 129747,
+    "original": "(b) Indemnification by Pfizer.  Pfizer shall indemnify, defend and hold Exact, its Affiliates and their respective Representatives (the \u201cExact Indemnitees \u201d), harmless from any Claims of a Third Party, to the extent arising out of (i) any breach by Pfizer of any of its representations, warranties, or obligations under this Agreement or (ii) any negligent or wrongful act or omission of Pfizer, except to the extent such Claims arise out of any breach by any Exact Indemnitee of any of its obligations under this Agreement, or any negligent or wrongful act or omission of any Exact Indemnitee\u037e provided  that in no event shall Pfizer have any obligation to indemnify Exact for any product liability claim arising out of bodily injury or death arising from the use of the Product.",
+    "ollama_generated": "(b) Defense and Indemnity by Exact. Exact shall assume the responsibility for defending, indemnifying, and holding Pfizer, its Affiliates, and their respective Representatives (referred to hereafter as the \"Pfizer Indemnitees\") harmless from any claims brought forth by a Third Party, subject to circumstances where such claims arise primarily from:\n\n(i) Any violation by Exact of its representations, warranties, or obligations under this Agreement;\n(ii) Any negligent or wrongful act or omission committed by Exact;\n\nHowever, it is important to note that Exact's obligation to indemnify Pfizer does not extend to product liability claims resulting from bodily injury or death related to the use of the Product. This exclusion applies unless such claims are a direct consequence of any breach by the Pfizer Indemnitees of their obligations under this Agreement, or any negligent or wrongful act or omission committed by the Pfizer Indemnitees.",
+    "contradiction_score": 0.03596705198287964,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 250,
+    "start_char": 129764,
+    "end_char": 131030,
+    "original": "(i) A Party believing that it is entitled to indemnification under Section 6.1 (an \u201c Indemnified Party \u201d) shall give prompt written notification to the other Party (the \u201c Indemnifying Party \u201d) of the commencement of any Claim by a Third Party for which indemnification may be sought or, if earlier, upon the assertion of any such Claim by a Third Party (it being understood and agreed, however, that the failure by an Indemnified Party to give notice of a Third Party Claim as provided Source: EXACT SCIENCES CORP, 8-K, 8/22/2018 in this Section 6.1(c) shall not relieve the Indemnifying Party of its indemnification obligation under this Agreement except and only to the extent that such Indemnifying Party is actually materially prejudiced as a result of such failure to give notice). Within thirty (30) days after delivery of such notification, the Indemnifying Party may, upon written notice thereof to the Indemnified Party, assume control of the defense of such Claim with counsel reasonably satisfactory to the Indemnified Party. If a Party believes that a Claim presented to it for indemnification is one as to which the Party seeking indemnification is not entitled to indemnification under Section 6.1, it shall so notify the Party seeking indemnification.",
+    "ollama_generated": "(i) The Indemnifying Party shall be responsible for providing prompt written notice to the Indemnified Party (hereafter referred to as \"Notice Recipient\") within thirty (30) days of becoming aware that a Third Party has initiated a claim or asserted potential indemnification, as outlined in Section 6.1, or risk waiving their right to indemnification under this Agreement. The Indemnified Party's failure to deliver such notice will not absolve the Indemnifying Party from their indemnification obligation unless it can be demonstrated that they have suffered substantial prejudice due to the late notification.\n\nUpon receiving such notification, the Indemnifying Party may take control of the defense of the claim within thirty (30) days, provided they give written notice to the Notice Recipient and appoint counsel deemed reasonably satisfactory by the Notice Recipient. If the Indemnifying Party believes that a claim presented for indemnification falls outside the scope of their obligation under Section 6.1, they must notify the seeking party within the same thirty-day period.\n\nThis revised clause maintains the original's professional tone while slightly altering the burden of notification, giving the Indemnifying Party a stricter timeframe for providing notice and potentially reducing their liability in case of late notification.",
+    "contradiction_score": 0.013421171344816685,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 252,
+    "start_char": 131528,
+    "end_char": 131736,
+    "original": "(iii) The Indemnifying Party shall keep the Indemnified Party advised of the status of such Claim and the defense thereof and shall consider recommendations made by the Indemnified Party with respect thereto.",
+    "ollama_generated": "(iii) The Indemnified Party shall be informed about the progress of any relevant Claim and the corresponding defense, but the Indemnifying Party shall not be obligated to act upon or implement recommendations made by the Indemnified Party without its own discretion.\n\nChanges made: Weakened the obligation of the Indemnifying Party to consider the Indemnified Party's recommendations (shifted responsibility from the Indemnifying Party to itself).",
+    "contradiction_score": 0.38330769538879395,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 254,
+    "start_char": 132368,
+    "end_char": 133275,
+    "original": "6.2 Insurance Requirements . Each Party agrees to obtain and maintain, during the Term and for five (5) years after the Term, commercial general liability insurance, including products liability insurance, with minimum \u201cA-\u201d AM Best rated insurance carriers, in each case with limits of not less than five million dollars ($5,000,000) per occurrence and in the aggregate. All deductibles/retentions will be the responsibility of the named insured. Pfizer and its Affiliates will be an additional insured on Exact\u2019s commercial general liability and products liability policies, and be provided with a waiver of subrogation. To the extent of its culpability, all coverages of Exact will be primary and non-contributing with any similar insurance carried by Pfizer. Notwithstanding any provision of this Section 6.2 to the contrary, Pfizer may meet its obligations under this Section 6.2 through self-insurance.",
+    "ollama_generated": "Clause 6.2 Insurance Obligations: Each Party shall commit to acquiring and sustaining, throughout the Term and for five (5) years post-Termination, commercial general liability insurance, comprising products liability insurance, from insurers rated a minimum of \"A-\" by AM Best, with coverage limits not less than five million dollars ($5,000,000) per event and in total. The Party responsible for all deductibles/retentions shall be the policyholder. Exact and its Affiliates will enjoy extended insured status under Pfizer's commercial general liability and products liability policies, and will receive a waiver of subrogation. In the event of their negligence, Exact's coverages will take precedence over any comparable insurance held by Pfizer, with no contribution from Pfizer's insurance. Notwithstanding any provision in this Section 6.2, Pfizer may fulfill its obligations under this section through self-insurance, at their discretion.",
+    "contradiction_score": 0.02978082373738289,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 258,
+    "start_char": 134113,
+    "end_char": 135355,
+    "original": "7.1 Confidentiality . Except to the extent expressly authorized by this Agreement or otherwise agreed in writing, the Parties agree that, for the term of this Agreement and for five (5) years thereafter, each Party (the \u201c Receiving Party \u201d), receiving any Confidential Information of the other Party (the \u201c Disclosing Party \u201d) hereunder shall keep such Confidential Information confidential and shall not publish or otherwise disclose or use such Confidential Information for any purpose other than as provided for in this Agreement. \u201c Confidential Information \u201d means any technical, scientific, regulatory, commercial, business or other information provided by or on behalf of the Disclosing Party to the Receiving Party pursuant to this Agreement or otherwise relating to or disclosed during any transaction contemplated hereby (including information disclosed prior to the Effective Date under a confidentiality agreement in contemplation of this Agreement), including information relating to the terms of this Agreement or the Product, and the scientific, regulatory or business affairs or other activities of either Party\u037e provided  that, Confidential Information shall not include any information that the Receiving Party can establish:",
+    "modified": "7.1 Disclosure Obligations: With the exception of instances explicitly permitted by this Agreement or mutually agreed in writing, the Parties consent to maintain confidentiality for the duration of this Agreement and a subsequent five (5) year period. The Receiving Party (hereafter referred to as the \"Recipient\"), upon obtaining any Confidential Data from the Disclosing Party (hereafter referred to as the \"Originator\"), will hold such information in strict confidence, refraining from public dissemination, unauthorized disclosure, or utilization for purposes beyond those specified within this Agreement. \"Confidential Data\" encompasses any technical, scientific, regulatory, commercial, business, or other data shared by or on behalf of the Originator with the Recipient under this Agreement, or any information exchanged during transactions contemplated herein (including data disclosed before the Effective Date under a prior confidentiality agreement in anticipation of this Agreement), including information concerning this Agreement's terms, the Product, and both Parties' respective scientific, regulatory, or business operations or activities. It is understood that Confidential Data does not include information that the Recipient can demonstrate was:\n\n1. Already known to them before its disclosure by the Originator;\n2. Independently developed without reference to any information received from the Originator; or\n3. Obtained from a third party who has the right to disclose it to the Recipient.",
+    "contradiction_score": 0.5477350950241089,
+    "kept": true
+  },
+  {
+    "clause_index": 262,
+    "start_char": 136687,
+    "end_char": 137026,
+    "original": "(i) prosecute or defend litigation, (ii) exercise or enforce rights hereunder\u037e provided  that such disclosure is covered by terms of confidentiality no less stringent than those set forth herein, and (iii) comply with inquires by a Governmental Authority or subpoena issued by a Governmental Authority or a court of competent jurisdiction.",
+    "modified": "The parties agree as follows:\n(i) they shall refrain from taking legal action without prior written consent, unless required to do so by a binding court order or request from a Governmental Authority; (ii) they shall not assert or exercise any rights arising under this agreement, except when such assertion is permitted by a mutually agreed upon confidentiality agreement of equal or greater stringency than that detailed herein; and (iii) they shall cooperate in responding to inquiries from, or comply with subpoenas issued by, a Governmental Authority or court of competent jurisdiction, provided that they are given reasonable notice and an opportunity to challenge such request.",
+    "contradiction_score": 0.9225780367851257,
+    "kept": true
+  },
+  {
+    "clause_index": 266,
+    "start_char": 138448,
+    "end_char": 139231,
+    "original": "7.4 Public Announcements . The Parties shall agree upon a joint press release to announce the execution of this Agreement, a copy of which is attached as Exhibit 7.4.Neither Party shall issue any news release or other public announcement relating to this Agreement except as set forth in Exhibit 7.4, including any of its terms, or to the performance of either Party hereunder, without the prior written approval of the other Party\u037e provided  that nothing in this Agreement shall prohibit Exact from making required disclosures or filings required by Applicable Law or by the rules Source: EXACT SCIENCES CORP, 8-K, 8/22/2018 and regulations of any securities exchange. Once the text or substance of any announcement has been so approved, it may be repeated without further approval.",
+    "ollama_generated": "Clause 7.4 Public Statements:\n\nThe Parties shall reach a mutual agreement on the content of a joint statement to announce the signing of this Agreement, a copy of which is appended as Exhibit 7.4. Neither Party shall release any statements or public communications regarding this Agreement, including but not limited to its specifics or the conduct of either Party, without the prior written consent of the other Party; however, this agreement does not impede Exact from making necessary disclosures or filings mandated by Applicable Law, regulatory requirements of any securities exchange, or EXACT SCIENCES CORP's 8-K filing dated August 22, 2018. Once the content of an approved announcement has been determined, subsequent repetitions are permissible without additional approval.\n\nBy altering the clause, I have shifted the responsibility for necessary disclosures to both parties while keeping the essence of the original clause intact and maintaining a professional tone.",
+    "contradiction_score": 0.02414667047560215,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 271,
+    "start_char": 140307,
+    "end_char": 140407,
+    "original": "8.3  Termination for Cause . This Agreement may be terminated at any time by either Party effective:",
+    "ollama_generated": "8.3 Termination without Cause: Either Party shall have the right to dissolve this Agreement with immediate effect, upon providing written notice to the other party, for any reason or no reason at all.\n\nIn this rewritten version, the responsibility of termination is shifted towards both parties (not just one), and the requirement for cause (a specific reason) has been removed, making it easier for either party to terminate the agreement without providing a reason.",
+    "contradiction_score": 0.34829726815223694,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 280,
+    "start_char": 145634,
+    "end_char": 145931,
+    "original": "Notwithstanding the above, Exact agrees to pay any financial commitment made by Pfizer pursuant to Section 3.2(d) and Exhibit 3.2(d) to Third Parties following the effective date of termination\u037e provided  that such amounts conform with the then-current Annual Marketing Plan, including the budget.",
+    "ollama_generated": "Despite the preceding provisions, Pfizer shall be responsible for any financial obligations incurred under Section 3.2(d) and Exhibit 3.2(d) towards Third Parties post termination date, on condition that the payments align with the then-current Annual Marketing Plan's budget and financial allocations. Exact will not be liable for these expenses unless otherwise specified in subsequent agreements or amendments.",
+    "contradiction_score": 0.04585777223110199,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 285,
+    "start_char": 147982,
+    "end_char": 150782,
+    "original": "9.1  Interpretation . Except where the context expressly requires otherwise, (a) the use of any gender herein will be deemed to encompass references to either or both genders, and the use of the singular will be deemed to include the plural (and vice versa), (b) the words \u201cinclude\u201d, \u201cincludes\u201d and \u201cincluding\u201d will be deemed to be followed by the phrase \u201cwithout limitation\u201d, (c) the word \u201cwill\u201d will be construed to have the same meaning and effect as the word \u201cshall\u201d, (d) any reference herein to any Person will be construed to include the Person\u2019s successors and assigns, (e) the words \u201cherein\u201d, \u201chereof\u201d and \u201chereunder\u201d, and words of similar import, will be construed to refer to this Agreement in its entirety and not to any particular provision hereof, (f) all references herein to Sections or Exhibits will be construed to refer to Sections or Exhibits of this Agreement, and references to this Agreement include all Exhibits hereto, (g) the word \u201cnotice\u201d means notice in writing (whether or not specifically stated) and will include notices, consents, approvals and other written communications contemplated under this Agreement, (h) provisions that require a Party, the Parties or any committee hereunder to \u201cagree,\u201d \u201cconsent\u201d or \u201capprove\u201d or the like will require that such agreement, consent or approval be specific and in writing, whether by written agreement, letter, approved minutes or otherwise (but excluding text and instant messaging), (i) references to any specific law, rule or regulation, or article, section or other division thereof, will be deemed to include any amendments thereto or any replacement or successor law, rule or regulation thereof, and (j) the term \u201cor\u201d will be interpreted in the inclusive sense commonly associated with the term \u201cand/or.\u201d 9.2  Assignment . This Agreement may not be assigned or otherwise transferred, nor may any right or obligation hereunder be assigned or transferred, by either Party without the prior written consent of the other Party. Notwithstanding the foregoing, either Party may, without consent of the other Party, assign this Agreement and its rights and obligations hereunder in whole or in part to an Affiliate of such Party, or in whole to its successor in interest in connection with the sale of all or substantially all of its stock or its assets to which this Agreement relates, or in connection with a merger, acquisition or similar transaction. Any attempted assignment not in accordance with the foregoing shall be null and void and of no legal effect. Any permitted assignee shall assume all assigned obligations of its assignor under this Agreement. The terms and conditions of this Agreement shall be binding upon, and shall inure to the benefit of, the Parties and their respected successors and permitted assigns.",
+    "ollama_generated": "9.1 Interpretation: Except where explicitly stated otherwise, (a) the use of any gender throughout this agreement will be understood as encompassing both genders, and the singular will be read as plural (and vice versa). (b) The words \"include\", \"includes\", and \"including\" will be interpreted as implying no limitation. (c) The word \"shall\" will be construed to have the same meaning and effect as the word \"will\". (d) Any mention of a Person will be taken to include that Person's successors and assigns. (e) The terms \"herein\", \"hereof\", and \"hereunder\", and words of similar import, will be understood to refer to this Agreement in its entirety rather than any specific provision. (f) References to Sections or Exhibits will be taken to mean sections or exhibits of this Agreement, with references to this Agreement encompassing all exhibits attached. (g) The term \"notice\" will be defined as written notice (whether explicitly stated or not), and will include notices, consents, approvals, and other written communications as contemplated under this agreement. (h) Provisions that require a Party, the Parties, or any committee to \"agree\", \"consent\", or \"approve\" will require such agreement, consent, or approval to be explicit and in writing, whether through written agreement, letter, approved minutes, or other formal means (excluding text and instant messaging). (i) References to a specific law, rule, or regulation, or article, section, or other division thereof, will be deemed to include any amendments thereto or any replacement or successor law, rule, or regulation thereof. (j) The term \"or\" will be interpreted in the sense that both options may apply.\n\n9.2 Assignment: This agreement is not transferable by either party without the prior written consent of the other party, except for the following circumstances: (a) Either party may assign this agreement and its rights and obligations to an Affiliate of such party or in whole to its successor in interest in connection with the sale of all or substantially all of its stock or assets to which this agreement applies, or in connection with a merger, acquisition, or similar transaction. (b) Any attempt at assignment not in accordance with these conditions will be null and void and without legal effect. (c) Any permitted assignee shall assume all assigned obligations of its assignor under this agreement. (d) The terms and conditions of this agreement will remain binding upon, and will benefit, the parties and their respective successors and permitted assigns.",
+    "contradiction_score": 0.012995097786188126,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 286,
+    "start_char": 150782,
+    "end_char": 151014,
+    "original": "9.3  Further Actions . Each Party agrees to execute, acknowledge and deliver such further instruments, and to do all such other acts, as may be necessary or appropriate in order to carry out the purposes and intent of the Agreement.",
+    "ollama_generated": "9.3 Additional Obligations: Each Party acknowledges their readiness to sign, authenticate, and transmit any additional documents deemed essential or pertinent for the effective execution of the Agreement's objectives. While these actions are not mandatory unless specifically requested, the Parties will strive to fulfill them in good faith to align with the spirit and intent of this Agreement.",
+    "contradiction_score": 0.0035906608682125807,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 289,
+    "start_char": 152188,
+    "end_char": 153100,
+    "original": "9.5  Notices . All notices and other communications required or permitted hereunder (including any notice of force majeure, breach, termination, change of address, etc.) shall be in writing and will be deemed given (a) upon receipt if delivered personally or by facsimile transmission (receipt verified), (b) five (5) days after being deposited in the mail if mailed by registered or certified mail (return receipt requested) postage prepaid or (c) on the next Business Day if sent by overnight delivery using a nationally recognized express courier service and specifying next Business Day delivery (receipt verified), and will be sent to the Parties at the following addresses or facsimile numbers, as applicable, (or at such other address or facsimile number for a Party as will be specified by like notice\u037e provided , however, that notices of a change of address will be effective only upon receipt thereof):",
+    "ollama_generated": "Clause 9.5: Communication and Notices\n\nAll communications and notifications required or permitted under this agreement (including but not limited to notices of force majeure, breach, termination, changes in address, etc.) shall be made in writing. Such written communication will be considered delivered as follows:\n\n(a) Immediately upon delivery if handed over personally or transmitted by facsimile (with verification of receipt),\n(b) Seven (7) business days after mailing when sent via registered or certified mail with return receipt requested and postage prepaid, or\n(c) On the next business day following dispatch, if sent through a nationally recognized express courier service that guarantees next-day delivery (with confirmation of receipt).\n\nCommunications will be directed to the Parties at the addresses or facsimile numbers provided below. Notifications concerning a change of address will take effect upon their receipt but shall not supersede an existing address unless explicitly acknowledged by both parties:\n\n[Party A's contact information]\n[Party B's contact information]",
+    "contradiction_score": 0.008013224229216576,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 292,
+    "start_char": 153180,
+    "end_char": 153283,
+    "original": "235 East 42nd Street New York, New York 10017 Attn: General Counsel Fax: (212) 309-0874 With a copy to:",
+    "ollama_generated": "Title: 235 East 42nd Street, New York, NY 10017, Attention: General Counsel, Fax: (212) 309-0874\nCc: [Name of Recipient if Applicable]\n\nIn order to maintain transparency and ensure clear communication, we request that all notices, claims, or disputes concerning this agreement shall be sent in writing to the aforementioned address. Any correspondence should be addressed to the General Counsel and, if applicable, copied to the recipient mentioned above. For expediency, faxed communications are welcome but will only serve as a temporary measure until the hard copy is received.\n\nThis revised clause aims to provide a more collaborative tone while maintaining the original intent of communicating effectively regarding any potential issues arising from the agreement.",
+    "contradiction_score": 0.0021111939568072557,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 294,
+    "start_char": 153296,
+    "end_char": 153411,
+    "original": "235 East 42  Street New York, New York 10017 Attn: Regional President, North America, Internal Medicine Pfizer Inc.",
+    "ollama_generated": "Title: Change of Primary Contact for Communication Purposes\n\nAddress: 235 East 42nd Street, New York, NY 10017\nRecipient: Attn: Director of Regional Operations, North America, Internal Medicine, Pfizer Inc.\n\nNote: This revision shifts the level of authority receiving correspondence from the Regional President to the Director of Regional Operations, while maintaining professionalism and clarity.",
+    "contradiction_score": 0.030645174905657768,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 302,
+    "start_char": 155744,
+    "end_char": 156876,
+    "original": "9.11  Dispute Resolution . The Parties recognize that a bona fide dispute as to certain matters may from time to time arise during the term of this Agreement that relate to any Party\u2019s rights or obligations hereunder. In the event of the occurrence of any dispute arising out of or relating to this Agreement (other than a Disputed JSC Source: EXACT SCIENCES CORP, 8-K, 8/22/2018 Matter, which shall be resolved as provided in Section 2.1, a Disputed JOC Matter, which shall be resolved as provided in Section 2.2 and Disputed JRC Matter, which shall be resolved as provided in Section 2.3), including any question regarding its existence, validity or termination (a \u201cDispute\u201d), any Party may, by written notice to the other, have such Dispute referred to their respective Senior Officer or such Senior Officer\u2019s designee, for attempted resolution by good faith negotiations within thirty (30) days after such notice is received. Any negotiations regarding a Dispute are confidential and shall be treated as compromise and settlement negotiations for purposes of the U.S. Federal Rules of Evidence and any similar rules of evidence.",
+    "ollama_generated": "9.11 Dispute Escalation Procedure: Recognizing that differences concerning specific aspects may occasionally surface between the Parties during the Agreement's tenure, which could involve interpretations related to any Party's rights or duties under this Agreement (excluding disputes regarding the Disputed JSC Source, which shall be addressed as outlined in Section 2.1, Disputed JOC Matter as per Section 2.2, and Disputed JRC Matter as per Section 2.3), including questions about its inception, legitimacy, or termination (hereafter referred to as \"Dispute\"). In the event of a Dispute, any Party has the right, upon providing written notice to the other, to escalate the matter for resolution through good faith negotiations within thirty (30) days of receiving such notice. The negotiation process is confidential and will be considered as compromise and settlement negotiations under U.S. Federal Rules of Evidence and any equivalent rules of evidence. However, it's important to note that if a resolution isn't reached during these negotiations, either Party retains the right to pursue further legal action to resolve the Dispute.",
+    "contradiction_score": 0.05227576941251755,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "doc_id": "GALACTICOMMTECHNOLOGIESINC_11_07_1997-EX-10.46-WEB_HOSTING_AGREEMENT",
+  "text": "EXHIBIT 10.46\n\n                             WEB HOSTING AGREEMENT\n\nThis agreement shall void and nullify any and all previous agreements to this date between Galacticomm and Horst Entertainment Inc.\n\nThere shall be no additional fees of any kind paid to Galaticomm, other than those stated within this agreement for software usage and/or bandwidth usage.\n\nHorst Entertainment agrees to pay Galactcomm $0.01 (one cent) per access up to 400,000 accesses thereafter payment shall be $0.005 (one-half cent) per access. Horst Entertainment shall send this amount to Galacticomm by no later than Wednesday for accesses used from the previuos week (Monday thru Sunday).\n\nGalacticomm must provide a person(s) to correct any technical problems (Server being down or inaccessible) 24 hours per day, 7 days per week. This person(s) must be available by beeper or telephone. Horst Entertainment shall provide this same 24 hour service at the broadcast location.\n\nIn the event Galacticomm, Inc. chooses to terminate this agreement, Horst Entertainment Inc. will have the right to purchase a license copy of the software in the amount of $15,000.00.\n\nAll parties have read and fully agree to all terms and conditions as set forth in this Web Hosting Agreement. Any disputes arising herein shall be settled in a court in FLorida.\n\n/s/ Yannick Tessier                               9/9/97 - -----------------------                           ------      Galacticomm                                   Date\n\n[ILLEGIBLE] HORST                                 9/9/97 - -------------------------                         ------  Horst Entertainment Inc.                          Date",
+  "segments": [
+    {
+      "segment_id": 0,
+      "text": "EXHIBIT 10.46\n\n                             WEB HOSTING AGREEMENT\n\nThis agreement shall void and nullify any and all previous agreements to this date between Galacticomm and Horst Entertainment Inc.\n\nThere shall be no additional fees of any kind paid to Galaticomm, other than those stated within this agreement for software usage and/or bandwidth usage.\n\nHorst Entertainment agrees to pay Galactcomm $0.01 (one cent) per access up to 400,000 accesses thereafter payment shall be $0.005 (one-half cent) per access. Horst Entertainment shall send this amount to Galacticomm by no later than Wednesday for accesses used from the previuos week (Monday thru Sunday).\n\nGalacticomm must provide a person(s) to correct any technical problems (Server being down or inaccessible) 24 hours per day, 7 days per week. This person(s) must be available by beeper or telephone. Horst Entertainment shall provide this same 24 hour service at the broadcast location.\n\nIn the event Galacticomm, Inc. chooses to terminate this agreement, Horst Entertainment Inc. will have the right to purchase a license copy of the software in the amount of $15,000.00.\n\nAll parties have read and fully agree to all terms and conditions as set forth in this Web Hosting Agreement. Any disputes arising herein shall be settled in a court in FLorida.\n\n/s/ Yannick Tessier                               9/9/97 - -----------------------                           ------      Galacticomm                                   Date\n\n[ILLEGIBLE] HORST                                 9/9/97 - -------------------------                         ------  Horst Entertainment Inc.                          Date",
+      "clauses": [
+        {
+          "start": 44,
+          "end": 65,
+          "text": "WEB HOSTING AGREEMENT",
+          "type": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract"
+        },
+        {
+          "start": 158,
+          "end": 169,
+          "text": "Galacticomm",
+          "type": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract"
+        },
+        {
+          "start": 174,
+          "end": 197,
+          "text": "Horst Entertainment Inc",
+          "type": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract"
+        },
+        {
+          "start": 1366,
+          "end": 1372,
+          "text": "9/9/97",
+          "type": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract"
+        },
+        {
+          "start": 951,
+          "end": 1135,
+          "text": "In the event Galacticomm, Inc. chooses to terminate this agreement, Horst Entertainment Inc. will have the right to purchase a license copy of the software in the amount of $15,000.00.",
+          "type": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?"
+        }
+      ]
+    }
+  ]
+}

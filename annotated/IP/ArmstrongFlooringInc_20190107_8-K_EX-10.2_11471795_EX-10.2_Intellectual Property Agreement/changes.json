@@ -1,0 +1,219 @@
+[
+  {
+    "clause_index": 2,
+    "start_char": 2789,
+    "end_char": 3065,
+    "original": "NOW, THEREFORE, in consideration of the foregoing and the mutual agreements, provisions and covenants contained in this Agreement, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties hereby agree as follows:",
+    "ollama_generated": "IN CONSIDERATION of the mutual representations, warranties, and covenants set forth within this Agreement, and for other valuable consideration, the existence and adequacy of which are duly acknowledged, the Parties mutually consent to the terms herein agreed upon as follows:\n\nThis rewritten clause maintains the original meaning but changes the order of the considerations, shifting the focus from the foregoing agreements and provisions to the mutual representations, warranties, and covenants within the Agreement. This subtle modification places a greater emphasis on the mutually agreed-upon terms rather than the specific events leading up to their agreement.",
+    "contradiction_score": 0.006125179585069418,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 9,
+    "start_char": 4785,
+    "end_char": 5131,
+    "original": "(f) \u201cArizona Assigned Trademarks \u201d means the Trademarks set forth on Schedule 1.1(f) and all other Trademarks owned by Licensing or Seller as of the Effective Date and used or held for use exclusively in the in the Company Field as of the SPA Signing Date and/or as of the Effective Date (other than, for clarity any Arizona Licensed Trademarks).",
+    "ollama_generated": "(f) \"Arizona Assigned Trademarks\" encompasses the Trademarks listed on Schedule 1.1(f), along with any other trademarks that Licensing or Seller owns as of the Effective Date and utilizes or intends to utilize solely within the Company Field, prior to or on the SPA Signing Date, excluding Arizona Licensed Trademarks. However, if new trademarks are acquired by either party post-Effective Date for use exclusively in the Company Field, they shall be included under this definition with a subsequent amendment to this agreement.",
+    "contradiction_score": 0.00817239098250866,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 18,
+    "start_char": 6950,
+    "end_char": 7191,
+    "original": "(p) \u201cCompany Licensed Copyrights \u201d means all Copyrights and registrations and applications for any of the foregoing owned by any Company Entity  as of the Effective Date and used or held for use in the Arizona Field as of the Effective Date.",
+    "modified": "(q) \"Licensed Copyrights belonging to the Company\" refers to all Copyrights, registrations, and applications thereof that were owned by any entity within the Company as of the Effective Date, but which may not necessarily have been used or held for use in the Arizona Field as of the same date. The obligation is on the licensee to acquire rights to such copyrights, if necessary, for use within the Arizona Field at a later time.",
+    "contradiction_score": 0.9711773991584778,
+    "kept": true
+  },
+  {
+    "clause_index": 22,
+    "start_char": 7582,
+    "end_char": 7728,
+    "original": "(t) \u201cCopyrights \u201d means copyrights (whether registered or unregistered) including applications for copyright (excluding, for clarity, Trademarks).",
+    "ollama_generated": "(u) \"Copyright Protections\" encompass copyright protections (either registered or unregistered), along with applications for such copyright protection, while explicitly excluding the realm of trademark rights.",
+    "contradiction_score": 0.45157572627067566,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 23,
+    "start_char": 7730,
+    "end_char": 7815,
+    "original": "(u) \u201cDiamond Licensed Trademarks \u201d means the Trademarks set forth on Schedule 1.1(u).",
+    "ollama_generated": "(u) \"The trademarks listed in Schedule 1.1(u)\" are hereby designated as the \"Diamond Licensed Trademarks,\" and any subsequent additions or modifications to this list shall be considered an integral part of this agreement, subject to the parties' mutual consent.\n\nThis revised clause broadens the scope of trademarks covered by the agreement, allowing for future additions or modifications with both parties' approval.",
+    "contradiction_score": 0.004833556246012449,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 24,
+    "start_char": 7815,
+    "end_char": 8256,
+    "original": "(v) \u201cDiamond Product \u201d means the design, development, manufacture, marketing, promotion, advertising, sourcing, distribution and sale of the solid hardwood flooring product by any Company Entity as conducted under the Diamond Licensed Trademarks by any Company Entity prior to the Effective Date Source: ARMSTRONG FLOORING, INC., 8-K, 1/7/2019 (including the composition of coating used with respect to such solid hardwood flooring product).",
+    "ollama_generated": "(iv) \"Diamond Products\" encompass any Company Entity's activities relating to the conceptualization, production, commercialization, publicity, endorsement, procurement, circulation, and retail of the solid hardwood flooring products, using the Diamond Licensed Trademarks, that were undertaken prior to the Effective Date. This definition also includes the nature of the coating employed in connection with such solid hardwood flooring products, as disclosed by ARMSTRONG FLOORING, INC., 8-K, 1/7/2019.\n\nThe rewritten clause maintains the original meaning but shifts responsibility for disclosing the composition of the coating to ARMSTRONG FLOORING, INC., and broadens the scope of \"Diamond Products\" to include any activities related to solid hardwood flooring products, not just the manufacture, marketing, promotion, advertising, sourcing, distribution, and sale as stated in the original clause.",
+    "contradiction_score": 0.3544405698776245,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 25,
+    "start_char": 8260,
+    "end_char": 8391,
+    "original": "(w) \u201cDiamond Trademark License Term \u201d means the period commencing on the Effective Date and ending eighteen (18) months thereafter.",
+    "ollama_generated": "(x) \"The Duration of the Diamond Trademark License\" refers to the term starting from the Effective Date, which extends for a further period of eighteen (18) months, but may be subject to earlier termination upon mutual agreement between the parties or occurrence of any breach of this Agreement.\n\nThis modification allows for potential early termination of the license and shifts some responsibility back to both parties involved.",
+    "contradiction_score": 0.0036751979496330023,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 35,
+    "start_char": 9668,
+    "end_char": 9862,
+    "original": "(gg) \u201cTrademarks \u201d means any trademarks, service marks, trade names, trade dress, and other similar designations of source or origin, and registrations and applications for any of the foregoing.",
+    "ollama_generated": "(hh) \"Designations of Source or Origin\" encompass any trademarks, service marks, trade names, trade dress, and other comparable indicators used to identify the source of goods or services, as well as any pending or completed registrations and applications related thereto.",
+    "contradiction_score": 0.029308561235666275,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 39,
+    "start_char": 10540,
+    "end_char": 10724,
+    "original": "2. ASSIGNMENT OF ARIZONA ASSIGNED IP 2.1 Assignment . Arizona agrees to assign and hereby assigns its entire right, title and interest in and to the Arizona Assigned IP to the Company.",
+    "modified": "Clause:\n2. TRANSFER OF ARIZONA ASSIGNED IP (2.1 Transfer) The Company shall have the right to acquire, upon request by the Company, Arizona's entire right, title and interest in and to the Arizona Assigned IP, with Arizona obligated to transfer such rights upon receipt of a valid request.\n\nThis modification weakens the obligation on Arizona, as it now only has an obligation to transfer its rights upon receiving a valid request from the Company, rather than voluntarily assigning the rights at any time.",
+    "contradiction_score": 0.6588504910469055,
+    "kept": true
+  },
+  {
+    "clause_index": 41,
+    "start_char": 11099,
+    "end_char": 11401,
+    "original": "3. GRANT OF COPYRIGHT LICENSE 3.1 Arizona Copyright Grant . Subject to the terms and conditions of this Agreement, Arizona hereby grants to the Company a perpetual, non- exclusive,  royalty-free license in, to and under the Arizona Licensed Copyrights for use in the Company Field throughout the world.",
+    "ollama_generated": "Clause:\n3. GRANT OF COPYRIGHT LICENSE\n3.1 Non-Exclusive, Royality-Free License Granted by Arizona. Arizona hereby grants to the Company a non-exclusive, perpetual license, without any royalty payments due, in, to and under the Arizona Licensed Copyrights for use within the Company's purview worldwide. However, this license does not exclude Arizona's right to grant licenses to others for the same copyrighted materials.\n\nIn this revised clause, the obligation on Arizona has been slightly weakened by making the license non-exclusive, meaning they can still grant licenses to other parties as well.",
+    "contradiction_score": 0.01075192540884018,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 48,
+    "start_char": 13525,
+    "end_char": 14023,
+    "original": "6.2 Diamond Licensed Trademark Grant . Subject to the terms and conditions of this Agreement, Arizona hereby grants to the Company a limited, non- exclusive,  royalty-free, non-sublicensable (except as set forth in Section 7.1), non-assignable  (except as set forth in Section 13.2) license in, to and under the Diamond Licensed Trademarks for the Diamond Trademark License Term for use with respect to the Diamond Product throughout the world only in the form and manner set forth on Schedule 6.2.",
+    "ollama_generated": "Clause 6.2 - Granted Rights Regarding Diamond Trademark: In accordance with this Agreement, the Company is granted a limited, non-exclusive, royalty-free, sublicensable (as per Section 7.1), but non-assignable license (except as outlined in Section 13.2) to utilize the Diamond Licensed Trademarks for the duration of the Diamond Trademark License Term, exclusively for the production of the Diamond Product. The usage shall be confined strictly to the forms and methods specified on Schedule 6.2, with rights limited to global application only.\n\nThis rewritten clause maintains the original intent but shifts the responsibility from Arizona granting the license to the Company receiving it. It also adjusts the sublicensability condition compared to the original, making it possible for the Company (not Arizona) to sublicense as per Section 7.1. The restriction on assignment still applies, but only for Arizona, not the Company. Lastly, the scope of rights is now limited geographically to global application.",
+    "contradiction_score": 0.04047064483165741,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 49,
+    "start_char": 14023,
+    "end_char": 14364,
+    "original": "6.3 Quality Control . The Buyer Entities acknowledge the importance of Arizona\u2019s exercise of quality control over the use of the Seller Licensed Trademarks to preserve the continued integrity and validity of the Seller Licensed Trademarks and to protect the value and goodwill associated with the Seller Licensed Trademarks, and accordingly:",
+    "ollama_generated": "6.3 Quality Assurance Obligations . The Seller Entities recognize the significance of maintaining the quality assurance over the application of the Buyer Licensed Trademarks to uphold the ongoing authenticity and legitimacy of the Buyer Licensed Trademarks, and as such:\n\nThis modification shifts the responsibility of quality control from the buyer to the seller entities, ensuring that they are responsible for preserving the integrity and validity of the trademarks used by the buyer.",
+    "contradiction_score": 0.3860943615436554,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 64,
+    "start_char": 22419,
+    "end_char": 22874,
+    "original": "However, and for the further avoidance of doubt, the aforementioned shall not apply to new Intellectual Property created by a licensee Party or its Sublicensees separately and independently from the Licensed IP, for example in case of separate and independent technical enhancements or advancements. The Parties shall reasonably consult and coordinate with each other at the other Party\u2019s request with respect to the matters set forth in this Section 9.1.",
+    "ollama_generated": "While it's essential to clarify, for the utmost clarity, the provisions herein do not extend to Intellectual Property independently created by a licensee Party or its Sublicensees, distinct from the Licensed IP, such as in situations involving separate and independent technical innovations or developments. The onus is on the receiving Party to request consultations and coordinations regarding matters pertaining to this Section 9.1, with the expectation of reasonable cooperation from the other party.",
+    "contradiction_score": 0.0019454100402072072,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 65,
+    "start_char": 22874,
+    "end_char": 23120,
+    "original": "9.2 No Additional Obligations . This Agreement shall not obligate either Party to disclose to the other Party, or maintain, register, prosecute, pay for, enforce, or otherwise manage any Intellectual Property except as expressly set forth herein.",
+    "ollama_generated": "9.2 Limited Disclosure Obligations. Under this Agreement, neither Party shall be required to disclose any Intellectual Property to the other Party beyond what is explicitly stated within this agreement. Furthermore, no Party is obliged to maintain, register, prosecute, pay for, enforce, or manage Intellectual Property that is not expressly outlined herein, unless such action is initiated voluntarily by said Party.",
+    "contradiction_score": 0.0036691639106720686,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 75,
+    "start_char": 28378,
+    "end_char": 29359,
+    "original": "13. MISCELLANEOUS 13.1 Entire Agreement . This Agreement (together with the Schedules attached hereto), the Stock Purchase Agreement, the Transition Services Agreement and the Confidentiality Agreement constitute the entire agreement of the Parties hereto and supersede all prior negotiations, correspondence, agreements and undertakings, both written and oral, between or among the Parties, or any of them, with respect to the subject matter hereof. It shall be expressly understood that the Stock Purchase Agreement shall govern the transactions contemplated thereby as a whole and that this Agreement shall not be construed as an amendment or variation of the Stock Purchase Agreement but rather shall be complemented by and interpreted in light of the Stock Purchase Agreement. In the event that any provision of this Agreement is inconsistent with, conflicts with or contradicts any term of the Stock Purchase Agreement, the terms of the Stock Purchase Agreement will prevail.",
+    "ollama_generated": "Clause:\n13. MISCELLANEOUS\n13.1 Entire Agreement\n(a) The Stock Purchase Agreement, the Transition Services Agreement, the Confidentiality Agreement, and this Agreement (along with any Schedules attached), collectively referred to as the \"Agreements,\" shall constitute the entire understanding between the Parties regarding the subject matter hereof. All prior discussions, negotiations, agreements, or undertakings, whether written or oral, relating to the same subject matter, are hereby superseded and replaced by the Agreements.\n(b) The Stock Purchase Agreement shall govern the transactions it covers in their entirety. This Agreement is intended as a supplement to, not an amendment of, the Stock Purchase Agreement. In case any provision of this Agreement contradicts or conflicts with any term in the Stock Purchase Agreement, the terms of the Stock Purchase Agreement shall prevail, and this Agreement shall be read and interpreted accordingly.\n(c) The Parties acknowledge that the Stock Purchase Agreement may contain provisions which are not expressly incorporated into this Agreement but are still applicable. This Agreement is to be considered as a complement to, rather than a modification of, the terms set forth in the Stock Purchase Agreement.",
+    "contradiction_score": 0.060991425067186356,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 82,
+    "start_char": 31891,
+    "end_char": 31915,
+    "original": "Armstrong Flooring, Inc.",
+    "ollama_generated": "Armstrong Flooring, Inc. shall not be held responsible for any damages, losses, or liabilities that may arise from the misuse, improper installation, or unintended circumstances beyond our control, unless explicitly agreed upon in a subsequent written agreement.\n\nThe burden of proof for such claims lies with the party asserting them. In all other instances, the responsibility for proper use and installation shall rest solely with the purchaser.",
+    "contradiction_score": 0.005000388249754906,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 88,
+    "start_char": 36354,
+    "end_char": 37276,
+    "original": "Source: ARMSTRONG FLOORING, INC., 8-K, 1/7/2019 13.6 Severability . If any term or other provision of this Agreement, or any portion thereof, is invalid, illegal or incapable of being enforced by any rule of law or public policy, all other terms and provisions of this Agreement, or the remaining portion thereof, shall nevertheless remain in full force and effect so long as the economic or legal substance of the transactions contemplated hereby is not affected in any manner materially adverse to any Party. Upon such determination that any such term or other provision, or any portion thereof, is invalid, illegal or incapable of being enforced, the Parties hereto shall negotiate in good faith to modify this Agreement so as to effect the original intent of the Parties as closely as possible in an acceptable manner to the end that the transactions contemplated hereby are consummated to the fullest extent possible.",
+    "ollama_generated": "Clause:\nAmended and Restated: ARMSTRONG FLOORING, INC., 8-K, 1/7/2019\nSeverability . In the event that any term or provision within this Agreement, or part thereof, is deemed unenforceable or against public policy due to a legal rule, all other terms and provisions of this Agreement, or the residual portion thereof, shall continue to hold legal force, provided that the essential economic nature of the transactions outlined herein remains unaffected in a way that causes significant harm to any Party. In such cases where any term or provision, or part thereof, is deemed unenforceable or against public policy, the Parties involved shall engage in good faith negotiations to revise this Agreement as necessary to uphold the original intentions of the Parties, ensuring that the transactions contemplated herein are consummated to the maximum extent possible. However, it's important to note that if alterations become necessary to preserve the essential economic nature of the transactions, the Parties shall have the right to withdraw from the Agreement without incurring any liability or penalty, given the changed circumstances.",
+    "contradiction_score": 0.1333179920911789,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 97,
+    "start_char": 45703,
+    "end_char": 46267,
+    "original": "Number Reg. Date US AMERICAN SCRAPE Registered 85616030 3-May-12 4481771 11-Feb-14 CA ARTISAN COLLECTIVE Pending 1817435 10-Jan-17 US ARTISAN COLLECTIVE CLTM CA ARTISTIC TIMBERS Registered 1670991 2-Apr-14 TMA967273 31-Mar-17 US ARTISTIC TIMBERS CLTM US BIRCH RUN Registered 85/931,142 14-May-13 4,524,637 6-May-14 CA BIRCH RUN Registered 1,636,822 25-Jul-13 TMA905398 4-Jun-15 US BRISTOL TRAIL Registered 86919986 25-Feb-16 5423957 13-Mar-18 CA BRISTOL TRAIL Published 1769733 26-Feb-16 Source: ARMSTRONG FLOORING, INC., 8-K, 1/7/2019 Country Trademark StatusApp.",
+    "ollama_generated": "Clause (Revised):\nTrademark Registration Dates:\n\n1. Number REG Date US AMERICAN SCRAPE Registered: 85616030 on 3rd May, 2012\n   Pending: 1817435 on 10th January, 2017\n\n2. Number REG Date CA ARTISAN COLLECTIVE: 4481771 on 11th February, 2014\n   Pending: 1670991 on 2nd April, 2014\n   Trademark Status: Pending (Assumed to be registered, but official confirmation is yet to be received)\n\n3. US ARTISAN COLLECTIVE CLTM CA ARTISTIC TIMBERS Registered: 1670991 on 2nd April, 2014\n   TMA967273 registered on 31st March, 2017\n   US BIRCH RUN Registered: 85/931,142 on 14th May, 2013\n   4,524,637 published on 6th May, 2014 in CA\n   Registered: 1,636,822 on 25th July, 2013 in CA\n   TMA905398 registered on 4th June, 2015 in US\n   BRISTOL TRAIL Registered: 86919986 on 25th February, 2016 in CA\n   5423957 published on 13th March, 2018 in CA\n   Published: 1769733 on 26th February, 2016\n\nSource: ARMSTRONG FLOORING, INC., 8-K, 1/7/2019\nCountry Trademark StatusApp.\n\n(This revised clause provides the same information as before but with a slight change in presentation, making it clear that certain trademarks are still pending registration and have not been officially confirmed yet.)",
+    "contradiction_score": 0.24290098249912262,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 103,
+    "start_char": 47452,
+    "end_char": 47945,
+    "original": "Number Reg. Date US PARAGON CLTM CA PARAGON CLTM US PRIME HARVEST Registered 86/285,289 19-May-14 4,742,207 26-May-15 CA PRIME HARVEST Registered 1,677,599 20-May-14 TMA906580 17-Jun-15 US RIGHT EVERY TIME Published 87261852 8-Dec-16 US RUSTIC RESTORATIONSPublished 87215879 26-Oct-16 5520272 17-Jul-18 CA RUSTIC RESTORATIONSPending 1806462 26-Oct-16 US SDF Pending \u201887947440 4-Jun-18 CA SDF Pending 1902212 1-Jun-18 Source: ARMSTRONG FLOORING, INC., 8-K, 1/7/2019 Country Trademark StatusApp.",
+    "ollama_generated": "Contractual Provisions as of Given Dates:\n\n1. US Paragon CLTM CA Paragon CLTM US Prime Harvest - Registered on May 14, 1986 (Reg. No. 86/285,289), May 26, 2015 (Patent No. 4,742,207) and assigned CA registration on May 20, 2014 (Registration No. 1,677,599).\n\n2. CA Prime Harvest - Registered on May 20, 2014 (Reg. No. TMA906580) and published on June 17, 2015.\n\n3. US Right Every Time - Published on December 8, 2016 (Publication No. 87261852).\n\n4. US Rustic Restorations - Published on October 26, 2016 (Publication No. 87215879) and assigned a pending application on July 17, 2018 (Application No. 5520272).\n\n5. CA Rustic Restorations - Granted on October 26, 2016 (Publication No. 1806462) and pending in the US as of June 4, 2018 (Application No. '87947440).\n\n6. CA SDF - Pending application as of June 1, 2018 (Publication No. 1902212).\n\nSource: ARMSTRONG FLOORING, INC., 8-K, January 7, 2019. Country Trademark Status Application.\n\nChanges made: The rewritten clause maintains the list of trademarks and their respective information but presents it in a more concise and organized manner, making it easier to understand and navigate.",
+    "contradiction_score": 0.1612728238105774,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 117,
+    "start_char": 54041,
+    "end_char": 54275,
+    "original": "Source: ARMSTRONG FLOORING, INC., 8-K, 1/7/2019 6. Logo Direction: The logo can be used on an angle or vertically but must read left to right and top to bottom 7. Circle A: The Circle A can never be used as a separate graphic element.",
+    "ollama_generated": "Clause:\nRevised: ARMSTRONG FLOORING, INC., 8-K, 1/7/2019\n6. Logo Orientation: While the logo may be displayed at an angle or vertically, it should always maintain a reading direction from right to left and bottom to top.\n7. Circle A Usage: The Circle A is permissible for use as an integral part of the logo but cannot stand alone as an independent graphic element.",
+    "contradiction_score": 0.18176640570163727,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 119,
+    "start_char": 54284,
+    "end_char": 54618,
+    "original": "1. The trademark should always be distinguishable from surrounding text \u2013 at a minimum, the trademark notice (TM or \u00ae) should be used at least the first time in the text. After first instance, mark should appear with some other distinguishing feature (e.g., different font, all caps, and/or different color) from the surrounding text.",
+    "modified": "1. While it is permissible for the trademark to initially be presented without any distinguishing features, subsequent uses in the same document must exhibit a clear distinction from the surrounding text. This can be achieved through the use of the trademark notice (TM or \u00ae) or other means such as different font, capitalization, and/or color. The intent is to preserve the unique identity of the trademark throughout the document's content.",
+    "contradiction_score": 0.5066690444946289,
+    "kept": true
+  },
+  {
+    "clause_index": 125,
+    "start_char": 55257,
+    "end_char": 55742,
+    "original": "2. Use of Diamond 10\u00ae or the Diamond 10\u00ae logo must include notice of AFI Licensing LLC\u2019s ownership of the trademark within the credit notice of the product, product documentation, or other product communication. (E.g., Diamond 10 and the Diamond 10 Technology logo are registered trademarks of AFI Licensing LLC.) 3. Logo Colors: Can appear only in White or 4 Color Process comprised of Morado, Tungsten and Black. If reversed out White, use only on dark background color for contrast.",
+    "ollama_generated": "Clause:\n2. The utilization of the Diamond 10\u00ae trademark or the Diamond 10\u00ae logo is conditional upon the inclusion of a statement acknowledging AFI Licensing LLC's proprietorship of the trademark in a conspicuous location within product labels, user manuals, promotional materials, or any other medium communicating about the product. (For instance, \"Diamond 10\" and the \"Diamond 10 Technology\" logo are registered trademarks of AFI Licensing LLC.)\n\n3. Logo Presentation: The Diamond 10\u00ae logo may only be displayed in White or a Four-Color Process that includes Morado, Tungsten, and Black. In cases where the logo is reversed out against a background, it should be used exclusively on dark color surfaces to ensure adequate contrast.\n\nIn this revised clause, I have shifted responsibility by changing the obligation from an active one (\"must include\") to a conditional statement (\"is conditional upon\"), which softens the requirement slightly while still maintaining its professional tone. Additionally, I have inverted the condition by specifying that the logo may only be displayed under certain conditions instead of stating the necessary actions for compliance. The meaning has changed subtly, but the revised clause remains fluent and realistic.",
+    "contradiction_score": 0.11659728735685349,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

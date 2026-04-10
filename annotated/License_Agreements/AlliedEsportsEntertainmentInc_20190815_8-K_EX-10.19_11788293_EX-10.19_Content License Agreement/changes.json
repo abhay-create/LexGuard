@@ -1,0 +1,181 @@
+[
+  {
+    "clause_index": 0,
+    "start_char": 0,
+    "end_char": 753,
+    "original": "Exhibit 10.19 JOINT CONTENT LICENSE AGREEMENT This JOINT CONTENT LICENSE AGREEMENT (the \u201c Agreement \u201d), dated February 1, 2018 (the \u201c Effective Date \u201d), is made by and between WPT Enterprises, Inc., a Delaware corporation, with offices located at 1920 Main Street, Suite 1150, Irvine, CA 92614 (\u201c WPT \u201d), and ZYNGA INC., a Delaware corporation with offices located at 699 8th Street, San Francisco CA, 94103 (\u201c Zynga US \u201d) and ZYNGA GAME IRELAND LIMITED, a limited company organized under the laws of Ireland, resident in Ireland and having its registered office located at The Oval, Building One, Third Floor 160 Shelbourne Road Ballsbridge 4 Co. Dublin Ireland (\u201c Zynga Ireland ,\u201d and together with Zynga US and their respective Affiliates, \u201cZynga \u201d).",
+    "ollama_generated": "Joint Content License Agreement (the \"Agreement\")\n\nThis Joint Content License Agreement is entered into on February 1, 2018 (the \"Effective Date\"), by and between the following parties: Zynga Inc., a Delaware corporation with offices located at 699 8th Street, San Francisco CA, 94103 (\"Zynga US\"); Zynga Game Ireland Limited, a limited company organized under the laws of Ireland, resident in Ireland, and having its registered office located at The Oval, Building One, Third Floor 160 Shelbourne Road Ballsbridge 4 Co. Dublin Ireland (\"Zynga Ireland\"); and WPT Enterprises, Inc., a Delaware corporation with offices located at 1920 Main Street, Suite 1150, Irvine, CA 92614 (\"WPT\").\n\nIn this Agreement, the term \"Zynga\" refers collectively to Zynga US, Zynga Ireland, and their respective Affiliates. The responsibilities and obligations outlined herein shall apply mutually to all parties involved.",
+    "contradiction_score": 0.002714331028982997,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 5,
+    "start_char": 3038,
+    "end_char": 3803,
+    "original": "Source: ALLIED ESPORTS ENTERTAINMENT, INC., 8-K, 8/15/2019 3. Term . This Agreement will be in effect for three (3) years from the Effective Date (\u201c Initial Term \u201d) unless terminated earlier in accordance with this Agreement. This Agreement shall automatically extend for an additional two (2) years on the same terms herein (\u201c Renewal Term \u201d) provided WPT receives payments greater than twelve million U.S. dollars ($12,000,000) within the Initial Term. The Initial Term and any such Renewal Term are collectively referred to as the \u201c Term .\u201d 4. Annual Minimum Guarantee . Zynga will pay WPT three million U.S. dollars ($3,000,000) per year according to the following schedule (which the parties may alter upon mutual agreement) (the \u201c Annual Minimum Guarantee \u201d):",
+    "ollama_generated": "Clause:\nSource: ALLIED ESPORTS ENTERTAINMENT, INC., 8-K, 8/15/2019\n\n3. Term: The term of this Agreement spans over three (3) years from the Effective Date (\"Initial Period\"), with either party having the right to terminate it earlier in accordance with this Agreement. In the absence of early termination, the Agreement will automatically renew for an additional two (2) years on the same terms (\"Extension Period\") if WPT receives payments less than twelve million U.S. dollars ($12,000,000) within the Initial Period. The Initial Period and any Extension Periods are collectively known as the \"Term.\"\n\n4. Annual Minimum Guarantee: Zynga will provide WPT with a payment of three million U.S. dollars ($3,000,000) annually, subject to the following schedule (which may be modified by mutual agreement) (the \"Annual Minimum Guarantee\"):\n\nBy altering the original clause, I have weakened the obligation for WPT regarding payments in order for the Agreement to renew, and also changed the condition for termination. Additionally, I made the annual payment a guarantee from Zynga to WPT instead of the other way around.",
+    "contradiction_score": 0.0632079690694809,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 11,
+    "start_char": 4872,
+    "end_char": 5426,
+    "original": "Signature: _________________________ Name: ____________________________ Title: _____________________________ ZYNGA GAME IRELAND LIMITED Signature: ______________________ Name: _________________________ Title: __________________________ Source: ALLIED ESPORTS ENTERTAINMENT, INC., 8-K, 8/15/2019 ADDITIONAL PROVISIONS The following Additional Provisions form part of the Agreement dated February 1, 2018 entered into by and between ZYNGA INC. and ZYNGA GAME IRELAND LIMITED and their respective affiliates (\u201c Zynga \u201d), and WPT Enterprises, Inc. (\u201c WPT \u201d).",
+    "ollama_generated": "Modified Provisions Supplementing the Agreement\n\nThese Additional Provisions shall be deemed an integral part of the Agreement dated February 1, 2018, which was executed by ZYNGA INC., ZYNGA GAME IRELAND LIMITED, and their respective affiliates (\"Zynga\"), and WPT Enterprises, Inc. (\"WPT\"). Notably, these provisions supersede any prior oral or written agreements regarding the same subject matter, unless explicitly otherwise provided.\n\nIn this modified version of the clauses, the scope of the agreement has been expanded to include any prior oral or written agreements related to the same subject matter, with the exception being made for instances where such agreements explicitly state otherwise. This modification may potentially widen the legal basis for potential disputes or claims that may arise in the future.",
+    "contradiction_score": 0.014856700785458088,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 13,
+    "start_char": 5640,
+    "end_char": 6327,
+    "original": "b. \u201cArtwork \u201d means, without limitation, all pictorial, graphic, visual, audio, audio-visual, digital, literary, animated, artistic, dramatic, sculptural, musical or any other type of creation or application, whether finished or not, including, without limitation, animation, drawings, designs, sketches, images, illustrations, film, video, electronic, digitized or computerized information, software, object code, source code, on-line elements, music, text, dialogue, stories, visuals, effects, scripts, voiceovers, logos, one-sheets, promotional pieces, packaging, display materials, printed materials, photographs, interstitials, notes, shot logs, character profiles and translations.",
+    "ollama_generated": "a. \"Created Material\" encompasses, but is not limited to, all forms of visual, auditory, digital, literary, animated, artistic, dramatic, sculptural, musical, or any other kind of creation or application, whether incomplete or complete, including, without limitation, animations, drawings, designs, sketches, images, illustrations, films, videos, electronic or digitized information, software, source code, object code, online elements, music, text, dialogues, stories, visual effects, scripts, voiceovers, logos, marketing materials, packaging, display items, print media, photographs, interstitials, production notes, shot logs, character descriptions, and translations. However, it is expressly excluded that the ownership of pre-existing works not created by the parties under this agreement remains with their respective owners.\n\nThis new clause clarifies that while the original clause covers a wide range of artistic and intellectual properties, it does not automatically include pre-existing works not specifically created under this agreement, which helps to alleviate any potential confusion regarding ownership rights.",
+    "contradiction_score": 0.04213730990886688,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 22,
+    "start_char": 8183,
+    "end_char": 8558,
+    "original": "c. License by WPT . Subject to the terms and conditions of this Agreement, WPT grants to Zynga a non-exclusive, non-assignable, non-sublicensable, royalty-free, paid up, limited license in the Territory to use and display WPT\u2019s Licensed Property solely as necessary to perform Zynga\u2019s obligations under this Agreement and as specifically described on Exhibit A, for the Term.",
+    "ollama_generated": "c. License Conferred by Zynga: Upon compliance with the provisions of this Agreement, Zynga is granted a non-exclusive, non-transferable, non-sublicensable, royalty-free, perpetual license within the Territory to utilize and exhibit WPT's Licensed Property. The authorization extends only for the purpose of Zynga fulfilling its obligations under this Agreement, as detailed in Exhibit A, throughout the Term. However, it is important to note that this license does not encompass any rights beyond those explicitly necessary for the specified purposes.",
+    "contradiction_score": 0.025998378172516823,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 24,
+    "start_char": 10568,
+    "end_char": 12421,
+    "original": "Source: ALLIED ESPORTS ENTERTAINMENT, INC., 8-K, 8/15/2019 e. Approvals. The Licensed Property shall be displayed or used only in such form and in such manner as has been approved in writing (which may be by email) by Licensor pursuant to this Section 2 and Licensee shall ensure its usage of the Licensed Property solely as approved. Throughout the Term, including any renewals or extensions (if applicable), Licensee shall comply with reasonable quality standards, style guides and clear specifications communicated to Licensee and rights of approval of Licensor set forth in this Section 2 with respect to any and all of its usage of the Licensed Property. Subject to Licensor\u2019s prior written approval of any applicable Licensed Property (hereinafter the \u201c Approved Content \u201d), all Conforming Content will be deemed approved by Licensor. \u201c Conforming Content \u201d means any and all elements of the Approved Content which (i) do not represent deviations in quality, style, look-and-feel or other aspects of use from the Approved Content and (ii) are consistent with the aesthetic style or tone of the Approved Content. The parties will come to agreement with respect to Exhibit A as to whether prior written approval is needed in every instance or whether it is not needed after the first instance has been approved in writing (e.g., given exigencies in television production business, it is reasonable that Zynga would approve the use of its brand conceptually in elements of an episode but not need to re-approve the use in a similar manner for every episode the brand is used in\u037e and similarly, given exigencies in the social gaming business, it is reasonable that WPT would approve use of its brand conceptually in elements of the Zynga platform but not need to re-approve the use in a similar manner for every poker tournament the brand is used in).",
+    "ollama_generated": "Clause:\nSource: ALLIED ESPORTS ENTERTAINMENT, INC., 8-K, 8/15/2019 - Approvals. The Licensed Property may be utilized or displayed in forms and manners only as granted in written form (which may be by email) by the Licensor under this Section 2. However, the Licensee bears no obligation to secure approval for subsequent uses of the Licensed Property that are similar to those already approved, provided they maintain consistency with the original approved content.\n\nThroughout the Term, including any renewals or extensions (if applicable), the Licensee agrees to adhere to reasonable quality standards, style guides, and clear specifications communicated by the Licensor in this Section 2. The Licensor reserves the right to request prior written approval for any changes to the Approved Content. \"Approved Content\" refers to any content that has received such prior approval.\n\n\"Conforming Content,\" on the other hand, shall be considered automatically approved by the Licensor, as long as it aligns with the quality, style, aesthetic, and tone of the Approved Content, and does not deviate in any significant aspect from the original approved content.\n\nExhibit A outlines specific circumstances where prior written approval may not be required for subsequent uses of the Licensed Property. For instance, in the television production business, it is reasonable that Zynga would approve the use of its brand conceptually in elements of an episode but not need to re-approve its use in similar episodes. Similarly, in the social gaming industry, it is reasonable that WPT would approve use of its brand conceptually in elements of the Zynga platform but not need to re-approve its use for every subsequent poker tournament.",
+    "contradiction_score": 0.10118584334850311,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 33,
+    "start_char": 17220,
+    "end_char": 18154,
+    "original": "Zynga shall provide WPT with an official receipt or other equivalent documentation issued by the appropriate taxing authority or other evidence as is reasonably requested by WPT to establish that such taxes have been paid. Zynga shall pay all amounts accruing under this Agreement for any reporting period to WPT by check or wire transfer to the account specified by WPT in writing, concurrently with Zynga\u2019s delivery of the applicable report under Section 3(d), provided that payments will only be paid if the amount owed to WPT for any reporting period is greater than five hundred dollars ($500.00). An amount due of less than five hundred dollars ($500.00) will be accumulated to the next payment and will be included in the amount to be paid to WPT on the next payment date, again provided that the amount owed to WPT in the subsequent month exceeds five hundred dollars ($500.00). Accumulated amounts do not accrue any interest.",
+    "ollama_generated": "WPT shall have the right to request, from Zynga, official receipts or other equivalent documentation issued by the appropriate taxing authority, or other reasonable evidence, for verification that all applicable taxes have been duly paid by Zynga. Any amounts payable under this Agreement during any reporting period, regardless of the amount owed, shall be remitted to WPT by check or wire transfer to an account designated in writing by WPT, upon receipt of the corresponding report as outlined in Section 3(d). However, payments will only be made if the cumulative total of amounts due to WPT for multiple reporting periods exceeds five hundred dollars ($500.00). If the amount owed to WPT in any given period is less than five hundred dollars ($500.00), it shall be carried forward and included in the next payment, provided that the subsequent payment also meets the minimum threshold of five hundred dollars ($500.00). Accumulated amounts shall not earn interest.",
+    "contradiction_score": 0.0016558505594730377,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 34,
+    "start_char": 18154,
+    "end_char": 19112,
+    "original": "d. Reporting . Zynga will, within thirty (30) days of the end of each calendar quarter, commencing with the first full calendar quarter following the Effective Date, furnish WPT with complete statements containing the following information with respect to all Net Revenue from the use of the WPT-brand on the Zynga platform, during the preceding period covered by such statement: the Territory\u037e the amount due WPT (or the remaining unrecouped Annual Minimum Guarantee balance as applicable)\u037e Net Revenue\u037e Royalties rate\u037e the distribution channels or portals, the platform, the territory(ies), and itemized Allowable Deductions (\u201c Royalty Statement(s) \u201d). The amount shown to be payable to WPT shall be paid simultaneously with the rendition of the respective Royalty Statement. The statements and payments remitted hereunder shall be delivered to WPT via email to the following email address: Deborah.Frazzetta@wpt.com  (ATTN: Deborah Frazzetta, VP, Finance.",
+    "ollama_generated": "Clause d: Reporting Obligations\n\nWPT will be responsible for providing Zynga with a request, within thirty (30) days following the commencement of each calendar quarter, starting from the first full calendar quarter post the Effective Date. This request will outline the requirement for Zynga to submit complete statements detailing the following information regarding Net Revenue generated by the use of the WPT-brand on the Zynga platform, during the preceding period covered by such request: the Territory; any amounts owed by Zynga (or the outstanding balance of the Annual Minimum Guarantee, if applicable); Net Revenue; Royalties rate; the distribution channels or portals, the platform, the territory(ies), and itemized Allowable Deductions (\"Royalty Statement(s)\").\n\nZynga shall have thirty (30) days from the receipt of WPT's request to submit the Royalty Statement. Any amounts payable to WPT, as outlined in the Royalty Statement, shall be paid by Zynga no later than forty-five (45) days following the submission of the respective Royalty Statement. The statements and payments received by WPT pursuant to this clause will be acknowledged via email confirmation to Deborah.Frazzetta@wpt.com (CC: Deborah Frazzetta, VP, Finance).\n\nThis alteration shifts the responsibility for initiating the reporting process to WPT and extends the time frame for Zynga's payment to WPT by fifteen days.",
+    "contradiction_score": 0.07668863236904144,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 35,
+    "start_char": 19112,
+    "end_char": 19873,
+    "original": "e. Audit Rights. Zynga shall keep full, complete and accurate books of account and records (collectively \u201crecords\u201d) covering all transactions relating to the subject matter of this Agreement in sufficient detail to enable the Royalties payable hereunder to be determined and verified. Zynga shall permit such records to be examined by authorized representatives of WPT, including such independent auditors as WPT may designate, during usual business hours, with advance notice, to verify to the extent necessary the Royalties paid hereunder, and WPT and its representatives shall use reasonable efforts to minimize disruptions to Zynga\u2019s business. Prompt adjustment shall be made by Zynga to compensate for any errors or omissions disclosed by such examination.",
+    "ollama_generated": "Audit Obligations: Developer (WPT) shall have the right, upon reasonable notice and during usual business hours, to inspect and verify the accuracy of the records related to this Agreement maintained by Publisher (Zynga). Such records should include all transactions pertaining to the subject matter of this Agreement, kept in sufficient detail for Royalties calculation and verification. Zynga shall cooperate with WPT's representatives during such inspections, although it reserves the right to request reasonable limits to minimize disruptions to its business operations. Any errors or omissions identified during the inspection will be promptly rectified by Zynga at its own expense.\n\nThis revised clause shifts some of the responsibility for record-keeping and error correction from Zynga to WPT, providing WPT with more control over the audit process while ensuring that Zynga is still obligated to cooperate during inspections and rectify any errors found.",
+    "contradiction_score": 0.48062974214553833,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 38,
+    "start_char": 20216,
+    "end_char": 21438,
+    "original": "4. REPRESENTATIONS AND WARRANTIES\u037e LIMITATIONS OF LIABILITY a. Each party represents and warrants to the other as follows: (i) it is duly authorized under applicable law and has the authority to enter into and perform this Agreement\u037e (ii) this Agreement constitutes a valid and binding obligation of such party enforceable in accordance with its terms\u037e (iii) the making of this Agreement by such party does not violate any agreement, right or obligation existing between such party and any third party\u037e (iv) the marketing and promotional activities in Exhibit A shall not infringe or misappropriate third party rights, including, without limitation, any patent, trade name, trademark, copyright or other intellectual property or proprietary right and shall not invade or violate any right of privacy, publicity, personal or proprietary right, or other common law or statutory right, nor defame any person or entity in the United States and European Union (the \u201c Principal Territories \u201d), and to the knowledge of such party, outside the Principal Territories\u037e provided that such party makes no representations regarding the Licensed Property or any other materials provided by Licensor as contemplated under this Agreement.",
+    "ollama_generated": "4. REPRESENTATIONS AND WARRANTIES; LIMITATIONS OF LIABILITY a. Each party acknowledges and warrants to the other as follows: (i) it possesses the necessary authority under applicable law to execute and comply with this Agreement; (ii) this Agreement is considered a legally binding obligation for such party, as per its stated terms; (iii) the execution of this Agreement by the party does not contravene any existing agreements, rights, or obligations between the party and any third parties; (iv) the marketing and promotional activities detailed in Exhibit A do not infringe upon or misappropriate the intellectual property or proprietary rights of any third party within the Principal Territories, nor invade or violate any individual's privacy, publicity, or other legal rights. However, each party assumes responsibility for ensuring that such activities do not defame any person or entity outside the Principal Territories. Furthermore, each party acknowledges that it does not make any representations concerning the Licensed Property or any materials furnished by the Licensor as per this Agreement's terms.\n\nChanges made:\n- Changed \"represents and warrants\" to \"acknowledges and warrants\" to weaken the obligation of the parties.\n- Added \"however\" to invert the condition for liabilities outside the Principal Territories.\n- Shifted the responsibility for defamation outside the Principal Territories from the Licensor to each party.",
+    "contradiction_score": 0.03943509981036186,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 43,
+    "start_char": 23503,
+    "end_char": 24315,
+    "original": "b. Zynga shall indemnify, defend, and hold harmless WPT and its Affiliates, and the respective directors, officers and employees of the foregoing (the \u201cWPT Indemnified Parties\u201d) from and against any and all third party claims, actions, suits, costs, liabilities, judgments, obligations, losses, penalties, expenses or damages (including, without limitation, reasonable legal fees and expenses) of whatsoever kind and nature imposed on, incurred by or asserted against any of the WPT Indemnified Parties arising out: (i) any breach or alleged breach by Zynga of any representation, warranty or covenant made by Zynga pursuant to this Agreement\u037e or (ii) Zynga\u2019s non-compliance with any applicable federal, state or local laws or with any applicable regulations in connection with its performance of this Agreement.",
+    "ollama_generated": "a. The WPT Indemnified Parties shall have the right to be indemnified, defended, and held harmless by Zynga against any and all third party claims, actions, suits, costs, liabilities, judgments, obligations, losses, penalties, expenses or damages (including, without limitation, reasonable legal fees and expenses) of whatsoever kind and nature that may be imposed on, incurred by, or asserted against the WPT Indemnified Parties, resulting from: (i) any alleged breach by the WPT Indemnified Parties of any representation, warranty, or covenant made by them under this Agreement; or (ii) their compliance with any applicable federal, state, or local laws or regulations in connection with their performance of this Agreement. In such cases, Zynga shall assume the responsibility for any resulting claims, costs, or damages.",
+    "contradiction_score": 0.005232121329754591,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 48,
+    "start_char": 26578,
+    "end_char": 26686,
+    "original": "7. RIGHTS AND OBLIGATIONS UPON TERMINATION OR EXPIRATION . Upon expiration or termination of this Agreement:",
+    "ollama_generated": "Clause 7: TERMINATION OR EXPIRATION CONSEQUENCES\n\nUpon the expiration or termination of this Agreement, each party's rights and obligations shall be as follows:\n\na) Party A shall have no obligation to provide any further services beyond the effective date of termination or expiration.\n\nb) Party B shall remain obligated to make full payment for all services rendered by Party A up until the effective date of termination or expiration, and all outstanding payments shall be due immediately.\n\nc) Any rights or claims that either party may have against the other under this Agreement shall survive the termination or expiration of this Agreement.\n\nd) Upon request, each party agrees to provide the other with reasonable cooperation and assistance in connection with any legal proceedings arising out of this Agreement, at the requesting party's expense.\n\ne) The confidentiality provisions contained within Section 6 shall continue to apply even after the termination or expiration of this Agreement.\n\nf) Each party shall return or destroy all Confidential Information received from the other party in connection with this Agreement, unless required by law to retain such information, in which case the recipient shall limit its use and disclosure as much as possible.",
+    "contradiction_score": 0.12383594363927841,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 50,
+    "start_char": 26869,
+    "end_char": 27050,
+    "original": "b. All rights granted to Zynga by WPT shall immediately revert to WPT, and Zynga shall promptly cease any and all marketing and promotional activities using WPT\u2019s Licensed Property.",
+    "modified": "c. Zynga shall retain the rights granted by WPT for an indefinite period, unless otherwise terminated or mutually agreed upon by both parties. Any cessation of marketing and promotional activities using WPT's Licensed Property shall be at the discretion of Zynga, subject to providing notice to WPT, if required by the terms of this agreement.",
+    "contradiction_score": 0.9925106763839722,
+    "kept": true
+  },
+  {
+    "clause_index": 51,
+    "start_char": 27050,
+    "end_char": 27571,
+    "original": "c. Notwithstanding the foregoing, for each end user that previously downloaded a Zynga game that includes WPT\u2019s Licensed Property, and stored such Zynga game within such end user\u2019s device, WPT grants a license and right to continue to use, activate, operate, perform, store, use and display that game on the end user\u2019s device in perpetuity at no additional charge\u037e provided, however, that Zynga shall use best efforts to offer end users updates to its games which no longer include WPT\u2019s Licensed Property after the Term.",
+    "ollama_generated": "Clause:\nc. Notwithstanding anything to the contrary, once a Zynga game containing WPT's Licensed Property has been downloaded by an end user and saved on their device, WPT hereby grants a perpetual, non-transferable license for the uninterrupted use, activation, operation, performance, storage, and display of that specific game on the end user's device without further charges. However, it is understood that Zynga will strive to make reasonable efforts to provide updates to their games which no longer feature WPT's Licensed Property after the termination of this agreement, but such updates are not guaranteed.\n\nIn this rewritten clause, I have slightly modified the original by weakening Zynga's obligation to offer updates without guaranteed success and clarifying that the license is perpetual and non-transferable, while still maintaining a professional and fluent tone.",
+    "contradiction_score": 0.053979724645614624,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 60,
+    "start_char": 30561,
+    "end_char": 31016,
+    "original": "Legal, 1920 Main Street, Suite 1150, Irvine, CA 92614. A copy of any notice to Zynga shall also be sent to Office of the General Counsel, Zynga Inc., 699 8th Street, San Francisco, CA 94103 with a copy to legalnotices@zynga.com . Notice shall be deemed given as follows: upon delivery if sent by courier service, express mail or personal delivery\u037e and five (5) days after the date of mailing, postage prepaid, certified or registered mail if sent by mail.",
+    "ollama_generated": "Notification Delivery:\nZynga Inc., 699 8th Street, San Francisco, CA 94103, and Legal Notices, Zynga Inc., legalnotices@zynga.com, shall receive a copy of any notification sent to them. For notice delivery, courier service, express mail, or personal delivery will be considered effective immediately. If mailed, the notification will be deemed delivered five (5) business days after the date of mailing, provided that certified or registered mail with proof of delivery has been used.\n\nIn this revised clause, the obligation to send a copy of the notice to both the specific address and email address remains, but the method of delivery has been adjusted slightly to make it more flexible by considering business days instead of calendar days for mailed notices. This modification may provide Zynga with an additional day or two if needed for mail delivery during weekends or holidays.",
+    "contradiction_score": 0.06374193727970123,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 63,
+    "start_char": 31372,
+    "end_char": 31601,
+    "original": "e. Waiver . No waiver of any term or condition of this Agreement shall be construed as a waiver of any other term or condition and no waiver of any default under this Agreement shall be construed as a waiver of any other default.",
+    "ollama_generated": "Clause:\ne. Waiver Modification. A modification or relaxation of any provision of this Agreement by either party shall not be deemed to be a relinquishment or waiver of any other term, condition, or right under this Agreement, nor shall it constitute a waiver of any past, present, or future defaults.\n\nThis revised clause maintains the original intent of the provision but shifts the responsibility slightly by implying that a modification or relaxation of one term does not equate to a complete waiver of all terms and conditions, and neither party's waiver of a default implies a waiver of any other defaults.",
+    "contradiction_score": 0.12202110141515732,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 64,
+    "start_char": 31601,
+    "end_char": 32533,
+    "original": "f. Force Majeure . In the event that either party is prevented from engaging in the marketing and promotional activities in Exhibit A manufacturing, distributing or selling the Licensed Property because of any act of God\u037e unavoidable accident\u037e fire, epidemic\u037e strike, lockout, or other labor dispute\u037e war, riot or civil commotion\u037e act of public enemy\u037e enactment of any rule, law, order or act of government or governmental instrumentality (whether federal, state, local or foreign)\u037e or other cause beyond such party\u2019s control, and such condition continues for a period of two (2) months or more, either party hereto shall have the right to terminate this Agreement effective at any time during the continuation of such condition by giving the other party at least thirty (30) days\u2019 notice to such effect. In such event, all payments made shall become immediately due and payable and this Agreement shall be automatically terminated.",
+    "ollama_generated": "Clause:\ng. Unforeseen Circumstances. Should either party face an impasse in executing the marketing and promotional activities outlined in Exhibit A for reasons such as natural disasters, unpredictable incidents, fires, pandemics, work stoppages including strikes or lockouts, or labor disputes, wars, riots, civil disturbances, acts of hostility, legislative actions, governmental regulations (at any level, national or local, domestic or foreign), or other events beyond their reasonable control, and this predicament persists for a period of two (2) months or longer, either party shall possess the authority to terminate this Agreement at their discretion. A written notice, delivered no less than thirty (30) days prior to termination, shall be communicated to the other party, indicating the intent to exercise this right. Immediately upon such notice, all payments owed become immediately payable, and this Agreement shall come to an end automatically without further legal proceedings.",
+    "contradiction_score": 0.32473447918891907,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 71,
+    "start_char": 34984,
+    "end_char": 35046,
+    "original": "Zynga shall promote the WPT brand in the following activities:",
+    "ollama_generated": "The promoter, being Zynga, is granted the discretion to feature the WPT brand within their chosen marketing endeavors, as deemed appropriate.",
+    "contradiction_score": 0.008101851679384708,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

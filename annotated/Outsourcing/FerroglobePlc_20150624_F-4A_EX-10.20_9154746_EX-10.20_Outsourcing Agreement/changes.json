@@ -1,0 +1,270 @@
+[
+  {
+    "clause_index": 5,
+    "start_char": 1280,
+    "end_char": 1492,
+    "original": "1.3.EIT is a company that installs, integrates and develops the management and maintenance of Data Processing Systems, and desires to perform for the Customer the outsourcing services described in this Agreement.",
+    "ollama_generated": "1.3. The Customer seeks to engage EIT, a company specializing in installation, integration, and development of Data Processing Systems management and maintenance, for the provision of the outsourced services as outlined within this Agreement. (This shifts the responsibility slightly towards the Customer seeking the services from EIT.)",
+    "contradiction_score": 0.007169433869421482,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 13,
+    "start_char": 2433,
+    "end_char": 2607,
+    "original": "2.4.The supervision of the Agreement is assured by EIT, represented by its Chief Executive, and by the Customer, represented by its Head of Information Technology Department.",
+    "ollama_generated": "2.4. The oversight of this Agreement is delegated to both parties, with EIT entrusting responsibility to its Chief Executive, and the Customer assigning it to their Head of Information Technology Department. This mutual responsibility ensures a collaborative approach in overseeing the Agreement's execution.",
+    "contradiction_score": 0.005710829980671406,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 16,
+    "start_char": 3024,
+    "end_char": 3319,
+    "original": "3.1.NETWORK EIT is in charge of the remote Network, which connects each workstation of the Customer to the Central Server of EIT and to Internet (hereinafter \u201cWAN\u201d). The internal network of the factories (hereinafter \u201cLAN\u201d) is excluded from this Agreement and the Customer is responsible for it.",
+    "ollama_generated": "3.1. In accordance with this Agreement, the management and maintenance of the remote Network, which links each Customer workstation to our Central Server and to the Internet (WAN), will be undertaken by EIT. However, it's important to note that the internal network within the factories (LAN) falls outside the scope of this agreement, with the responsibility for its management and maintenance remaining with the Customer.",
+    "contradiction_score": 0.015106425620615482,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 20,
+    "start_char": 4021,
+    "end_char": 4247,
+    "original": "3.1.4. EIT commits to assure a high availability (availability rate defined in Annex 2) and the proper performance (response time and no saturation) of the Network during working hours in South Africa (established in Annex 2).",
+    "ollama_generated": "3.1.4. It is understood that EIT shall endeavor to maintain a satisfactory level of network availability (as defined in Annex 2) and adequate performance (including reasonable response times and prevention of saturation) during standard business hours in South Africa (defined in Annex 2), while acknowledging that certain unforeseen circumstances may occasionally lead to temporary deviations.",
+    "contradiction_score": 0.0016379032749682665,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 34,
+    "start_char": 5674,
+    "end_char": 5815,
+    "original": "3.3.1. Provide the Customer with hardware installations (servers, disks, backup tapes, etc.) which enable the performance of the application.",
+    "ollama_generated": "3.3.1. The Service Provider shall be responsible for making available to the Customer the necessary hardware components (servers, disks, backup tapes, etc.), with the understanding that their functionality is contingent upon the successful execution of the application by the Customer.",
+    "contradiction_score": 0.004460522904992104,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 42,
+    "start_char": 7110,
+    "end_char": 7360,
+    "original": "3.3.9. Guarantee a high service level (reasonable response time and correct progress of transactions). With regard to the electronic mail service, EIT will be able, after contacting with the Customer, to restrict the type and size of exchanged files.",
+    "ollama_generated": "3.3.9. Strive for an acceptable level of service (prompt response time and proper progression of transactions), while acknowledging that exceptions may occasionally arise. In relation to the electronic mail service, the Customer is requested to cooperate by limiting the type and size of exchanged files upon our request.\n\nIn this revised clause, the obligation for guaranteeing a high service level has been weakened to striving for an acceptable level of service. The condition for EIT to restrict the type and size of exchanged files has also been inverted, with the responsibility now on the Customer to cooperate by limiting the file types and sizes upon EIT's request.",
+    "contradiction_score": 0.057933930307626724,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 43,
+    "start_char": 7360,
+    "end_char": 7778,
+    "original": "It is noted that the customer currently do not make use of this service but has the option to use it at no additional cost 3.3.10. Assure the security of the access to information: the Customer is responsible for the opening of accesses to the applications. EIT commits to supply the necessary securities to ensure the access rights defined by the Customer guarantee access only to the data authorized by the Customer.",
+    "ollama_generated": "The Client is hereby acknowledged as having the potential, but not the current utilization, of this service, with no extra charges applicable for its activation as per clause 3.3.10. With regard to maintaining the security of access to information, EIT assumes responsibility for providing adequate safeguards to secure the applications' access points. The Client, however, bears the obligation to define and manage the data authorization access rights. EIT will strive to ensure that the access rights provided correspond to those designated by the Client, thereby granting access exclusively to authorized data.",
+    "contradiction_score": 0.010016313754022121,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 51,
+    "start_char": 8764,
+    "end_char": 8861,
+    "original": "3.6.1. The definition of the technological standards to be used in the Customer\u2019s IT environment.",
+    "ollama_generated": "3.6.1. The selection and maintenance of the technological standards employed within the Client's IT environment shall be at the discretion of the Client, unless explicitly stipulated otherwise in this Agreement.\n\nThis revision allows for some flexibility in terms of decision-making regarding technological standards, placing more responsibility on the client while also providing a clear escape clause if specific standards are explicitly mentioned in the agreement.",
+    "contradiction_score": 0.0036328332498669624,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 65,
+    "start_char": 12498,
+    "end_char": 12596,
+    "original": "6.2.The parties will analyse monthly these measurements in order to identify what can be improved.",
+    "ollama_generated": "6.2. The party responsible for analysis shall review monthly measurements, with the aim of highlighting areas for potential optimization, without an obligation to suggest or implement improvements unless otherwise agreed upon.",
+    "contradiction_score": 0.025658033788204193,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 68,
+    "start_char": 13012,
+    "end_char": 13229,
+    "original": "TWO HUNDRED THOUSAND EUROS (200,000 \u20ac) 7.1.1. This amount has been fixed for the two factories of Silicon Smelters: Polokwane and Rand Carbide, being the annual amount per factory A HUNDRED THOUSAND EUROS (100,000 \u20ac).",
+    "ollama_generated": "Amended Clause:\nThe total annual contribution of Two Hundred Thousand Euros (200,000 \u20ac) is equally divided between the two factories of Silicon Smelters: Polokwane and Rand Carbide. Each factory shall bear a half share of this amount, specifically One Hundred Thousand Euros (100,000 \u20ac) annually.\n\nThis modification aims to clarify that each factory is responsible for half the total annual contribution instead of individually contributing 100,000 euros each.",
+    "contradiction_score": 0.009227988310158253,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 79,
+    "start_char": 14990,
+    "end_char": 15229,
+    "original": "7.3.8. In case that the National Statistics Institute of Spain does not publish the CPI or it be significantly modified in form and content, the parties will agree to a new equivalent measurement, which must be published at least annually.",
+    "ollama_generated": "7.3.8. If the National Statistics Institute of Spain fails to publish the Consumer Price Index (CPI) or substantially alters its form and content, the onus shall be on the non-publishing party to propose an alternative equivalent measurement, which must then be mutually agreed upon by both parties and published at least annually.\n\nIn this revised clause, the responsibility for proposing a new measurement is shifted from both parties to the party responsible for not publishing or altering the CPI, providing more clarity and specificity in case of such an event.",
+    "contradiction_score": 0.0033077814150601625,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 80,
+    "start_char": 15229,
+    "end_char": 15409,
+    "original": "8.INTELLECTUAL PROPERTY 8.1.The Intellectual Property of the programmes in the application GES-INDUS, used by the Customer\u2019s exploitation of the management systems, belongs to EIT.",
+    "ollama_generated": "Clause:\n8. INTELLECTUAL PROPERTY\n8.1. The ownership of the intellectual property pertaining to the programs within the application GES-INDUS, which are utilized in the Customer's implementation of the management systems, remains with EIT. However, EIT grants a non-exclusive, limited license to the Customer for the use of these intellectual properties solely for the purpose of utilizing the management systems. Any modifications or improvements made by the Customer shall be the property of EIT.\n\nThis version maintains professional language while weakening the obligation of the customer by granting them a non-exclusive, limited license to use the intellectual properties. Additionally, it clarifies that any modifications or improvements made by the customer will belong to EIT.",
+    "contradiction_score": 0.008096013218164444,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 81,
+    "start_char": 15409,
+    "end_char": 15585,
+    "original": "8.2.The rights of Intellectual Property also protect the programmes that might be created, and the data processing, accounts, and diagrams generated by the mentioned programme.",
+    "ollama_generated": "8.2. Notwithstanding anything to the contrary, it is explicitly acknowledged that the scope of Intellectual Property rights extends to any programs developed, as well as associated data processing, account creation, and diagram generation derived therefrom. (This version emphasizes that the IP rights cover not only the initial program but also subsequent developments.)",
+    "contradiction_score": 0.0042344955727458,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 85,
+    "start_char": 16065,
+    "end_char": 16311,
+    "original": "9.4.Quality Control 9.4.1. EIT guarantees that the services described in this Agreement will be rendered in accordance with the best practice, a quality level accepted by the Customer, and in accordance with the service levels defined in Annex 2.",
+    "ollama_generated": "9.4. Quality Assurance: The Customer acknowledges that EIT shall strive to deliver services as outlined in this Agreement, adhering to industry best practices, mutually agreed quality standards, and the service level benchmarks detailed in Annex 2. However, EIT's responsibility is limited to reasonable efforts, and it does not guarantee the absolute perfection of the services provided.",
+    "contradiction_score": 0.0940840020775795,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 88,
+    "start_char": 16752,
+    "end_char": 16919,
+    "original": "10.LIABILITY 10.1.EIT is responsible for any damages caused to the Customer or to third parties, when these result from EIT not satisfying the contractual obligations.",
+    "ollama_generated": "10. LIABILITY: The Client acknowledges that they shall bear responsibility for any damages incurred by EIT or third parties, arising from the Client's failure to fulfill their contractual obligations.\n\nThis modification shifts the responsibility for potential damages onto the client when they fail to meet their contractual obligations.",
+    "contradiction_score": 0.028405554592609406,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 101,
+    "start_char": 20139,
+    "end_char": 20259,
+    "original": "11.2.3. 10.2.3. EIT will not be held responsible if a Customer\u2019s user uses an access code and password of a third party.",
+    "ollama_generated": "11.2.3.1. In the event a third party's access code and password are utilized by a Customer's user, EIT shall not bear any liability for such actions.\n\nThis change in wording subtly shifts the responsibility from the Customer to EIT regarding account security when unauthorized third-party access occurs.",
+    "contradiction_score": 0.002509009325876832,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 107,
+    "start_char": 21041,
+    "end_char": 21291,
+    "original": "12.3.If the commission members are not able to resolve a conflict or a problem in the interpretation of this Agreement within thirty natural days, the representatives of the parties will be duly informed in order to find a solution on friendly terms.",
+    "ollama_generated": "12.3. Should a dispute or disagreement regarding the interpretation of this Agreement persist among the commission members beyond thirty natural days, the responsibility shifts to the parties' designated representatives to initiate discussions and endeavor to reach an amicable resolution outside of the agreed terms.",
+    "contradiction_score": 0.08233631402254105,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 109,
+    "start_char": 21474,
+    "end_char": 21663,
+    "original": "13.2.The Agreement rests, for all that, cancellable at any time by any of the parties before the expiry date of the Agreement or any of its renewals, upon three months prior written notice.",
+    "ollama_generated": "13.2. For the avoidance of doubt, either party retains the unilateral right to terminate this Agreement at any time, effective three months following delivery of written notice, prior to the expiration date or any renewal period.",
+    "contradiction_score": 0.005779073107987642,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 120,
+    "start_char": 23680,
+    "end_char": 23812,
+    "original": "15.3.EIT commits to hand over to the Customer, on this date, all the data and its copies, in the frame of the provision of services.",
+    "modified": "15.3. The Customer acknowledges that EIT shall retain ownership and control of all data provided during the course of service delivery. However, EIT agrees to facilitate access to such data upon the Customer's reasonable request, subject to applicable legal restrictions and data protection regulations.",
+    "contradiction_score": 0.760371744632721,
+    "kept": true
+  },
+  {
+    "clause_index": 122,
+    "start_char": 24222,
+    "end_char": 24409,
+    "original": "16.2.However, if any of the parties no longer belongs to Group Villar Mir, any litigation that may not be solved in a friendly manner will be settled in compliance with the laws of Spain.",
+    "ollama_generated": "16.2. Conversely, should any party cease to be affiliated with Group Villar Mir, it shall be obligated, in the event that disputes cannot be amicably resolved, to abide by the jurisdiction and applicable laws of Spain for settlement.",
+    "contradiction_score": 0.001962941372767091,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 125,
+    "start_char": 24884,
+    "end_char": 24932,
+    "original": "16.3.2. The place of arbitration will be Madrid.",
+    "ollama_generated": "16.3.2. The arbitration shall occur in Madrid, unless mutually agreed otherwise by the parties in writing.\n\nThis modification maintains professionalism while giving both parties the flexibility to choose a different location for the arbitration with a written agreement.",
+    "contradiction_score": 0.0006193817825987935,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 129,
+    "start_char": 25402,
+    "end_char": 25553,
+    "original": "Source: FERROGLOBE PLC, F-4/A, 6/24/2015 17.GOVERNING LAW 17.1.This Agreement shall be governed by, and construed in accordance with the laws of Spain.",
+    "ollama_generated": "Clause:\nRevised: FERROGLOBE PLC, F-4/A, 6/24/2015\n17. GOVERNING LAW (17.1)\nThe interpretation and application of this Agreement shall be subject to the exclusive jurisdiction and laws of Spain.\n\nIn this revised clause, I've inverted the condition by stating that the interpretation and application of the agreement will be subject to Spanish law instead of simply governing it. This subtle change reflects a slight shift in responsibility for interpreting the contract terms and ensuring compliance with applicable laws.",
+    "contradiction_score": 0.046963248401880264,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 135,
+    "start_char": 26335,
+    "end_char": 26485,
+    "original": "WAN: External network that connects the Silicon Smelter factories with the central node located in Madrid. Network leaving the router of each factory.",
+    "ollama_generated": "Network Connection (WN): Refers to the external network linking the Silicon Smelter facilities globally, emanating from the central hub stationed in Madrid. This network encompasses the outgoing connection from each factory's router.\n\nChanges made: The original clause specified that the WAN connects the factories with the central node in Madrid; however, the revised clause now states that it links the facilities globally, thus implying a broader network scope. Additionally, the term \"external network\" was replaced with \"global network connection,\" giving the impression of a more expansive and interconnected infrastructure.",
+    "contradiction_score": 0.4276964068412781,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 136,
+    "start_char": 26486,
+    "end_char": 26590,
+    "original": "South African workdays : Monday to Friday, except for legal holidays of the South African work schedule.",
+    "modified": "South African workdays exclude legal holidays as outlined in the South African work schedule, with operations generally conducted from Monday to Friday.",
+    "contradiction_score": 0.6506662368774414,
+    "kept": true
+  },
+  {
+    "clause_index": 138,
+    "start_char": 26665,
+    "end_char": 26763,
+    "original": "Local Servers : Servers listed in Annex 3, which are located in the factories of Silicon Smelters.",
+    "ollama_generated": "Server Locations: The servers detailed in Annex 3 may be situated at any facility operated by Silicon Smelters, but it is not obligatory for them to be exclusively based in their factories.",
+    "contradiction_score": 0.15172377228736877,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 141,
+    "start_char": 27055,
+    "end_char": 27190,
+    "original": "Data: The data or information belonging to the Customer saved on magnetic support or others, and that is subject to computer treatment.",
+    "ollama_generated": "Information and Data Ownership: All digital information or data pertaining to the Client, whether stored magnetically or otherwise, shall remain the exclusive property of the Client. The Client retains full control over the use, modification, and deletion of this data during the course of our services, unless expressly permitted or required by law.\n\nChanges made:\n1. I've replaced \"belonging to\" with \"pertaining to\" to soften the ownership claim slightly, as it is still under the control of the Client.\n2. I've added a clause that clearly states the Client retains full control over their data, which was not explicitly stated in the original clause.\n3. I've included an exception for situations where the use or disclosure of data may be required by law, to maintain legal compliance.",
+    "contradiction_score": 0.032208431512117386,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 147,
+    "start_char": 28742,
+    "end_char": 30116,
+    "original": "less than three South African workdays Solution or work-around: set out by the requestor Electronic Mail Service Availability 7d/7d 24h/24h 99% availability Measuring periods when the electronic mail service is not available OFINET Availability 7d/7d 24h/24h   95% availability   Measuring periods when OFINET is not available Source: FERROGLOBE PLC, F-4/A, 6/24/2015 ANNEX 3: INVENTORY OF SERVERS USED BY SILICON SMELTERS Name of Servers   Functionality  Priority Local or Central Server  Server Management Responsibility ERP Ges-indus  Management of commercial and financial flow  High Central   EIT SMTP.EIT.ES  Transmission of electronic mail  High Central   EIT POP.EIT.ES  Delivery of electronic mail  High Central   EIT OFINET WEB application, access to electronic mail service and sharing of documents and information  Medium Central Source: FERROGLOBE PLC, F-4/A, 6/24/2015 ANNEX 4: INVENTORY OF APPLICATIONS USED BY SILICON SMELTERS Name of Application   Functionality  Priority Local or Central Server  Server and Application Management Responsibility Ges-Indus  Management of commercial and financial flow  High Central   EIT Email service  Transmission and reception of electronic mail  High Central   EIT OFINET WEB application, access to electronic mail service and sharing of documents and information  Medium Central Source: FERROGLOBE PLC, F-4/A, 6/24/2015",
+    "ollama_generated": "Clause:\nElectronic Mail Service Availability shall be maintained by OFINET for no less than three South African workdays per calendar year, with an uptime of at least 95%, excluding periods of scheduled maintenance or unforeseen outages. The measurement period will commence upon notification via Electronic Mail Service, and the service's availability will be assessed based on this interval.\n\nExplanation:\nIn the original clause, OFINET is required to maintain a 7-day a week, 24-hour a day, 99% availability for the electronic mail service. This revised clause weakens the obligation by reducing the minimum uptime requirement from 99% to 95%, and limiting the availability to no less than three South African workdays per year, instead of being constantly available. Additionally, it specifies that the measurement period will only be evaluated during scheduled maintenance or unforeseen outages, which were not explicitly mentioned in the original clause.",
+    "contradiction_score": 0.4646928906440735,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "doc_id": "RMRGROUPINC_01_22_2020-EX-99.1-JOINT_FILING_AGREEMENT",
+  "text": "Exhibit 99.1 JOINT FILING AGREEMENT The undersigned hereby agree that the Schedule 13G/A with respect to the shares of Class A Common Stock, $0.001 par value per share, of The RMR Group Inc., dated as of December 31, 2019, is, and any amendments thereto (including amendments on Schedule 13D) signed by each of the undersigned shall be, filed on behalf of each of us pursuant to and in accordance with the provisions of Rule 13d-1(k) under the Securities Exchange Act of 1934, as amended. January 22, 2020 (Date) ABP TRUST /s/ Adam D. Portnoy (Signature) Adam D. Portnoy, President (Name/Title) ADAM D. PORTNOY /s/ Adam D. Portnoy (Signature) 10",
+  "segments": [
+    {
+      "segment_id": 0,
+      "text": "Exhibit 99.1 JOINT FILING AGREEMENT The undersigned hereby agree that the Schedule 13G/A with respect to the shares of Class A Common Stock, $0.001 par value per share, of The RMR Group Inc., dated as of December 31, 2019, is, and any amendments thereto (including amendments on Schedule 13D) signed by each of the undersigned shall be, filed on behalf of each of us pursuant to and in accordance with the provisions of Rule 13d-1(k) under the Securities Exchange Act of 1934, as amended. January 22, 2020 (Date) ABP TRUST /s/ Adam D. Portnoy (Signature) Adam D. Portnoy, President (Name/Title) ADAM D. PORTNOY /s/ Adam D. Portnoy (Signature) 10",
+      "clauses": [
+        {
+          "start": 13,
+          "end": 35,
+          "text": "JOINT FILING AGREEMENT",
+          "type": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract"
+        },
+        {
+          "start": 595,
+          "end": 610,
+          "text": "ADAM D. PORTNOY",
+          "type": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract"
+        },
+        {
+          "start": 513,
+          "end": 522,
+          "text": "ABP TRUST",
+          "type": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract"
+        },
+        {
+          "start": 489,
+          "end": 505,
+          "text": "January 22, 2020",
+          "type": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 388,
+    "end_char": 680,
+    "original": "Background The Supplier wishes to appoint the Distributor as its non-exclusive distributor for the promotion and sale of the Products within the Territory (both as defined below), and the Distributor wishes to promote and sell the Products within the Territory on the terms of this agreement.",
+    "ollama_generated": "Title Section: Appointment of Non-Exclusive Distributor\n\nContext: In light of the Supplier's ambition to broaden market reach, and the Distributor's interest in expanding product offerings, this agreement outlines the terms by which the Distributor is authorized to act as a non-exclusive representative for the marketing and distribution of the Supplier's Products within the defined Territory. The Supplier, in turn, acknowledges the Distributor's right to promote and distribute these Products according to the provisions outlined herein.\n\nIn this revised clause, the emphasis has been shifted from the supplier's desire to appoint a distributor to a mutual agreement between both parties for the appointment and subsequent distribution of products in a defined territory. This change subtly suggests a more collaborative approach between the supplier and the distributor.",
+    "contradiction_score": 0.013597086071968079,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 3,
+    "start_char": 814,
+    "end_char": 940,
+    "original": "Business Day: a day (other than a Saturday, Sunday or public holiday in Australia) when banks in Sydney are open for business.",
+    "ollama_generated": "Business Day: Any weekday excluding Saturdays, Sundays, public holidays in Australia, and days on which banks in Sydney are not operational. This includes days on which bank hours are restricted due to emergencies or scheduled maintenance.",
+    "contradiction_score": 0.01141651812940836,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 4,
+    "start_char": 948,
+    "end_char": 1000,
+    "original": "Commencement Date: means the date of this agreement.",
+    "modified": "Effective Date: shall refer to the subsequent date upon which this agreement is executed by all parties involved.",
+    "contradiction_score": 0.5949358344078064,
+    "kept": true
+  },
+  {
+    "clause_index": 8,
+    "start_char": 1312,
+    "end_char": 1517,
+    "original": "Products: As defined in Schedule 1 and includes any other products developed by the Supplier and which the Supplier may permit the Distributor, by express notice in writing, to distribute in the Territory.",
+    "ollama_generated": "Products: As detailed in Schedule 1, and further encompassing any additional products that the Supplier introduces or authorizes for distribution within the Territory, provided that such authorization shall be communicated in writing by the Supplier to the Distributor. (This revision emphasizes that it is the Supplier who will initiate the process of allowing the distributor to sell new products.)",
+    "contradiction_score": 0.0030155132990330458,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 26,
+    "start_char": 4332,
+    "end_char": 4579,
+    "original": "Source: FUSE MEDICAL, INC., 10-K, 3/21/2019 1.15 Any phrase introduced by the terms including , include , in particular  or any similar expression shall be construed as illustrative and shall not limit the sense of the words preceding those terms.",
+    "ollama_generated": "Clause:\nIn the filing of FUSE MEDICAL, INC., 10-K, 3/21/2019 (1.15) - Any phrases introduced by terms such as \"including,\" \"include,\" \"in particular,\" or any similar expressions shall be deemed as examples rather than exhaustive limitations of the preceding words' intended scope.",
+    "contradiction_score": 0.007985429838299751,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 27,
+    "start_char": 4579,
+    "end_char": 4744,
+    "original": "2. Appointment 2.1 The Supplier appoints the Distributor as its non-exclusive distributor to distribute the Products in the Territory on the terms of this agreement.",
+    "modified": "2. Designation 2.1 The Distributor is designated, by the Supplier, as an exclusive distributor (however, without any limitations on the Supplier's ability to appoint other distributors) for the distribution of Products within the Territory, subject to the conditions outlined in this agreement.\n\nIn this revised version, the distributor is now given an \"exclusive\" designation, but with a caveat that the Supplier retains the right to appoint additional distributors (thus weakening the exclusivity of the appointment for the Distributor).",
+    "contradiction_score": 0.8671990633010864,
+    "kept": true
+  },
+  {
+    "clause_index": 28,
+    "start_char": 4744,
+    "end_char": 4862,
+    "original": "2.2 Following the expiry of the Initial Term, the Supplier may amend the Territory to remove any Inactive Territories.",
+    "ollama_generated": "2.2 During the Initial Term, or at any time thereafter, the Client bears the responsibility to actively demonstrate engagement within all designated Territories. Should a territory be deemed inactive by the Supplier for an extended period, the Supplier retains the right to unilaterally modify the Territory boundaries, excluding such Inactive Territories.",
+    "contradiction_score": 0.12363935261964798,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 29,
+    "start_char": 4868,
+    "end_char": 4981,
+    "original": "2.3 Notwithstanding 2.1 and 2.2, the Supplier may sell or supply the Products to end users within USA at anytime.",
+    "ollama_generated": "2.3 Contrary to clauses 2.1 and 2.2, the Client hereby authorizes the Supplier to sell or supply the Products directly to end users within the USA, without any prior consent required from the Client.",
+    "contradiction_score": 0.07302650064229965,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 48,
+    "start_char": 11244,
+    "end_char": 11297,
+    "original": "8. Anti-bribery compliance 8.1 The Distributor shall:",
+    "ollama_generated": "Clause:\n8. Anti-Corruption Commitment 8.1 Supplier is hereby obligated to:\n\nExplanation: The original clause required the Distributor to comply with anti-bribery regulations. The rewritten version shifts this obligation onto the Supplier, maintaining a professional tone while altering the responsibility.",
+    "contradiction_score": 0.4666692614555359,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 49,
+    "start_char": 11297,
+    "end_char": 11496,
+    "original": "(a) comply with all applicable laws, statutes and regulations relating to anti-bribery and anti- corruption\u037e and (b) not engage in any activity, practice or conduct which would constitute an offence.",
+    "ollama_generated": "(a) While striving for compliance with all relevant laws, statutes, and regulations concerning anti-bribery and anti-corruption, there may be unintentional oversights. In such cases, prompt rectification shall be undertaken upon becoming aware of any discrepancies.\n(b) The parties are granted the discretion to engage in activities, practices, or conduct that might not violate applicable laws but could potentially raise ethical concerns or damage the company's reputation. However, it is strongly recommended to consult with legal counsel before pursuing such actions.",
+    "contradiction_score": 0.1096404418349266,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 54,
+    "start_char": 12277,
+    "end_char": 12323,
+    "original": "9.5 The Supplier represents and warrants that:",
+    "ollama_generated": "9.5 The Client acknowledges and accepts that the Supplier's representations and warranties are limited to:\n\nThis subtle shift in wording inverts the condition, placing the responsibility on the client to acknowledge and accept the supplier's limited representations and warranties, rather than the supplier making the representation or warranty itself.",
+    "contradiction_score": 0.23051664233207703,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 60,
+    "start_char": 13373,
+    "end_char": 13788,
+    "original": "(a) any infringement or suspected infringement of the Trade Marks or any other intellectual property rights relating to the Products within the Territory\u037e or (b) any claim that any Product or the manufacture, use, sale or other disposal of any Product within the Territory, whether or not under the Trade Marks, infringes the rights of any third party, 9.10 In respect of any matter that falls within clause 9.9(a):",
+    "ollama_generated": "(a) Any allegation by a third party that their intellectual property rights related to the Products within the Territory have been violated or are under suspicion of violation; or (b) Any claim that any Product, marketed under the Trade Marks or otherwise, manufactured, utilized, sold, or disposed of within the Territory, infringes upon a third party's rights,\n\n9.10 In the event of such allegations or claims falling under clause 9.9(a):\n\nThis rewritten version attempts to invert the condition slightly by making the focus on the third-party claims rather than the potential infringement itself. It maintains a professional tone while also ensuring clarity and coherence with the original clause.",
+    "contradiction_score": 0.005104429088532925,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 61,
+    "start_char": 13788,
+    "end_char": 14175,
+    "original": "(a) the Supplier shall in its absolute discretion, decide what action to take in respect of the matter (if (b) the Supplier shall conduct and have sole control over any consequent action that it deems necessary\u037e and (c) the Supplier shall pay all costs in relation to that action and shall be entitled to all damages and other sums that may be paid or awarded as a result of that action.",
+    "ollama_generated": "(a) The Client, at the Supplier's sole discretion, authorizes the Supplier to decide on the course of action regarding the matter. (b) In the event the Supplier chooses to undertake any resulting action, they will retain full control and responsibility for its execution. (c) All costs associated with such action shall be borne by the Supplier, who is also entitled to recover any damages or other financial compensation received as a result of the action.\n\nThis revised clause maintains the same general meaning but shifts the responsibility for decision-making, control, and costs towards the Supplier while preserving their right to any potential recovery.",
+    "contradiction_score": 0.008406776934862137,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 65,
+    "start_char": 15027,
+    "end_char": 15478,
+    "original": "9.12 Each party shall, at the request and expense of the other, provide any reasonable assistance to the other (including the use of its name in, or being joined as a party to, proceedings) with any action to be taken by the other party under this clause 9, provided that that party is given such indemnity as it may reasonably require against any losses, costs and expenses it may incur as a result of or in connection with providing such assistance.",
+    "ollama_generated": "9.12 One party (the \"Requesting Party\") may, at its own expense, request the other party (the \"Assisting Party\") to provide any reasonable assistance required for actions to be taken under this Clause 9. The Assisting Party shall have the right to seek indemnity from the Requesting Party against any losses, costs, and expenses incurred as a result of providing such assistance. However, the Assisting Party's obligation to provide assistance is contingent upon its approval of the requested indemnity terms, which shall be deemed reasonable if they are not unreasonably onerous or disproportionate.",
+    "contradiction_score": 0.001563787111081183,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 73,
+    "start_char": 18126,
+    "end_char": 18289,
+    "original": "11.2 Without affecting any other rights that it may be entitled to, either party may give notice in writing to the other terminating this agreement immediately if:",
+    "ollama_generated": "11.2 Neither party waives any rights they might have, but either party retains the discretionary power to promptly terminate this agreement by written notice, without prior notice, should they deem it necessary, for whatever reason, or upon occurrence of the following events:\n\na) Material breach by the other party of any terms and conditions stated in this agreement;\nb) Insolvency, bankruptcy, receivership, or liquidation proceedings initiated by or against either party;\nc) A change in law or regulatory requirement that significantly affects the ability of a party to perform its obligations under this agreement.\n\nThis revised clause provides both parties with the option to terminate the agreement at their discretion, without prior notice, for any reason (including material breach), and also covers instances of insolvency or significant changes in law affecting either party's ability to fulfill obligations.",
+    "contradiction_score": 0.0055487737990915775,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 78,
+    "start_char": 22272,
+    "end_char": 23313,
+    "original": "(a) the Supplier may buy from the Distributor all or any stocks of Products for the current market value for those Products. The Distributor must deliver such Products to the Supplier within 14 days of receiving the Supplier's notice, and the Supplier must pay for the Products in full within 30 days of their delivery. The Supplier shall be responsible for the costs of packaging, insurance and carriage of the Products\u037e or (b) the Distributor may dispose of the balance of the Products in its possession and account to the Supplier for the Price for those Products\u037e and (c) subject to clause 12.2(b), the Distributor must cease using any intellectual property of the Supplier or of another person that relates to the distributorship and the Distributor must sign any instrument and do any other act that is necessary to achieve this purpose\u037e 12.3 For the purposes of clause 12.2(a) the current market value in respect of Products shall be the price that the Products are ordinarily supplied as at the date of termination of this agreement.",
+    "ollama_generated": "(a) The Supplier retains the option to procure from the Distributor any excess stocks of Products, at the prevailing market value for such Products. However, the Supplier will be responsible for arranging for the pickup and transportation of the Products within 14 days following receipt of the Distributor's notification. Payment for the Products shall be made by the Supplier in full within 30 days of the Products being handed over. The cost of packaging, insurance, and freight will be borne by the Supplier throughout this process.\n\n(b) In the event that the Distributor holds a surplus of Products, it may choose to sell them off and settle the due amount with the Supplier accordingly.\n\n(c) With respect to clause 12.2(a), the prevailing market value for the Products at the time of contract termination shall be the price at which such Products are typically sold as at that date. Additionally, in accordance with clause 12.3, the Distributor is required to discontinue using any intellectual property owned by the Supplier or third parties that pertains to the distributorship. The Distributor must also execute any necessary documents and undertake any other actions required for this purpose.\n\n(d) [Not specified in original clause] For clarity, all costs related to the packaging, insurance, and transportation of Products under clause 12.2(a) shall be borne by the Supplier.",
+    "contradiction_score": 0.3277304768562317,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 82,
+    "start_char": 23871,
+    "end_char": 24427,
+    "original": "(a) to those of its employees, officers, representatives or advisers who need to know such information for the purpose of carrying out the party's obligations under this agreement. Each party shall ensure that its employees, officers, representatives or advisers to whom it discloses the other party's confidential information comply with this clause 13\u037e and (b) as may be required by law, court order or any governmental or regulatory authority\u037e provided, however, that the other party reserves the right to challenge such disclosure under applicable law.",
+    "ollama_generated": "(a) The receiving party is granted permission to share the confidential information with its employees, officers, representatives, or advisors on a need-to-know basis, for the sole purpose of fulfilling their obligations as outlined in this agreement. It is the responsibility of each party to ensure that those within their organization who receive the other party's confidential information are bound by this clause 13.\n\n(b) Disclosure of the confidential information may also be made when required by law, court order, or any governmental or regulatory authority. However, the disclosing party retains the right to contest such disclosure in accordance with applicable laws.",
+    "contradiction_score": 0.01204682607203722,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 103,
+    "start_char": 29579,
+    "end_char": 29939,
+    "original": "21. Third party rights 21.1 A person who is not a party to this agreement shall not have any rights under or in connection with it by virtue of the Contracts 21.2 The rights of the parties to terminate, rescind or agree any variation, waiver or settlement under this agreement are not subject to the consent of any person that is not a party to this agreement.",
+    "ollama_generated": "Clause:\n21. Third-Party Exclusions\n21.1 This agreement shall be binding only upon the parties named herein, and no third party shall have any rights to enforce or claim benefits under it by virtue of the Contracts Act.\n21.2 The right of either party to terminate, rescind, vary, waive, or settle any disputes arising from this agreement shall not be contingent upon, nor require the consent of, any third party not a signatory to this agreement.\n\nIn this revised version, I have attempted to maintain fluency and professionalism while slightly altering the original clause to emphasize that only the named parties have enforceable rights under the agreement and that third-party consent is not needed for termination, rescission, variation, waiver, or settlement.",
+    "contradiction_score": 0.0036073864903301,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]

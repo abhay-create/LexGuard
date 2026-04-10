@@ -1,0 +1,307 @@
+[
+  {
+    "clause_index": 1,
+    "start_char": 852,
+    "end_char": 987,
+    "original": "NOW, THEREFORE , in consideration of the premises and the mutual covenants herein contained, the Parties covenant and agree as follows:",
+    "ollama_generated": "IN CONSIDERATION of the mutual agreements set forth below, and for good and valuable consideration, the parties hereby agree as follows:\n\nUpon the fulfillment of the conditions stipulated herein, it is understood that this agreement shall become binding.\n\nThis revision slightly modifies the original clause by inverting the condition, making the agreement contingent on the fulfillment of certain terms instead of being immediately effective upon the premises and mutual covenants as stated in the initial clause.",
+    "contradiction_score": 0.0045274426229298115,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 4,
+    "start_char": 1961,
+    "end_char": 2297,
+    "original": "\u201cAMI/MEA Agreement \u201d shall mean that certain Amended and Restated Area of Mutual Interest and Midstream Exclusivity Agreement dated April 14, 2015 among PennTex North Louisiana, LLC, Customer, PennTex NLA Holdings, LLC and MRD WHR LA Midstream LLC, as such agreement may be amended, supplemented or otherwise modified from time to time.",
+    "ollama_generated": "\"The 'AMI/MEA Agreement' shall refer to the original Amended and Restated Area of Mutual Interest and Midstream Exclusivity Agreement dated April 14, 2015 between PennTex North Louisiana, LLC, Customer, PennTex NLA Holdings, LLC, and MRD WHR LA Midstream LLC. This term shall encompass any subsequent amendments, supplements, or modifications made to the agreement at various points in time, with the understanding that the most current version shall always prevail.\"",
+    "contradiction_score": 0.16575822234153748,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 5,
+    "start_char": 2297,
+    "end_char": 2470,
+    "original": "\u201cBtu\u201d shall mean one British thermal unit, the amount of heat required to raise the temperature of one pound of water one degree Fahrenheit at standard reference conditions.",
+    "ollama_generated": "\"One 'Btu' is defined as the quantity of heat energy needed to elevate the temperature of one pound of water by one degree Fahrenheit, under normal reference conditions.\" [This rewording maintains the original definition but places the focus on what the Btu does rather than what is required.]",
+    "contradiction_score": 0.012765184976160526,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 9,
+    "start_char": 2947,
+    "end_char": 3963,
+    "original": "\u201cCommencement Date \u201d shall be the first day of the Month following the date Transporter notifies Customer that (i) the Transportation System is operational to the extent necessary to commence commercial service with respect to the receipt of Customer Gas at the Point of Receipt at the tailgate of the Lincoln Parish Plant and delivery of such Gas to the Points of Delivery located downstream of the Lincoln Parish Plant, (ii) the Lincoln Parish Plant is operational to the extent necessary to commence commercial service with respect to the receipt and processing of Customer Gas, and (iii) the Points of Delivery listed on Exhibit A that are owned by Transporter or its Affiliate are operational and all necessary interconnect agreements with Interconnecting Pipelines necessary to deliver Gas to such Points of Delivery are in effect to the extent necessary to commence commercial service with respect to the delivery (but, for the avoidance of doubt, not the further downstream transportation) of Customer\u2019s Gas.",
+    "ollama_generated": "\"Operational Date\" will be deemed as the first day of the subsequent month from when Transporter communicates to Customer that: (i) the Transportation System has been brought up to the level required for the initiation of commercial service, encompassing the acceptance of Customer Gas at the Point of Receipt at the Lincoln Parish Plant's tailgate, and its delivery to Points of Delivery situated downstream of the Lincoln Parish Plant, (ii) the Lincoln Parish Plant has been made operational with the necessary capacity for commercial service regarding the intake and processing of Customer Gas, and (iii) all required interconnect agreements with Interconnecting Pipelines and Points of Delivery owned by Transporter or its Affiliate as listed on Exhibit A are in effect and operational, allowing for the initiation of commercial service with respect to the delivery (excluding further downstream transportation) of Customer's Gas. The responsibility for any delay beyond these conditions remains with the respective parties involved.",
+    "contradiction_score": 0.01821776106953621,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 13,
+    "start_char": 4499,
+    "end_char": 4587,
+    "original": "\u201cCustomer \u201d shall have the meaning given to such term in the preamble of this Agreement.",
+    "ollama_generated": "\"The term 'Customer,' as defined within the preamble of this Agreement, shall be understood to encompass any party referred to by that designation.\"",
+    "contradiction_score": 0.002561717526987195,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 17,
+    "start_char": 5389,
+    "end_char": 5806,
+    "original": "\u201cDefault Interest Rate \u201d shall mean the U.S. Prime Rate (as published in the \u201cMoney Rates\u201d table of  The Wall Street Journal , Eastern Edition) applicable on the first Business Day prior to the due date of payment and thereafter on the first Business Day of each succeeding calendar month (or, if such rate exceeds the maximum permissible rate under applicable law, the maximum rate permitted by such applicable law).",
+    "modified": "\"Default Interest Rate\" shall be understood as the highest legal interest rate (as per the prevailing regulations) that applies on the last Business Day prior to the due date of payment and continues to apply on the last Business Day of each subsequent calendar month, should the U.S. Prime Rate (as published in The Wall Street Journal's \"Money Rates\" table, Eastern Edition) fall below this maximum rate during any given month. In the event that there is no applicable legal rate or if such regulations do not provide for a maximum permissible rate, the U.S. Prime Rate shall be employed as the Default Interest Rate.",
+    "contradiction_score": 0.6006801128387451,
+    "kept": true
+  },
+  {
+    "clause_index": 23,
+    "start_char": 7153,
+    "end_char": 7353,
+    "original": "\u201cGas\u201d shall mean any mixture of gaseous hydrocarbons, consisting essentially of methane and heavier hydrocarbons and inert and noncombustible gases that are extracted from the subsurface of the earth.",
+    "ollama_generated": "\"The term 'Gas' encompasses any combination of gaseous hydrocarbons primarily comprising methane, along with lighter hydrocarbons, inert and combustible gases, which may be derived from or extracted from the subsurface strata of the earth.\"\n\nThis revised clause expands the scope of gas to include lighter hydrocarbons as well as both inert and combustible gases.",
+    "contradiction_score": 0.03757566958665848,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 29,
+    "start_char": 9409,
+    "end_char": 9541,
+    "original": "\u201cInterruptible Service Gas \u201d shall mean all Gas received by Transporter into the Transportation System that is not Firm Service Gas.",
+    "ollama_generated": "\"Firm Service Gas\" shall refer to all Gas within the Transportation System that is not classified as Interruptible Service Gas. This change emphasizes that the non-guaranteed gas supply falls under the category of Interruptible Service Gas, subtly shifting the onus of uncertain service delivery onto the supplier.",
+    "contradiction_score": 0.04426328465342522,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 30,
+    "start_char": 9542,
+    "end_char": 9649,
+    "original": "\u201cLincoln Parish Plant \u201d shall mean Transporter\u2019s gas processing plant located in Lincoln Parish, Louisiana.",
+    "ollama_generated": "\"The 'Lincoln Parish Plant' designation shall encompass any and all gas processing facilities operated by the Transporter within the geographical boundaries of Lincoln Parish, Louisiana.\"\n\nThis change to the original clause broadens the definition of the Lincoln Parish Plant to include not only the specific gas processing plant mentioned, but also any other gas processing facilities that Transporter may operate in the same parish.",
+    "contradiction_score": 0.005484567955136299,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 32,
+    "start_char": 9749,
+    "end_char": 10056,
+    "original": "\u201cMeasurement Facility \u201d shall mean the valves, fittings, piping, meters, transmitters and other associated measurement equipment located at a Point of Receipt or a Point of Delivery which provides custody transfer volumes. \u201c Measurement Facilities \u201d shall mean, collectively, each such Measurement Facility.",
+    "ollama_generated": "\"Custody Transfer Measurement Equipment\" shall encompass the valves, fittings, piping, meters, transmitters, and any other associated devices utilized for measurement purposes, whether positioned at a Point of Receipt or a Point of Delivery. The term \"Custody Transfer Measurement Equipment\" shall be used inclusively to designate each specific instance of such equipment.",
+    "contradiction_score": 0.2472732961177826,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 36,
+    "start_char": 10547,
+    "end_char": 10631,
+    "original": "\u201cNegative Imbalance \u201d shall have the meaning set forth for such term in  Article IV.",
+    "modified": "\"A Positive Imbalance,\" as defined in Article IV, shall refer to the term herein.",
+    "contradiction_score": 0.993935763835907,
+    "kept": true
+  },
+  {
+    "clause_index": 37,
+    "start_char": 10634,
+    "end_char": 10712,
+    "original": "\u201cNew Facility \u201d shall have the meaning set forth for such term in  Article II.",
+    "ollama_generated": "\"The term 'New Facility,' as utilized elsewhere in this agreement, shall encompass its definition provided in Article II.\"\n\nThis revised version maintains the same essence as the original clause but slightly shifts the responsibility of defining the term to the reader, making it clear that they should refer to Article II for the term's meaning.",
+    "contradiction_score": 0.002809288678690791,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 42,
+    "start_char": 11146,
+    "end_char": 11399,
+    "original": "\u201cPlants\u201d shall mean (i) the Lincoln Parish Plant, (ii) the Mount Olive Plant and (iii) any other gas processing plant owned by Transporter or its Affiliate that is capable of receiving Customer Gas and redelivering such Gas to the Transportation System.",
+    "ollama_generated": "\"The term 'Plants' encompasses (i) the Lincoln Parish Plant, (ii) the Mount Olive Plant, as well as any additional gas processing facilities owned by Transporter or its Affiliate that are capable of both accepting Customer Gas and distributing such Gas to the Transportation System, provided they become operational during the term of this agreement.\"\n\nIn the rewritten clause, I've added a condition that the plants must be operational during the term of the agreement in order for them to be included. This effectively expands the scope of the original clause but only when certain conditions are met.",
+    "contradiction_score": 0.002389684086665511,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 44,
+    "start_char": 11869,
+    "end_char": 12218,
+    "original": "\u201cPoint of Receipt \u201d shall mean each custody transfer meter at the tailgate of the Plants from which Customer Gas is received into the Transportation System. \u201c Points of Receipt \u201d shall mean, collectively, each Point of Receipt. As of the Effective Date, the Points of Receipt, and the maximum available capacity thereof, are set forth on  Exhibit B.",
+    "modified": "\"Points of Delivery\" shall denote each custody transfer meter located at the tailgate of the Plants where the Transportation System receives Customer Gas. Individual Points of Delivery, collectively, comprise the total Points of Delivery. As of the Effective Date, the maximum available capacity of each Point of Delivery is detailed in Exhibit B.\n\nIn this rewritten clause, I've changed \"Points of Receipt\" to \"Points of Delivery\", which signifies a subtle shift in responsibility \u2013 from the party receiving the gas to the one delivering it into the transportation system.",
+    "contradiction_score": 0.8557640910148621,
+    "kept": true
+  },
+  {
+    "clause_index": 46,
+    "start_char": 12314,
+    "end_char": 12444,
+    "original": "\u201cService Type \u201d shall mean the type of service provided for Gas delivered hereunder, either Firm Service or Interruptible Service.",
+    "ollama_generated": "\"The term 'Service Type' encompasses the nature of services rendered in relation to the supplied Gas, which may vary between Interruptible Service or Firm Service.\"",
+    "contradiction_score": 0.0011092758504673839,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 54,
+    "start_char": 14081,
+    "end_char": 14630,
+    "original": "\u201cTransportation System \u201d shall mean the Commencement Date Facilities and all other equipment, devices, Measurement Facilities, pipelines and other facilities owned or operated by Transporter at or downstream of the Points of Receipt, necessary to receive Customer Gas at the Points of Receipt for transport to the Points of Delivery, and all additions, modifications, alterations, replacements, extensions, or expansions made thereto by Transporter from time to time, including, without limitation, any New Facilities pursuant to  Article II hereof.",
+    "modified": "\"The term 'Transportation System' shall encompass all Facilities, equipment, Measurement Facilities, pipelines, and other facilities operated or owned by Transporter from the Points of Delivery, extending upstream to the Points of Receipt on the Commencement Date. This includes any existing infrastructure as well as any additions, modifications, alterations, replacements, extensions, or expansions made by Transporter, and will also incorporate any New Facilities established under Article II hereof.\"\n\nThis revised clause inverts the original's scope, now focusing on facilities upstream rather than downstream of the Points of Receipt.",
+    "contradiction_score": 0.642353355884552,
+    "kept": true
+  },
+  {
+    "clause_index": 56,
+    "start_char": 14778,
+    "end_char": 15730,
+    "original": "Article II. Dedication, Commencement Date Facilities, Post-Commencement Date Facilities and Transporter Services Dedication . During the Term, subject to the terms of the AMI/MEA Agreement, Customer dedicates and commits to this Agreement, and shall deliver or cause to be delivered to the Transportation System for transportation hereunder, all of Customer\u2019s owned or controlled residue Gas delivered from any of the Plants. Notwithstanding anything in this Agreement to the contrary, it is acknowledged and agreed that there is no minimum amount of residue Gas that must be delivered to the Transportation System hereunder\u037e accordingly, Customer shall not have any liability (financial or otherwise) for failure to deliver any particular quantity of residue Gas to Transporter\u037e provided, however, the foregoing sentence shall not reduce or eliminate Customer\u2019s obligation to pay the fees provided herein to the extent Services are provided hereunder.",
+    "ollama_generated": "Article II. Dedication, Commencement Date Facilities, Post-Commencement Date Facilities, and Transporter Services Dedication\n\nDuring the Term, subject to the conditions stipulated in the AMI/MEA Agreement, the Transporter shall have the right to expect, but not demand, that the Customer dedicates and commits to this Agreement. The Transporter will accept, for transportation under this agreement, all residue Gas owned or controlled by the Customer from any of the Plants. Contrary to any provisions in this Agreement, it is acknowledged and agreed that there is no maximum limit on the quantity of residue Gas that must be delivered to the Transportation System hereunder; thus, the Transporter assumes any liability (financial or otherwise) for any shortage of residue Gas delivered. However, this clause does not absolve the Customer from paying the fees specified herein for Services rendered.",
+    "contradiction_score": 0.036326225847005844,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 59,
+    "start_char": 16199,
+    "end_char": 17008,
+    "original": "If after the Commencement Date, Customer requires an addition, modification, alteration, replacement, or expansion of the Transportation System (a \u201cNew Facility \u201d), Customer will provide Transporter a written notification of such requested New Facility containing sufficient information for Transporter to estimate the cost to provide such New Facility. Although Transporter shall have no obligation to provide a requested New Facility, Transporter may, in its sole discretion, agree to construct or acquire such New Facility. The commercial terms applicable the construction or acquisition of any New Facility will be determined in accordance with the AMI/MEA Agreement. The Parties agree to make any revisions to this Agreement (including the Exhibits hereto) that are necessary to reflect any New Facility.",
+    "ollama_generated": "The Commencement Date serves as a basis for Customer's requests for additions, modifications, alterations, replacements, or expansions of the Transportation System (hereinafter referred to as \"Proposed Changes\"). In such cases, Customer is responsible for delivering a written notice detailing the Proposed Changes and providing information sufficient for Transporter to calculate an estimate of the costs associated with implementing these changes.\n\nWhile Transporter maintains no inherent obligation to comply with any Proposed Changes, it retains the exclusive right, at its discretion, to undertake construction or acquisition of such Proposed Changes. The terms governing the construction or acquisition of any Proposed Changes will be governed by the AMI/MEA Agreement.\n\nThe Parties acknowledge and agree that revisions to this Agreement (comprising the Exhibits hereto) may become necessary to account for any Proposed Changes, as approved by both parties.",
+    "contradiction_score": 0.0021536494605243206,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 60,
+    "start_char": 17008,
+    "end_char": 17652,
+    "original": "Transportation Services . For each Day during the Term, (i) Transporter agrees to provide Firm Service on the Transportation System for Customer Gas delivered to the Transportation System in a quantity not to exceed Customer\u2019s Firm Service Gas for such Day, and Interruptible Service for all quantities in excess of Customer\u2019s Firm Service Gas for such Day, and deliver to Customer, or for the account of Customer, at the applicable Points of Delivery, Equivalent Quantities of Customer Gas received at the Points of Receipt, and (ii) Customer, or its designee, shall accept such Equivalent Quantities of Customer Gas at the Points of Delivery.",
+    "ollama_generated": "Service for Transportation: For each Day throughout the Contract Period, (i) Transporter is obligated to offer Firm Service on the Transportation Network for a maximum volume of Customer's Gas delivered to the Network on that Day, and Interruptible Service for any quantities exceeding the specified Firm Service Gas. Delivery of these excess quantities will be made to Customer or on their behalf at the designated Delivery Points. (ii) However, it is Customer, or their designated recipient, who is responsible for accepting the corresponding Equivalent Quantities of Gas at the Delivery Points.\n\nThis revision weakens the obligation slightly by shifting the responsibility of accepting the gas from Transporter to Customer or their designee.",
+    "contradiction_score": 0.026357417926192284,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 64,
+    "start_char": 19232,
+    "end_char": 20208,
+    "original": "Article IV. Nominations, Confirmations and Imbalances Nominations . Each Month during the Term, Customer shall give written notice of Customer\u2019s nomination to Transporter specifying the average daily quantity of Customer Gas Customer requests be transported during such Month and designate a person who will be responsible for coordinating notices among Customer, Transporter and Third Party Operators in accordance with these procedures. Customer shall furnish such nomination to Transporter by email or other electronic means and such nomination shall specify such information as is necessary in order to perform the Services requested by Customer. If Customer anticipates any material revision to a Monthly nomination it has provided to Transporter, Customer will notify Transporter as promptly as possible. Transporter will transport hereunder as nearly as practicable at uniform hourly and Daily rates of flow unless otherwise mutually agreed by Customer and Transporter.",
+    "ollama_generated": "Article IV.A: Monthly Gas Transportation Notifications\n\nDuring the Term, Transporter shall be obliged to receive written notices from Customer, delivered via email or other electronic means, specifying their desired average daily quantity of gas for transportation each month. Transporter will designate a responsible party to manage coordination among themselves, Customer, and Third Party Operators, in accordance with these procedures.\n\nTransporter shall provide the necessary information in response to Customer's requests for Services. Should any changes to previously submitted Monthly nominations be anticipated by Customer, they are expected to notify Transporter as expeditiously as their internal processes allow. Any variations to the uniform hourly and daily rates of flow will only be implemented upon mutual agreement between Customer and Transporter.\n\nIn this manner, responsibilities for providing and accepting notifications are slightly shifted, with Transporter being responsible for coordination among parties and providing necessary information in response to Customer's requests, while Customer is expected to notify Transporter about any anticipated changes in a timely fashion.",
+    "contradiction_score": 0.022786622866988182,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 66,
+    "start_char": 21309,
+    "end_char": 21661,
+    "original": "If Customer is advised by a Third Party Operator to reduce or suspend deliveries of Customer Gas to the Transportation System, Customer shall immediately notify Transporter orally of such reduction or suspension, and shall confirm such notification in writing, and adjust its nominations in order to maintain a balanced position to the extent possible.",
+    "modified": "In the event that a Third Party Operator advises Customer to increase or resume deliveries of Customer Gas to the Transportation System, it shall be the responsibility of Transporter to be promptly informed of such adjustments verbally, followed by written confirmation. Furthermore, Customer is not obligated to ensure balance in its nominations, but should make reasonable efforts to do so under the circumstances.",
+    "contradiction_score": 0.9731680154800415,
+    "kept": true
+  },
+  {
+    "clause_index": 72,
+    "start_char": 25685,
+    "end_char": 26021,
+    "original": "Article V. Curtailment If the quantity of Customer Gas and all other Gas available for delivery into the Transportation System exceeds the capacity of the Transportation System at any point, then Transporter shall interrupt or curtail receipts of Customer Gas with respect to the affected point(s) only in accordance with the following:",
+    "ollama_generated": "Article V. Priority and Adjustment: In cases where the volume of Customer Gas and all other deliverable Gas surpasses the Transportation System's capacity at any given juncture, the Transporter shall prioritize and adjust gas deliveries in accordance with the following preferences:\n\n1. The Transporter shall first ensure priority delivery to essential services, as defined in the Service Agreement, before proceeding with normal deliveries.\n2. In instances where both essential services and non-essential services are affected by the capacity constraints, the Transporter may curtail or interrupt deliveries of Customer Gas based on predefined priorities set out in the Service Agreement.\n3. The Transporter shall not be liable for any losses, damages, or disruptions resulting from its actions taken to prioritize and adjust gas deliveries in accordance with this Article, provided that they are carried out in good faith and as per the outlined procedures.\n4. This Article does not absolve the Customer of their responsibility to comply with all applicable laws, regulations, and contractual obligations regarding Gas conservation and demand management during periods of capacity constraints within the Transportation System.",
+    "contradiction_score": 0.04317725449800491,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 78,
+    "start_char": 28096,
+    "end_char": 28337,
+    "original": "Article VIII. Fees, Billing & Payment (a) Transportation Fee . For all Customer Gas received by Transporter at a Point of Receipt and delivered to any Point of Delivery, Customer shall pay Transporter a transportation fee of $0.04 per MMBtu.",
+    "ollama_generated": "Article VIII. Fees, Billing & Payment (a) Transportation Charge . Transporter shall be entitled to receive from Customer, for every MMBtu of Customer Gas transported from any Point of Receipt to a Point of Delivery, a transportation charge of $0.04 per MMBtu.\n\nIn this revised clause, the responsibility is shifted slightly towards the transporter, as they are now entitled to receive the transportation charge from the customer, rather than the customer paying it directly. The wording remains fluent, realistic, and professional while subtly changing the obligation.",
+    "contradiction_score": 0.007411638740450144,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 82,
+    "start_char": 29990,
+    "end_char": 30683,
+    "original": "Source: PENNTEX MIDSTREAM PARTNERS, LP, S-1/A, 4/16/2015 Billing Disputes . If a good faith dispute arises as to any amount payable hereunder, payment shall nevertheless be made when due of the amount not in dispute. Such payment shall not be deemed to be a waiver of the right to recoup any overpayment. If Customer withholds payment of any disputed amount, Customer shall, within seven (7) calendar Days after receipt of the statement for the month to which the disputed amount pertains, submit to Transporter a written explanation of the dispute and any available supporting documentation. The Parties shall then cooperate in good faith to resolve such dispute as expeditiously as possible.",
+    "ollama_generated": "Clause:\nUpon emergence of a genuine disagreement concerning any payable amount, the parties involved will first attempt to resolve the contested amount amicably before any payment is due. This initial settlement, however, shall not be construed as relinquishing the right to reclaim any overpaid amounts. In the event that Transporter questions any payment from Customer, Transporter will provide a written explanation along with supporting documentation within seven (7) calendar days following the receipt of the statement for the respective month in question. The Parties shall endeavor to collaborate diligently to settle such disputes promptly and effectively. If Customer chooses to withhold payment on a contested amount, Transporter shall have the initial responsibility to provide a clear explanation and relevant documentation, and any withheld payments shall be considered overdue from the original due date. The resolution process for these disputes will prioritize Transporter's swift recovery of any potential overpayments made by Customer.",
+    "contradiction_score": 0.05340008810162544,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 86,
+    "start_char": 32283,
+    "end_char": 32311,
+    "original": "Notices and Correspondence :",
+    "ollama_generated": "Notifications and Communication:\n\nIn the event of any notices or correspondence being necessary between the Parties, such communications shall be deemed duly given when sent via registered post with return receipt requested, certified email, or personal delivery to the address provided in this Agreement. If a Party fails to receive a notice due to incorrect contact information, it will be responsible for promptly updating its contact details to ensure ongoing communication.",
+    "contradiction_score": 0.01798158697783947,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 91,
+    "start_char": 32751,
+    "end_char": 33091,
+    "original": "Attn: Jeremy Bolander E-mail: Jeremy.bolander@memorialrd.com Notices of change of address of either of the Parties shall be given in writing to the other Party in the manner aforesaid and shall be observed in the giving of all future notices, statements, payments, claims or other communications required or permitted to be given hereunder.",
+    "ollama_generated": "Attention: Jeremy Bolander, jeremy.bolander@memorialrd.com\n\nUpon a change of address by either Party, it is incumbent upon them to notify the other Party in writing, and such updated contact information will be used for all subsequent correspondence, including notices, statements, payments, claims, or any other communication as required or permitted under this agreement. However, initial notification may be sent via the original method before updates take effect.",
+    "contradiction_score": 0.0029602092690765858,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 103,
+    "start_char": 41506,
+    "end_char": 42025,
+    "original": "Should Customer or its guarantor fail to provide Performance Assurance within ten (10) Business Days after receipt of written demand for such assurance, then Transporter shall have the right to suspend performance under this Agreement until such time as Customer furnishes Performance Assurance. For the avoidance of doubt, such suspension of performance by Transporter shall not relieve Customer of its obligation to make payments of amounts due hereunder, including, without limitation, payment of fees due hereunder.",
+    "ollama_generated": "Upon receipt of a written demand for Performance Assurance from Transporter and if Customer or its guarantor fails to deliver such assurance within ten (10) Business Days, Transporter reserves the right to exercise the option to withhold performance under this Agreement until suitable Performance Assurance is received. It is noted that such withheld performance by Transporter does not absolve Customer from their ongoing obligation to settle payments as they become due, including but not limited to any fees stipulated in this agreement.",
+    "contradiction_score": 0.0014636212727054954,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 106,
+    "start_char": 43024,
+    "end_char": 43552,
+    "original": "Waiver. Any failure by either Party to comply with any of its obligations, agreements or conditions herein contained may only be waived in writing in an instrument specifically identified as a waiver and signed by the Party to whom such compliance is owed. No waiver of, or consent to a change in, any provision of this Agreement shall be deemed or shall constitute a waiver of, or consent to a change in, any other provisions hereof, nor shall such waiver constitute a continuing waiver unless expressly provided in the waiver.",
+    "ollama_generated": "Modification and Waiver: Any deviation from the obligations, agreements, or conditions stipulated within this contract can only be authorized in writing by means of a document explicitly titled as a modification or waiver, and must be duly signed by the party responsible for the compliance initially. It is worth noting that approval of modifications or waivers to one provision does not imply consent to changes in any other sections of the agreement, nor does it create a permanent waiver unless explicitly stated within the modification or waiver document itself.\n\nThis revised clause maintains professional language while weakening the obligation slightly by allowing for possible modifications or waivers (as opposed to only waiving failures to comply), and inverting the condition by stating that deviations can only be authorized, not just waived. Additionally, it shifts responsibility by making it clear that the party responsible for compliance must sign any modification or waiver documents.",
+    "contradiction_score": 0.09320992976427078,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 109,
+    "start_char": 44099,
+    "end_char": 44393,
+    "original": "Published Indices . Unless expressly provided otherwise herein, if any published price index referred to in this Agreement ceases to be published, the Parties shall mutually agree to an alternative published price index representative of the published price index referred to in this Agreement.",
+    "ollama_generated": "Alternative Price Indexes: In the event that a published price index mentioned within this Agreement is discontinued, the responsibility falls upon each Party to individually propose an alternative published price index deemed comparable to the discontinued one. A mutual agreement on the suitable replacement shall be reached in good faith between the Parties.",
+    "contradiction_score": 0.04769204556941986,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 116,
+    "start_char": 47632,
+    "end_char": 48391,
+    "original": "Severability . The invalidity of any one or more provisions of this Agreement will not affect the validity of this Agreement as a whole, and in case of any such invalidity, this Agreement will be construed as if the invalid provision had not been included herein so long as the economic and legal substance of the transactions contemplated by this Agreement is not affected in any manner materially adverse to any Party. Upon such determination that one or more provisions of this Agreement are invalid, the Parties shall negotiate in good faith to modify this Agreement so as to effect the original intent of the Parties as closely as possible in an acceptable manner to the end that the transactions contemplated hereby are fulfilled to the extent possible.",
+    "ollama_generated": "Modification and Survival Clause:\n\nThe partial invalidity or unenforceability of any specific terms within this Agreement shall not impair the continued validity or enforceability of the remaining provisions. In such cases, the entire Agreement shall be interpreted as if the questionable provision was never included, provided that the essential business and legal purpose of the contract is not significantly altered to the detriment of any party. Upon identification of an invalid provision, the involved parties will engage in good faith negotiations to amend this Agreement in a manner that most closely achieves the original intent of both parties, while ensuring that the intended transactions can be executed to the maximum extent possible.",
+    "contradiction_score": 0.024001970887184143,
+    "kept": false,
+    "reason": "low_contradiction"
+  },
+  {
+    "clause_index": 122,
+    "start_char": 49734,
+    "end_char": 49950,
+    "original": "[Signature Page Follows] Source: PENNTEX MIDSTREAM PARTNERS, LP, S-1/A, 4/16/2015 This Agreement is executed by the authorized representatives of the Parties set forth below, to be effective as of the Effective Date.",
+    "ollama_generated": "[Preceding Pages Contain Terms]\nSubmission: The undersigned duly authorized representatives of the ensuing Parties hereby affirm this Agreement, with a commencement date coinciding with the Effective Date, as outlined below.\n[Signature Page Follows]\nSource: PENNTEX MIDSTREAM PARTNERS, LP, S-1/A, 4/16/2015",
+    "contradiction_score": 0.06792081147432327,
+    "kept": false,
+    "reason": "low_contradiction"
+  }
+]
