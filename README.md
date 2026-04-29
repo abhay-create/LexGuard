@@ -42,8 +42,7 @@ The design is optimized for a local development machine with a 16 GB VRAM GPU an
 - no training dataset is available,
 - no validation dataset is available,
 - fine-tuning is not assumed,
-- the system must remain feasible on 16 GB VRAM,
-- the project should still look production-grade for interview demonstration.
+- the system must remain feasible on 16 GB VRAM.
 
 ---
 
